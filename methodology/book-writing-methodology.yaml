@@ -1,0 +1,1819 @@
+# =============================================================================
+# NON-FICTION BOOK WRITING METHODOLOGY - Structured Guide
+# =============================================================================
+#
+# This file contains a structured 9-part methodology for writing non-fiction
+# books, for use with the Q-Nonfiction-Author system.
+#
+# This guide is based on proven non-fiction book writing methodologies.
+# Q-Nonfiction-Author is not affiliated with any specific methodology
+# creators or publishing companies.
+#
+# Created by: Gabriel Rymberg (2025)
+#
+# =============================================================================
+
+metadata:
+  version: "1.0.0"
+  created: "2025-11-28"
+  last_updated: "2025-11-29"
+  methodology: "9-part non-fiction book writing process"
+
+  # Session guidance
+  typical_session_length: "30 minutes"
+  recommended_frequency: "daily"
+
+  # The journey
+  total_parts: 10  # Parts 0-9
+  active_parts: 9   # Part 9 is reference material
+
+# =============================================================================
+# PART 0: DISCOVER YOUR BOOK
+# =============================================================================
+parts:
+  - id: part-0-discover
+    name: "Discover Your Book"
+    description: "Find the book that wants to be written. Clarify your idea before committing."
+    estimated_sessions: 1-3
+    optional: true  # Skip if you already know your book idea
+
+    who_needs_this:
+      - "I want to write a book but I'm not sure what about"
+      - "I have several ideas and can't choose"
+      - "I have a vague sense but nothing concrete"
+
+    who_can_skip:
+      - "I know exactly what my book is about"
+      - "I've been thinking about this specific book for years"
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "0.1"
+        name: "The Book Discovery Process"
+        purpose: "Understand where you are and what this part will do"
+
+        key_points:
+          - "Clear idea → Skip to Part 1"
+          - "Multiple ideas → This part helps you choose"
+          - "Vague desire → This part helps you find it"
+          - "Goal is clarity, not perfection"
+
+      # -------------------------------------------------------------------------
+      - id: "0.2"
+        name: "Finding Your Book: The Four Questions"
+        purpose: "Extract book ideas from your experience and expertise"
+
+        questions:
+          - id: "discovery-q1"
+            question: "What do people ask you about?"
+            prompts:
+              - "What questions do colleagues, friends, or clients repeatedly ask you?"
+              - "What do people assume you know?"
+              - "When someone introduces you, what do they say you're good at?"
+            output: "List 5-10 things people ask you about or come to you for"
+
+          - id: "discovery-q2"
+            question: "What problem have you solved?"
+            prompts:
+              - "What struggle or challenge have you overcome?"
+              - "What transformation have you experienced?"
+              - "What do you know now that you wish you'd known 5 years ago?"
+            output: "Describe 2-3 significant problems you've solved"
+
+          - id: "discovery-q3"
+            question: "What makes you angry or frustrated about your field?"
+            prompts:
+              - "What do people get wrong about your area of expertise?"
+              - "What advice do you hate seeing people follow?"
+              - "What would you change if you could?"
+            output: "What frustrates you that you'd want to set straight?"
+
+          - id: "discovery-q4"
+            question: "What would change people's lives if they understood it?"
+            prompts:
+              - "What insight or framework has changed how you see the world?"
+              - "What do you wish everyone knew?"
+              - "If you had 30 minutes on a big stage, what would you say?"
+            output: "What's the one thing you'd want to share?"
+
+      # -------------------------------------------------------------------------
+      - id: "0.3"
+        name: "Evaluating Your Book Ideas"
+        purpose: "Choose between multiple ideas or confirm a single direction"
+
+        evaluation_criteria:
+          - name: "Expertise"
+            question: "Do you actually know this well enough to teach it?"
+          - name: "Passion"
+            question: "Do you care enough to spend 1-3 years on this?"
+          - name: "Audience"
+            question: "Is there a real group of people who need this?"
+          - name: "Uniqueness"
+            question: "Do you have a perspective that isn't already everywhere?"
+          - name: "Timing"
+            question: "Is now the right time for you to write this book?"
+
+        scoring: "Rate each idea 1-5 on each criterion. Highest score wins (but trust your gut too)."
+
+      # -------------------------------------------------------------------------
+      - id: "0.4"
+        name: "The Regret Test"
+        purpose: "Final validation before committing"
+
+        the_test: "If I'm on my deathbed and I never wrote this book, would I regret it?"
+
+        exercise:
+          name: "Future Visualization"
+          steps:
+            - "Imagine Future A: You wrote the book. How does that feel?"
+            - "Imagine Future B: You never wrote it. How does that feel?"
+            - "The one that creates more emotional weight is your answer"
+
+      # -------------------------------------------------------------------------
+      - id: "0.5"
+        name: "Capturing Your Book Idea"
+        purpose: "Document your decision before moving forward"
+
+        template:
+          working_title: "[Even if rough - just something to call it]"
+          one_sentence: "This book helps [WHO] achieve [WHAT] by [HOW]"
+          why_me: "I'm the right person to write this because..."
+          why_now: "The timing is right because..."
+
+        outputs:
+          - filename: "my-book/discovery/book-idea-draft.md"
+            description: "Captured book idea in simple format"
+
+    completion_criteria:
+      - "Have a working book idea you can describe in one sentence"
+      - "Feel committed enough to spend 1-3 years on this"
+      - "Can answer 'why me' and 'why now' with something real"
+
+    next_part: "Part 1: Prepare to Write Your Book"
+
+# =============================================================================
+# PART 1: PREPARE TO WRITE YOUR BOOK
+# =============================================================================
+  - id: part-1-prepare
+    name: "Prepare to Write Your Book"
+    description: "Set proper expectations and understand the fears you'll face"
+    estimated_sessions: 1-2
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "1.1"
+        name: "The Proper Expectations for Writing Your Book"
+        purpose: "Mentally prepare for the journey ahead"
+
+        key_points:
+          - "Writing a book is hard - there are no hacks or shortcuts"
+          - "Expect to get tired - writing is draining"
+          - "Expect to be confused - some advice will seem counterintuitive"
+          - "Expect to feel overwhelmed - but the method shows you what to do next"
+          - "Expect emotional discomfort and fear - this is normal"
+
+        exercises:
+          - id: "1.1.1"
+            name: "Expectations Acknowledgment"
+            prompt: "Read and internalize each of the 5 expectations. Which ones concern you most?"
+
+        completion_criteria:
+          - "Author has read and acknowledged all 5 expectations"
+          - "Author feels mentally prepared (not necessarily confident, just prepared)"
+
+        outputs: []
+
+      # -------------------------------------------------------------------------
+      - id: "1.2"
+        name: "The Six Fears You Could Face"
+        purpose: "Identify and name the fears that might stop you"
+
+        the_six_fears:
+          - id: fear-1
+            name: "I don't have a book in me"
+            alternate_expressions:
+              - "I don't have anything to say"
+              - "Who am I to write a book?"
+            reality_check: "If people come to you for knowledge or pay for your expertise, you have a book in you"
+
+          - id: fear-2
+            name: "My book isn't original enough"
+            alternate_expressions:
+              - "Everything I have to say is stuff everyone already knows"
+              - "This has already been said"
+            reality_check: "A book is valuable if the knowledge is accessible and usable to YOUR audience. Originality is overrated."
+
+          - id: fear-3
+            name: "My book won't be good enough"
+            alternate_expressions:
+              - "I'm afraid of perfectionism"
+              - "I'm afraid I'll put too much/too little in"
+            reality_check: "Perfectionism is procrastination in disguise. Art is never finished, only abandoned."
+
+          - id: fear-4
+            name: "No one will care about my book"
+            alternate_expressions:
+              - "What if no one reads it?"
+              - "What if this is a waste of time?"
+            reality_check: "If even ONE person needs your knowledge, your book matters. Focus on them."
+
+          - id: fear-5
+            name: "My book will upset people"
+            alternate_expressions:
+              - "I'm afraid of being judged"
+              - "What if my friends/family hate it?"
+            reality_check: "If no one disagrees with you, you aren't saying anything worth putting in a book."
+
+          - id: fear-6
+            name: "My book will make me look stupid"
+            alternate_expressions:
+              - "What if I get all one-star reviews?"
+              - "What if something is wrong and everyone sees?"
+            reality_check: "This fear is universal. Even bestselling authors feel it. Use it as fuel to do your best work."
+
+        exercises:
+          - id: "1.2.1"
+            name: "Fear Identification"
+            prompt: "Which of the 6 fears resonate with you? Be honest - identifying them is the first step."
+
+        outputs:
+          - file: "my-book/preparation/my-fears.md"
+            description: "List of fears the author identifies with"
+
+      # -------------------------------------------------------------------------
+      - id: "1.3"
+        name: "How to Beat Your Fears"
+        purpose: "Develop strategies to work through fears when they arise"
+
+        fear_processing_steps:
+          - step: 1
+            name: "Write it down"
+            description: "Write out the exact fear in specific terms"
+
+          - step: 2
+            name: "Assess possibility"
+            description: "Is this fear actually possible? What's the real probability?"
+
+          - step: 3
+            name: "Assess consequences"
+            description: "If the fear came true, what would actually happen? How bad would it really be?"
+
+          - step: 4
+            name: "Make a plan"
+            description: "What concrete steps can prevent this fear from coming true?"
+
+          - step: 5
+            name: "Use the fear"
+            description: "How can this fear motivate you to do better work?"
+
+        exercises:
+          - id: "1.3.1"
+            name: "Fear Processing"
+            prompt: "Take your top 2-3 fears and work through the 5-step process for each"
+
+        outputs:
+          - file: "my-book/preparation/fear-strategies.md"
+            description: "Processed fears with plans and reframes"
+
+        completion_criteria:
+          - "Author has identified their primary fears"
+          - "Author has processed at least their top 2 fears"
+          - "Author has a plan for when fears arise during writing"
+
+# =============================================================================
+# PART 2: POSITION YOUR BOOK
+# =============================================================================
+  - id: part-2-position
+    name: "Position Your Book"
+    description: "Define your objectives, audience, and book idea"
+    estimated_sessions: 3-5
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "2.1"
+        name: "What Is Book Positioning?"
+        purpose: "Understand why positioning matters before diving in"
+
+        key_points:
+          - "Positioning = who the book is for + what it gives them"
+          - "A book that tries to appeal to everyone appeals to no one"
+          - "Clear positioning makes everything else easier - writing, marketing, selling"
+          - "You must do positioning BEFORE you write, not after"
+
+        exercises: []
+        outputs: []
+
+      # -------------------------------------------------------------------------
+      - id: "2.2"
+        name: "Figure Out Your Book Objectives"
+        purpose: "Clarify what YOU want from this book"
+
+        key_questions:
+          - question: "What will writing this book do for you personally?"
+            guidance: "Be honest - it's OK to want recognition, clients, credibility"
+
+          - question: "What will writing this book do for your career/business?"
+            guidance: "New clients? Speaking gigs? Authority in your field?"
+
+          - question: "What do you want readers to DO after reading your book?"
+            guidance: "Hire you? Change behavior? Share with others?"
+
+          - question: "What does success look like for this book?"
+            guidance: "Number of copies? Quality of readers? Business outcomes?"
+
+        exercises:
+          - id: "2.2.1"
+            name: "Objectives Worksheet"
+            prompt: "Answer each of the 4 key questions in detail"
+
+        outputs:
+          - file: "my-book/positioning/objectives.md"
+            description: "Clear statement of book objectives"
+
+        completion_criteria:
+          - "All 4 objective questions answered with specific answers"
+          - "Author can state their primary objective in one sentence"
+
+      # -------------------------------------------------------------------------
+      - id: "2.3"
+        name: "Figure Out Your Audience"
+        purpose: "Define exactly who your book is for"
+
+        key_points:
+          - "Narrow is better than broad"
+          - "You cannot write for 'everyone'"
+          - "The tighter your audience definition, the more powerful your book"
+
+        audience_definition_questions:
+          - question: "Who has the problem your book solves?"
+            guidance: "Be specific - not 'business owners' but 'solo consultants making $100-500k'"
+
+          - question: "Who would pay for this knowledge?"
+            guidance: "If they wouldn't pay, they're not your real audience"
+
+          - question: "Who have you already helped with this knowledge?"
+            guidance: "Look at your actual clients/students - they ARE your audience"
+
+          - question: "What does your ideal reader look like?"
+            guidance: "Demographics, psychographics, situation, pain points"
+
+        ideal_reader_exercise:
+          name: "Create Your Ideal Reader Avatar"
+          fields:
+            - "Name (give them a real name)"
+            - "Age and life situation"
+            - "Professional role"
+            - "Primary problem/pain related to your topic"
+            - "What they've already tried"
+            - "What would change for them if they solved this"
+            - "Where do they hang out? What do they read?"
+
+        exercises:
+          - id: "2.3.1"
+            name: "Audience Definition"
+            prompt: "Answer all audience definition questions"
+
+          - id: "2.3.2"
+            name: "Ideal Reader Avatar"
+            prompt: "Create a detailed avatar of your ideal reader"
+
+        outputs:
+          - file: "my-book/positioning/audience.md"
+            description: "Detailed audience definition and ideal reader avatar"
+
+        completion_criteria:
+          - "Author can describe their audience in one specific sentence"
+          - "Author has created an ideal reader avatar with a name"
+          - "Author knows where their audience can be found"
+
+      # -------------------------------------------------------------------------
+      - id: "2.4"
+        name: "Figure Out Your Book Idea"
+        purpose: "Crystallize what your book is actually about"
+
+        key_points:
+          - "Your book idea emerges from the intersection of: what you know + who needs it + what they'll get"
+          - "The book idea is NOT the topic - it's the specific angle/approach"
+          - "A good book idea can be stated in one sentence"
+
+        book_idea_questions:
+          - question: "What problem does your book solve?"
+            guidance: "Be specific about the problem and the solution"
+
+          - question: "What transformation does your reader experience?"
+            guidance: "What's the before/after state?"
+
+          - question: "What is your unique angle or approach?"
+            guidance: "Why should they read YOUR book vs others on this topic?"
+
+          - question: "What is your one-sentence book idea?"
+            guidance: "Format: 'This book helps [audience] achieve [outcome] by [method/approach]'"
+
+        exercises:
+          - id: "2.4.1"
+            name: "Book Idea Crystallization"
+            prompt: "Work through the book idea questions to arrive at your one-sentence book idea"
+
+        outputs:
+          - file: "my-book/positioning/book-idea.md"
+            description: "Crystallized book idea with one-sentence summary"
+
+        completion_criteria:
+          - "Author has a clear one-sentence book idea"
+          - "The book idea connects audience + problem + transformation"
+
+      # -------------------------------------------------------------------------
+      - id: "2.5"
+        name: "The North Star Check"
+        purpose: "Validate that your positioning is solid"
+
+        north_star_statement:
+          template: "My book will help [AUDIENCE] achieve [OUTCOME] by teaching them [METHOD/CONTENT], which will lead to [YOUR OBJECTIVE]"
+
+        validation_questions:
+          - "Does this North Star excite you?"
+          - "Is the audience specific enough to find and reach?"
+          - "Is the outcome compelling enough that they'd pay for it?"
+          - "Do you have the knowledge/experience to deliver this?"
+          - "Will achieving this actually serve your objectives?"
+
+        exercises:
+          - id: "2.5.1"
+            name: "North Star Creation and Validation"
+            prompt: "Create your North Star statement and validate it against all 5 questions"
+
+        outputs:
+          - file: "my-book/positioning/north-star.md"
+            description: "North Star statement with validation"
+
+        completion_criteria:
+          - "Author has a complete North Star statement"
+          - "All 5 validation questions answered affirmatively"
+          - "Author feels confident and excited about their positioning"
+
+# =============================================================================
+# PART 3: OUTLINE YOUR BOOK
+# =============================================================================
+  - id: part-3-outline
+    name: "Outline Your Book"
+    description: "Create the structure and chapter outline for your book"
+    estimated_sessions: 3-5
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "3.1"
+        name: "Create Your Book Outline"
+        purpose: "Build the skeletal structure of your book"
+
+        key_points:
+          - "The outline is your roadmap - it makes writing MUCH easier"
+          - "Start with big ideas, then break down into chapters"
+          - "Each chapter should have ONE main point"
+          - "Chapters should flow logically - reader should never be confused about why something comes next"
+
+        outline_process:
+          - step: 1
+            name: "Brain Dump"
+            description: "Write down everything you might include in the book - no filtering"
+
+          - step: 2
+            name: "Group Into Themes"
+            description: "Cluster related ideas into 5-12 major themes"
+
+          - step: 3
+            name: "Order Logically"
+            description: "Arrange themes in the order a reader needs to learn them"
+
+          - step: 4
+            name: "Create Chapter Structure"
+            description: "Turn each theme into a chapter with: main point, sub-points, stories/examples"
+
+          - step: 5
+            name: "Validate Flow"
+            description: "Read through the outline - does each chapter naturally lead to the next?"
+
+        chapter_template:
+          fields:
+            - "Chapter title"
+            - "One-sentence main point"
+            - "3-5 sub-points to cover"
+            - "Stories/examples to include"
+            - "Key takeaway for reader"
+
+        exercises:
+          - id: "3.1.1"
+            name: "Brain Dump"
+            prompt: "Spend 30 minutes writing everything that could go in your book"
+
+          - id: "3.1.2"
+            name: "Grouping and Ordering"
+            prompt: "Group your brain dump into themes and put them in logical order"
+
+          - id: "3.1.3"
+            name: "Chapter Structure"
+            prompt: "Create the full chapter structure using the template"
+
+        outputs:
+          - file: "my-book/outline/book-outline.md"
+            description: "Complete book outline with all chapters"
+
+        completion_criteria:
+          - "Author has 5-15 chapters outlined"
+          - "Each chapter has a clear main point"
+          - "The flow from chapter to chapter makes sense"
+
+      # -------------------------------------------------------------------------
+      - id: "3.2"
+        name: "Outline the Introduction"
+        purpose: "Create a compelling introduction that hooks readers"
+
+        introduction_parts:
+          - part: 1
+            name: "Hook the Reader"
+            description: "Open with something that grabs attention immediately"
+
+          - part: 2
+            name: "Describe Their Current Pain"
+            description: "Show you understand the problem they're facing"
+
+          - part: 3
+            name: "Paint the Transformation"
+            description: "Show them what life looks like after reading this book"
+
+          - part: 4
+            name: "Tell Them What They'll Learn"
+            description: "Preview the content/chapters"
+
+          - part: 5
+            name: "Establish Your Credibility"
+            description: "Why should they listen to you? (Brief!)"
+
+          - part: 6
+            name: "What This Book Is and Is Not"
+            description: "Set expectations clearly"
+
+          - part: 7
+            name: "Call to Action"
+            description: "Transition into the first chapter"
+
+        exercises:
+          - id: "3.2.1"
+            name: "Introduction Outline"
+            prompt: "Create an outline for your introduction covering all 7 parts"
+
+        outputs:
+          - file: "my-book/outline/introduction.md"
+            description: "Introduction outline with all 7 parts"
+
+        completion_criteria:
+          - "All 7 introduction parts are outlined"
+          - "The hook is genuinely compelling"
+          - "Credibility is established without being boastful"
+
+      # -------------------------------------------------------------------------
+      - id: "3.3"
+        name: "Outline the Conclusion"
+        purpose: "Create a conclusion that inspires action"
+
+        conclusion_elements:
+          - "Summarize the key points/transformation"
+          - "Remind them why this matters"
+          - "Direct call to action - what should they do NOW?"
+          - "Inspire them to actually implement"
+          - "Optional: tease what's next (your services, next book, etc.)"
+
+        exercises:
+          - id: "3.3.1"
+            name: "Conclusion Outline"
+            prompt: "Create an outline for your conclusion"
+
+        outputs:
+          - file: "my-book/outline/conclusion.md"
+            description: "Conclusion outline"
+
+        completion_criteria:
+          - "Conclusion is outlined with clear call to action"
+          - "Reader will know exactly what to do next"
+
+# =============================================================================
+# PART 4: WRITE YOUR BOOK
+# =============================================================================
+  - id: part-4-write
+    name: "Write Your Book"
+    description: "Create your first draft"
+    estimated_sessions: 20-60
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "4.1"
+        name: "Create Your Writing Plan"
+        purpose: "Set up a sustainable writing schedule"
+
+        key_points:
+          - "Writing without a plan is like driving without a map"
+          - "Consistency beats intensity - small daily progress wins"
+          - "Schedule writing time like an important meeting"
+          - "Know your word count goals"
+
+        writing_plan_elements:
+          - element: "Total word count target"
+            guidance: "Typical nonfiction: 25,000-50,000 words"
+
+          - element: "Words per session"
+            guidance: "500-1000 words is reasonable for most people"
+
+          - element: "Sessions per week"
+            guidance: "3-5 sessions minimum for momentum"
+
+          - element: "Target completion date"
+            guidance: "Calculate from word count / (words per session x sessions per week)"
+
+          - element: "Writing time slot"
+            guidance: "When is your best writing time? Morning? Evening? Protect it."
+
+          - element: "Writing location"
+            guidance: "Where will you write? Same place builds habit."
+
+        exercises:
+          - id: "4.1.1"
+            name: "Writing Plan Creation"
+            prompt: "Create your complete writing plan with all elements"
+
+        outputs:
+          - file: "my-book/writing/writing-plan.md"
+            description: "Complete writing plan with schedule"
+
+        completion_criteria:
+          - "Author has a specific, realistic writing plan"
+          - "Calendar is blocked for writing sessions"
+
+      # -------------------------------------------------------------------------
+      - id: "4.2"
+        name: "The Scribe Guide to Writing Effective Nonfiction"
+        purpose: "Learn the principles of good nonfiction writing"
+
+        writing_principles:
+          - principle: "Write like you talk"
+            description: "If you wouldn't say it out loud to a friend, don't write it"
+
+          - principle: "Simple beats complex"
+            description: "Use short words, short sentences, short paragraphs"
+
+          - principle: "Specific beats general"
+            description: "Concrete examples are more powerful than abstract concepts"
+
+          - principle: "Stories beat lectures"
+            description: "Wrap your points in stories and examples"
+
+          - principle: "Edit for a 12-year-old"
+            description: "If a smart 12-year-old couldn't understand it, simplify"
+
+          - principle: "One idea per paragraph"
+            description: "Don't try to cram multiple points together"
+
+        exercises:
+          - id: "4.2.1"
+            name: "Principles Review"
+            prompt: "Review and internalize the 6 writing principles"
+
+        outputs: []
+
+      # -------------------------------------------------------------------------
+      - id: "4.3"
+        name: "Write Your First Draft - The Vomit Method"
+        purpose: "Get the first draft done without perfectionism"
+
+        key_points:
+          - "The goal is DONE, not PERFECT"
+          - "Write fast and messy - editing comes later"
+          - "Don't edit as you go - this kills momentum"
+          - "Your first draft should be terrible - that's the point"
+          - "The vomit draft is for YOUR eyes only"
+
+        vomit_method_rules:
+          - "Set a timer and write until it goes off"
+          - "No going back to fix things"
+          - "No research during writing (mark [RESEARCH NEEDED] and move on)"
+          - "No deleting - only adding"
+          - "If stuck, write 'I don't know what to write here' and move on"
+
+        exercises:
+          - id: "4.3.1"
+            name: "First Vomit Session"
+            prompt: "Pick a chapter and write for 30 minutes using the Vomit Method"
+
+        outputs:
+          - file: "my-book/drafts/chapter-XX.md"
+            description: "Draft chapters (one file per chapter)"
+
+        completion_criteria:
+          - "Author has completed vomit drafts of all chapters"
+          - "Author did not edit during writing"
+
+      # -------------------------------------------------------------------------
+      - id: "4.4"
+        name: "Write Your First Draft - The Scribe Method"
+        purpose: "Alternative approach using dictation"
+
+        key_points:
+          - "Some people write better by talking"
+          - "Dictation can be faster and more natural"
+          - "Books used to be written this way - dictated to scribes"
+
+        scribe_method_process:
+          - step: 1
+            description: "Set up recording (phone, computer, or professional)"
+
+          - step: 2
+            description: "Talk through each chapter as if explaining to a friend"
+
+          - step: 3
+            description: "Get it transcribed (Rev.com, Otter.ai, etc.)"
+
+          - step: 4
+            description: "Edit the transcription into proper prose"
+
+        when_to_use: "If you struggle to write but can explain things verbally, try this method"
+
+        exercises:
+          - id: "4.4.1"
+            name: "Scribe Method Test"
+            prompt: "Try recording one chapter and getting it transcribed"
+
+        outputs: []
+
+# =============================================================================
+# PART 5: EDIT YOUR BOOK
+# =============================================================================
+  - id: part-5-edit
+    name: "Edit Your Book"
+    description: "Transform your rough draft into a polished manuscript"
+    estimated_sessions: 10-20
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "5.1"
+        name: "How to Edit Your Book"
+        purpose: "Learn the three-step editing process"
+
+        pre_editing:
+          instruction: "REST FIRST"
+          description: "Set the draft aside for 1-2 weeks. You need fresh eyes."
+          minimum_rest: "1 week"
+          ideal_rest: "2 weeks"
+
+        editing_mindset:
+          - "The book is for your reader, not for you"
+          - "Edit for a smart, interested 12-year-old"
+          - "Simple and direct beats complex and impressive"
+
+        three_step_editing:
+          - step: 1
+            name: "Make-It-Right Edit"
+            purpose: "Ensure structure and content are correct"
+            focus:
+              - "Is all content in the book?"
+              - "Is it in the right order?"
+              - "Does the structure make sense?"
+            duration: "1-2 sessions"
+
+          - step: 2
+            name: "Line-by-Line Edit"
+            purpose: "Refine every paragraph and sentence"
+            six_questions:
+              - "What point am I making?"
+              - "Is it necessary?"
+              - "Is it as short as possible?"
+              - "Is it as simple as possible?"
+              - "Is it as direct as possible?"
+              - "Did I leave anything out?"
+            tool_recommendation: "Hemingway Editor (hemingwayapp.com)"
+            duration: "5-15 sessions"
+
+          - step: 3
+            name: "Read-Aloud Edit"
+            purpose: "Catch what eyes miss by hearing it"
+            process:
+              - "Read the entire manuscript out loud"
+              - "Preferably read to another person"
+              - "Mark anything that sounds wrong"
+              - "If you wouldn't say it, rewrite it"
+            alternative: "Use Natural Reader (naturalreaders.com) to hear it"
+            duration: "3-5 sessions"
+
+        edit_stop_quiz:
+          question_1: "Is this the best book you can write, right now?"
+          if_yes: "Send to publish"
+          if_no: "Go to question 2"
+          question_2: "What can you do right now to make it better?"
+          if_answer_exists: "Do it"
+          if_no_answer: "Send to publish (you can't 'become a better writer' right now)"
+
+        exercises:
+          - id: "5.1.1"
+            name: "Make-It-Right Edit"
+            prompt: "Go through entire manuscript checking structure and completeness"
+
+          - id: "5.1.2"
+            name: "Line-by-Line Edit"
+            prompt: "Edit each chapter asking the 6 questions for every paragraph"
+
+          - id: "5.1.3"
+            name: "Read-Aloud Edit"
+            prompt: "Read the entire manuscript out loud, marking issues"
+
+        outputs:
+          - file: "my-book/drafts/manuscript-edited.md"
+            description: "Edited manuscript"
+
+        completion_criteria:
+          - "All three editing passes completed"
+          - "Edit Stop Quiz answered - ready to move forward"
+
+      # -------------------------------------------------------------------------
+      - id: "5.2"
+        name: "Should You Ask People for Feedback?"
+        purpose: "Understand when and how to get useful feedback"
+
+        key_principle: "Most feedback is useless or harmful - be selective"
+
+        who_to_ask:
+          - category: "Experienced writers/editors"
+            why: "They know what good writing looks like"
+            caveat: "Verify their actual skill level - many overestimate"
+
+          - category: "Experts in your field"
+            why: "They can catch factual errors and validate approach"
+            how_to_ask: "Ask them to read AS an expert - check facts and tone"
+
+          - category: "People in your target audience"
+            why: "They can tell you if the book is useful to them"
+            how_to_ask: "Ask specific questions about what helped and what confused them"
+
+        who_NOT_to_ask:
+          - "Random friends and family (unless they fit above categories)"
+          - "Social media (never post for public feedback)"
+          - "Anyone who doesn't fit the three categories above"
+
+        gaiman_principle:
+          quote: "When people tell you something's wrong, they're almost always right. When they tell you how to fix it, they're almost always wrong."
+          application: "Listen to the WHAT, ignore the HOW"
+
+        how_to_ask:
+          - "Be specific in your ask"
+          - "Tell them what kind of feedback you want"
+          - "Give them a deadline"
+          - "Don't say 'tell me what you think' - too vague"
+
+        exercises:
+          - id: "5.2.1"
+            name: "Feedback Strategy"
+            prompt: "Identify 2-3 specific people to ask for feedback and what you'll ask them"
+
+        outputs:
+          - file: "my-book/editing/feedback-plan.md"
+            description: "Feedback strategy with specific people and questions"
+
+        professional_checkpoint:
+          recommended: true
+          description: "Consider getting feedback from an experienced editor at this stage"
+
+# =============================================================================
+# PART 6: FINISH YOUR MANUSCRIPT
+# =============================================================================
+  - id: part-6-finish
+    name: "Finish Your Manuscript"
+    description: "Complete all the elements that turn a draft into a finished book"
+    estimated_sessions: 5-10
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "6.1"
+        name: "Picking the Perfect Book Title"
+        purpose: "Choose a title that will help your book succeed"
+
+        why_it_matters: "Your title is the most important marketing decision you'll make"
+
+        five_attributes_of_good_title:
+          - attribute: "Attention Grabbing"
+            description: "Makes people stop and notice"
+
+          - attribute: "Memorable and Searchable"
+            description: "Easy to remember and find on Amazon/Google"
+
+          - attribute: "Informative"
+            description: "Gives an idea of what the book is about"
+
+          - attribute: "Easy to Say (not embarrassing)"
+            description: "People need to be able to recommend it verbally"
+
+          - attribute: "Short"
+            description: "Aim for 5 words or less in the main title"
+
+        brainstorming_techniques:
+          - "Use clever phrases from the book"
+          - "Use relevant keywords"
+          - "Make a promise of benefit"
+          - "Be simple and direct"
+          - "Target your audience"
+          - "Offer a solution to a problem"
+          - "Use numbers for credibility"
+          - "Pique curiosity"
+          - "Use metaphors or symbols"
+          - "Use alliteration"
+          - "Alter a popular phrase"
+          - "Use slang (carefully)"
+          - "Try cliche formats (The Art of X, etc.)"
+          - "Coin a new word/phrase"
+          - "Look at competitor titles for inspiration"
+
+        title_test:
+          name: "The Party Test"
+          description: "Imagine someone at a party telling a friend about your book. Can they confidently say the title? Does the listener immediately understand or get curious?"
+
+        subtitle_guidance:
+          purpose: "The title is the hook, the subtitle is the explanation"
+          when_needed: "Almost always for nonfiction"
+          what_it_does: "Contextualizes the subject, tells who it's for, delivers the promise"
+
+        exercises:
+          - id: "6.1.1"
+            name: "Title Brainstorm"
+            prompt: "Generate 20+ potential titles using different techniques"
+
+          - id: "6.1.2"
+            name: "Title Shortlist"
+            prompt: "Narrow to top 5 and test against the 5 attributes"
+
+          - id: "6.1.3"
+            name: "Title Selection"
+            prompt: "Choose final title and subtitle, run the Party Test"
+
+        outputs:
+          - file: "my-book/finishing/title-candidates.md"
+            description: "Title brainstorm and final selection"
+
+        completion_criteria:
+          - "Final title and subtitle selected"
+          - "Passes all 5 attributes"
+          - "Passes the Party Test"
+
+      # -------------------------------------------------------------------------
+      - id: "6.2"
+        name: "Write Your Book Dedication"
+        purpose: "Honor someone important to you"
+
+        what_it_is: "A short proclamation honoring a person or small group"
+        location: "Dedication page, after the title page"
+
+        who_to_dedicate_to:
+          - "Family members"
+          - "Close friends"
+          - "People impacted by or featured in the book"
+          - "Inspirational figures in your life"
+
+        rules:
+          - "Keep it short - one sentence to one paragraph"
+          - "This is NOT acknowledgments - save the long list for there"
+          - "Optional - you don't have to have one"
+          - "Go with your gut - don't overthink it"
+
+        exercises:
+          - id: "6.2.1"
+            name: "Dedication"
+            prompt: "Write your book dedication (or decide to skip it)"
+
+        outputs:
+          - file: "my-book/finishing/dedication.md"
+            description: "Book dedication"
+
+      # -------------------------------------------------------------------------
+      - id: "6.3"
+        name: "Write Your Book Acknowledgments"
+        purpose: "Thank everyone who helped"
+
+        categories_to_thank:
+          - "Family members"
+          - "Friends"
+          - "Editors and production people"
+          - "Publishers/team"
+          - "Coworkers/assistants"
+          - "Mentors and influences"
+          - "Anyone who contributed stories or content"
+          - "Early readers who gave feedback"
+
+        tips:
+          - "Make a list first, then write"
+          - "Be genuine, not formulaic"
+          - "It's OK to be longer here than in dedication"
+          - "Check your list - don't forget anyone important"
+
+        exercises:
+          - id: "6.3.1"
+            name: "Acknowledgments"
+            prompt: "List everyone to thank, then write the acknowledgments"
+
+        outputs:
+          - file: "my-book/finishing/acknowledgments.md"
+            description: "Book acknowledgments"
+
+      # -------------------------------------------------------------------------
+      - id: "6.4"
+        name: "Write Your Book Foreword"
+        purpose: "Get someone else to vouch for your book"
+
+        what_it_is: "A short piece written by someone other than the author"
+        purposes:
+          - "Confer credibility from a respected person"
+          - "Provide context for why the book matters"
+
+        who_to_ask:
+          rule: "If you wouldn't put 'Foreword by [NAME]' on the cover, ask for a blurb instead"
+          criteria:
+            - "Someone well-known to your audience"
+            - "Someone you have a real relationship with"
+            - "Someone willing to put their name on your book"
+
+        how_to_get_it_written:
+          option_1:
+            name: "They write it"
+            description: "They write it themselves (rare - most people don't have time)"
+
+          option_2:
+            name: "Letter to reader"
+            description: "Ask them to write a short 'letter to the reader' - easier format"
+
+          option_3:
+            name: "Interview method"
+            description: "Interview them, transcribe it, write it up, get their approval"
+            interview_questions:
+              - "Who is the author? Tell me about them."
+              - "What is remarkable about the author?"
+              - "What is important about the subject matter?"
+              - "Why should the reader care?"
+
+        length: "500 words maximum"
+
+        important: "Start this process EARLY - people take forever"
+
+        exercises:
+          - id: "6.4.1"
+            name: "Foreword Decision"
+            prompt: "Decide if you want a foreword, and if so, who to ask"
+
+          - id: "6.4.2"
+            name: "Foreword Outreach"
+            prompt: "Reach out to your foreword candidate"
+
+        outputs:
+          - file: "my-book/finishing/foreword.md"
+            description: "Book foreword (or note that you're skipping it)"
+
+      # -------------------------------------------------------------------------
+      - id: "6.5"
+        name: "How to Get Incredible Blurbs"
+        purpose: "Get endorsement quotes for your book"
+
+        what_blurbs_do:
+          - "Signal that the book is important"
+          - "Provide social proof"
+          - "Help readers see the book is relevant to them"
+          - "Convince potential readers to buy"
+
+        blurb_necessity: "Nice to have, not must have. Better to have none than bad ones."
+
+        three_types_of_blurbs:
+          - type: "Quotes from credible/high-status people"
+            description: "People your audience knows and respects"
+
+          - type: "Press mentions"
+            description: "Quotes from media coverage"
+
+          - type: "Reader/customer testimonials"
+            description: "Quotes from people you've helped"
+
+        who_to_ask:
+          criteria:
+            - "Known to your target audience OR has impressive title"
+            - "You already have a relationship with them"
+          rule: "If you don't know them, don't ask"
+
+        how_to_ask:
+          key_insight: "Most people don't read the book - they approve a blurb you write"
+          email_template: |
+            [NAME],
+            I'm writing to ask if you'd provide a blurb for my upcoming book, [TITLE].
+            It would mean a great deal to me. [SPECIFIC REASON BASED ON RELATIONSHIP]
+            I've attached the manuscript if you'd like to read it.
+            I value your time, so here are 2-3 example blurbs. Feel free to approve or edit:
+            [BLURB 1]
+            [BLURB 2]
+            [BLURB 3]
+
+          pro_tip: "Have them blurb YOU as a person, not the book - easier for them"
+
+        where_blurbs_go:
+          - "Front cover (one, high status)"
+          - "Back cover (up to 3)"
+          - "Inside front pages ('Advance Praise')"
+          - "Amazon book description"
+          - "Your website"
+          - "Press materials"
+
+        exercises:
+          - id: "6.5.1"
+            name: "Blurb List"
+            prompt: "Create a list of 10+ people you could ask for blurbs"
+
+          - id: "6.5.2"
+            name: "Blurb Outreach"
+            prompt: "Draft and send blurb requests to your top candidates"
+
+        outputs:
+          - file: "my-book/finishing/blurbs.md"
+            description: "Blurb candidates, outreach status, and collected blurbs"
+
+      # -------------------------------------------------------------------------
+      - id: "6.6"
+        name: "Lock in Your Manuscript: Copyediting"
+        purpose: "Get professional copyediting before publishing"
+
+        why_mandatory: |
+          You WILL have errors you can't see. Even professionals catch only 85% of errors.
+          If Amazon gets too many typo reports, they'll pull your book.
+
+        what_copyeditors_catch:
+          - "Typos and spelling errors"
+          - "Grammar mistakes"
+          - "Punctuation errors"
+          - "Inconsistencies"
+          - "En dash vs em dash issues"
+          - "Preposition endings"
+          - "Conjunction starts"
+
+        professional_checkpoint:
+          required: true
+          description: "HIRE A PROFESSIONAL COPYEDITOR - this is not optional"
+
+        hiring_options:
+          services:
+            - name: "PostScripting"
+              url: "postscripting.net"
+            - name: "Kibin"
+              url: "kibin.com"
+            - name: "Scribendi"
+              url: "scribendi.com"
+          marketplaces:
+            - name: "Upwork"
+              url: "upwork.com"
+            - name: "People Per Hour"
+              url: "peopleperhour.com"
+            - name: "Reedsy"
+              url: "reedsy.com"
+
+          cost_range: "$250-750"
+
+        working_with_copyeditor:
+          - "Define the role clearly"
+          - "Explain your audience"
+          - "Point out known issues"
+          - "Request Track Changes in Word"
+          - "Review all changes - accept or reject each"
+
+        exercises:
+          - id: "6.6.1"
+            name: "Hire Copyeditor"
+            prompt: "Research and hire a professional copyeditor"
+
+          - id: "6.6.2"
+            name: "Review Copyedits"
+            prompt: "Review all copyeditor changes and finalize manuscript"
+
+        outputs:
+          - file: "my-book/finishing/copyedit-notes.md"
+            description: "Notes from copyediting process"
+
+        completion_criteria:
+          - "Professional copyeditor has reviewed manuscript"
+          - "All changes reviewed and manuscript finalized"
+          - "Manuscript is LOCKED - no more content changes"
+
+# =============================================================================
+# PART 7: DESIGN YOUR BOOK
+# =============================================================================
+  - id: part-7-design
+    name: "Design Your Book"
+    description: "Create all the visual and marketing elements"
+    estimated_sessions: 5-10
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "7.1"
+        name: "How to Write a Book Description That Sells"
+        purpose: "Create compelling copy for Amazon and back cover"
+
+        why_it_matters: "After title and cover, description is most important for sales"
+
+        description_format:
+          name: "Hook, Pain, Pleasure, Legitimacy, Open Loop"
+          parts:
+            - part: "Hook"
+              description: "First sentence grabs attention - boldest claim or most compelling idea"
+
+            - part: "Pain"
+              description: "Describe the current pain your reader is in"
+
+            - part: "Pleasure"
+              description: "Show what the book does to solve that pain - the transformation"
+
+            - part: "Legitimacy"
+              description: "Brief social proof - why listen to you?"
+
+            - part: "Open Loop"
+              description: "State the problem you solve but don't give away HOW - create curiosity"
+
+        best_practices:
+          - "It's an AD, not a summary - you're selling, not explaining"
+          - "Use compelling keywords for search"
+          - "Keep it short - around 200 words"
+          - "Simple writing - short, clear sentences"
+          - "Write as the publisher, not the author (third person)"
+          - "No insecurity - don't compare to other books"
+
+        professional_checkpoint:
+          recommended: true
+          description: "Consider hiring a professional copywriter if you struggle with this"
+
+        exercises:
+          - id: "7.1.1"
+            name: "Book Description"
+            prompt: "Write your book description using the 5-part format"
+
+        outputs:
+          - file: "my-book/design/book-description.md"
+            description: "Book description for Amazon and back cover"
+
+      # -------------------------------------------------------------------------
+      - id: "7.2"
+        name: "How to Write Your Author Bio"
+        purpose: "Create a bio that establishes credibility"
+
+        why_it_matters: "More people will read your bio than your book. It impacts sales and media."
+
+        bio_template:
+          - "First sentence: Statement establishing credibility on this subject"
+          - "Second sentence: Further credibility or qualifications"
+          - "Third sentence (optional): Relevant background"
+          - "Fourth sentence: Social proof - endorsements, awards"
+          - "Fifth sentence: Personal tidbit"
+          - "Sixth sentence: Website or call to action"
+
+        rules:
+          - "Demonstrate authority without overstating"
+          - "Include relevant achievements"
+          - "Mention previous books if any"
+          - "Drop names only if appropriate and relevant"
+          - "Keep under 200 words"
+          - "If you struggle, have a friend write it about you"
+
+        exercises:
+          - id: "7.2.1"
+            name: "Author Bio"
+            prompt: "Write your author bio using the template"
+
+        outputs:
+          - file: "my-book/design/author-bio.md"
+            description: "Author bio for book and Amazon"
+
+      # -------------------------------------------------------------------------
+      - id: "7.3"
+        name: "How to Take the Right Author Photo"
+        purpose: "Get a professional photo that signals the right things"
+
+        key_principle: "Know what you want to signal to which audience"
+
+        two_questions:
+          - "What am I trying to signal? (professionalism? warmth? creativity?)"
+          - "Who am I trying to signal it to? (corporate? startup? general?)"
+
+        professional_checkpoint:
+          required: true
+          description: "HIRE A PROFESSIONAL PHOTOGRAPHER - do not shoot your own photo"
+
+        hiring_options:
+          - "Thumbtack"
+          - "Yelp"
+          - "GigSalad"
+
+          cost_range: "$150-500+"
+
+        what_to_communicate:
+          - "Decide exactly what signals you want to convey"
+          - "Find a photographer whose portfolio matches your vision"
+          - "Communicate explicitly what you want"
+          - "Get color AND black-and-white versions"
+          - "Get raw files with full ownership rights"
+
+        exercises:
+          - id: "7.3.1"
+            name: "Photo Planning"
+            prompt: "Decide what signals you want and find a photographer"
+
+          - id: "7.3.2"
+            name: "Photo Shoot"
+            prompt: "Get your professional author photo taken"
+
+        outputs:
+          - file: "my-book/design/author-photo.md"
+            description: "Author photo notes and file locations"
+
+      # -------------------------------------------------------------------------
+      - id: "7.4"
+        name: "How to Get a Great Book Cover"
+        purpose: "Get a professional cover that helps your book sell"
+
+        key_principles:
+          - "Your book WILL be judged by its cover - use this to your advantage"
+          - "You should NOT design your own cover"
+          - "There are objectively good and bad covers"
+
+        what_good_cover_does: "Shows what's in the book and makes the audience want to read it"
+
+        professional_checkpoint:
+          required: true
+          description: "HIRE A PROFESSIONAL BOOK COVER DESIGNER - this is mandatory"
+
+        before_hiring:
+          - step: 1
+            description: "Look at lots of covers in your genre on Amazon"
+
+          - step: 2
+            description: "Save 5-10 covers you like (or elements you like)"
+
+          - step: 3
+            description: "Create a mood board with logos, art, photos that capture your aesthetic"
+
+        hiring_options:
+          independent_designer:
+            quality: "Highest"
+            cost: "$750-2000+"
+            where: "Reedsy, Behance, Dribbble, or look inside favorite books"
+
+          99designs:
+            quality: "Variable"
+            cost: "$300-600"
+            how: "Post brief, designers compete, pick winner or get refund"
+            recommendation: "Silver contest ($499)"
+
+          upwork:
+            quality: "Variable - must screen carefully"
+            cost: "$50-500"
+            how: "Post job, review portfolios, hire freelancer"
+
+          fiverr:
+            quality: "Low"
+            cost: "$5-50"
+            warning: "Almost all are garbage"
+
+          diy:
+            recommendation: "DO NOT DO THIS"
+
+        exercises:
+          - id: "7.4.1"
+            name: "Cover Research"
+            prompt: "Research covers in your genre and create a mood board"
+
+          - id: "7.4.2"
+            name: "Hire Designer"
+            prompt: "Hire a book cover designer and communicate your vision"
+
+          - id: "7.4.3"
+            name: "Cover Review"
+            prompt: "Review and approve final cover design"
+
+        outputs:
+          - file: "my-book/design/cover-brief.md"
+            description: "Cover design brief and mood board"
+
+      # -------------------------------------------------------------------------
+      - id: "7.5"
+        name: "Design Your Book Layout"
+        purpose: "Create professional interior design for print and ebook"
+
+        what_it_includes:
+          - "Print interior layout (typography, margins, headers, etc.)"
+          - "eBook conversion (EPUB and MOBI formats)"
+
+        professional_checkpoint:
+          recommended: true
+          description: "Hire a professional interior layout designer for best results"
+
+        options:
+          diy:
+            tool: "Vellum (Mac only)"
+            quality: "Acceptable"
+            when: "Budget is very tight"
+
+          cheap:
+            where: "Fiverr, Bookalope"
+            quality: "Low - may look unprofessional"
+            warning: "DIY with Vellum is often better"
+
+          middle:
+            where: "Reedsy, graphic designers"
+            quality: "Solid"
+            caveat: "May not include quality eBook conversion"
+
+          professional:
+            where: "Specialized book designers"
+            quality: "Highest"
+            cost: "Higher but worth it"
+
+        ebook_formats:
+          - format: "EPUB"
+            used_by: "Apple iBook, Nook, Kobo, most retailers"
+
+          - format: "MOBI"
+            used_by: "Amazon Kindle"
+
+        exercises:
+          - id: "7.5.1"
+            name: "Layout Decision"
+            prompt: "Decide whether to hire professional or DIY, and execute"
+
+        outputs:
+          - file: "my-book/design/layout-notes.md"
+            description: "Layout decisions and file locations"
+
+      # -------------------------------------------------------------------------
+      - id: "7.6"
+        name: "How to Properly Price Your Book"
+        purpose: "Set prices that balance sales and perception"
+
+        ebook_pricing:
+          principle: "Price affects perceived value - too cheap can hurt credibility"
+          tiers:
+            - tier: "Maximize sales"
+              price: "$3.99"
+              royalty: "70%"
+
+            - tier: "Balance sales and perception"
+              price: "$6.99"
+              royalty: "70%"
+
+            - tier: "Maximize perceived value"
+              price: "$9.99"
+              royalty: "70%"
+
+        paperback_pricing:
+          rule: "Add $7-10 to ebook price"
+          tiers:
+            - tier: "Cheap"
+              price: "$11.99-13.99"
+
+            - tier: "Normal"
+              price: "$14.99-16.99"
+
+            - tier: "Premium"
+              price: "$17.99-19.99"
+          royalty: "~40%"
+
+        hardcover_pricing:
+          rule: "Add $12-15 to ebook price"
+          tiers:
+            - tier: "Cheap"
+              price: "$16.99-19.99"
+
+            - tier: "Normal"
+              price: "$20.99-24.99"
+
+            - tier: "Premium"
+              price: "$25.99-27.99"
+          royalty: "~45%"
+          max_recommended: "$27.99 unless specific reason"
+
+        exercises:
+          - id: "7.6.1"
+            name: "Pricing Decision"
+            prompt: "Decide your pricing strategy based on your objectives"
+
+        outputs:
+          - file: "my-book/design/pricing.md"
+            description: "Pricing decisions for all formats"
+
+# =============================================================================
+# PART 8: PUBLISH YOUR BOOK
+# =============================================================================
+  - id: part-8-publish
+    name: "Publish Your Book"
+    description: "Choose your publishing path and get your book into the world"
+    estimated_sessions: 3-5
+
+    sections:
+      # -------------------------------------------------------------------------
+      - id: "8.1"
+        name: "How to Pick the Right Publishing Option"
+        purpose: "Understand your options and choose the right path"
+
+        three_options:
+          - option: "Traditional Publishing"
+            summary: "Sell rights to a publisher for an advance"
+            ownership: "Publisher owns print license"
+            royalty: "15% hardcover, 7.5% paperback"
+            advance: "Usually $100k+ (if they want you)"
+            time_to_publish: "12-36 months"
+
+            advantages:
+              - "Monetary advance"
+              - "Highest potential for mainstream media"
+              - "Social signaling"
+              - "Bookstore placement"
+
+            disadvantages:
+              - "Very hard to get (less than 1% accepted)"
+              - "Loss of ownership and control"
+              - "Loss of marketing control"
+              - "Long timeline"
+
+            when_to_choose:
+              - "You need the advance money"
+              - "You MUST have mainstream media (NYT, WSJ)"
+              - "You want the social signal of being 'picked'"
+
+            reality_check: "Publishers only want you if you have a big existing audience (25k+ presales)"
+
+          - option: "Self-Publishing"
+            summary: "You retain ownership and manage the process"
+            ownership: "Author retains all rights"
+            royalty: "40-100% depending on channel"
+            advance: "None"
+            time_to_publish: "As fast as you want"
+
+            advantages:
+              - "Full ownership and royalties"
+              - "Complete creative control"
+              - "Total marketing control"
+              - "Fast to market"
+
+            disadvantages:
+              - "Requires time or money to do professionally"
+              - "If done poorly, looks amateur"
+
+            when_to_choose:
+              - "You want to control your content and brand"
+              - "You can invest time or money to do it professionally"
+              - "You don't need an advance"
+
+            key_question: "Can you do a professional job? If yes, this is usually the best choice."
+
+          - option: "Hybrid Publishing"
+            summary: "A mix that usually offers the worst of both worlds"
+            ownership: "Variable"
+            royalty: "15-50%"
+            advance: "Usually none"
+
+            warning: "AVOID - hybrid publishing is generally a terrible deal for authors"
+            why_bad:
+              - "No advance but they still take royalties"
+              - "Loss of control without the benefits"
+              - "Often try to take rights they shouldn't"
+
+        exercises:
+          - id: "8.1.1"
+            name: "Publishing Path Decision"
+            prompt: "Evaluate your situation and choose your publishing path"
+
+        outputs:
+          - file: "my-book/publishing/publishing-decision.md"
+            description: "Publishing path choice with reasoning"
+
+      # -------------------------------------------------------------------------
+      - id: "8.2"
+        name: "Self-Publishing Costs"
+        purpose: "Understand what professional self-publishing costs"
+
+        cost_breakdown:
+          editing:
+            developmental_edit: "$1,000-3,000"
+            copyediting: "$250-750"
+
+          design:
+            cover_design: "$300-2,000"
+            interior_layout: "$200-1,000"
+
+          other:
+            author_photo: "$150-500"
+            ebook_conversion: "$50-200"
+
+          total_range: "$1,950-7,450"
+
+        note: "You can reduce costs by doing some yourself, but quality may suffer"
+
+        exercises: []
+        outputs: []
+
+      # -------------------------------------------------------------------------
+      - id: "8.3"
+        name: "Self-Publishing Distribution"
+        purpose: "Get your book available for sale"
+
+        main_platforms:
+          - platform: "Amazon KDP"
+            what: "Amazon's self-publishing platform"
+            formats: "eBook and paperback"
+            distribution: "Amazon only (for exclusive) or wide"
+
+          - platform: "IngramSpark"
+            what: "Professional distribution to bookstores"
+            formats: "Print (paperback and hardcover)"
+            distribution: "Bookstores, libraries, wholesalers"
+
+          - platform: "Draft2Digital"
+            what: "Wide eBook distribution"
+            formats: "eBook"
+            distribution: "Apple, Kobo, B&N, libraries, etc."
+
+        recommended_approach:
+          - "Use KDP for Amazon (ebook and paperback)"
+          - "Use IngramSpark for wide print distribution"
+          - "Use Draft2Digital for non-Amazon ebooks (optional)"
+
+        exercises:
+          - id: "8.3.1"
+            name: "Distribution Setup"
+            prompt: "Set up your distribution accounts and upload your book"
+
+        outputs:
+          - file: "my-book/publishing/distribution-setup.md"
+            description: "Distribution accounts and status"
+
+      # -------------------------------------------------------------------------
+      - id: "8.4"
+        name: "How to Write a Book Proposal (Traditional Publishing)"
+        purpose: "Create a proposal if pursuing traditional publishing"
+
+        when_needed: "Only if you're pursuing traditional publishing"
+
+        proposal_elements:
+          - "Overview of the book"
+          - "Target audience"
+          - "Competitive analysis"
+          - "Marketing plan and author platform"
+          - "Chapter outline"
+          - "Sample chapters"
+          - "Author bio"
+
+        note: "Many authors pay $10k-15k to have professionals write proposals"
+
+        exercises:
+          - id: "8.4.1"
+            name: "Book Proposal"
+            prompt: "Create your book proposal (if pursuing traditional publishing)"
+
+        outputs:
+          - file: "my-book/publishing/book-proposal.md"
+            description: "Book proposal for agents/publishers"
+
+# =============================================================================
+# PART 9: REFERENCE MATERIAL
+# =============================================================================
+  - id: part-9-reference
+    name: "Reference Material"
+    description: "Additional guidance to consult as needed (not sequential)"
+    type: "reference"
+
+    sections:
+      - id: "9.1"
+        name: "Realistic and Unrealistic Expectations for a Book"
+        when_to_read: "If you need a reality check on what your book can achieve"
+
+      - id: "9.2"
+        name: "How Writing a Book Can Build Your Brand"
+        when_to_read: "If your primary goal is brand building"
+
+      - id: "9.3"
+        name: "How to Make Money with Your Book"
+        when_to_read: "If you want to understand monetization options"
+
+      - id: "9.4"
+        name: "What's the Intangible Impact of a Book?"
+        when_to_read: "If you want to understand non-financial benefits"
+
+      - id: "9.5"
+        name: "How Much Should You 'Give Away' in Your Book?"
+        when_to_read: "If you're worried about giving away too much"
+
+      - id: "9.6"
+        name: "How Much of Your Story Should Be in Your Book?"
+        when_to_read: "If you're unsure how personal to be"
+
+      - id: "9.7"
+        name: "Don't Put Everything You Know in One Book"
+        when_to_read: "If you're trying to put too much in"
+
+      - id: "9.8"
+        name: "Everything You Need to Know About Book Chapters"
+        when_to_read: "If you have questions about chapter structure/length"
+
+      - id: "9.9"
+        name: "How Do You Beat Writer's Block?"
+        when_to_read: "If you're stuck and can't write"
+
+      - id: "9.10"
+        name: "The Only Software You Need"
+        when_to_read: "If you're wondering what tools to use"
+
+      - id: "9.11"
+        name: "How People Really Judge a Book"
+        when_to_read: "If you want to understand reader psychology"
+
+# =============================================================================
+# PROFESSIONAL CHECKPOINTS SUMMARY
+# =============================================================================
+professional_checkpoints:
+  - phase: "Part 5.2"
+    what: "Feedback from experienced editor"
+    required: false
+    description: "Consider getting professional feedback after self-editing"
+
+  - phase: "Part 6.6"
+    what: "Professional Copyeditor"
+    required: true
+    description: "MANDATORY - hire at least one professional copyeditor"
+    cost: "$250-750"
+
+  - phase: "Part 7.1"
+    what: "Professional Copywriter"
+    required: false
+    description: "Consider if you struggle with book description"
+
+  - phase: "Part 7.3"
+    what: "Professional Photographer"
+    required: true
+    description: "MANDATORY - do not shoot your own author photo"
+    cost: "$150-500"
+
+  - phase: "Part 7.4"
+    what: "Professional Book Cover Designer"
+    required: true
+    description: "MANDATORY - do not design your own cover"
+    cost: "$300-2000"
+
+  - phase: "Part 7.5"
+    what: "Professional Interior Layout Designer"
+    required: false
+    description: "Recommended for best results, Vellum acceptable for DIY"
+    cost: "$200-1000"
+
+# =============================================================================
+# OUTPUT FILES SUMMARY
+# =============================================================================
+output_structure:
+  base_folder: "my-book"
+
+  subfolders:
+    preparation:
+      - "my-fears.md"
+      - "fear-strategies.md"
+
+    positioning:
+      - "objectives.md"
+      - "audience.md"
+      - "book-idea.md"
+      - "north-star.md"
+
+    outline:
+      - "book-outline.md"
+      - "introduction.md"
+      - "conclusion.md"
+
+    writing:
+      - "writing-plan.md"
+
+    drafts:
+      - "chapter-XX.md (one per chapter)"
+      - "manuscript-edited.md"
+
+    editing:
+      - "feedback-plan.md"
+
+    finishing:
+      - "title-candidates.md"
+      - "dedication.md"
+      - "acknowledgments.md"
+      - "foreword.md"
+      - "blurbs.md"
+      - "copyedit-notes.md"
+
+    design:
+      - "book-description.md"
+      - "author-bio.md"
+      - "author-photo.md"
+      - "cover-brief.md"
+      - "layout-notes.md"
+      - "pricing.md"
+
+    publishing:
+      - "publishing-decision.md"
+      - "distribution-setup.md"
+      - "book-proposal.md (if traditional)"

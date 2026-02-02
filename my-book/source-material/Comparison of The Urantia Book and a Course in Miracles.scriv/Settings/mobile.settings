@@ -1,0 +1,102 @@
+{
+  "UseFullOutline" : 0,
+  "DocStates" : {
+    "D1E1A0C5-717C-4AD5-95E2-B886C7C0677B" : {
+      "scrollPos" : "0"
+    },
+    "33DFC413-5997-4FA5-A7A2-0FDE8ABFA69C" : {
+      "scrollPos" : "0"
+    },
+    "62B24583-31EC-4539-9124-EFB2582C910B" : {
+      "scrollPos" : "371"
+    },
+    "4D7B8904-C4D2-4793-9E93-9FB95AA11BE2" : {
+      "scrollPos" : "902"
+    },
+    "CCD816E5-02E6-4C33-BBBC-1C04291A7358" : {
+      "scrollPos" : "0"
+    },
+    "4299BBD7-2B27-4465-A175-992E6CCE6CF2" : {
+      "scrollPos" : "0"
+    },
+    "23EEB9C5-B24A-4083-A67D-46E3765567C2" : {
+      "scrollPos" : "0"
+    },
+    "301DC193-1FD0-488F-BE91-3C8FD03ED507" : {
+      "scrollPos" : "0"
+    },
+    "E28BAE04-E670-4040-9842-196AE28B0FCD" : {
+      "scrollPos" : "0"
+    },
+    "2E9D71BF-86DA-4722-8CFC-D93F62B1B1AE" : {
+      "scrollPos" : "0"
+    },
+    "323DDFE7-D81D-4AE7-ABB6-6216E5B92470" : {
+      "scrollPos" : "0"
+    },
+    "B54AB68B-D933-459B-84CD-FEA95A47B22C" : {
+      "scrollPos" : "0"
+    },
+    "A40164E3-7E0D-48F5-858E-D02C3A979D11" : {
+      "scrollPos" : "2060"
+    },
+    "7D1E2184-8670-40E4-8CD2-376B4CF81C4B" : {
+      "scrollPos" : "0"
+    },
+    "AA5EFEAB-5761-4DC4-8E5B-3E4E7C2DC609" : {
+      "scrollPos" : "0"
+    },
+    "0E804D2D-A3E2-40DD-856B-3E889E57F710" : {
+      "scrollPos" : "1372"
+    },
+    "FE589273-0D78-426F-852C-581B204F838D" : {
+      "scrollPos" : "47"
+    },
+    "FCA6220E-7DA7-4E2B-B2BD-3A6910A5CA20" : {
+      "scrollPos" : "0"
+    },
+    "6C26C52D-C5A2-4625-96BC-610995A658EA" : {
+      "scrollPos" : "0"
+    },
+    "FAE6EF47-451B-42BD-AD9F-9C36C71A57BD" : {
+      "scrollPos" : "0"
+    },
+    "DD55B0EF-765D-415C-832F-B60DF025FAD6" : {
+      "scrollPos" : "0"
+    },
+    "784B67C6-7988-448F-B40E-29CD1904E918" : {
+      "scrollPos" : "0"
+    },
+    "457B4AD6-7864-45B8-9C60-E13F2EB94695" : {
+      "scrollPos" : "0"
+    },
+    "203519DB-E54E-4D2E-ABD1-A496DB2117D0" : {
+      "scrollPos" : "0"
+    },
+    "0677725D-2DC3-4BE8-9C6B-8AECD0CF4148" : {
+      "scrollPos" : "0"
+    }
+  },
+  "TextScaleFactor" : 1.8999999999999999,
+  "CompileOptions" : {
+    "FooterText" : "<$p>",
+    "FileFormat" : 0,
+    "RectoHeaderText" : "",
+    "RectoFooterText" : "<$p>",
+    "RemoveComments" : true,
+    "FirstPageIsTitle" : false,
+    "ConvertToMarkdown" : false,
+    "CurrentFolderOnly" : false,
+    "HeaderText" : "",
+    "TitlesUseMarkdownLevels" : false,
+    "PaperType" : 0
+  },
+  "TypewriterScrolling" : false,
+  "ScriptModeForNewDocs" : false,
+  "RecentMoveContainerUUIDs" : [
+    "3FA74D50-2B26-46FC-A9A8-9661879F8971",
+    "E936A715-7AEC-41C7-A837-15A82E604357",
+    "4CDDE685-812E-458F-A25B-C16BC801D0DE",
+    "4BBDD91D-1155-4B22-97DD-D74FBA80A27D"
+  ]
+}

@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Q-System session files (keep local by default)
+.q-system/session-notes/
+.q-system/transcripts/
+.q-system/checkpoints/
+!.q-system/session-notes/.gitkeep
+!.q-system/transcripts/.gitkeep
+!.q-system/checkpoints/.gitkeep
+
+# Backup files
+*.bak
+*.backup
+*~

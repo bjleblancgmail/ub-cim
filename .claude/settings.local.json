@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(where:*)",
+      "Bash(python -c:*)",
+      "Bash(pip install:*)",
+      "Bash(powershell:*)",
+      "Bash(python read_docx.py:*)",
+      "Bash(find:*)",
+      "Bash(pdftotext:*)",
+      "Bash(strings:*)",
+      "Bash($CHECKPOINT_TIME = Get-Date -Format \"yyyy-MM-dd-HHmm\")",
+      "Bash(Write-Output \"CHECKPOINT_TIME: $CHECKPOINT_TIME\")",
+      "Bash(wc:*)",
+      "Bash(pip show:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(python:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

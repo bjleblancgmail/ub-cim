@@ -8,7 +8,7 @@
 
 The Urantia Book and the Course in Miracles describe the same spiritual realities using different vocabularies. The Urantia Book uses precise celestial terminology. The Course uses Christian language filtered through Helen's conceptual framework.
 
-This creates a challenge for readers of both texts. When the Course speaks of "souls," does it mean what the Urantia Book means? When it mentions the "Sonship," is that the same as "God the Supreme"? Without a bridge between the vocabularies, readers can miss the deep harmony between the two revelations — or worse, assume contradictions where none exist.
+This creates a challenge for readers of both texts. When the Course speaks of "souls," does it mean what the Urantia Book means? When it mentions the "Sonship," is that the same as "God the Supreme"? Without a bridge between the vocabularies, readers can miss the deep harmony between the two revelations — or worst, assume contradictions where few exist.
 
 This chapter provides that bridge. We map the key terms, explain the correspondences, and note where caution is needed. This mapping is a work in progress — understanding may deepen with further study.
 

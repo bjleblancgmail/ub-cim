@@ -18,7 +18,10 @@
       "Bash(python:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(python3 -m pip install:*)",
+      "Bash(dir \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\checkpoints\\\\*2026-02-03*\")",
+      "Bash(if not exist \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\transcripts\" mkdir \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\transcripts\")"
     ]
   }
 }

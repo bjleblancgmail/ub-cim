@@ -426,7 +426,7 @@ The Father's house has many rooms — and many ways of showing us the door.
 
 The Urantia Book and the Course in Miracles describe the same spiritual realities using different vocabularies. The Urantia Book uses precise celestial terminology. The Course uses Christian language filtered through Helen's conceptual framework.
 
-This creates a challenge for readers of both texts. When the Course speaks of "souls," does it mean what the Urantia Book means? When it mentions the "Sonship," is that the same as "God the Supreme"? Without a bridge between the vocabularies, readers can miss the deep harmony between the two revelations — or worst, assume contradictions where few exist.
+This creates a challenge for readers of both texts. When the Course speaks of "souls," does it mean what the Urantia Book means? When it mentions the "Sonship," is that the same as "God the Supreme"? Without a bridge between the vocabularies, readers can miss the deep harmony between the two revelations — or worse, assume contradictions where few exist.
 
 This chapter provides that bridge. We map the key terms, explain the correspondences, and note where caution is needed. This mapping is a work in progress — understanding may deepen with further study.
 
@@ -444,9 +444,31 @@ The following table presents the essential terminology correspondences:
 | Perception | Adjutant mind / temporal levels | The animal-origin mind, subject to illusion |
 | Knowledge | Absolute level / Adjuster perspective | The eternal viewpoint, beyond time and space |
 | Will | Personality | The unique gift from the Father enabling choice |
-| Holy Spirit | Spirit of Truth / Holy Spirit | Both books recognize this ministry; UB distinguishes between them |
+| Holy Spirit | Holy Spirit | See note below on the Spirit of Truth distinction |
 | Ego | Self-concept created by adjutant mind | Not inherently evil, but often distorted |
 | Atonement | Plan of Ascension | The divine plan for mortal salvation and growth |
+
+**Note on the Spirit of Truth:** The Urantia Book clearly distinguishes between the Holy Spirit (the ministry of the Divine Minister/Creative Spirit of the local universe) and the Spirit of Truth (poured out by Jesus after his resurrection). The Course rarely makes this distinction explicit, but several passages reveal it.
+
+First, Jesus acknowledges "another comforter" distinct from the Holy Spirit:
+
+> "The Holy Spirit is the only part of the Holy Trinity which is symbolic. He is referred to in the Bible as the Healer, the Comforter, and the Guide. He is also described as something 'separate,' apart from the Father and from the Son. I myself said, 'If I go I will send you another comforter, and He will abide with you.'"
+
+Second, Jesus shows that he *had* the Holy Spirit, just as we do — he is not the Holy Spirit:
+
+> "The Holy Spirit is nothing more than your own right mind. He was also mine."
+
+Third, Jesus describes himself and the Holy Spirit as two entities working in harmony:
+
+> "The Holy One shares my trust and always approves my Atonement decisions because my will is never out of accord with His. I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men."
+
+Here Jesus makes Atonement decisions; the Holy Spirit ("the Holy One") approves them. Two distinct ministries, perfectly aligned.
+
+Fourth, Jesus distinguishes his teaching from the Holy Spirit's judgment:
+
+> "My one lesson, which I must teach as I learned, is that no perception which is out of accord with the judgment of the Holy Spirit can be justified."
+
+When Jesus says "I" in the Course — "I am in charge," "I will lend them my strength," "I lead," "I teach" — this is the Spirit of Truth in action. The Holy Spirit is referenced separately as approving, judging, and guiding perception. Once this pattern is recognized, the Course clearly distinguishes the two ministries, just as the Urantia Book does.
 
 ---
 
@@ -472,7 +494,7 @@ The Course teaches that the Sonship is the totality of God's creation — all so
 
 The Urantia Book describes God the Supreme in remarkably similar terms — the evolving deity of time and space, growing through the experiences of all creatures, the totality of finite creation actualizing its potential.
 
-> "The Sonship is our best understanding of who God is. All concepts beyond this temporal God are attempts to explain the unexplainable in terms of our own limited temporal language."
+The Sonship is our best understanding of who God is. All concepts beyond this temporal God are attempts to explain the unexplainable in terms of our own limited temporal language.
 
 When the Course speaks of our relationship to the Sonship, it is describing our relationship to the Supreme. When it says we contribute to the Sonship, it means we contribute to the growth of the Supreme. This mapping illuminates both texts.
 
@@ -482,9 +504,7 @@ When the Course speaks of our relationship to the Sonship, it is describing our 
 
 The Course makes a sharp distinction between perception and knowledge. Perception is unreliable, shifting, the source of illusion. Knowledge is certain, eternal, the domain of truth.
 
-The Urantia Book provides the framework for understanding this distinction:
-
-> "Perception in CIM is simply all things temporal or temporal mind. In the UB temporal mind is known as the adjutant mind. Within the adjutant mind the ego is created."
+The Urantia Book provides the framework for understanding this distinction. Perception in the Course is simply all things temporal or temporal mind. In the Urantia Book temporal mind is known as the adjutant mind. Within the adjutant mind the ego is created.
 
 Perception corresponds to the adjutant mind — the animal-origin intellect that processes sensory data and constructs our experience of the world. This level of mind is subject to error, distortion, and the influence of fear.
 
@@ -500,9 +520,7 @@ Both texts address the ego, but with important nuances.
 
 The Course often speaks as if the ego is the enemy — the source of illusion, fear, and separation. This has led some readers to view the ego as purely negative.
 
-The Urantia Book provides clarification:
-
-> "Perception (adjutant mind) is not the ego. The ego is a concept of who we are which is created by perception (adjutant mind)."
+The Urantia Book provides clarification. Perception (adjutant mind) is not the ego. The ego is a concept of who we are which is created by perception (adjutant mind).
 
 The ego is not the adjutant mind itself but the self-concept constructed by that mind. The adjutant mind is a gift — part of God's creation, necessary for mortal experience. The problem is not the mind but the distorted identity we create with it.
 
@@ -570,7 +588,11 @@ The Urantia Book says the same thing without the word "miracle":
 
 > "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
 
-Sharing the inner life with God. Union of will between Father and son. These are not two teachings. They are one teaching in two vocabularies.
+And the Urantia Book makes explicit what happens when this alignment occurs:
+
+> "What the true son desires and the infinite Father wills IS. Such a prayer cannot remain unanswered, and no other sort of petition can possibly be fully answered."
+
+When the son's desire aligns with the Father's will, it simply *is* — it manifests. The Course calls this a miracle. The Urantia Book calls it prayer that cannot remain unanswered. Same mechanism: when human will fuses with divine will, reality responds.
 
 The Course presents itself as a curriculum — lessons to be practiced, a workbook to be followed. But what is the curriculum *for*? It is training the mind to choose differently, to release the ego's will and accept the Father's will instead. Each lesson, each practice, each moment of forgiveness is a step toward fusion.
 
@@ -596,7 +618,11 @@ Fusion is the culmination. At some point — whether in this life or on the mans
 
 This is not absorption. You do not disappear into God. The fused being is "really one personality, one being" — but it is still *you*, now expanded beyond anything the mortal mind could have achieved alone.
 
-The Course in Miracles never uses these terms. But it describes the same indwelling presence, the same process, the same destination — in language Helen Schucman could understand.
+The Course in Miracles describes the same process in its own language:
+
+> "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true."
+
+Your creations — your worthy thoughts, your loving choices, your movements toward truth — are your gift to the Holy Trinity. They extend your being as God extended Himself to you through the Adjuster. And they are eternal. The Urantia Book calls this the building of the soul. The Course calls it your creations. Both are describing what survives — what you are becoming through partnership with the divine fragment within.
 
 ---
 
@@ -626,7 +652,7 @@ The Course does not speak of the material body and the morontia soul. It speaks 
 
 This is the work. Every lesson in the Course workbook, every moment of forgiveness, every release of judgment — all of it serves the transfer. You are learning to identify with spirit rather than ego, with the eternal rather than the temporal, with the Adjuster rather than the animal mind.
 
-The transfer does not happen all at once. It is progressive. The Urantia Book describes it as a gradual building of the soul. The Course describes it as a gradual awakening from a dream. Both are describing a journey that takes a lifetime — or longer.
+The transfer does not happen all at once. It is progressive. The Urantia Book describes it as a gradual building of the soul. The Course describes it as a gradual awakening from a dream. Both are describing a journey that takes a lifetime — or longer. It is a required course.
 
 But the destination is the same: the moment when the transfer is complete, when identity has fully shifted, when fusion becomes not just possible but inevitable.
 
@@ -668,7 +694,7 @@ And once you have crossed:
 
 > "The only value which the body has is to enable you to bring your brothers to the bridge with you, and to be released together there."
 
-The fused being returns to help others. The one who has crossed becomes a guide for those still crossing. This is service. This is love. This is the purpose of survival itself.
+The fused being returns to help others. The one who has crossed becomes a guide for those still crossing. This is service. This is love. This is the purpose of survival itself. This is what Jesus did.
 
 ---
 
@@ -802,7 +828,7 @@ The sum of all souls. The sum of all growth. Two ways of saying the same thing: 
 
 The Course in Miracles uses the word "Sonship" to describe something larger than any individual soul.
 
-In traditional Christianity, "the Son" usually means Jesus — the only-begotten, unique, singular. The Course uses the term differently. The Sonship is not one person. It is the totality of all souls created by God, understood as a single living whole.
+In traditional Christianity, "the Son" refers to Jesus — the second person of the Holy Trinity, the only-begotten, unique, singular. The Course acknowledges the Holy Trinity and the Son's role in it. But the Course also describes the Sonship — a larger reality. The Sonship is not one person. It is the totality of all souls created by God, understood as a single living whole.
 
 > "If all the Souls God created are His Sons, then every soul must be an integral part of the whole Sonship."
 
@@ -843,6 +869,18 @@ The Supreme is not separate from us. We are *in* the Supreme, contributing to th
 One more degree. One more step. Each soul that fuses, each creature that grows, adds something irreplaceable to the Supreme. We are not spectators to God's work. We are participants in it.
 
 And one day, the Supreme will be complete. All potentials will be exhausted. All growth will be finished. The seven superuniverses will be settled in light and life. And in that moment, God the Supreme will emerge in fullness — not gradually, but all at once.
+
+The Urantia Book describes this completion:
+
+> "There will come an end sometime to the growth of the Supreme; his status will achieve completion. This termination of the evolution of the Supreme will also witness the ending of creature evolution as a part of Supremacy."
+
+When the Supreme's growth ends, creature evolution ends with it. Time itself will have fulfilled its purpose.
+
+The Course in Miracles says the same thing in its own language:
+
+> "The purpose of time is to enable man to learn to use it constructively. Time is thus a teaching device and a means to an end. It will cease when it is no longer useful in facilitating learning."
+
+Time is a teaching device. When learning is complete, time ceases. The Urantia Book speaks of the end of evolution; the Course speaks of the end of learning. Both are describing the same moment — when all growth is finished, when all lessons are learned, when the Supreme stands complete.
 
 That is when the Sonship knows itself as whole.
 
@@ -970,7 +1008,7 @@ An ancient song. Something you once knew, before you forgot. Something more dear
 
 This is not poetry. It is description.
 
-Both books teach that you existed before this life. The Urantia Book describes the Adjuster carrying "past-eternity experience and memory." The Course speaks of a song known "so long ago." Both are saying: you have been part of something vast and beautiful, and you will recognize it when you return.
+Both books teach that you carry past-eternity experience and memory. The Urantia Book attributes this to the Adjuster — the divine fragment that lived in eternity before it came to indwell you. The Course speaks of a song known "so long ago," a memory more dear than anything learned in this life. This is the Adjuster's memory, stirring within you. Both books are saying: something vast and beautiful lives inside you, and you will recognize it when you return.
 
 The recognition will not be intellectual. It will be immediate, total, and joyful. Like walking through a door you did not know you had been searching for — and finding everyone you ever loved already there.
 

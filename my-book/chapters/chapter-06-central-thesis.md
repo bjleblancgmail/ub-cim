@@ -30,7 +30,11 @@ The Urantia Book says the same thing without the word "miracle":
 
 > "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
 
-Sharing the inner life with God. Union of will between Father and son. These are not two teachings. They are one teaching in two vocabularies.
+And the Urantia Book makes explicit what happens when this alignment occurs:
+
+> "What the true son desires and the infinite Father wills IS. Such a prayer cannot remain unanswered, and no other sort of petition can possibly be fully answered."
+
+When the son's desire aligns with the Father's will, it simply *is* — it manifests. The Course calls this a miracle. The Urantia Book calls it prayer that cannot remain unanswered. Same mechanism: when human will fuses with divine will, reality responds.
 
 The Course presents itself as a curriculum — lessons to be practiced, a workbook to be followed. But what is the curriculum *for*? It is training the mind to choose differently, to release the ego's will and accept the Father's will instead. Each lesson, each practice, each moment of forgiveness is a step toward fusion.
 
@@ -56,7 +60,11 @@ Fusion is the culmination. At some point — whether in this life or on the mans
 
 This is not absorption. You do not disappear into God. The fused being is "really one personality, one being" — but it is still *you*, now expanded beyond anything the mortal mind could have achieved alone.
 
-The Course in Miracles never uses these terms. But it describes the same indwelling presence, the same process, the same destination — in language Helen Schucman could understand.
+The Course in Miracles describes the same process in its own language:
+
+> "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true."
+
+Your creations — your worthy thoughts, your loving choices, your movements toward truth — are your gift to the Holy Trinity. They extend your being as God extended Himself to you through the Adjuster. And they are eternal. The Urantia Book calls this the building of the soul. The Course calls it your creations. Both are describing what survives — what you are becoming through partnership with the divine fragment within.
 
 ---
 
@@ -86,7 +94,7 @@ The Course does not speak of the material body and the morontia soul. It speaks 
 
 This is the work. Every lesson in the Course workbook, every moment of forgiveness, every release of judgment — all of it serves the transfer. You are learning to identify with spirit rather than ego, with the eternal rather than the temporal, with the Adjuster rather than the animal mind.
 
-The transfer does not happen all at once. It is progressive. The Urantia Book describes it as a gradual building of the soul. The Course describes it as a gradual awakening from a dream. Both are describing a journey that takes a lifetime — or longer.
+The transfer does not happen all at once. It is progressive. The Urantia Book describes it as a gradual building of the soul. The Course describes it as a gradual awakening from a dream. Both are describing a journey that takes a lifetime — or longer. It is a required course.
 
 But the destination is the same: the moment when the transfer is complete, when identity has fully shifted, when fusion becomes not just possible but inevitable.
 
@@ -128,7 +136,7 @@ And once you have crossed:
 
 > "The only value which the body has is to enable you to bring your brothers to the bridge with you, and to be released together there."
 
-The fused being returns to help others. The one who has crossed becomes a guide for those still crossing. This is service. This is love. This is the purpose of survival itself.
+The fused being returns to help others. The one who has crossed becomes a guide for those still crossing. This is service. This is love. This is the purpose of survival itself. This is what Jesus did.
 
 ---
 

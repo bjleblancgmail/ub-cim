@@ -20,7 +20,7 @@ The sum of all souls. The sum of all growth. Two ways of saying the same thing: 
 
 The Course in Miracles uses the word "Sonship" to describe something larger than any individual soul.
 
-In traditional Christianity, "the Son" usually means Jesus — the only-begotten, unique, singular. The Course uses the term differently. The Sonship is not one person. It is the totality of all souls created by God, understood as a single living whole.
+In traditional Christianity, "the Son" refers to Jesus — the second person of the Holy Trinity, the only-begotten, unique, singular. The Course acknowledges the Holy Trinity and the Son's role in it. But the Course also describes the Sonship — a larger reality. The Sonship is not one person. It is the totality of all souls created by God, understood as a single living whole.
 
 > "If all the Souls God created are His Sons, then every soul must be an integral part of the whole Sonship."
 
@@ -61,6 +61,18 @@ The Supreme is not separate from us. We are *in* the Supreme, contributing to th
 One more degree. One more step. Each soul that fuses, each creature that grows, adds something irreplaceable to the Supreme. We are not spectators to God's work. We are participants in it.
 
 And one day, the Supreme will be complete. All potentials will be exhausted. All growth will be finished. The seven superuniverses will be settled in light and life. And in that moment, God the Supreme will emerge in fullness — not gradually, but all at once.
+
+The Urantia Book describes this completion:
+
+> "There will come an end sometime to the growth of the Supreme; his status will achieve completion. This termination of the evolution of the Supreme will also witness the ending of creature evolution as a part of Supremacy."
+
+When the Supreme's growth ends, creature evolution ends with it. Time itself will have fulfilled its purpose.
+
+The Course in Miracles says the same thing in its own language:
+
+> "The purpose of time is to enable man to learn to use it constructively. Time is thus a teaching device and a means to an end. It will cease when it is no longer useful in facilitating learning."
+
+Time is a teaching device. When learning is complete, time ceases. The Urantia Book speaks of the end of evolution; the Course speaks of the end of learning. Both are describing the same moment — when all growth is finished, when all lessons are learned, when the Supreme stands complete.
 
 That is when the Sonship knows itself as whole.
 
@@ -188,7 +200,7 @@ An ancient song. Something you once knew, before you forgot. Something more dear
 
 This is not poetry. It is description.
 
-Both books teach that you existed before this life. The Urantia Book describes the Adjuster carrying "past-eternity experience and memory." The Course speaks of a song known "so long ago." Both are saying: you have been part of something vast and beautiful, and you will recognize it when you return.
+Both books teach that you carry past-eternity experience and memory. The Urantia Book attributes this to the Adjuster — the divine fragment that lived in eternity before it came to indwell you. The Course speaks of a song known "so long ago," a memory more dear than anything learned in this life. This is the Adjuster's memory, stirring within you. Both books are saying: something vast and beautiful lives inside you, and you will recognize it when you return.
 
 The recognition will not be intellectual. It will be immediate, total, and joyful. Like walking through a door you did not know you had been searching for — and finding everyone you ever loved already there.
 

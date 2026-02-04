@@ -1,10 +1,12 @@
 # Chapter 1: Introduction
 
-Within fifty years, the English-speaking world received two extraordinary gifts: *The Urantia Book* in 1955 and *A Course in Miracles* in the early 1970s. Each arrived quietly, passed from hand to hand by readers who recognized something profound. Today, millions study one or both.
+Something new is possible.
 
-These books illuminate each other in ways their readers rarely discover. The Urantia Book provides the cosmic framework - who we are, where we came from, where we are going. A Course in Miracles provides the practical path - how to make that journey, day by day, thought by thought. One is the map; the other is the walking.
+Within fifty years, the English-speaking world received two extraordinary gifts: *The Urantia Book* in 1955 and *A Course in Miracles* in the early 1970s. Each arrived quietly, passed from hand to hand by readers who recognized something profound. Today, millions study one or both — but rarely together.
 
-This study guide brings them together.
+These books illuminate each other in ways their readers have only begun to discover. The Urantia Book provides the cosmic framework — who we are, where we came from, where we are going. A Course in Miracles provides the practical path — how to make that journey, day by day, thought by thought. One is the map; the other is the walking.
+
+This book brings them into conversation.
 
 ---
 
@@ -90,4 +92,6 @@ Read it straight through, or dip into the themes that call to you. Either way, k
 
 ---
 
-Two books. One path. The journey begins.
+Two books, given within a generation, studied apart for seventy years. Now, finally, in conversation.
+
+The path is open. You are welcome to walk it.

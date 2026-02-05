@@ -88,19 +88,9 @@ This is something you accomplish through dedicated mental effort. You open to it
 
 ## Section 6: The Incompatibility
 
-Perception and knowledge are incompatible thought systems. Yet they coexist in your mind — and this coexistence is the source of conflict.
+Perception and knowledge are incompatible. They cannot both be true. They cannot lead to the same place. Yet both are operating in you right now.
 
-You experience this conflict daily. Part of you perceives threat; part of you knows you are safe. Part of you sees separation; part of you recognizes unity. The ego's thought system and the Holy Spirit's thought system are both present, pulling in opposite directions.
-
-This is why the Course speaks of two incompatible thought systems. They cannot both be true. They cannot lead to the same place. Yet both are operating in you right now, and the friction between them is what you experience as inner turmoil.
-
-You cannot serve both. You cannot maintain both indefinitely. You can vacillate between them — and you do, constantly — but eventually a choice must be made. The unified mind is the one that has chosen.
-
-The Urantia Book confirms this:
-
-> "The human mind does not well stand the conflict of double allegiance. It is a severe strain on the soul to undergo the experience of an effort to serve both good and evil. The supremely happy and efficiently unified mind is the one wholly dedicated to the doing of the will of the Father in heaven."
-
-Wholly dedicated. Not partly. The unified mind has chosen. It has stopped trying to maintain two incompatible systems. It has let go of perception as the ultimate arbiter of reality and has trusted knowledge instead.
+You cannot maintain both indefinitely. Eventually a choice must be made. The unified mind is the one that has chosen — has let go of perception as the ultimate arbiter of reality and trusted knowledge instead.
 
 ---
 

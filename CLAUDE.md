@@ -245,6 +245,8 @@ All commands: Type `/q-` and press Tab.
 
 **Git Push:** Never push without explicit permission.
 
+**GitHub Account:** Always use personal account `bjleblancgmail` for this project (not PeerloopLLC). Run `gh auth switch --user bjleblancgmail` if needed.
+
 **Pacing:** Follow author's pace. Don't rush through phases.
 
 **Editing:** During first draft (Part 4), no editing. Write forward only.

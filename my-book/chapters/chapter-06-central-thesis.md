@@ -78,13 +78,9 @@ The seat of identity must *move*. You begin life identified with your body, your
 
 This is not automatic. It requires your cooperation. The Adjuster cannot force this transfer. It can only invite, guide, lead. The human will must choose to follow.
 
-The Course in Miracles describes the same transfer in its own language:
+The Course in Miracles describes the same transfer — the Holy Spirit enabling a "thought-transfer of perception to knowledge." Perception is how the earthly mind sees; knowledge is how spirit sees. The Holy Spirit bridges them.
 
-> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge."
-
-Perception is how the earthly mind sees — partial, distorted, filtered through fear. Knowledge is how spirit sees — whole, true, eternal. The Holy Spirit bridges them. It enables the *transfer* from one way of knowing to another.
-
-And again:
+The Course says:
 
 > "The Holy Spirit is the mind of the atonement. It represents a state of mind that comes close enough to one-mindedness that transfer to it is at last possible."
 
@@ -114,29 +110,9 @@ The Course in Miracles uses the same image:
 
 > "The bridge that He would carry you across lifts you from time into eternity."
 
-From time into eternity. From the material world to the spiritual. From perception to knowledge. From the self you think you are to the self you truly are. This is the crossing.
-
-And the Course makes clear what awaits on the other side:
-
-> "Across the bridge, it is so different! For a time the body is still seen, but not exclusively, as it is seen here. For the little spark which holds the great rays within it is also visible, and this spark cannot be limited long to littleness."
-
-The spark. The divine fragment. The Adjuster. On this side of the bridge, it is hidden, barely glimpsed. On the other side, it becomes visible — and once seen, it cannot be unseen.
-
-The bridge is not a place. It is a process. The Course describes it as the Holy Spirit's work:
-
-> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge."
-
-The Holy Spirit carries you across. It translates between the two worlds — the world of perception where you currently live, and the world of knowledge where you are destined to arrive. Every moment of guidance, every whisper of truth, every correction of error is the Holy Spirit building the bridge beneath your feet as you walk.
-
-The Urantia Book describes this same function, though it names it differently — the Spirit of Truth, the Adjuster's leading, the combined ministry of spiritual forces working within the human mind.
+From time into eternity. From perception to knowledge. From the self you think you are to the self you truly are. Chapter 10 explores this bridge in detail — how the Holy Spirit carries you across, how the transfer unfolds, what awaits on the other side.
 
 But both books agree: you do not build the bridge yourself. It is built for you. Your only task is to walk across it.
-
-And once you have crossed:
-
-> "The only value which the body has is to enable you to bring your brothers to the bridge with you, and to be released together there."
-
-The fused being returns to help others. The one who has crossed becomes a guide for those still crossing. This is service. This is love. This is the purpose of survival itself. This is what Jesus did.
 
 ---
 

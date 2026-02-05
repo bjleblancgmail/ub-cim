@@ -126,11 +126,7 @@ Miracles require love, and love requires union. The isolated ego cannot perform 
 
 Here is the secret hidden in plain sight: your life is already a miracle.
 
-The Urantia Book describes the Adjuster's work:
-
-> "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are."
-
-Slowly and surely. In time. But the Adjuster is an eternal being, working from the eternal perspective. From where the Adjuster stands, your transformation is already complete. From where you stand, it takes a lifetime. The miracle is that both are true.
+The Adjuster is an eternal being, working from the eternal perspective. From where the Adjuster stands, your transformation is already complete. From where you stand, it takes a lifetime. The miracle is that both are true.
 
 The Course says:
 

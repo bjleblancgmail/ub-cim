@@ -108,4 +108,4 @@ The mansion worlds wait for those who need more time. Paradise waits at the end.
 
 You have already begun. You are reading this book. The Adjuster within you brought you here. The path to the Father stretches out before you, and every step you take is counted.
 
-Keep walking.
+Something new is possible. It always was.

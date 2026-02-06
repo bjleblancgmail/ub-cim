@@ -16,7 +16,7 @@ The Urantia Book states it directly:
 
 > "To spirit beings the spirit world is a reality. To us the material world is the more unreal."
 
-And again:
+And The Urantia Book says again:
 
 > "To material beings the spirit world is more or less unreal; to spirit beings the material world is almost entirely unreal, being merely a shadow of the substance of spirit realities."
 
@@ -84,7 +84,7 @@ The Urantia Book expands on this:
 
 Time is the moving image of eternity. Space is the shadow of Paradise. The things we see are projections of things we do not yet see — but will.
 
-The Course in Miracles teaches the same through different imagery. It speaks of the body as a learning device, of the world as a classroom. These are not ends in themselves. They point beyond themselves.
+The Course in Miracles teaches the same through different imagery. It speaks of the body as a learning device, of the world as a classroom. These are not ends in themselves. They point beyond themselves. The Course says:
 
 > "The body is the means by which God's Son returns to sanity... Yet it is also the goal of insanity."
 
@@ -214,7 +214,7 @@ Jesus demonstrated this seeing. The Urantia Book records that he looked at peopl
 
 What he might become. The spiritual eye sees the real self — the self that is being built, the self that will survive. It does not ignore the failures. It sees through them to the truth they obscure.
 
-This is why forgiveness matters in the Course. Forgiveness is not pretending harm did not happen. It is refusing to let the harm define the person. It is seeing past the error to the child of God beneath it.
+This is why forgiveness matters in the Course. Forgiveness is not pretending harm did not happen. It is refusing to let the harm define the person. It is seeing past the error to the child of God beneath it. The Course says:
 
 > "Forgiveness recognizes what you thought your brother did to you has not occurred."
 

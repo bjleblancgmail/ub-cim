@@ -48,9 +48,7 @@ They did their best with human language. Readers must do their best to receive i
 
 One fact distinguishes the Urantia Book from the Course in Miracles: Jesus did not author the Urantia Book. He approved the project. He authorized it. But he let his celestial family give their testimony.
 
-The source material for The Urantia Book explains:
-
-> "In the beginning of the 19th century Jesus (Michael) approved of a plan to provide us with an expanded revelation of our Heavenly Father and his creation. The Urantia Book was written by a wide variety of celestial beings with varied origins and backgrounds. It claims no human authorship. Neither did Jesus personally author any of the papers in the Urantia book."
+In the beginning of the 19th century, Jesus — known in celestial records as Michael — approved of a plan to provide us with an expanded revelation of our Heavenly Father and his creation. The Urantia Book was written by a wide variety of celestial beings with varied origins and backgrounds. It claims no human authorship. Neither did Jesus personally author any of the papers.
 
 This is significant. The Urantia Book is what the revelators call an "epochal revelation" — a formal presentation to the planet, delivered through celestial channels. The sleeping subject through whom the papers came was unconscious during transmission; the human mind did not filter the content.
 

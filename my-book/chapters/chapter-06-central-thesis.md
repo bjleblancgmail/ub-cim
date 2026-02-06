@@ -6,7 +6,7 @@ This book rests on a single claim: *A Course in Miracles* is a course in Adjuste
 
 The Urantia Book describes Adjuster fusion as the goal of human life — the moment when the mortal will and the divine will become permanently one. It is not death. It is not heaven. It is transformation: the fusion of a human being with the fragment of God that has lived within them since childhood.
 
-The Course in Miracles never uses this language. It speaks instead of miracles, of atonement, of the union of Father and Son. But it is teaching the same thing.
+The Course in Miracles never uses this language. It speaks instead of miracles, of atonement, of the union of Father and Son. But it is teaching the same thing. A Course in Miracles says:
 
 > "The miracle itself is just this fusion or union of will between Father and son."
 
@@ -20,7 +20,7 @@ The chapters that follow will trace this connection in detail — the bridge, th
 
 The Course in Miracles opens with fifty principles of miracles. The very first principle sets the tone: "There is no order of difficulty in miracles." But what *is* a miracle?
 
-The Course does not define miracles as supernatural events — water into wine, healing the blind. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper.
+The Course does not define miracles as supernatural events — water into wine, healing the blind. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The Course says:
 
 > "The miracle itself is just this fusion or union of will between Father and son."
 
@@ -48,13 +48,13 @@ For readers unfamiliar with the Urantia Book, the term "Adjuster fusion" require
 
 The Urantia Book teaches that every normal human mind, beginning in early childhood, receives an indwelling spirit — a fragment of God himself. This fragment is called by many names in the text: Thought Adjuster, Mystery Monitor, divine pilot, indwelling spirit. It is not a guide standing beside you. It is not an angel watching over you. It lives *within* your mind, at the very center of your thought life, working ceaselessly to spiritualize your thinking.
 
-This is not metaphor. The Urantia Book describes the Adjuster as a literal piece of the Universal Father — prepersonal, divine, eternal — given to each human being as both gift and destiny.
+This is not metaphor. The Urantia Book describes the Adjuster as a literal piece of the Universal Father — prepersonal, divine, eternal — given to each human being as both gift and destiny. The Urantia Book says:
 
 > "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival."
 
 The Adjuster has a mission: to prepare you for fusion. Throughout your life, it works to create a *soul* — a new reality that is neither fully human nor fully divine, but a blending of both. Every worthy thought, every unselfish choice, every movement toward truth and beauty and goodness becomes material the Adjuster uses to build this soul.
 
-Fusion is the culmination. At some point — whether in this life or on the mansion worlds after death — the human will and the Adjuster's will become so aligned that separation is no longer possible. The two become one. The mortal has become immortal. The creature has united permanently with a fragment of the Creator.
+Fusion is the culmination. At some point — whether in this life or on the mansion worlds after death — the human will and the Adjuster's will become so aligned that separation is no longer possible. The two become one. The mortal has become immortal. The creature has united permanently with a fragment of the Creator. The Urantia Book describes what fusion imparts:
 
 > "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential... fixation of divinity quality, past-eternity experience and memory, immortality."
 
@@ -70,7 +70,7 @@ Your creations — your worthy thoughts, your loving choices, your movements tow
 
 ## Section 4: The Transfer of Identity
 
-How does fusion happen? The Urantia Book describes it as a transfer.
+How does fusion happen? The Urantia Book describes it as a transfer:
 
 > "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul."
 
@@ -132,7 +132,7 @@ The Course in Miracles uses the same image:
 
 The same spark lit every lamp. Every human being carries the same divine fragment. This is not poetic language. It is a statement about reality: you are already lit from within.
 
-But the spark can be obscured:
+But the Course warns that the spark can be obscured:
 
 > "In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the rays can never be completely forgotten."
 
@@ -168,7 +168,7 @@ Required. Not optional. Not one path among many. The Course presents itself as s
 
 This is a bold claim. But the Urantia Book makes the same one.
 
-Adjuster fusion is not a special achievement for spiritual elites. It is the natural destination of human life. The Urantia Book describes a universe designed for ascension — creatures moving upward through level after level, world after world, growing ever closer to the Creator who made them. Fusion is not the end of that journey, but it is the decisive turning point: the moment when survival becomes certain, when the creature is permanently joined to the divine.
+Adjuster fusion is not a special achievement for spiritual elites. It is the natural destination of human life. The Urantia Book describes a universe designed for ascension — creatures moving upward through level after level, world after world, growing ever closer to the Creator who made them. Fusion is not the end of that journey, but it is the decisive turning point: the moment when survival becomes certain, when the creature is permanently joined to the divine. The Urantia Book says:
 
 > "This is a brilliant age for ascending mortals and usually witnesses the perfect fusion of the human mind and the divine Adjuster."
 
@@ -214,7 +214,7 @@ Together, they form a complete path.
 
 The thesis of this study guide is simple: the Course in Miracles is a course in Adjuster fusion. What the Urantia Book describes, the Course trains you to achieve. What the Course teaches, the Urantia Book explains.
 
-And this path is not new. It was walked before — by one who showed that it could be done:
+And this path is not new. It was walked before — by one who showed that it could be done. The Urantia Book says:
 
 > "Through the appropriation of the faith of Jesus, mortal man can foretaste in time the realities of eternity. Jesus made the discovery, in human experience, of the Final Father, and his brothers in the flesh of mortal life can follow him along this same experience of Father discovery. They can even attain, as they are, the same satisfaction in this experience with the Father as did Jesus as he was. New potentials were actualized in the universe of Nebadon consequent upon the terminal bestowal of Michael, and one of these was the new illumination of the path of eternity that leads to the Father of all, and which can be traversed even by the mortals of material flesh and blood in the initial life on the planets of space. Jesus was and is the new and living way whereby man can come into the divine inheritance which the Father has decreed shall be his for but the asking. In Jesus there is abundantly demonstrated both the beginnings and endings of the faith experience of humanity, even of divine humanity."
 

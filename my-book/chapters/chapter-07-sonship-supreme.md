@@ -8,9 +8,13 @@ Both books teach that we are not isolated individuals climbing separate paths to
 
 This is not metaphor. Both books teach that this collective reality is as real as you are — perhaps more real. You are a part of it. Your growth contributes to it. Your choices matter to it. And one day, when every part has returned, you will discover it together with every other soul who ever lived.
 
-> "The Sonship is the sum of all the souls God created." — *A Course in Miracles*
+A Course in Miracles says:
 
-> "The Supreme is the sum total of all finite growth... the synthetic cumulative total of all grand universe evolution." — *The Urantia Book*
+> "The Sonship is the sum of all the souls God created."
+
+And The Urantia Book says:
+
+> "The Supreme is the sum total of all finite growth... the synthetic cumulative total of all grand universe evolution."
 
 The sum of all souls. The sum of all growth. Two ways of saying the same thing: none of us is complete alone.
 
@@ -20,19 +24,19 @@ The sum of all souls. The sum of all growth. Two ways of saying the same thing: 
 
 The Course uses the word "Sonship" to describe something larger than any individual soul.
 
-In traditional Christianity, "the Son" usually means Jesus — the only-begotten, unique, singular. The Course uses the term differently. The Sonship is not one person. It is the totality of all souls created by God, understood as a single living whole.
+In traditional Christianity, "the Son" usually means Jesus — the only-begotten, unique, singular. The Course uses the term differently. The Sonship is not one person. It is the totality of all souls created by God, understood as a single living whole. The Course says:
 
 > "If all the Souls God created are His Sons, then every soul must be an integral part of the whole Sonship."
 
 Every soul is a part. No part is separate. No part is complete without the others. This is not a poetic way of saying we should be nice to each other. It is a statement about the structure of reality: we are literally joined.
 
-The Course returns to this idea again and again:
+The Course returns to this idea again and again. A Course in Miracles says:
 
 > "Miracles make Souls one in Christ. They depend on cooperation because the Sonship is the sum of all the souls God created."
 
 Miracles — the shifts in perception that the Course teaches — do not merely help individuals. They reunite parts of the Sonship that believed themselves separate. Every miracle draws the whole closer to completion.
 
-And the Sonship is not yet complete:
+And the Course teaches that the Sonship is not yet complete:
 
 > "The Sonship in its oneness does transcend the sum of its parts. However, this is obscured as long as any of its parts are missing. That is why the conflict cannot ultimately be resolved until all the parts of the Sonship have returned."
 
@@ -50,11 +54,11 @@ The Universal Father is eternal, infinite, unchanging. He exists outside of time
 
 This is a startling concept. A God who is still becoming?
 
-The Urantia Book explains it this way: as creatures grow, as souls evolve, as civilizations progress toward light and life, all of that growth is gathered into the Supreme. Every choice for goodness, every step toward truth, every act of love — all of it becomes part of a living, growing totality. The Supreme is the sum of all finite evolution.
+The Urantia Book explains it this way: as creatures grow, as souls evolve, as civilizations progress toward light and life, all of that growth is gathered into the Supreme. Every choice for goodness, every step toward truth, every act of love — all of it becomes part of a living, growing totality. The Supreme is the sum of all finite evolution. The Urantia Book says:
 
 > "The far-flung diversification of eternal energy, divine spirit, and universal mind attains finite culmination in the evolution of the Supreme, who is the sum total of all finite growth."
 
-The Supreme is not separate from us. We are *in* the Supreme, contributing to the Supreme, becoming part of the Supreme with every worthy choice we make.
+The Supreme is not separate from us. We are *in* the Supreme, contributing to the Supreme, becoming part of the Supreme with every worthy choice we make. The Urantia Book continues:
 
 > "When an ascending mortal personality finally attunes to the divine leading of the indwelling Adjuster, then has the actuality of the Supreme become real by one more degree in the universes; then has the divinity of supremacy advanced one more step toward cosmic realization."
 
@@ -82,17 +86,19 @@ The sum of all souls. The cumulative total of all evolution. Both books are desc
 
 The Course says each soul is "an integral part of the whole Sonship." The Urantia Book says each ascending mortal makes "the actuality of the Supreme become real by one more degree." Both are saying the same thing: you are not a separate being making a private journey. You are a part contributing to a whole.
 
-And the whole transcends the sum of its parts:
+And as the Course teaches, the whole transcends the sum of its parts:
 
-> "The Sonship in its oneness does transcend the sum of its parts." — *A Course in Miracles*
+> "The Sonship in its oneness does transcend the sum of its parts."
 
 The Supreme is not merely the addition of all finite creatures. It is something greater — a new reality that emerges from the combination. Just as a symphony is more than the sum of individual notes, the Sonship is more than the sum of individual souls.
 
-But the symphony cannot be heard until all the instruments play:
+But the symphony cannot be heard until all the instruments play. The Course continues:
 
-> "This is obscured as long as any of its parts are missing." — *A Course in Miracles*
+> "This is obscured as long as any of its parts are missing."
 
-> "No single ascender will ever find the Supreme until all ascenders have reached that maximum universe maturity which qualifies them simultaneously to participate in this discovery." — *The Urantia Book*
+And The Urantia Book agrees:
+
+> "No single ascender will ever find the Supreme until all ascenders have reached that maximum universe maturity which qualifies them simultaneously to participate in this discovery."
 
 No one hears the full symphony alone. No one discovers the Supreme in isolation. No one knows the Sonship as complete until every part has returned.
 
@@ -122,7 +128,7 @@ The Course in Miracles teaches the same:
 
 Perception ends when the Sonship knows itself as whole. Not when *you* know it — when *the Sonship* knows it. The whole must awaken for perception to end completely.
 
-And again:
+And again, the Course says:
 
 > "So do the parts of God's Son gradually join in time, and with each joining is the end of time brought nearer."
 
@@ -214,9 +220,11 @@ Time is not eternal. It is a tool. When the learning is complete, when the growt
 
 And here the individual path mirrors the collective.
 
-You fuse with your Adjuster — mortal personality united with divine spirit. The Supreme undergoes the same process on a cosmic scale:
+You fuse with your Adjuster — mortal personality united with divine spirit. The Supreme undergoes the same process on a cosmic scale. The Urantia Book says:
 
 > "The spirit person of Supremacy requires the evolutionary power of the Almighty to achieve completion of Deity."
+
+And:
 
 > "When finally actualized, this evolutionary Deity will constitute the eternal fusion of the finite and the infinite — the everlasting and indissoluble union of experiential power and spirit personality."
 

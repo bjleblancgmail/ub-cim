@@ -88,6 +88,12 @@ But you are in between. You have begun to awaken. You have glimpsed something be
 
 This is normal. This is expected. This is the price of growth.
 
+The Urantia Book explains why the struggle cannot be avoided:
+
+> "Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving."
+
+The animal mind rebels. This is what the Course calls the ego's resistance — the part of you that fights the very growth you are seeking.
+
 The Course describes the same territory:
 
 > "You who identify with your egos cannot believe that God loves you."

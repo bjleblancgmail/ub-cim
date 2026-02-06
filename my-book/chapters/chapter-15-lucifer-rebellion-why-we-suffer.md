@@ -34,9 +34,7 @@ This connection is significant precisely because of how the Course came to us. H
 
 ## Section 3: What the Rebellion Created
 
-On normal worlds, things are different. The source material for this book puts it plainly:
-
-> "On normal worlds the ego is taught right perception from its visible celestial government. On our world, rebellion and default created an environment where our egos are inflated to such an extent that it impedes our creation."
+On normal worlds, things are different. On normal worlds the ego is taught right perception from its visible celestial government. On our world, rebellion and default created an environment where our egos are inflated to such an extent that it impedes our creation.
 
 On normal worlds, evolving mortals can see their celestial teachers. They receive direct instruction in spiritual matters. They know — not by faith alone, but by direct experience — that they are not alone in the universe, that the Father exists, that the spiritual life is real.
 
@@ -52,7 +50,7 @@ When Lucifer declared his rebellion, the affected worlds were quarantined — cu
 
 Why? Because ideas are contagious. Every being who encountered the rebellion's philosophy had to be given the opportunity to accept or reject it freely. Forcibly ending the rebellion before this process completed would have left the question unresolved. The universe needed to know — conclusively, for all time — where every individual stood.
 
-This is why the quarantine has lasted over two hundred thousand years. The source material asks the question many of us feel: "I still cannot understand why this has been allowed to continue for so long." The answer is that rebellion must be worked out. Every mortal who lived and died on our world must make a genuine choice. No one is condemned because their leaders rebelled.
+This is why the quarantine has lasted over two hundred thousand years. I still cannot understand why this has been allowed to continue for so long. The answer is that rebellion must be worked out. Every mortal who lived and died on our world must make a genuine choice. No one is condemned because their leaders rebelled.
 
 The quarantine remains "until all the results of the former folly have been overcome and the products of rebellion removed."
 

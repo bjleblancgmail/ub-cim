@@ -58,11 +58,11 @@ Shortening suffering. This is the mercy of miracles. We would all arrive eventua
 
 The Urantia Book offers a fascinating detail about Jesus that illuminates the entire subject.
 
-During the forty days in the wilderness, after his baptism, Jesus received instructions from his Personalized Adjuster about the use of his divine powers. The Adjuster explained that while the celestial hosts could be limited in space by Jesus's authority, they could not be limited in time:
+During the forty days in the wilderness, after his baptism, Jesus received instructions from his Personalized Adjuster about the use of his divine powers. The Adjuster explained that while the celestial hosts could be limited in space by Jesus's authority, they could not be limited in time. The Urantia Book records:
 
 > "In accepting this command of the universe hosts in attendance upon Christ Michael, the Personalized Adjuster took great pains to point out to Jesus that, while such an assembly of universe creatures could be limited in their space activities by the delegated authority of their Creator, such limitations were not operative in connection with their function in time."
 
-Time was the variable. And so:
+Time was the variable. And so The Urantia Book continues:
 
 > "In order to prevent the appearance of apparent time miracles, it was necessary for Jesus to remain constantly time conscious. Any lapse of time consciousness on his part, in connection with the entertainment of definite desire, was equivalent to the enactment of the thing conceived in the mind of this Creator Son, and without the intervention of time."
 
@@ -150,7 +150,7 @@ But miracles remind us that time is not ultimate. They are windows, glimpses, pr
 
 Until then, be grateful for the miracles you receive, and more grateful still for the miracles you give. Every act of love shortens someone's suffering. Every extension of peace eliminates a wall. Every moment you remember that you are not separate from God, you are performing a miracle — whether you see its effects or not.
 
-The laws of eternity are always operating. The only question is whether you will cooperate with them.
+The laws of eternity are always operating. The only question is whether you will cooperate with them. As the Course says:
 
 > "Miracles therefore rest on the laws of eternity, not of time."
 

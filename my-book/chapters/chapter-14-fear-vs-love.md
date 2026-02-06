@@ -62,11 +62,7 @@ The Course says this is accomplished by removing the blocks to love's presence. 
 
 The Urantia Book speaks of the "philosophical elimination of religious fear" — the use of understanding to dispel fear's false claims. When you truly understand that you are a child of God, indwelt by a fragment of the Father, destined for eternal life — what is there to fear?
 
-The source material for this book puts it simply:
-
-> "The whole point is that there is ultimately nothing to fear. That was Jesus's message, the Urantia Book's message, and the Course in Miracles' message. The creation of the Supreme Being is a messy business here on earth. But nothing from an eternal perspective is in danger."
-
-Nothing from an eternal perspective is in danger. This is the truth that dissolves fear. Your body can be harmed, yes. Your plans can be frustrated. Your ego can be threatened. But you — the real you, the soul being built by the Adjuster, the child of the Father — you are safe. You have always been safe. You will always be safe.
+The whole point is that there is ultimately nothing to fear. That was Jesus's message, the Urantia Book's message, and the Course in Miracles' message. The creation of the Supreme Being is a messy business here on earth. But nothing from an eternal perspective is in danger. This is the truth that dissolves fear. Your body can be harmed, yes. Your plans can be frustrated. Your ego can be threatened. But you — the real you, the soul being built by the Adjuster, the child of the Father — you are safe. You have always been safe. You will always be safe.
 
 ---
 

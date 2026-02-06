@@ -72,7 +72,7 @@ The lawsuit ultimately resulted in much of the Course entering the public domain
 
 ## Section 6: JCIM vs ACIM — Why It Matters
 
-In the urtext, Jesus makes a direct statement about the importance of the early chapters:
+In the original text of A Course in Miracles, Jesus makes a direct statement about the importance of the early chapters:
 
 > "This is a course in mind training. All learning involves attention and study at some level. Some of the later parts of the course rest too heavily on these earlier sections not to require their study. You will also need them for preparation. Without this, you may become much too fearful when the unexpected does occur to make constructive use of it. However, as you study these earlier sections, you will begin to see some of their implications, which will be amplified considerably later on."
 

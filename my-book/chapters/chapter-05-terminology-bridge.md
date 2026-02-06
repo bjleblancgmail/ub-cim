@@ -32,21 +32,21 @@ The following table presents the essential terminology correspondences:
 
 **Note on the Spirit of Truth:** The Urantia Book clearly distinguishes between the Holy Spirit (the ministry of the Divine Minister/Creative Spirit of the local universe) and the Spirit of Truth (poured out by Jesus after his resurrection). The Course rarely makes this distinction explicit, but several passages reveal it.
 
-First, Jesus acknowledges "another comforter" distinct from the Holy Spirit:
+First, in A Course in Miracles, Jesus acknowledges "another comforter" distinct from the Holy Spirit:
 
 > "The Holy Spirit is the only part of the Holy Trinity which is symbolic. He is referred to in the Bible as the Healer, the Comforter, and the Guide. He is also described as something 'separate,' apart from the Father and from the Son. I myself said, 'If I go I will send you another comforter, and He will abide with you.'"
 
-Second, Jesus shows that he *had* the Holy Spirit, just as we do — he is not the Holy Spirit:
+Second, the Course shows that Jesus *had* the Holy Spirit, just as we do — he is not the Holy Spirit:
 
 > "The Holy Spirit is nothing more than your own right mind. He was also mine."
 
-Third, Jesus describes himself and the Holy Spirit as two entities working in harmony:
+Third, the Course describes Jesus and the Holy Spirit as two entities working in harmony:
 
 > "The Holy One shares my trust and always approves my Atonement decisions because my will is never out of accord with His. I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men."
 
 Here Jesus makes Atonement decisions; the Holy Spirit ("the Holy One") approves them. Two distinct ministries, perfectly aligned.
 
-Fourth, Jesus distinguishes his teaching from the Holy Spirit's judgment:
+Fourth, the Course distinguishes Jesus' teaching from the Holy Spirit's judgment:
 
 > "My one lesson, which I must teach as I learned, is that no perception which is out of accord with the judgment of the Holy Spirit can be justified."
 
@@ -56,7 +56,7 @@ When Jesus says "I" in the Course — "I am in charge," "I will lend them my str
 
 ## Section 3: Soul and Thought Adjuster
 
-The Course frequently references the "soul" as our true center — indestructible, perfect, divine. This corresponds directly to the Urantia Book's teaching about the Thought Adjuster:
+The Course frequently references the "soul" as our true center — indestructible, perfect, divine. This corresponds directly to the Urantia Book's teaching about the Thought Adjuster. A Course in Miracles describes the soul this way:
 
 > "Souls – Divine Monitor, Thought Adjuster, indestructible universe reality, perfection, center of the mortal soul, spirit monitor."
 
@@ -133,3 +133,9 @@ When you read the Course and encounter "soul," you can think "Adjuster" and brin
 The bridge goes both directions. Use it to enrich your study of either text. Use it to resolve apparent contradictions. Use it to deepen your understanding of what both revelations teach.
 
 Two vocabularies. One truth. The bridge helps you see it.
+
+---
+
+## Part Two: Themes
+
+The nature of reality, the meaning of miracles, spiritual transformation, forgiveness, fear, and what comes after.

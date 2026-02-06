@@ -162,12 +162,6 @@ Completely on its own. Separate from God, separate from others, separate from th
 
 And belief shapes experience. When you identify with the ego, you experience fear, scarcity, defensiveness. You protect what cannot be protected. You grasp at what cannot be held. You build a self out of sand and wonder why it keeps washing away.
 
-The Urantia Book speaks of those who refuse survival — not because God condemns them, but because they have so thoroughly identified with the unreal that nothing remains to continue:
-
-> "When this sentence is finally confirmed... the being immediately becomes as though he had not been."
-
-As though he had not been. This is not divine cruelty. It is the natural consequence of choosing unreality so completely that no reality remains. The light did not reject them. They rejected the light.
-
 But here is the mercy: most of what is "out of accord" in you is not your deepest self. It is scaffolding. It is the fears you accumulated, the defenses you built, the small self you constructed to navigate a confusing world. These will fall away — not as punishment, but as relief. You will not miss them. They were never really you.
 
 What is "partly in accord with truth" — the Course says it is "accepted and purified." This is grace. Your imperfect love is still love. Your stumbling toward goodness still counts. The Adjuster does not demand perfection. It works with what you give it, purifying, refining, keeping whatever spark of the eternal was there.

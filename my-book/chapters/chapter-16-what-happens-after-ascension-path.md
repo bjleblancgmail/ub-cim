@@ -54,7 +54,7 @@ The Urantia Book provides unprecedented detail about Jesus' inner life — his c
 
 At his baptism in the Jordan, this process reached its culmination. The Urantia Book records that Jesus had achieved such complete synchrony with his Adjuster that fusion could have occurred — the permanent union of human identity with divine spirit. He chose to defer this fusion to continue his ministry in the flesh, but the achievement was complete.
 
-This is what the Course is teaching us to do. When it speaks of accepting the Atonement, of surrendering the ego, of choosing love over fear — it is describing the same process Jesus demonstrated. His life is the curriculum made visible.
+This is what the Course is teaching us to do. When it speaks of accepting the Atonement, of surrendering the ego, of choosing love over fear — it is describing the same process Jesus demonstrated. His life is the curriculum made visible. The Urantia Book promises:
 
 > "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery."
 
@@ -96,11 +96,11 @@ This is where the Course leads. Not to escape from the world, but to the center 
 
 The Course in Miracles tells you what to do. The Urantia Book tells you where it leads.
 
-You are not simply correcting your perception. You are preparing for fusion — the permanent union of your will with the Father's will. You are not simply learning to forgive. You are building the foundation for eternal life. You are not simply studying two books. You are walking the same path Jesus walked.
+You are not simply correcting your perception. You are preparing for fusion — the permanent union of your will with the Father's will. You are not simply learning to forgive. You are building the foundation for eternal life. You are not simply studying two books. You are walking the same path Jesus walked. The Urantia Book says:
 
 > "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery."
 
-This is the promise. Not that the path is easy — it is not. Not that you will complete it quickly — you will not. But that the path is real, the destination is real, and the one who walked it before you has left a Course to guide you.
+This is The Urantia Book's promise. Not that the path is easy — it is not. Not that you will complete it quickly — you will not. But that the path is real, the destination is real, and the one who walked it before you has left a Course to guide you.
 
 Two revelations arrived within fifty years. One provides the map. One provides the training. Together, they offer quarantined mortals everything needed to begin the journey that never ends.
 

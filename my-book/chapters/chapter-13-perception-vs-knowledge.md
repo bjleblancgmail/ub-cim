@@ -66,6 +66,12 @@ The spiritual journey involves moving beyond the ego — not by destroying it, b
 
 The adjutant influence diminishes. As you progress spiritually, you rely less on the perceiving mind and more on the higher mind circuits — what both books recognize as the influence of the Holy Spirit, and what the Urantia Book describes as the superconscious realm where the Adjuster works.
 
+And when the journey through the circles is complete, The Urantia Book describes what awaits:
+
+> "The mastery of the first cosmic circle signalizes the attainment of premorontia mortal maturity and marks the termination of the conjoint ministry of the adjutant mind-spirits as an exclusive influence of mind action in the human personality. Beyond the first circle, mind becomes increasingly akin to the intelligence of the morontia stage of evolution."
+
+This is what the Course calls knowledge. The perceiving mind — the adjutant mind — is no longer in charge. Something higher has taken its place.
+
 ---
 
 ## Section 5: The Holy Spirit as Bridge

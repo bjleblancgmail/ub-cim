@@ -8,7 +8,7 @@
 
 The Course in Miracles speaks in oblique terms about a cosmic disaster. It references "darkness and death" without elaboration. It speaks of a world that has "veered from God's plan for creation." It describes a separation that occurred in some distant past, the consequences of which we are still living with.
 
-The Urantia Book fills in the details.
+The Urantia Book fills in the details:
 
 > "And it was with such a Declaration of Liberty that Lucifer launched his orgy of darkness and death."
 

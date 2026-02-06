@@ -42,7 +42,7 @@ The Urantia Book offers two possibilities:
 
 > "The mortal mind may also fully identify itself with the indwelling spirit Adjuster."
 
-Or:
+Or, as The Urantia Book warns:
 
 > "The sinner finally identified himself wholly with sin."
 

@@ -10,11 +10,13 @@ This book brings them into conversation.
 
 ---
 
-Consider these passages:
+Consider these passages. The Urantia Book says:
 
-> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God." — *The Urantia Book*
+> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
 
-> "The miracle itself is just this fusion or union of will between Father and son." — *A Course in Miracles*
+And A Course in Miracles says:
+
+> "The miracle itself is just this fusion or union of will between Father and son."
 
 Different books. Same teaching. This pattern repeats throughout both texts - sometimes in striking parallel language, sometimes in concepts that require translation. But the unity is there for those who look.
 

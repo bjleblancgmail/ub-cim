@@ -58,7 +58,7 @@ In the Urantia Book, Jesus himself uses this language in one of his prayers:
 
 > "I am the living bridge from one world to another."
 
-And immediately after:
+And immediately after, The Urantia Book records:
 
 > "I am the living link between time and eternity."
 
@@ -68,7 +68,7 @@ The Course in Miracles extends this image to the Holy Spirit:
 
 > "The Holy Spirit remains the bridge between perception and knowledge."
 
-And again:
+And again, the Course says:
 
 > "The bridge that He would carry you across lifts you from time into eternity. Waken from time, and answer fearlessly the call of Him Who gave eternity to you in your creation."
 
@@ -80,7 +80,7 @@ The Urantia Book locates this bridge within your own mind:
 
 The Adjuster is your personal bridge — the fragment of eternity already present within time, the piece of knowledge already embedded within perception. You do not have to build the bridge. It is already there. You have to walk across it.
 
-And here is the remarkable connection: the Holy Spirit, according to Jesus in the Course, is not an abstract force. It is his own mind, offered to you.
+And here is the remarkable connection: the Holy Spirit, according to Jesus in the Course, is not an abstract force. It is his own mind, offered to you. A Course in Miracles says:
 
 > "The Holy Spirit is nothing more than your own right mind. He was also mine. The Bible says, 'May the mind be in you that was also in Christ Jesus,' and uses this as a blessing. It is the blessing of miracle-mindedness. It asks that you may think as I thought, joining with me in Christ-thinking."
 

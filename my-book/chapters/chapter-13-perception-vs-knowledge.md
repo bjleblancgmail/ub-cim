@@ -56,9 +56,7 @@ This is why knowledge cannot be taught in the usual way. You cannot communicate 
 
 The Urantia Book provides a framework for understanding the perceiving mind: the seven adjutant mind-spirits. These are the circuits of mind that operate in evolutionary creatures — intuition, understanding, courage, knowledge, counsel, worship, and wisdom.
 
-These adjutant minds are not evil. They are the gift of the universe to developing creatures. But they are also the territory where the ego operates. The source material for this book puts it directly:
-
-> "Lower order reality is made up of the seven adjutants where the ego lives, and the higher mind is the morontia and spiritual reality where the adjuster lives."
+These adjutant minds are not evil. They are the gift of the universe to developing creatures. But they are also the territory where the ego operates. Lower order reality is made up of the seven adjutants where the ego lives, and the higher mind is the morontia and spiritual reality where the Adjuster lives.
 
 The ego is not a separate entity. It is a pattern of thought that develops within the adjutant mind — a pattern of self-centeredness, separation, and fear. The ego identifies with the body. It perceives threat everywhere. It defends endlessly.
 

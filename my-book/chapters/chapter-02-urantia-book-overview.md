@@ -36,7 +36,7 @@ Beginning around 1913, a small group in Chicago — later known as the contact c
 
 The papers were transmitted, discussed, questioned, and sometimes revised in response to the questions. A larger study group called the Forum examined the papers as they came through. By 1934, the transmission was complete. After additional years of preparation, the Urantia Book was published in 1955.
 
-The celestial authors acknowledge their limitations:
+The Urantia Book's celestial authors acknowledge their limitations:
 
 > "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind."
 
@@ -48,7 +48,7 @@ They did their best with human language. Readers must do their best to receive i
 
 One fact distinguishes the Urantia Book from the Course in Miracles: Jesus did not author the Urantia Book. He approved the project. He authorized it. But he let his celestial family give their testimony.
 
-The source material for this book explains:
+The source material for The Urantia Book explains:
 
 > "In the beginning of the 19th century Jesus (Michael) approved of a plan to provide us with an expanded revelation of our Heavenly Father and his creation. The Urantia Book was written by a wide variety of celestial beings with varied origins and backgrounds. It claims no human authorship. Neither did Jesus personally author any of the papers in the Urantia book."
 

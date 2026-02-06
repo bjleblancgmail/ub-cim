@@ -70,7 +70,7 @@ The forgiveness of love chooses neither hurt nor pardon. It chooses to see diffe
 
 If love does not see sin, what does it see?
 
-The source material for this book suggests the answer: love sees a lack of love.
+The answer is simple: love sees a lack of love.
 
 Where the ego sees attack, love sees a call for help. Where the ego sees guilt deserving punishment, love sees fear crying out for reassurance. Where the ego builds a case for condemnation, love recognizes a brother who has forgotten what he is.
 

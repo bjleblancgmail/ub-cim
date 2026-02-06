@@ -46,7 +46,7 @@ The result is Jesus' message filtered through a human mind. This is not a defect
 
 Jesus never writes directly. He was instructed not to.
 
-During his forty days in the wilderness, Jesus' Personalized Adjuster gave him specific guidance about his bestowal mission. Among the instructions was this:
+During his forty days in the wilderness, Jesus' Personalized Adjuster gave him specific guidance about his bestowal mission. The Urantia Book records this instruction:
 
 > "To the end that you may not unnecessarily contribute to the creation of subsequent stereotyped systems of Urantia religious beliefs or other types of nonprogressive religious loyalties, we advise you still further: Leave no writings behind you on the planet. Refrain from all writing upon permanent materials; enjoin your associates to make no images or other likenesses of yourself in the flesh. See that nothing potentially idolatrous is left on the planet at the time of your departure."
 

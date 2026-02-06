@@ -128,7 +128,7 @@ The Course in Miracles says the same:
 
 Your creations — your acts of love, your moments of truth, your choices for goodness — are not lost. They are protected. The Holy Spirit holds them. The Adjuster preserves them. They wait for you, as part of your own being, because you cannot be complete without them.
 
-The Course also speaks of worship as identification:
+The Urantia Book also speaks of worship as identification:
 
 > "Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity."
 

@@ -94,7 +94,7 @@ The Urantia Book is explicit:
 
 Not satisfied with mere forgiveness. The Master's love goes further. It does not stop at pardoning the wrong — it transforms the wrongdoer. It does not simply cancel the debt — it removes the belief that there ever was a debt.
 
-The Course says:
+The Urantia Book says:
 
 > "Divine love does not merely forgive wrongs; it absorbs and actually destroys them."
 

@@ -146,9 +146,13 @@ Two stages. First, perceiving the spark — glimpsing the divine within yourself
 
 But there is more. *Knowing* the light — not just perceiving it, but fusing with it — creates. This is the difference between recognizing the Adjuster and uniting with it. Perception is the beginning. Knowledge is the destination.
 
-The Urantia Book describes the Adjuster's work in building the soul:
+The Urantia Book describes the Adjuster's work in building the soul. The Adjusters operate at the highest levels of mind:
 
-> "Adjusters work in the spheres of the higher levels of the human mind, unceasingly seeking to produce morontia duplicates of every concept of the mortal intellect. These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are."
+> "Adjusters work in the spheres of the higher levels of the human mind, unceasingly seeking to produce morontia duplicates of every concept of the mortal intellect."
+
+And they never stop:
+
+> "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are (only spiritually)."
 
 The Adjuster is not waiting passively. It is actively building — taking every worthy thought, every true perception, every loving choice, and weaving them into the soul that will survive death. The spark is not just a light. It is a creator, working within you, preparing you for fusion.
 

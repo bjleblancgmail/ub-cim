@@ -116,7 +116,7 @@ The Urantia Book says:
 
 And the Course:
 
-> "Miracles make minds one in God. They depend on cooperation because the Sonship is the sum of all the Souls God created."
+> "They depend on cooperation because the Sonship is the sum of all the Souls God created."
 
 Miracles require love, and love requires union. The isolated ego cannot perform miracles because it is cut off from the source of creative power. But the mind joined with God, aware of its connection to all other minds — that mind participates in eternity. And eternity is where miracles come from.
 
@@ -128,9 +128,7 @@ Here is the secret hidden in plain sight: your life is already a miracle.
 
 The Adjuster is an eternal being, working from the eternal perspective. From where the Adjuster stands, your transformation is already complete. From where you stand, it takes a lifetime. The miracle is that both are true.
 
-The Course says:
-
-> "Miracles are expressions of love, but they may not always have observable effects."
+The Course teaches that miracles are expressions of love, but they may not always produce visible results.
 
 Not always observable. But always real. The work being done in you — the slow reconstruction of your soul, the gradual shift from ego to spirit, the accumulating weight of every loving choice — this is miracle in slow motion. It is eternity working within time, patiently, persistently, until the day when time is no longer needed.
 

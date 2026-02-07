@@ -56,11 +56,17 @@ When Jesus says "I" in the Course — "I am in charge," "I will lend them my str
 
 ## Section 3: Soul and Thought Adjuster
 
-The Course frequently references the "soul" as our true center — indestructible, perfect, divine. This corresponds directly to the Urantia Book's teaching about the Thought Adjuster. A Course in Miracles describes the soul this way:
+The Course describes the soul as unalterable, already perfect, and beyond the need of any protection:
 
-> "Souls – Divine Monitor, Thought Adjuster, indestructible universe reality, perfection, center of the mortal soul, spirit monitor."
+> "The Soul never loses its communion with God."
 
-The Course also speaks of the "altar" as the sacred place within where we encounter God. This too is the Adjuster — the fragment of the Father that indwells every normal human mind.
+> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve."
+
+This corresponds directly to the Urantia Book's teaching about the Thought Adjuster (also called the Divine Monitor or spirit monitor), the divine fragment indwelling every normal human mind. The Course even describes healing in terms of this identification:
+
+> "They heal because they deny body-identification and affirm Soul-identification."
+
+The Course also speaks of the "altar" as the sacred place within where we encounter God. This too is the Adjuster, the fragment of the Father that indwells every normal human mind.
 
 Understanding this mapping transforms how we read both texts. When the Course says to look within to your soul, it means turn attention to the Adjuster. When it speaks of laying your gifts upon the altar, it means offering your will to the divine fragment that seeks to guide you.
 

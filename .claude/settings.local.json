@@ -21,7 +21,24 @@
       "Bash(git commit:*)",
       "Bash(python3 -m pip install:*)",
       "Bash(dir \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\checkpoints\\\\*2026-02-03*\")",
-      "Bash(if not exist \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\transcripts\" mkdir \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\transcripts\")"
+      "Bash(if not exist \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\transcripts\" mkdir \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\\\\transcripts\")",
+      "Bash(git push:*)",
+      "Bash(pandoc:*)",
+      "Bash(python3:*)",
+      "Bash(dir:*)",
+      "Bash(copy:*)",
+      "Bash(cmd /c copy:*)",
+      "Bash(cmd /c dir \"C:\\\\Users\\\\bjleb\\\\OneDrive\\\\Book\\\\UB-CIM-Parallels-Full-Quotes.md\")",
+      "WebSearch",
+      "WebFetch(domain:elevenlabs.io)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_tabs",
+      "mcp__plugin_playwright_playwright__browser_snapshot",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "mcp__plugin_playwright_playwright__browser_click",
+      "mcp__plugin_playwright_playwright__browser_type",
+      "mcp__plugin_playwright_playwright__browser_press_key",
+      "mcp__plugin_playwright_playwright__browser_evaluate"
     ]
   }
 }

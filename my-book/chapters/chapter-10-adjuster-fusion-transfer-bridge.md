@@ -98,9 +98,9 @@ The transfer is not instantaneous. It is a process — sometimes gradual, someti
 
 The Urantia Book says:
 
-> "The Adjusters are the will of God, and since the creature co-creators also possess the power of volition, there is a potential of conflict. To the extent that you will the Adjuster's will, to that extent have you chosen the eternal career."
+> "The Adjusters are the will of God."
 
-Cooperation. The Adjuster wills one thing: your fusion, your eternal life, your complete transfer to spiritual reality. Your will can align with this — or resist. Every time you choose love over fear, truth over self-deception, service over selfishness, you are willing what the Adjuster wills. You are cooperating with the transfer.
+The Adjuster does not need to choose. It already is what it is: the Father's will, present within you. But you possess the power of volition. You can align with that will or resist it. Every time you choose love over fear, truth over self-deception, service over selfishness, you are cooperating with the transfer.
 
 The Course says the same:
 
@@ -170,7 +170,7 @@ If you are reading these words, the Adjuster within you has been working for dec
 
 The Urantia Book promises:
 
-> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery and perfection of spiritual nature."
+> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery."
 
 What Jesus achieved, you can achieve. The same bridge, the same transfer, the same fusion. Not in exactly the same way — you are not a Creator Son incarnate — but in the same direction. Toward the Father. Toward complete identification with the divine. Toward the moment when the last step is taken, and you discover that you have been carried home.
 

@@ -35,10 +35,10 @@ The Course speaks of the "soul" as your true center — indestructible, perfect,
 ### Detailed: Sonship = God the Supreme
 
 **Course in Miracles:**
-> "Miracles make minds one in God. They depend on cooperation because the Sonship is the sum of all the Souls God created."
+> "They depend on cooperation because the Sonship is the sum of all the Souls God created."
 
 **Urantia Book:**
-> "The Supreme is the synthesis of creature personality and Creator nature."
+> "The Supreme Being thus becomes the finite synthesis of the experience of the perfect-Creator cause and the perfecting-creature response."
 
 The Course teaches the Sonship is the totality of God's creation — all souls together, functioning as one. The Urantia Book describes God the Supreme in remarkably similar terms — the evolving deity of time and space, growing through the experiences of all creatures. When the Course speaks of contributing to the Sonship, it means contributing to the growth of the Supreme. (Ch 5, Section 4; Ch 7)
 
@@ -311,7 +311,7 @@ If Jesus conceived a desire and momentarily forgot about time, the thing would s
 ### Detailed: The Spiritual Eye
 
 **Course in Miracles:**
-> "The spiritual eye is the mechanism of miracles... It looks past error to truth, past what seems to be to what is."
+> "The Spiritual eye is the mechanism of miracles, because what It perceives is true."
 
 **Urantia Book:**
 > "By faith, the mortal soul gains entrance into the spiritual kingdom of heaven, and presently the light of the Father's love begins to illuminate the pathway of this truth-seeking soul."

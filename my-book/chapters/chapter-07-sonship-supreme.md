@@ -14,7 +14,7 @@ A Course in Miracles says:
 
 And The Urantia Book says:
 
-> "The Supreme is the sum total of all finite growth... the synthetic cumulative total of all grand universe evolution."
+> "The Supreme is the sum total of all finite growth."
 
 The sum of all souls. The sum of all growth. Two ways of saying the same thing: none of us is complete alone.
 
@@ -156,9 +156,7 @@ The Urantia Book is explicit:
 
 One more degree. One more step. Your attunement to the Adjuster does not merely advance *you*. It advances the Supreme. The whole grows because you grew.
 
-The Course in Miracles teaches the same:
-
-> "Each of us personally adds one more degree to the Sonship. We are each an integral part of the whole Sonship."
+The Course in Miracles teaches the same. Every soul is "an integral part of the whole Sonship," and the whole cannot be complete while any part is missing.
 
 You are not replaceable. No other soul can add what you add. No other journey contributes exactly what yours contributes. The Supreme would be incomplete without your particular growth, your particular choices, your particular path.
 

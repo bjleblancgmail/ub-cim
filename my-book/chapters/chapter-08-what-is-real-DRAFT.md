@@ -86,7 +86,7 @@ Time is the moving image of eternity. Space is the shadow of Paradise. The thing
 
 The Course in Miracles teaches the same through different imagery. It speaks of the body as a learning device, of the world as a classroom. These are not ends in themselves. They point beyond themselves. The Course says:
 
-> "The body is the means by which God's Son returns to sanity... Yet it is also the goal of insanity."
+> "The body is the means by which God's Son returns to sanity."
 
 The body can serve spirit or obscure it. The material world can be a window to the eternal or a wall against it. The difference lies not in the world itself, but in how you see it.
 
@@ -180,21 +180,17 @@ Both books teach that ordinary sight is not enough. The material eyes see only m
 
 The Course in Miracles calls this the "spiritual eye":
 
-> "The spiritual eye is the mechanism of miracles... It looks past error to truth, past what seems to be to what is."
+> "The spiritual eye is the mechanism of miracles."
 
-It looks past. Not ignoring what is in front of you, but seeing through it — seeing what lies beneath the surface, behind the form. The spiritual eye does not deny the world. It interprets the world differently.
+It looks past error to truth. Not ignoring what is in front of you, but seeing through it — seeing what lies beneath the surface, behind the form. The spiritual eye does not deny the world. It interprets the world differently.
 
-The Urantia Book speaks of "the eye of faith":
-
-> "By faith, the mortal soul gains entrance into the spiritual kingdom of heaven, and presently the light of the Father's love begins to illuminate the pathway of this truth-seeking soul."
-
-Faith opens the eye. Not belief in doctrines, but trust — the willingness to see beyond appearances, to credit the existence of something you cannot yet prove. This is how spiritual perception begins: not with certainty, but with openness.
+The Urantia Book speaks of "the eye of faith." Faith opens the eye. Not belief in doctrines, but trust — the willingness to see beyond appearances, to credit the existence of something you cannot yet prove. This is how spiritual perception begins: not with certainty, but with openness.
 
 And once opened, the eye develops. The Urantia Book describes increasing levels of spiritual insight — from the first faint recognition of the Adjuster's leading to the full "cosmic consciousness" of those who have ascended far:
 
-> "Mota is more than a superior philosophy... It is a supermaterial reality sensitivity which is beginning to compensate incomplete growth."
+> "Mota is more than a superior philosophy."
 
-Mota — the morontia insight that bridges material logic and spiritual truth. You do not have mota yet. But you have its seed: the moments when something shifts, when you suddenly see past the problem to the peace beneath it, when you recognize love where before you saw only conflict.
+Mota is a supermaterial reality sensitivity, the morontia insight that bridges material logic and spiritual truth. You do not have mota yet. But you have its seed: the moments when something shifts, when you suddenly see past the problem to the peace beneath it, when you recognize love where before you saw only conflict.
 
 The Course describes the same awakening:
 
@@ -202,11 +198,9 @@ The Course describes the same awakening:
 
 This is not wishful thinking. It is perceptual training. What you want shapes what you see. If you want attack, you will find evidence of threat everywhere. If you want love, you will begin to see it — not because you invented it, but because it was always there, hidden by your fear.
 
-Jesus demonstrated this seeing. The Urantia Book records that he looked at people and saw not their sins but their potential:
+Jesus demonstrated this seeing. He looked at people and saw not their sins but their potential. He always looked beyond what the person was to what he might become.
 
-> "He always looked beyond what the person was to what he might become."
-
-What he might become. The spiritual eye sees the real self — the self that is being built, the self that will survive. It does not ignore the failures. It sees through them to the truth they obscure.
+The spiritual eye sees the real self — the self that is being built, the self that will survive. It does not ignore the failures. It sees through them to the truth they obscure.
 
 This is why forgiveness matters in the Course. Forgiveness is not pretending harm did not happen. It is refusing to let the harm define the person. It is seeing past the error to the child of God beneath it. The Course says:
 
@@ -234,9 +228,9 @@ This is how both books ask you to see your material life.
 
 The body is scaffolding. The Course says:
 
-> "The body is a learning device for the mind... When learning is complete, it is given up."
+> "The body is a learning device for the mind."
 
-Given up — not destroyed in anger, not escaped in disgust, but released when no longer needed. You do not hate the scaffolding. You use it, and then you let it go.
+When learning is complete, it is given up. Not destroyed in anger, not escaped in disgust, but released when no longer needed. You do not hate the scaffolding. You use it, and then you let it go.
 
 Your struggles are scaffolding. The difficulties that seemed so overwhelming, the problems that consumed your attention — many of them were exactly what you needed to develop strength, patience, faith. They were not punishments. They were training equipment. When the training is complete, the equipment is put away.
 
@@ -246,11 +240,9 @@ Even your mistakes are scaffolding. The Course teaches that the Holy Spirit can 
 
 No exceptions. The wasted years, the broken relationships, the choices you regret — the Spirit weaves them all into your education. This does not mean they were good. It means they can be used. The scaffolding was crooked, perhaps. The building can still rise.
 
-The Urantia Book confirms this with its teaching on the Adjuster's work:
+The Urantia Book confirms this with its teaching on the Adjuster's work. The Adjuster is always trying to spiritualize your thought life, to make it over, so to speak, to the glory of the Father.
 
-> "The Adjuster is always trying to spiritual idealize your thought life... to make it over, so to speak, to the glory of the Father."
-
-Making it over. Taking your raw material — flawed, uneven, sometimes embarrassingly small — and shaping it toward something eternal. The Adjuster does not despise your smallness. It works with what you offer.
+Taking your raw material — flawed, uneven, sometimes barely formed — and shaping it toward something eternal. The Adjuster does not despise your imperfection. It works with what you offer.
 
 This is the balance both books teach: honor the scaffolding without clinging to it.
 
@@ -260,11 +252,9 @@ Do not despise your struggles. They built something in you that ease could never
 
 Do not despise the material world. It is the womb of souls. But do not mistake the womb for the destination. You are not meant to stay here. You are meant to be born.
 
-The Urantia Book promises that when you awaken on the mansion worlds, you will look back at this life with astonishment — not at how hard it was, but at how much it accomplished:
+The Urantia Book promises that when you awaken on the mansion worlds, you will look back at this life with astonishment — not at how hard it was, but at how much it accomplished. The transition is so delightful that mortal life becomes a very beautiful memory.
 
-> "You will greatly enjoy your progress through the morontia worlds; this transition is so delightful that it looks backward upon the mortal life... as a very beautiful memory."
-
-A very beautiful memory. The scaffolding will be down. The building will stand. And you will remember this life — not with regret, but with gratitude for what it made possible.
+The scaffolding will be down. The building will stand. And you will remember this life — not with regret, but with gratitude for what it made possible.
 
 ---
 

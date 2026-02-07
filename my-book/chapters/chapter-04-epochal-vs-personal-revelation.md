@@ -24,7 +24,7 @@ Epochal revelations share certain characteristics. They come through channels th
 
 This does not mean epochal revelation is perfect or complete. The authors of the Urantia Book acknowledge their limitations:
 
-> "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind."
+> "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind." (The Urantia Book, Foreword, Section 12, Paragraph 13, UB 0:12.13)
 
 They did their best with human language. But the limitation was in translation, not in transmission. The message passed through the sleeping subject without conscious filtering.
 
@@ -48,7 +48,7 @@ Jesus never writes directly. He was instructed not to.
 
 During his forty days in the wilderness, Jesus' Personalized Adjuster gave him specific guidance about his bestowal mission. The Urantia Book records this instruction:
 
-> "To the end that you may not unnecessarily contribute to the creation of subsequent stereotyped systems of Urantia religious beliefs or other types of nonprogressive religious loyalties, we advise you still further: Leave no writings behind you on the planet. Refrain from all writing upon permanent materials; enjoin your associates to make no images or other likenesses of yourself in the flesh. See that nothing potentially idolatrous is left on the planet at the time of your departure."
+> "To the end that you may not unnecessarily contribute to the creation of subsequent stereotyped systems of Urantia religious beliefs or other types of nonprogressive religious loyalties, we advise you still further: Leave no writings behind you on the planet. Refrain from all writing upon permanent materials; enjoin your associates to make no images or other likenesses of yourself in the flesh. See that nothing potentially idolatrous is left on the planet at the time of your departure." (The Urantia Book, Paper 120, Section 3, Paragraph 7, UB 120:3.7)
 
 This explains everything. Written words from Jesus' own hand would become objects of worship. They would be treated as magical texts rather than living truth. They would calcify into dogma — "stereotyped systems" and "nonprogressive religious loyalties."
 

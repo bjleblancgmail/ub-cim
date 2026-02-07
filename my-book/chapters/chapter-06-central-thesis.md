@@ -8,7 +8,7 @@ The Urantia Book describes Adjuster fusion as the goal of human life — the mom
 
 The Course in Miracles never uses this language. It speaks instead of miracles, of atonement, of the union of Father and Son. But it is teaching the same thing. A Course in Miracles says:
 
-> "The miracle itself is just this fusion or union of will between Father and son."
+> "The miracle itself is just this fusion or union of will between Father and son." (ACIM, Chapter 5: Healing and Wholeness, III. The Mind of the Atonement, Tx 5.18)
 
 This is not metaphor. This is the Course describing, in its own vocabulary, exactly what the Urantia Book calls Adjuster fusion.
 
@@ -22,7 +22,7 @@ The Course in Miracles opens with fifty principles of miracles. The very first p
 
 The Course does not define miracles as supernatural events — water into wine, healing the blind. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The Course says:
 
-> "The miracle itself is just this fusion or union of will between Father and son."
+> "The miracle itself is just this fusion or union of will between Father and son." (ACIM, Chapter 5: Healing and Wholeness, III. The Mind of the Atonement, Tx 5.18)
 
 Read that carefully. The miracle is not *like* fusion. The miracle *is* fusion — the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
 
@@ -50,19 +50,19 @@ The Urantia Book teaches that every normal human mind, beginning in early childh
 
 This is not metaphor. The Urantia Book describes the Adjuster as a literal piece of the Universal Father — prepersonal, divine, eternal — given to each human being as both gift and destiny. The Urantia Book says:
 
-> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival."
+> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival." (The Urantia Book, Paper 132, Section 3, Paragraph 6, UB 132:3.6)
 
 The Adjuster has a mission: to prepare you for fusion. Throughout your life, it works to create a *soul* — a new reality that is neither fully human nor fully divine, but a blending of both. Every worthy thought, every unselfish choice, every movement toward truth and beauty and goodness becomes material the Adjuster uses to build this soul.
 
 Fusion is the culmination. At some point — whether in this life or on the mansion worlds after death — the human will and the Adjuster's will become so aligned that separation is no longer possible. The two become one. The mortal has become immortal. The creature has united permanently with a fragment of the Creator. The Urantia Book describes what fusion imparts:
 
-> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential... fixation of divinity quality, past-eternity experience and memory, immortality."
+> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential... fixation of divinity quality, past-eternity experience and memory, immortality." (The Urantia Book, Paper 112, Section 7, Paragraph 1, UB 112:7.1)
 
 This is not absorption. You do not disappear into God. The fused being is "really one personality, one being" — but it is still *you*, now expanded beyond anything the mortal mind could have achieved alone.
 
 The Course in Miracles describes the same process in its own language:
 
-> "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true."
+> "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true." (ACIM, Chapter 8: The Journey Back, VI. The Power of Joint Decision, Tx 8.45)
 
 Your creations — your worthy thoughts, your loving choices, your movements toward truth — are your gift to the Holy Trinity. They extend your being as God extended Himself to you through the Adjuster. And they are eternal. The Urantia Book calls this the building of the soul. The Course calls it your creations. Both are describing what survives — what you are becoming through partnership with the divine fragment within.
 
@@ -72,7 +72,7 @@ Your creations — your worthy thoughts, your loving choices, your movements tow
 
 How does fusion happen? The Urantia Book describes it as a transfer:
 
-> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul."
+> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul." (The Urantia Book, Paper 112, Section 2, Paragraph 20, UB 112:2.20)
 
 The seat of identity must *move*. You begin life identified with your body, your emotions, your earthly mind. Fusion requires that your sense of self shift — from the temporary to the permanent, from the material to the spiritual, from the creature alone to the creature united with the Creator.
 
@@ -102,13 +102,13 @@ Both books speak of a bridge. And both point to Jesus as the one who built it.
 
 In the Urantia Book, during his final hours with the apostles, Jesus prayed:
 
-> "I am the living bridge from one world to another."
+> "I am the living bridge from one world to another." (The Urantia Book, Paper 182, Section 1, Paragraph 24, UB 182:1.24)
 
 He was not speaking in metaphor. He had lived an entire human life — from infant to adult, from carpenter to teacher, from confusion to clarity — and in doing so, he had created a path. What he achieved, others could follow. The bridge was his life itself.
 
 The Course in Miracles uses the same image:
 
-> "The bridge that He would carry you across lifts you from time into eternity."
+> "The bridge that He would carry you across lifts you from time into eternity." (ACIM, Chapter 16: The Forgiveness of Illusions, V. Illusion and Reality of Love, Tx 16.42)
 
 From time into eternity. From perception to knowledge. From the self you think you are to the self you truly are. Chapter 10 explores this bridge in detail — how the Holy Spirit carries you across, how the transfer unfolds, what awaits on the other side.
 
@@ -122,7 +122,7 @@ Both books speak of a spark within.
 
 The Urantia Book describes it plainly:
 
-> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival. The human soul of man survives mortal death by identity association with this indwelling spark of divinity, which is immortal."
+> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival. The human soul of man survives mortal death by identity association with this indwelling spark of divinity, which is immortal." (The Urantia Book, Paper 132, Section 3, Paragraph 6, UB 132:3.6)
 
 The spark is the Adjuster. It is a fragment of the Universal Father, placed within you, waiting to be discovered and chosen. It is immortal. It is divine. And it is already there — not distant, not earned, but given.
 

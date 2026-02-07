@@ -165,11 +165,16 @@
 - Comprehensive side-by-side terms
 - Expand from mappings in UrantiaCourseStory.pdf
 
-### Appendix B: CIM Miracle Principles with UB Parallels
+### Appendix B: Selected Parallels: Urantia Book and Course in Miracles
+- 57 curated parallels organized in three tiers (near-identical language, same concept, supporting correlations)
+- Drawn from 30+ years of comparative study
+- **SOURCE:** Personal study notes, compiled in appendix-b-parallels-condensed.md
+
+### Appendix C: CIM Miracle Principles with UB Parallels
 - All 50 principles with corresponding UB quotes
 - **SOURCE:** RevivalCIMUBOffical.docx (principles 1-25+ already done with extensive quotes)
 
-### Appendix C: Key UB Papers for CIM Students
+### Appendix D: Key UB Papers for CIM Students
 - Paper 108: Mission and Ministry of Thought Adjusters
 - Paper 110: Relation of Adjusters to Individuals
 - Paper 111: The Adjuster and the Soul
@@ -178,16 +183,16 @@
 - Paper 136: Baptism and the Forty Days
 - Paper 196: The Faith of Jesus
 
-### Appendix D: Key CIM Sections for UB Students
+### Appendix E: Key CIM Sections for UB Students
 - Introduction ("Nothing real can be threatened")
 - Chapter 1: Meaning of Miracles (50 principles)
 - The urtext vs published version - what to read
 
-### Appendix E: Study Questions for Groups
+### Appendix F: Study Questions for Groups
 - Discussion questions by chapter
 - Exercises for individual study
 
-### Appendix F: Where to Find the Urtext
+### Appendix G: Where to Find the Urtext
 - Online sources (jcim.net)
 - Published versions
 - How to compare urtext to Foundation for Inner Peace version

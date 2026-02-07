@@ -313,8 +313,8 @@ If Jesus conceived a desire and momentarily forgot about time, the thing would s
 **Course in Miracles:**
 > "The Spiritual eye is the mechanism of miracles, because what It perceives is true."
 
-**Urantia Book:**
-> "By faith, the mortal soul gains entrance into the spiritual kingdom of heaven, and presently the light of the Father's love begins to illuminate the pathway of this truth-seeking soul."
+**Urantia Book (Jesus speaking to Philip):**
+> "And then, when you are blessed with spiritual vision, go forth to your work, dedicating your life to the cause of leading mankind to search for God and to seek eternal realities with the eye of spiritual faith and not with the eyes of the material mind."
 
 The material eyes see only material things. To perceive spirit, you need spiritual sight. The spiritual eye does not deny the world — it interprets it differently. (Ch 8, Section 6)
 

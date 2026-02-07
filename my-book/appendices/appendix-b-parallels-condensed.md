@@ -1,6 +1,6 @@
-# UB-CIM Parallels: Quick Reference (Condensed)
+# Appendix B: Selected Parallels: Urantia Book and Course in Miracles
 
-*57 parallels between The Urantia Book and A Course in Miracles, organized by correlation strength. Key quotes only — see "appendix-b-parallels-full.md" for complete quotes with author commentary.*
+*57 parallels between The Urantia Book and A Course in Miracles, organized by correlation strength. Drawn from 30+ years of comparative study.*
 
 ---
 
@@ -29,7 +29,7 @@ These parallels use strikingly similar or nearly identical wording.
 
 > "An ELDER BROTHER is entitled to respect for his greater experience and a reasonable amount of obedience for his greater wisdom."
 
-**Urantia Book (40:6.3):**
+**Urantia Book (40:6.5):**
 > "A Creator Son of God became one of you; he is your ELDER BROTHER in fact."
 
 > "You have accepted the status of SONSHIP. You believe in the reality of your SONSHIP, and thus does your SONSHIP with God become eternally real."
@@ -107,8 +107,8 @@ These parallels use strikingly similar or nearly identical wording.
 
 ### 8. Truth Is Changeless
 
-**JCIM:**
-> "Truth is unalterable, eternal, and unambiguous. It can be unrecognized, but it cannot be changed."
+**JCIM (Tx:5.46):**
+> "Truth is beyond your ability to destroy but entirely within your grasp. It belongs to you because you created it. It is yours because it is a part of you, just as you are part of God because He created you."
 
 **Urantia Book (2:2.2):**
 > "Whatsoever God does, it shall be forever; nothing can be added to it nor anything taken from it."
@@ -278,7 +278,7 @@ These parallels express identical concepts using different terminology.
 **Urantia Book (54:2.1):**
 > "With the Son and in the Spirit did God PROJECT eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation—SHARING."
 
-**Urantia Book (1:9.3):**
+**Urantia Book (11:9.3):**
 > "Thus did the Father PROJECT reality in two actual phases."
 
 *Same mechanism: Projection/sharing as the fundamental law of creation.*
@@ -473,7 +473,7 @@ These parallels express identical concepts using different terminology.
 **JCIM:**
 > "What is the face of Christ but his who went a moment into timelessness and brought a clear reflection of the unity he felt an instant back to bless the world?"
 
-**Urantia Book (136:5.4):**
+**Urantia Book (136:5.5):**
 > "In order to prevent the appearance of apparent time miracles, it was necessary for Jesus to remain constantly time conscious. Any lapse of time consciousness on his part... was equivalent to the enactment of the thing conceived in the mind of this Creator Son, and without the intervention of time."
 
 *Same connection: Stepping into timelessness enables miracles and spiritual insight.*
@@ -668,8 +668,8 @@ These parallels express identical concepts using different terminology.
 
 ### 52. Circle Attainment / Adjutant Influence Diminishes
 
-**JCIM:**
-> "As we progress in circle attainment we rely more on this Holy Spirit mind and less on the adjutant mind."
+**JCIM (M:9.2):**
+> "As the teacher of God advances in his training, he learns one lesson with increasing thoroughness. He does not make his own decisions; he asks his Teacher for His answer, and it is this he follows as his guide for action."
 
 **Urantia Book (110:6.20):**
 > "From the seventh to the third circle there occurs increased and unified action of the seven adjutant mind-spirits in the task of weaning the mortal mind from its dependence on the realities of the material life mechanisms... From the third circle onward the ADJUTANT INFLUENCE PROGRESSIVELY DIMINISHES."

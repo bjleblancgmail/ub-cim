@@ -10,13 +10,13 @@ In Chapter 6, we established the thesis: the Course in Miracles is a course in A
 
 The Urantia Book describes it as a transfer.
 
-> "But mortal personality, through its own choosing, possesses the power of transferring its seat of identity from the passing material-intellect system to the higher morontia-soul system which, in association with the Thought Adjuster, is created as a new vehicle for personality manifestation."
+> "But mortal personality, through its own choosing, possesses the power of transferring its seat of identity from the passing material-intellect system to the higher morontia-soul system which, in association with the Thought Adjuster, is created as a new vehicle for personality manifestation." (UB Paper 112, 112:5.4)
 
 Read that carefully. You possess the power. Through your own choosing. The transfer is not something done *to* you — it is something you participate in. The seat of your identity — the sense of who you are, where "you" live — must move. It must relocate from the temporary vehicle to the permanent one.
 
 The Course in Miracles describes the same process in different language:
 
-> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge."
+> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge." (JCIM, Chapter 5, Tx 5.32)
 
 Thought-transfer. The Course is describing the same relocation — a movement from one way of knowing to another, from the limited perception of the ego to the unlimited knowledge of spirit. The Holy Spirit enables this transfer. It is the bridge.
 
@@ -30,7 +30,7 @@ What exactly is the "seat of identity"? Where do you currently live — and wher
 
 The Urantia Book is precise:
 
-> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul and on beyond to those levels whereon the soul becomes infused with, and eventually attains the status of, spirit reality."
+> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul and on beyond to those levels whereon the soul becomes infused with, and eventually attains the status of, spirit reality." (UB Paper 112, 112:2.20)
 
 Three stages: material body → morontia soul → spirit reality.
 
@@ -44,7 +44,7 @@ The transfer is the gradual relocation of your sense of "I" from the body and ma
 
 The Course describes this as the shift from perception to knowledge:
 
-> "Perception can be transferred to knowledge... the last step is taken by God."
+> "Perception can be transferred to knowledge... the last step is taken by God." (JCIM, Chapter 5, Tx 5.12)
 
 Perception is how the material mind sees — partial, interpretive, filtered through fear and past experience. Knowledge is how spirit sees — direct, complete, unified with truth. The transfer from perception to knowledge is the same movement the Urantia Book describes: from material identification to spiritual identification.
 
@@ -56,37 +56,37 @@ Both books use the same image: a bridge.
 
 In the Urantia Book, Jesus himself uses this language in one of his prayers:
 
-> "I am the living bridge from one world to another."
+> "I am the living bridge from one world to another." (UB Paper 182, 182:1.24)
 
 And immediately after, The Urantia Book records:
 
-> "I am the living link between time and eternity."
+> "I am the living link between time and eternity." (UB Paper 182, 182:1.25)
 
 Jesus is the bridge. He demonstrated in his own life the complete transfer — the human fully unified with the divine, the creature perfectly aligned with the Creator. He crossed over, and in crossing, he became the way for others to follow.
 
 The Course in Miracles extends this image to the Holy Spirit:
 
-> "The Holy Spirit remains the bridge between perception and knowledge."
+> "The Holy Spirit remains the bridge between perception and knowledge." (JCIM, Chapter 6, Tx 6.31)
 
 And again, the Course says:
 
-> "The bridge that He would carry you across lifts you from time into eternity. Waken from time, and answer fearlessly the call of Him Who gave eternity to you in your creation."
+> "The bridge that He would carry you across lifts you from time into eternity. Waken from time, and answer fearlessly the call of Him Who gave eternity to you in your creation." (JCIM, Chapter 16, Tx 16.42)
 
 The bridge lifts you from time into eternity. This is the transfer expressed as a journey across. You start on one side — time, perception, material identity. You end on the other — eternity, knowledge, spiritual reality. The bridge does not eliminate the gap. It spans it. It makes crossing possible.
 
 The Urantia Book locates this bridge within your own mind:
 
-> "The Thought Adjuster is the cosmic window through which a finite creature may faith-glimpse the certainties and divinities of limitless Deity."
+> "The Thought Adjuster is the cosmic window through which a finite creature may faith-glimpse the certainties and divinities of limitless Deity." (UB Paper 103, 103:0.1)
 
 The Adjuster is your personal bridge — the fragment of eternity already present within time, the piece of knowledge already embedded within perception. You do not have to build the bridge. It is already there. You have to walk across it.
 
 And here is the remarkable connection: the Holy Spirit, according to Jesus in the Course, is not an abstract force. It is his own mind, offered to you. A Course in Miracles says:
 
-> "The Holy Spirit is nothing more than your own right mind. He was also mine. The Bible says, 'May the mind be in you that was also in Christ Jesus,' and uses this as a blessing. It is the blessing of miracle-mindedness. It asks that you may think as I thought, joining with me in Christ-thinking."
+> "The Holy Spirit is nothing more than your own right mind. He was also mine. The Bible says, 'May the mind be in you that was also in Christ Jesus,' and uses this as a blessing. It is the blessing of miracle-mindedness. It asks that you may think as I thought, joining with me in Christ-thinking." (JCIM, Chapter 5, Tx 5.9)
 
 The Urantia Book offers the same invitation:
 
-> "If your own mind does not serve you well, you can exchange it for the mind of Jesus of Nazareth, who always serves you well."
+> "If your own mind does not serve you well, you can exchange it for the mind of Jesus of Nazareth, who always serves you well." (UB Paper 48, 48:6.26)
 
 The bridge is not impersonal. It is the mind of Jesus — the same mind that achieved perfect alignment with the Father, the same mind that crossed from time into eternity. He offers it to you. The Holy Spirit is that offer made permanent.
 
@@ -98,19 +98,19 @@ The transfer is not instantaneous. It is a process — sometimes gradual, someti
 
 The Urantia Book says:
 
-> "The Adjusters are the will of God."
+> "The Adjusters are the will of God." (UB Paper 108, 108:4.2)
 
 The Adjuster does not need to choose. It already is what it is: the Father's will, present within you. But you possess the power of volition. You can align with that will or resist it. Every time you choose love over fear, truth over self-deception, service over selfishness, you are cooperating with the transfer.
 
 The Course says the same:
 
-> "The Holy Spirit asks of you but this: bring to Him every secret you have locked away from Him. Open every door to Him, and bid Him enter the darkness and lighten it away."
+> "The Holy Spirit asks of you but this: bring to Him every secret you have locked away from Him. Open every door to Him, and bid Him enter the darkness and lighten it away." (JCIM, Chapter 14, Tx 14.30)
 
 No resistance. No hidden corners. The transfer requires willingness — not perfection, but openness. You do not have to be flawless. You have to be willing to let the light in.
 
 The Course describes daily practice as the mechanism:
 
-> "Each day, each hour and minute, even every second, you are deciding between the crucifixion and the resurrection; between the ego and the Holy Spirit."
+> "Each day, each hour and minute, even every second, you are deciding between the crucifixion and the resurrection; between the ego and the Holy Spirit." (JCIM, Chapter 13, Tx 13.68)
 
 Every moment is a choice. Every choice either reinforces material identification or strengthens spiritual identification. The transfer happens choice by choice, moment by moment — not in one dramatic leap, but in ten thousand small decisions to turn toward the light.
 
@@ -122,13 +122,13 @@ Here is the remarkable promise: you do not have to complete the journey alone. I
 
 The Course says:
 
-> "Perception can be transferred to knowledge... the last step is taken by God."
+> "Perception can be transferred to knowledge... the last step is taken by God." (JCIM, Chapter 5, Tx 5.12)
 
 The last step is taken by God. You do your part — you cooperate, you choose, you practice, you open every door. But the final act of fusion is not something you do. It is something God does. You bring yourself to the threshold. God carries you across.
 
 The Urantia Book confirms this:
 
-> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential."
+> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential." (UB Paper 112, 112:7.1)
 
 The Adjuster brings what you cannot bring yourself: eternal actualities. The fragment of God that has lived within you, guided you, preserved every worthy thought — this fragment completes what you started. It provides what you lack. Fusion is not achievement. It is gift.
 
@@ -144,19 +144,19 @@ What happens when the transfer is complete? What does it feel like to live on th
 
 The Course offers glimpses:
 
-> "When the Holy Spirit has at last led you to Christ... perception fuses into knowledge."
+> "When the Holy Spirit has at last led you to Christ... perception fuses into knowledge." (JCIM, Chapter 11, Tx 11.59)
 
 Fuses. The word is exact. Perception does not simply improve or clarify. It fuses with knowledge — becomes one with it, is absorbed into it. The limited way of seeing is not destroyed but transformed, taken up into a larger seeing that includes it and transcends it.
 
 The Urantia Book describes the fused being:
 
-> "But the fused individual is really one personality, one being, whose unity defies all attempts at analysis by any intelligence of the universes."
+> "But the fused individual is really one personality, one being, whose unity defies all attempts at analysis by any intelligence of the universes." (UB Paper 112, 112:7.8)
 
 One personality. One being. Whose unity defies analysis. Not absorption, not annihilation, but union so complete that no intelligence in the universe can separate the parts. You do not disappear into God. You become more fully yourself than you ever were — expanded, completed, made eternal.
 
 The Course says:
 
-> "In this world you can become a spotless mirror, in which the holiness of your Creator shines forth from you to all around you. You can reflect Heaven here."
+> "In this world you can become a spotless mirror, in which the holiness of your Creator shines forth from you to all around you. You can reflect Heaven here." (JCIM, Chapter 14, Tx 14.42)
 
 Reflect Heaven here. Even before the final fusion, even while still on the bridge, you can begin to reflect what lies on the other side. The transfer does not wait entirely for death. It begins now. Every moment of peace, every extension of love, every recognition of truth — these are the reflections of the far shore already appearing in time.
 
@@ -170,7 +170,7 @@ If you are reading these words, the Adjuster within you has been working for dec
 
 The Urantia Book promises:
 
-> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery."
+> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery." (UB Paper 101, 101:6.17)
 
 What Jesus achieved, you can achieve. The same bridge, the same transfer, the same fusion. Not in exactly the same way — you are not a Creator Son incarnate — but in the same direction. Toward the Father. Toward complete identification with the divine. Toward the moment when the last step is taken, and you discover that you have been carried home.
 

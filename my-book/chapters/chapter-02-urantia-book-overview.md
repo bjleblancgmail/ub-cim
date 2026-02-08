@@ -38,7 +38,7 @@ The papers were transmitted, discussed, questioned, and sometimes revised in res
 
 The Urantia Book's celestial authors acknowledge their limitations:
 
-> "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind."
+> "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind." (UB Foreword, 0:12.13)
 
 They did their best with human language. Readers must do their best to receive it.
 

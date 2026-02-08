@@ -10,7 +10,7 @@ The Course in Miracles speaks in oblique terms about a cosmic disaster. It refer
 
 The Urantia Book fills in the details:
 
-> "And it was with such a Declaration of Liberty that Lucifer launched his orgy of darkness and death."
+> "And it was with such a Declaration of Liberty that Lucifer launched his orgy of darkness and death." (UB Paper 53, 53:3.7)
 
 The Urantia Book provides names, dates, hierarchies. It explains who Lucifer was — a brilliant being of light, ruler of a system of 607 inhabited worlds. It describes his manifesto of rebellion, his assertion that the Universal Father did not exist, that the Adjusters were tricks of the mind, that self-assertion was the path to freedom.
 
@@ -62,11 +62,17 @@ We are still in quarantine. But we are not abandoned. The Adjusters still come. 
 
 Here is the question that troubles many: Why should we suffer for what Lucifer did? We did not choose rebellion. We were born into a quarantined world through no fault of our own. How is this just?
 
-The Course provides one answer: the Sonship is one. What any part of the Sonship does affects all other parts. We are not isolated individuals but members of a single family. The choices of some become the conditions for others.
+From the ego's perspective, it is not. The ego sees isolated individuals, and isolated individuals should not be held responsible for choices they did not make. But both texts teach that the ego's perspective is precisely the problem.
 
-The Urantia Book confirms this interconnection through its teaching about the Supreme. The Supreme Being is the evolving God of time and space, growing through the experiences of all creatures. We contribute to the Supreme — and we are affected by the contributions of others. The rebellion delayed the growth of the Supreme in our sector. We inherit that delay.
+The Course provides one answer: the Sonship is one. What any part of the Sonship does affects all other parts. We are not isolated individuals but members of a single family. The choices of some become the conditions for others. The Course goes further. It says we "made" sickness and death. From the individual perspective, that is absurd. But from the Sonship perspective, it is a statement about collective identity. The Sonship includes Lucifer. The Sonship includes us. The Sonship includes every being who ever chose wrongly. When the Course says "you made this," it is speaking to the Sonship as a whole, not to you as an individual.
 
-But here is the mercy: suffering is not meaningless. The conditions we endure are used for our growth. Mortals who survive from rebellion-scarred worlds develop strengths that mortals from normal worlds never need. We become what the Urantia Book calls "agondontors" — beings who can believe without seeing, who can persist without visible proof.
+The Urantia Book confirms this interconnection through its teaching about the Supreme. The Supreme Being is the evolving God of time and space, growing through the experiences of all creatures. But we do not merely contribute to the Supreme. We are part of the Supreme, the way a cell is part of a body. The UB says "the parts and individuals of the grand universe evolve as a reflection of the total evolution of the Supreme." Its condition is our condition. Its delays are our delays. Its wounds are our wounds.
+
+Think of it this way: if your liver fails, your kidneys did not cause it. But your kidneys suffer the consequences because they are part of the same body. They do not get to say "that was the liver's problem, not mine." They are connected. When Lucifer rebelled, it was not an external event that happened to us. It was something that happened within the organism we are part of. The body got sick. Every cell feels it.
+
+This is why forgiveness is so central to both texts. You cannot heal a body by isolating cells and judging them. You heal it by restoring the flow between them. Every act of forgiveness heals a connection within the Sonship. Every refusal to forgive keeps the wound open.
+
+But here is the mercy: suffering is not meaningless. The conditions we endure are used for our growth. Mortals who survive from rebellion-scarred worlds develop strengths that mortals from normal worlds never need. We become what the Urantia Book calls "agondontors," beings who can believe without seeing, who can persist without visible proof.
 
 This is not punishment. It is transformation. The very conditions that make our world difficult also make possible a unique kind of faith, a unique kind of strength, a unique contribution to the Supreme.
 

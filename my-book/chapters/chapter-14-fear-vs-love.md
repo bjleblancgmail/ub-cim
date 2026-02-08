@@ -10,13 +10,13 @@ The Course in Miracles reduces all of human experience to two emotions: love and
 
 The Course states it directly in its introduction:
 
-> "The course does not aim at teaching the meaning of love, for that is beyond what can be taught. It does aim, however, at removing the blocks to the awareness of love's presence, which is your natural inheritance. The opposite of love is fear, but what is all-encompassing can have no opposite."
+> "The course does not aim at teaching the meaning of love, for that is beyond what can be taught. It does aim, however, at removing the blocks to the awareness of love's presence, which is your natural inheritance. The opposite of love is fear, but what is all-encompassing can have no opposite." (JCIM, Introduction, Tx I.2)
 
 This is a paradox worth sitting with. Fear is the opposite of love — but love, being all-encompassing, can have no opposite. Fear, then, is an illusion. It feels real. It functions in your experience as if it were real. But from the eternal perspective, it has no substance.
 
 The Urantia Book confirms this:
 
-> "Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul."
+> "Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul." (UB Paper 48, 48:7.4)
 
 A fraud. Fear is a lie the mind tells itself. And the goal of both books — the Course and the Urantia Book — is to expose this fraud, to remove the blocks to love's presence, to eliminate fear from the mortal experience.
 
@@ -40,13 +40,13 @@ Fear distorts everything it touches.
 
 The Urantia Book describes the psychological effect:
 
-> "Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul."
+> "Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul." (UB Paper 48, 48:7.4)
 
 It is a fraud because it presents itself as reasonable. It disguises itself as prudence, caution, realism. It says: "Be afraid — you have good reason." But the reasons it offers are based on a misperception of reality. They assume you are a body that can be destroyed, an ego that can be threatened, a self separate from God.
 
 The Course adds that fear is what maintains the ego:
 
-> "The ego is quite literally a fearful thought."
+> "The ego is quite literally a fearful thought." (JCIM, Chapter 5, Tx 5.61)
 
 The ego needs fear to survive. Without fear, you would see the ego for what it is — a thought system based on separation — and you would release it. Fear keeps you loyal to the ego by convincing you that something terrible will happen if you let go.
 
@@ -72,7 +72,7 @@ There is a danger in the spiritual path, and both books acknowledge it.
 
 The Urantia Book warns:
 
-> "Unrestrained mystical enthusiasm and rampant religious ecstasy are not the credentials of inspiration, supposedly divine credentials."
+> "Unrestrained mystical enthusiasm and rampant religious ecstasy are not the credentials of inspiration, supposedly divine credentials." (UB Paper 91, 91:7.4)
 
 Mystical experiences can be genuine — or they can arise from the subconscious rather than the superconscious. Enthusiasm can be spiritual — or it can be psychological instability dressed in religious clothing. The Urantia Book urges discernment.
 

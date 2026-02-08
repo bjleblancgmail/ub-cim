@@ -56,7 +56,7 @@ At his baptism in the Jordan, this process reached its culmination. The Urantia 
 
 This is what the Course is teaching us to do. When it speaks of accepting the Atonement, of surrendering the ego, of choosing love over fear — it is describing the same process Jesus demonstrated. His life is the curriculum made visible. The Urantia Book promises:
 
-> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery."
+> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery." (UB Paper 101, 101:6.17)
 
 We will not achieve what Jesus achieved in a single lifetime. Our biological inheritance, our rebellion-scarred world, our confused egos — all these slow our progress. But the path is the same. The destination is the same. And the one who walked it perfectly now guides us through the Course he dictated.
 
@@ -98,7 +98,7 @@ The Course in Miracles tells you what to do. The Urantia Book tells you where it
 
 You are not simply correcting your perception. You are preparing for fusion — the permanent union of your will with the Father's will. You are not simply learning to forgive. You are building the foundation for eternal life. You are not simply studying two books. You are walking the same path Jesus walked. The Urantia Book says:
 
-> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery."
+> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery." (UB Paper 101, 101:6.17)
 
 This is The Urantia Book's promise. Not that the path is easy — it is not. Not that you will complete it quickly — you will not. But that the path is real, the destination is real, and the one who walked it before you has left a Course to guide you.
 

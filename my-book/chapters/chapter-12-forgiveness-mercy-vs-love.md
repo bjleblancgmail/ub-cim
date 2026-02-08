@@ -10,11 +10,11 @@ Both the Urantia Book and the Course in Miracles teach that there are two kinds 
 
 The Urantia Book names them directly:
 
-> "The forgiveness of love utterly transcends the forgiveness of mercy. Mercy sets the guilt of evil-doing to one side; but love destroys forever the sin and all weakness resulting therefrom."
+> "The forgiveness of love utterly transcends the forgiveness of mercy. Mercy sets the guilt of evil-doing to one side; but love destroys forever the sin and all weakness resulting therefrom." (UB Paper 188, 188:5.2)
 
 And the Course says:
 
-> "Forgiveness does not first establish sin and then forgive it."
+> "Forgiveness does not first establish sin and then forgive it." (JCIM, Chapter 27, Tx 27.14)
 
 These are not the same. One kind of forgiveness keeps the wound alive. The other heals it completely. One kind says, "You are guilty, but I will let it go." The other never saw guilt in the first place.
 
@@ -32,13 +32,13 @@ This is the forgiveness of mercy. It is what most people mean when they speak of
 
 But listen to what the Course says about it:
 
-> "To witness sin and yet forgive it is a paradox which reason cannot see. For it maintains what has been done to you deserves no pardon. And by giving it, you grant your brother mercy but retain the proof he is not really innocent."
+> "To witness sin and yet forgive it is a paradox which reason cannot see. For it maintains what has been done to you deserves no pardon. And by giving it, you grant your brother mercy but retain the proof he is not really innocent." (JCIM, Chapter 27, Tx 27.15)
 
 You retain the proof. You still have the evidence. The wound is documented in your mind, filed away. You have chosen not to use it against them — but you keep it. You know what they did. You remember. And in that memory lives the quiet certainty: they are guilty.
 
 This is why the forgiveness of mercy does not bring peace. You have granted clemency to a guilty party. That is noble. But the guilty party remains guilty in your eyes. And as long as you see guilt, you will feel it reflected back in yourself. The Course says:
 
-> "The sick remain accusers. They cannot forgive their brothers and themselves as well. For no one in whom true forgiveness reigns can suffer."
+> "The sick remain accusers. They cannot forgive their brothers and themselves as well. For no one in whom true forgiveness reigns can suffer." (JCIM, Chapter 27, Tx 27.15)
 
 The forgiveness of mercy accuses. It says, "I am the wounded one. I am the better one. I pardon you your hurt." But this only reinforces the separation. It does not heal it.
 
@@ -50,7 +50,7 @@ Now consider something different.
 
 The Urantia Book says:
 
-> "The forgiveness of Jesus is not condonation; it is salvation from condemnation. Salvation does not slight wrongs; it makes them right. True love does not compromise nor condone hate; it destroys it."
+> "The forgiveness of Jesus is not condonation; it is salvation from condemnation. Salvation does not slight wrongs; it makes them right. True love does not compromise nor condone hate; it destroys it." (UB Paper 188, 188:5.2)
 
 Destroys it. Not sets it aside. Destroys.
 
@@ -58,7 +58,7 @@ This is the forgiveness of love. It does not see sin and then forgive it. It doe
 
 The Course puts it plainly:
 
-> "Good cannot be returned for evil, for forgiveness does not first establish sin and then forgive it. Who can say and mean, 'My brother, you have injured me, and yet because I am the better of the two, I pardon you my hurt.' His pardon and your hurt cannot exist together. One denies the other and must make it false."
+> "Good cannot be returned for evil, for forgiveness does not first establish sin and then forgive it. Who can say and mean, 'My brother, you have injured me, and yet because I am the better of the two, I pardon you my hurt.' His pardon and your hurt cannot exist together. One denies the other and must make it false." (JCIM, Chapter 27, Tx 27.14)
 
 If your pardon and your hurt exist together, one of them is false. Either you are hurt — which means you have not truly forgiven — or you have truly forgiven, which means the hurt is gone. You cannot have both.
 
@@ -76,7 +76,7 @@ Where the ego sees attack, love sees a call for help. Where the ego sees guilt d
 
 The Urantia Book describes this reorientation:
 
-> "Jesus, by the power of his personal love for men, could break the hold of sin and evil. He thereby set men free to choose better ways of living. Jesus portrayed a deliverance from the past which in itself promised a triumph for the future. Forgiveness thus provided salvation."
+> "Jesus, by the power of his personal love for men, could break the hold of sin and evil. He thereby set men free to choose better ways of living. Jesus portrayed a deliverance from the past which in itself promised a triumph for the future. Forgiveness thus provided salvation." (UB Paper 188, 188:5.3)
 
 A deliverance from the past. This is what the forgiveness of love offers. It does not preserve the past by documenting wrongs. It releases the past completely. It frees both the forgiven and the forgiver from the endless replay of injury and grievance.
 
@@ -90,13 +90,13 @@ Mercy is a halfway measure. It holds back the punishment but preserves the crime
 
 The Urantia Book is explicit:
 
-> "The love of Jesus is never satisfied with mere forgiveness. The Master's love implies rehabilitation, eternal survival."
+> "The love of Jesus is never satisfied with mere forgiveness. The Master's love implies rehabilitation, eternal survival." (UB Paper 188, 188:5.2)
 
 Not satisfied with mere forgiveness. The Master's love goes further. It does not stop at pardoning the wrong — it transforms the wrongdoer. It does not simply cancel the debt — it removes the belief that there ever was a debt.
 
 The Urantia Book says:
 
-> "Divine love does not merely forgive wrongs; it absorbs and actually destroys them."
+> "Divine love does not merely forgive wrongs; it absorbs and actually destroys them." (UB Paper 188, 188:5.2)
 
 Absorbs. Destroys. Not sets aside. Not files away for future reference. The wrong is gone. It has been transformed by love into something else entirely — an occasion for healing rather than a memory of harm.
 
@@ -116,7 +116,7 @@ Neither response requires keeping score. Neither response preserves the proof th
 
 The Urantia Book says:
 
-> "The beauty of divine love, once fully admitted to the human heart, forever destroys the charm of sin and the power of evil."
+> "The beauty of divine love, once fully admitted to the human heart, forever destroys the charm of sin and the power of evil." (UB Paper 188, 188:5.3)
 
 Forever destroys the charm. Sin only has power because you believe in it. Evil only has charm because part of you is still attracted to it — attracted to grievance, to righteous anger, to the satisfaction of being the wronged party.
 
@@ -134,7 +134,7 @@ With the forgiveness of love, there is nothing to carry. The past is delivered. 
 
 The Urantia Book summarizes it:
 
-> "Forgiveness thus provided salvation."
+> "Forgiveness thus provided salvation." (UB Paper 188, 188:5.3)
 
 Not merely relief. Salvation. The forgiveness of love saves you from the prison of the past. It saves you from the endless cycle of guilt and attack, grievance and pardon. It saves you from the ego's exhausting system of keeping accounts.
 

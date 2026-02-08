@@ -10,7 +10,7 @@ The word "miracle" has been cheapened. We use it for parking spaces and sports v
 
 The Course opens with fifty miracle principles. The very first:
 
-> "There is no order of difficulty in miracles. One is not 'harder' or 'bigger' than another. They are all the same."
+> "There is no order of difficulty in miracles. One is not 'harder' or 'bigger' than another. They are all the same." (JCIM, Chapter 1, Tx 1.1)
 
 This baffles the material mind. Surely curing cancer is harder than curing a headache? Surely raising the dead is bigger than healing a cold? But the Course insists: no. To the eternal perspective, there is no difference. Why?
 
@@ -18,7 +18,7 @@ Because miracles do not operate by material laws. They operate by something else
 
 The Urantia Book provides the framework:
 
-> "It therefore becomes evident that any possible supernatural or supposedly superhuman accompaniments of Jesus' ministry pertained wholly to the elimination of time unless the Father in heaven specifically ruled otherwise."
+> "It therefore becomes evident that any possible supernatural or supposedly superhuman accompaniments of Jesus' ministry pertained wholly to the elimination of time unless the Father in heaven specifically ruled otherwise." (UB Paper 136, 136:5.5)
 
 The elimination of time. This is the key. Miracles are not violations of natural law — they are operations that bypass the time factor. What would take years happens in moments. What would take generations happens now. The laws of nature are not broken; they are accelerated beyond recognition.
 
@@ -32,15 +32,15 @@ Both books state this explicitly, in remarkably similar language.
 
 The Course says:
 
-> "The miracle thus has the unique property of shortening time by rendering the space of time it occupies unnecessary."
+> "The miracle thus has the unique property of shortening time by rendering the space of time it occupies unnecessary." (JCIM, Chapter 1, Tx 1.83)
 
 The Urantia Book says:
 
-> "In this case, so we were taught, Michael multiplied food elements as he always does except for the elimination of the time factor and the visible life channel."
+> "In this case, so we were taught, Michael multiplied food elements as he always does except for the elimination of the time factor and the visible life channel." (UB Paper 152, 152:2.10)
 
 The Course frames this as the miracle's purpose:
 
-> "The miracle is a learning device which lessens the need for time."
+> "The miracle is a learning device which lessens the need for time." (JCIM, Chapter 1, Tx 1.82)
 
 Time is for learning. We need time because we learn slowly, because we resist, because we forget. The miracle shortens the curriculum. It collapses the distance between where you are and where you need to be — not by removing the learning, but by removing the obstacles that made the journey long.
 
@@ -48,7 +48,7 @@ Think of it this way: if you are walking toward a destination and someone remove
 
 The Course says:
 
-> "The miracle, as an expression of true human charity, can only shorten time at most. It must be understood, however, that whenever a man offers a miracle to another, he is shortening the suffering of both."
+> "The miracle, as an expression of true human charity, can only shorten time at most. It must be understood, however, that whenever a man offers a miracle to another, he is shortening the suffering of both." (JCIM, Chapter 2, Tx 2.71)
 
 Shortening suffering. This is the mercy of miracles. We would all arrive eventually — but the miracle means we do not have to suffer as long. The learning still happens. The growth still occurs. But the unnecessary pain is removed.
 
@@ -60,11 +60,11 @@ The Urantia Book offers a fascinating detail about Jesus that illuminates the en
 
 During the forty days in the wilderness, after his baptism, Jesus received instructions from his Personalized Adjuster about the use of his divine powers. The Adjuster explained that while the celestial hosts could be limited in space by Jesus's authority, they could not be limited in time. The Urantia Book records:
 
-> "In accepting this command of the universe hosts in attendance upon Christ Michael, the Personalized Adjuster took great pains to point out to Jesus that, while such an assembly of universe creatures could be limited in their space activities by the delegated authority of their Creator, such limitations were not operative in connection with their function in time."
+> "In accepting this command of the universe hosts in attendance upon Christ Michael, the Personalized Adjuster took great pains to point out to Jesus that, while such an assembly of universe creatures could be limited in their space activities by the delegated authority of their Creator, such limitations were not operative in connection with their function in time." (UB Paper 136, 136:5.4)
 
 Time was the variable. And so The Urantia Book continues:
 
-> "In order to prevent the appearance of apparent time miracles, it was necessary for Jesus to remain constantly time conscious. Any lapse of time consciousness on his part, in connection with the entertainment of definite desire, was equivalent to the enactment of the thing conceived in the mind of this Creator Son, and without the intervention of time."
+> "In order to prevent the appearance of apparent time miracles, it was necessary for Jesus to remain constantly time conscious. Any lapse of time consciousness on his part, in connection with the entertainment of definite desire, was equivalent to the enactment of the thing conceived in the mind of this Creator Son, and without the intervention of time." (UB Paper 136, 136:5.5)
 
 Read that again. If Jesus conceived a desire and momentarily forgot about time — even for an instant — the thing would simply happen. Immediately. Without delay. His mind, connected to the creative power of a Creator Son, could manifest reality the moment time-awareness lapsed.
 
@@ -72,7 +72,7 @@ This is why Jesus was so careful. This is why he performed relatively few miracl
 
 The Course hints at the same power available to all minds aligned with God:
 
-> "Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense, everything that comes from love is a miracle."
+> "Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense, everything that comes from love is a miracle." (JCIM, Chapter 1, Tx 1.3)
 
 Love is creative. Love aligned with God participates in God's creative power. Jesus demonstrated what that looks like when fully realized — and why such power requires perfect wisdom and restraint.
 
@@ -82,7 +82,7 @@ Love is creative. Love aligned with God participates in God's creative power. Je
 
 The Course states the principle directly:
 
-> "Miracles therefore rest on the laws of eternity, not of time."
+> "Miracles therefore rest on the laws of eternity, not of time." (JCIM, Chapter 1, Tx 1.19)
 
 Material law operates within time. Cause precedes effect. Seeds grow into trees through seasons. Wounds heal through cellular processes that take days or weeks. These are the laws of time, and they are real. But they are not the only laws.
 
@@ -92,7 +92,7 @@ When eternal law touches temporal existence, miracles happen. The temporal proce
 
 We live in a slow dimension. But we are not only material. The Urantia Book says:
 
-> "It is only natural that mortal man should be harassed by feelings of insecurity as he views himself inextricably bound to nature while he possesses spiritual powers wholly transcendent to all things temporal and finite."
+> "It is only natural that mortal man should be harassed by feelings of insecurity as he views himself inextricably bound to nature while he possesses spiritual powers wholly transcendent to all things temporal and finite." (UB Paper 111, 111:6.8)
 
 Miracles are windows into that transcendence.
 
@@ -104,7 +104,7 @@ If miracles are possible, why don't they happen constantly?
 
 The Course answers: they do. We simply do not recognize them.
 
-> "Miracles are habits and should be involuntary. They should not be under conscious control. Consciously selected miracles can be misguided."
+> "Miracles are habits and should be involuntary. They should not be under conscious control. Consciously selected miracles can be misguided." (JCIM, Chapter 1, Tx 1.5)
 
 The deliberate miracle — the one where you try to make something happen — is fragile. It depends on your understanding, your timing, your purity of motive. But the involuntary miracle — the one that flows through you because you have aligned with love — happens constantly.
 
@@ -112,11 +112,11 @@ Every time you choose peace instead of conflict, time shortens. Every time you f
 
 The Urantia Book says:
 
-> "Love is the ancestor of all spiritual goodness, the essence of the true and the beautiful."
+> "Love is the ancestor of all spiritual goodness, the essence of the true and the beautiful." (UB Paper 192, 192:2.1)
 
 And the Course:
 
-> "They depend on cooperation because the Sonship is the sum of all the Souls God created."
+> "They depend on cooperation because the Sonship is the sum of all the Souls God created." (JCIM, Chapter 1, Tx 1.19)
 
 Miracles require love, and love requires union. The isolated ego cannot perform miracles because it is cut off from the source of creative power. But the mind joined with God, aware of its connection to all other minds — that mind participates in eternity. And eternity is where miracles come from.
 
@@ -150,6 +150,6 @@ Until then, be grateful for the miracles you receive, and more grateful still fo
 
 The laws of eternity are always operating. The only question is whether you will cooperate with them. As the Course says:
 
-> "Miracles therefore rest on the laws of eternity, not of time."
+> "Miracles therefore rest on the laws of eternity, not of time." (JCIM, Chapter 1, Tx 1.19)
 
 You are resting there too, even now — even if you have not yet noticed.

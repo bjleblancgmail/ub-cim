@@ -16,39 +16,67 @@ This chapter provides that bridge. We map the key terms, explain the corresponde
 
 ## Section 2: The Core Mappings
 
-The following table presents the essential terminology correspondences:
+In each mapping below, the Course in Miracles term appears first, followed by the corresponding Urantia Book term.
 
-| Course in Miracles | Urantia Book | Notes |
-|-------------------|--------------|-------|
-| Soul | Thought Adjuster / Divine Monitor | The indestructible divine fragment indwelling the mind |
-| Altar | Thought Adjuster | The sacred center within, where we meet God |
-| Sonship | God the Supreme | The evolving totality of time-space creation and creatures |
-| Perception | Adjutant mind / temporal levels | The animal-origin mind, subject to illusion |
-| Knowledge | Absolute level / Adjuster perspective | The eternal viewpoint, beyond time and space |
-| Will | Personality | The unique gift from the Father enabling choice |
-| Holy Spirit | Holy Spirit | See note below on the Spirit of Truth distinction |
-| Ego | Self-concept created by adjutant mind | Not inherently evil, but often distorted |
-| Atonement | Plan of Ascension | The divine plan for mortal salvation and growth |
+**1. Soul, Altar = Thought Adjuster, Divine Monitor**
+
+The Course's Soul and Altar both correspond to the Urantia Book's Thought Adjuster (also called the Divine Monitor), the indestructible divine fragment indwelling the mind. The soul is the Adjuster itself, unalterable and already perfect. The altar is the sacred center within where we meet God. Both point to the same reality: the divine fragment that indwells every normal human mind.
+
+**2. Your Creations = Morontia Soul**
+
+When the Course speaks of "your creations," it is referring to something different from the soul above. In the Urantia Book, we are actively creating a morontia soul through our choices and cooperation with the indwelling Adjuster. The morontia soul is not pre-existing or perfect. It is what we are building. The Course's language of "your creations" points to this evolving soul, the joint creation of the human will and the divine fragment working together.
+
+**3. Sonship = God the Supreme**
+
+The Sonship corresponds to God the Supreme, the evolving totality of time-space creation and creatures.
+
+**4. Perception = Adjutant mind, temporal levels**
+
+Perception in the Course corresponds to the adjutant mind, the animal-origin temporal mind that is subject to illusion.
+
+**5. Knowledge = Absolute level, Adjuster perspective**
+
+Knowledge in the Course corresponds to the Adjuster's perspective, the eternal viewpoint beyond time and space.
+
+**6. Will = Personality**
+
+In the Urantia Book, personality is the source of will. Personality is the unique gift from the Father enabling choice.
+
+**7. Holy Spirit = Holy Spirit**
+
+The Holy Spirit in the Course corresponds to the Holy Spirit in the Urantia Book.
+
+**8. The "I" of Jesus = The Spirit of Truth**
+
+When Jesus says "I" in the Course, "I am in charge," "I will lend them my strength," "I lead," "I teach," this is the Spirit of Truth in action.
+
+**9. Ego = Self-concept created by adjutant mind**
+
+The Ego is the self-concept created by the adjutant mind. Not inherently evil, but often distorted.
+
+**10. Atonement = Plan of Ascension**
+
+The Atonement corresponds to the Plan of Ascension, the divine plan for mortal salvation and growth.
 
 **Note on the Spirit of Truth:** The Urantia Book clearly distinguishes between the Holy Spirit (the ministry of the Divine Minister/Creative Spirit of the local universe) and the Spirit of Truth (poured out by Jesus after his resurrection). The Course rarely makes this distinction explicit, but several passages reveal it.
 
 First, in A Course in Miracles, Jesus acknowledges "another comforter" distinct from the Holy Spirit:
 
-> "The Holy Spirit is the only part of the Holy Trinity which is symbolic. He is referred to in the Bible as the Healer, the Comforter, and the Guide. He is also described as something 'separate,' apart from the Father and from the Son. I myself said, 'If I go I will send you another comforter, and He will abide with you.'"
+> "The Holy Spirit is the only part of the Holy Trinity which is symbolic. He is referred to in the Bible as the Healer, the Comforter, and the Guide. He is also described as something 'separate,' apart from the Father and from the Son. I myself said, 'If I go I will send you another comforter, and He will abide with you.'" (JCIM, Chapter 5, Tx 5.10)
 
 Second, the Course shows that Jesus *had* the Holy Spirit, just as we do — he is not the Holy Spirit:
 
-> "The Holy Spirit is nothing more than your own right mind. He was also mine."
+> "The Holy Spirit is nothing more than your own right mind. He was also mine." (JCIM, Chapter 5, Tx 5.9)
 
 Third, the Course describes Jesus and the Holy Spirit as two entities working in harmony:
 
-> "The Holy One shares my trust and always approves my Atonement decisions because my will is never out of accord with His. I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men."
+> "The Holy One shares my trust and always approves my Atonement decisions because my will is never out of accord with His. I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men." (JCIM, Chapter 4, Tx 4.89)
 
 Here Jesus makes Atonement decisions; the Holy Spirit ("the Holy One") approves them. Two distinct ministries, perfectly aligned.
 
 Fourth, the Course distinguishes Jesus' teaching from the Holy Spirit's judgment:
 
-> "My one lesson, which I must teach as I learned, is that no perception which is out of accord with the judgment of the Holy Spirit can be justified."
+> "My one lesson, which I must teach as I learned, is that no perception which is out of accord with the judgment of the Holy Spirit can be justified." (JCIM, Chapter 6, Tx 6.15)
 
 When Jesus says "I" in the Course — "I am in charge," "I will lend them my strength," "I lead," "I teach" — this is the Spirit of Truth in action. The Holy Spirit is referenced separately as approving, judging, and guiding perception. Once this pattern is recognized, the Course clearly distinguishes the two ministries, just as the Urantia Book does.
 
@@ -58,13 +86,13 @@ When Jesus says "I" in the Course — "I am in charge," "I will lend them my str
 
 The Course describes the soul as unalterable, already perfect, and beyond the need of any protection:
 
-> "The Soul never loses its communion with God."
+> "The Soul never loses its communion with God." (JCIM, Chapter 1, Tx 1.45)
 
-> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve."
+> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve." (JCIM, Chapter 1, Tx 1.68)
 
 This corresponds directly to the Urantia Book's teaching about the Thought Adjuster (also called the Divine Monitor or spirit monitor), the divine fragment indwelling every normal human mind. The Course even describes healing in terms of this identification:
 
-> "They heal because they deny body-identification and affirm Soul-identification."
+> "They heal because they deny body-identification and affirm Soul-identification." (JCIM, Chapter 1, Tx 1.41)
 
 The Course also speaks of the "altar" as the sacred place within where we encounter God. This too is the Adjuster, the fragment of the Father that indwells every normal human mind.
 
@@ -102,7 +130,21 @@ The Course teaches us to move from perception to knowledge. The Urantia Book exp
 
 ---
 
-## Section 6: The Ego
+## Section 6: Will and Personality
+
+The Course places enormous emphasis on will. The entire drama of separation and return hinges on choice. We chose wrongly, and we can choose again. The "little willingness" is all that is required to begin the journey back.
+
+But the Course never explains where will comes from. It treats will as a given, something we simply have.
+
+The Urantia Book answers the question. Will originates in personality, the unique and changeless gift bestowed directly by the Universal Father on each individual. Personality is not something we develop or earn. It is given. And its defining feature is the capacity for choice.
+
+This means that when the Course appeals to your will, it is appealing to the deepest gift the Father has given you. Your ability to choose is not a product of the adjutant mind or the ego. It comes from a higher source entirely.
+
+The Course teaches that you can align your will with God's will. The Urantia Book explains why this is possible: because your will originates in a gift from God himself. The capacity to choose was designed for exactly this alignment.
+
+---
+
+## Section 7: The Ego
 
 Both texts address the ego, but with important nuances.
 
@@ -116,7 +158,7 @@ On normal worlds, the ego would be taught right perception by visible celestial 
 
 ---
 
-## Section 7: Cautions and Limitations
+## Section 8: Cautions and Limitations
 
 These mappings are helpful but not perfect. Several cautions apply:
 
@@ -130,7 +172,7 @@ These mappings are helpful but not perfect. Several cautions apply:
 
 ---
 
-## Section 8: Closing — Using the Bridge
+## Section 9: Closing — Using the Bridge
 
 This terminology bridge serves a practical purpose: it allows readers to move freely between the two texts, recognizing the same realities described in different language.
 

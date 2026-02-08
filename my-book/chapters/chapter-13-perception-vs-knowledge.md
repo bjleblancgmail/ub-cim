@@ -10,7 +10,7 @@ The Course in Miracles makes a distinction that runs through its entire teaching
 
 The Course says:
 
-> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge."
+> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge." (JCIM, Chapter 5, Tx 5.32)
 
 This is the journey. From perception — the way you see now — to knowledge: the way things actually are. The Holy Spirit is the bridge between them.
 
@@ -26,7 +26,7 @@ Perception is how you see the world right now. It is constructed by the body's s
 
 The Urantia Book describes the mind that perceives:
 
-> "The human mind does not create real values; human experience does not yield universe insight. Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose."
+> "The human mind does not create real values; human experience does not yield universe insight. Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose." (UB Paper 196, 196:3.10)
 
 The human mind does not create real values. It can recognize them, interpret them, choose them — but it cannot create them. The source of real values lies beyond perception, in the realm the Course calls knowledge.
 
@@ -42,7 +42,7 @@ Knowledge, in the Course's terminology, is not information. It is not facts you 
 
 The Course says:
 
-> "When the Holy Spirit has at last led you to Christ, at the altar to His Father, perception fuses into knowledge, because perception has become so holy that its transfer to Holiness is merely its natural extension."
+> "When the Holy Spirit has at last led you to Christ, at the altar to His Father, perception fuses into knowledge, because perception has become so holy that its transfer to Holiness is merely its natural extension." (JCIM, Chapter 11, Tx 11.59)
 
 Perception fuses into knowledge. This is not learning in the ordinary sense. It is transformation. The perceiving mind becomes so aligned with truth that it dissolves into direct knowing.
 
@@ -62,13 +62,13 @@ The ego is not a separate entity. It is a pattern of thought that develops withi
 
 The spiritual journey involves moving beyond the ego — not by destroying it, but by outgrowing it. The Urantia Book describes this process in terms of circles of attainment:
 
-> "From the seventh to the third circle there occurs increased and unified action of the seven adjutant mind-spirits in the task of weaning the mortal mind from its dependence on the realities of the material life mechanisms preparatory to increased introduction to morontia levels of experience. From the third circle onward the adjutant influence progressively diminishes."
+> "From the seventh to the third circle there occurs increased and unified action of the seven adjutant mind-spirits in the task of weaning the mortal mind from its dependence on the realities of the material life mechanisms preparatory to increased introduction to morontia levels of experience. From the third circle onward the adjutant influence progressively diminishes." (UB Paper 110, 110:6.20)
 
 The adjutant influence diminishes. As you progress spiritually, you rely less on the perceiving mind and more on the higher mind circuits — what both books recognize as the influence of the Holy Spirit, and what the Urantia Book describes as the superconscious realm where the Adjuster works.
 
 And when the journey through the circles is complete, The Urantia Book describes what awaits:
 
-> "The mastery of the first cosmic circle signalizes the attainment of premorontia mortal maturity and marks the termination of the conjoint ministry of the adjutant mind-spirits as an exclusive influence of mind action in the human personality. Beyond the first circle, mind becomes increasingly akin to the intelligence of the morontia stage of evolution."
+> "The mastery of the first cosmic circle signalizes the attainment of premorontia mortal maturity and marks the termination of the conjoint ministry of the adjutant mind-spirits as an exclusive influence of mind action in the human personality. Beyond the first circle, mind becomes increasingly akin to the intelligence of the morontia stage of evolution." (UB Paper 110, 110:6.21)
 
 This is what the Course calls knowledge. The perceiving mind — the adjutant mind — is no longer in charge. Something higher has taken its place.
 
@@ -80,7 +80,7 @@ How do you move from perception to knowledge? You cannot do it yourself. Percept
 
 The Course says the Holy Spirit is that intervention:
 
-> "The way to learn to know your brother is by perceiving the Holy Spirit in him. We have already said that the Holy Spirit is the bridge or thought-transfer of perception to knowledge, so we can use the terms as if they were related because, in His mind, they ARE."
+> "The way to learn to know your brother is by perceiving the Holy Spirit in him. We have already said that the Holy Spirit is the bridge or thought-transfer of perception to knowledge, so we can use the terms as if they were related because, in His mind, they ARE." (JCIM, Chapter 5, Tx 5.32)
 
 The Holy Spirit bridges perception and knowledge. In the Holy Spirit's mind, they are related — because the Holy Spirit sees both. The Holy Spirit knows truth, but also understands your perception. From that position, the Holy Spirit can guide you from where you are to where you need to be.
 
@@ -104,7 +104,7 @@ The goal is not to fight perception forever. The goal is to transform it — to 
 
 The Course describes the endpoint:
 
-> "At the altar of God, the holy perception of God's Son becomes so enlightened that light streams into it."
+> "At the altar of God, the holy perception of God's Son becomes so enlightened that light streams into it." (JCIM, Chapter 11, Tx 11.60)
 
 Perception becomes holy. It becomes so aligned with truth that it no longer distorts. And at that point — at the altar of God, led there by the Holy Spirit — perception fuses into knowledge. The bridge has been crossed. The journey is complete.
 

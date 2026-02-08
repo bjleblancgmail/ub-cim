@@ -249,6 +249,8 @@ All commands: Type `/q-` and press Tab.
 
 **GitHub Account:** Always use personal account `bjleblancgmail` for this project (not PeerloopLLC). Run `gh auth switch --user bjleblancgmail` if needed.
 
+**Author Name:** The author's name is Joseph. Never use any other name for the author in any output.
+
 **Pacing:** Follow author's pace. Don't rush through phases.
 
 **Editing:** During first draft (Part 4), no editing. Write forward only.

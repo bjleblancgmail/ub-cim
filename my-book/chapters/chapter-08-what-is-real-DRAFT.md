@@ -14,17 +14,17 @@ But both books teach that from the spirit perspective, this is exactly reversed.
 
 The Urantia Book states it directly:
 
-> "To spirit beings the spirit world is a reality. To us the material world is the more unreal."
+> "To spirit beings the spirit world is a reality. To us the material world is the more unreal." (UB Paper 44, 44:0.15)
 
 And The Urantia Book says again:
 
-> "To material beings the spirit world is more or less unreal; to spirit beings the material world is almost entirely unreal, being merely a shadow of the substance of spirit realities."
+> "To material beings the spirit world is more or less unreal; to spirit beings the material world is almost entirely unreal, being merely a shadow of the substance of spirit realities." (UB Paper 44, 44:0.15)
 
 Almost entirely unreal. A shadow. This is not poetry. This is how spirit actually perceives matter — as fleeting, insubstantial, passing.
 
 The Course in Miracles reaches for the same truth:
 
-> "Then try to go past all the unreal thoughts that cover the truth in your mind, and reach to the eternal."
+> "Then try to go past all the unreal thoughts that cover the truth in your mind, and reach to the eternal." (JCIM, Workbook Lesson 45, W1 45.8)
 
 But this does not mean time is worthless. Both books teach that eternal values are discovered *within* time — through relationships, through choices, through love expressed in the flesh. The Urantia Book says the Adjuster preserves every thought and experience of spiritual worth, weaving them into your eternal soul. What you create in time can become real forever.
 
@@ -40,19 +40,19 @@ This is the shift both books call you toward: seeing time through the eyes of et
 
 The Course in Miracles opens with two lines that have puzzled and inspired readers for decades:
 
-> "Nothing real can be threatened. Nothing unreal exists."
+> "Nothing real can be threatened. Nothing unreal exists." (JCIM, Introduction, Tx I.4)
 
 At first, this sounds like denial of the world. If nothing unreal exists, does the material world not exist? If nothing real can be threatened, why do we suffer?
 
 The Urantia Book offers a key to understanding:
 
-> "Nothing of survival value is ever lost in all the wide universe."
+> "Nothing of survival value is ever lost in all the wide universe." (UB Paper 109, 109:3.2)
 
 This is the same teaching in different words. What is real — what has survival value — cannot be destroyed. It endures. The Adjuster captures it, preserves it, weaves it into your immortal soul. No force in the universe can take it from you.
 
 And what is unreal? What has no survival value? The Urantia Book is equally clear:
 
-> "Much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain; much of material experience will pass away as onetime scaffolding which, having bridged you over to the morontia level, no longer serves a purpose in the universe."
+> "Much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain; much of material experience will pass away as onetime scaffolding which, having bridged you over to the morontia level, no longer serves a purpose in the universe." (UB Paper 112, 112:5.22)
 
 The scaffolding passes away. The building remains.
 
@@ -72,7 +72,7 @@ Jesus did not reject the material world. He lived in it, walked its roads, ate i
 
 The Urantia Book records his perspective:
 
-> "He frequently alluded to the natural as 'the unreal and fleeting shadow of spirit realities.'"
+> "He frequently alluded to the natural as 'the unreal and fleeting shadow of spirit realities.'" (UB Paper 151, 151:3.3)
 
 A shadow. Not nothing — shadows are real in their way. But a shadow is cast by something more substantial. It depends on a source. It moves when the source moves. It has no independent existence.
 
@@ -80,13 +80,13 @@ This is how Jesus saw matter: as a shadow cast by spirit. The material world is 
 
 The Urantia Book expands on this:
 
-> "Mankind is slow to perceive that, in all that is personal, matter is the skeleton of morontia, and that both are the reflected shadow of enduring spirit reality. How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities?"
+> "Mankind is slow to perceive that, in all that is personal, matter is the skeleton of morontia, and that both are the reflected shadow of enduring spirit reality. How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities?" (UB Paper 189, 189:1.3)
 
 Time is the moving image of eternity. Space is the shadow of Paradise. The things we see are projections of things we do not yet see — but will.
 
 The Course in Miracles teaches the same through different imagery. It speaks of the body as a learning device, of the world as a classroom. These are not ends in themselves. They point beyond themselves. The Course says:
 
-> "The body is the means by which God's Son returns to sanity."
+> "The body is the means by which God's Son returns to sanity." (JCIM, Workbook Part 2, W2 WIB.4)
 
 The body can serve spirit or obscure it. The material world can be a window to the eternal or a wall against it. The difference lies not in the world itself, but in how you see it.
 
@@ -102,7 +102,7 @@ If the material is shadow, what makes *you* real? Both books answer with a singl
 
 The Urantia Book states it directly:
 
-> "Only as a creature becomes God-identified, does he become truly real in the universes."
+> "Only as a creature becomes God-identified, does he become truly real in the universes." (UB Paper 118, 118:7.5)
 
 You are not automatically real. You are potentially real. You become real as you identify with what is eternal — with the Adjuster, with spirit, with the values that survive.
 
@@ -112,27 +112,27 @@ What you identify with determines what you become.
 
 The Course in Miracles frames this as a choice between ego and spirit:
 
-> "You who identify with your egos cannot believe that God loves you."
+> "You who identify with your egos cannot believe that God loves you." (JCIM, Chapter 4, Tx 4.49)
 
 The ego is the collection of temporary identities — the masks, the defenses, the stories you tell about yourself. None of it survives. When you identify with the ego, you are identifying with what will pass away. No wonder fear follows.
 
 But identification can shift. The Urantia Book describes the Adjuster's work:
 
-> "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are — only spiritually — for resurrection on the survival worlds."
+> "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are — only spiritually — for resurrection on the survival worlds." (UB Paper 108, 108:6.5)
 
 Re-creating you as you really are. The Adjuster is building your true self out of every worthy thought, every loving choice, every moment you identified with what is eternal. This is the self that survives. This is the self that is real.
 
 The Course in Miracles says the same:
 
-> "Your creations are protected for you because the Holy Spirit, Who is in your mind, knows of them and can bring them into your awareness whenever you will let Him. They are there as part of your own being because your fulfillment includes them."
+> "Your creations are protected for you because the Holy Spirit, Who is in your mind, knows of them and can bring them into your awareness whenever you will let Him. They are there as part of your own being because your fulfillment includes them." (JCIM, Chapter 7, Tx 7.95)
 
 Your creations — your acts of love, your moments of truth, your choices for goodness — are not lost. They are protected. The Holy Spirit holds them. The Adjuster preserves them. They wait for you, as part of your own being, because you cannot be complete without them.
 
 The Urantia Book also speaks of worship as identification:
 
-> "Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity."
+> "Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity." (UB Paper 143, 143:7.8)
 
-Striking step with eternity. That is what makes you real — aligning your small life with the great life, your will with the Father's will, your identity with the one identity that cannot be destroyed.
+Striking step with eternity. That is what makes you real: aligning your will with the Father's will. The personality and the Thought Adjuster are eternal. What you build with them endures.
 
 You are becoming real. Every choice toward love, toward truth, toward spirit — every such choice adds substance to the self that will survive. You are not yet finished. But you are being made.
 
@@ -144,19 +144,19 @@ If identification with spirit makes you real, what makes you unreal? The same pr
 
 The Course in Miracles describes a sorting:
 
-> "Whatever is in accord with this light, He retains to strengthen the Kingdom in you. What is partly in accord with truth, He accepts and purifies. But what is out of accord entirely, He rejects by judging against."
+> "Whatever is in accord with this light, He retains to strengthen the Kingdom in you. What is partly in accord with truth, He accepts and purifies. But what is out of accord entirely, He rejects by judging against." (JCIM, Chapter 6, Tx 6.82)
 
 Three categories. What is fully aligned with truth — retained. What is partly aligned — accepted and purified. What is entirely out of accord — rejected.
 
 This is not punishment. It is simply what happens. What has no survival value cannot survive. The Urantia Book says the same:
 
-> "Much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain."
+> "Much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain." (UB Paper 112, 112:5.22)
 
 Perish. Not taken from you — simply unable to continue. The petty grudges, the anxious accumulations, the hours spent defending an image of yourself that was never real — these do not survive because they have nothing in them that *can* survive. They were not evil, necessarily. They were empty.
 
 The ego is the sum of these empty identifications. The Course defines it starkly:
 
-> "The ego is the mind's belief that it is completely on its own."
+> "The ego is the mind's belief that it is completely on its own." (JCIM, Chapter 4, Tx 4.33)
 
 Completely on its own. Separate from God, separate from others, separate from the source of all reality. This belief — this identification with isolation — is what makes you unreal. Not because God rejects you, but because isolation is an illusion. You cannot actually be separate from the source of your existence. You can only believe you are.
 
@@ -180,7 +180,7 @@ Both books teach that ordinary sight is not enough. The material eyes see only m
 
 The Course in Miracles calls this the "spiritual eye":
 
-> "The spiritual eye is the mechanism of miracles."
+> "The spiritual eye is the mechanism of miracles." (JCIM, Chapter 1, Tx 1.56)
 
 It looks past error to truth. Not ignoring what is in front of you, but seeing through it — seeing what lies beneath the surface, behind the form. The spiritual eye does not deny the world. It interprets the world differently.
 
@@ -188,13 +188,13 @@ The Urantia Book speaks of "the eye of faith." Faith opens the eye. Not belief i
 
 And once opened, the eye develops. The Urantia Book describes increasing levels of spiritual insight — from the first faint recognition of the Adjuster's leading to the full "cosmic consciousness" of those who have ascended far:
 
-> "Mota is more than a superior philosophy."
+> "Mota is more than a superior philosophy." (UB Paper 48, 48:6.28)
 
 Mota is a supermaterial reality sensitivity, the morontia insight that bridges material logic and spiritual truth. You do not have mota yet. But you have its seed: the moments when something shifts, when you suddenly see past the problem to the peace beneath it, when you recognize love where before you saw only conflict.
 
 The Course describes the same awakening:
 
-> "When you want only love you will see nothing else."
+> "When you want only love you will see nothing else." (JCIM, Chapter 11, Tx 11.69)
 
 This is not wishful thinking. It is perceptual training. What you want shapes what you see. If you want attack, you will find evidence of threat everywhere. If you want love, you will begin to see it — not because you invented it, but because it was always there, hidden by your fear.
 
@@ -204,7 +204,7 @@ The spiritual eye sees the real self — the self that is being built, the self 
 
 This is why forgiveness matters in the Course. Forgiveness is not pretending harm did not happen. It is refusing to let the harm define the person. It is seeing past the error to the child of God beneath it. The Course says:
 
-> "Forgiveness recognizes what you thought your brother did to you has not occurred."
+> "Forgiveness recognizes what you thought your brother did to you has not occurred." (JCIM, Workbook Part 2, W2 WF.1)
 
 Not that nothing happened — but that what happened was not the deepest truth. The deepest truth is that your brother is a son of God, temporarily confused, temporarily acting from fear. The spiritual eye sees this. The body's eyes cannot.
 
@@ -218,7 +218,7 @@ The world will look the same. But you will see it differently. And that makes al
 
 The Urantia Book offers an image that changes everything: scaffolding.
 
-> "Much of material experience will pass away as onetime scaffolding which, having bridged you over to the morontia level, no longer serves a purpose in the universe."
+> "Much of material experience will pass away as onetime scaffolding which, having bridged you over to the morontia level, no longer serves a purpose in the universe." (UB Paper 112, 112:5.22)
 
 Scaffolding. Not garbage. Not mistake. Scaffolding — the temporary structure that makes the permanent structure possible.
 
@@ -228,7 +228,7 @@ This is how both books ask you to see your material life.
 
 The body is scaffolding. The Course says:
 
-> "The body is a learning device for the mind."
+> "The body is a learning device for the mind." (JCIM, Chapter 2, Tx 2.55)
 
 When learning is complete, it is given up. Not destroyed in anger, not escaped in disgust, but released when no longer needed. You do not hate the scaffolding. You use it, and then you let it go.
 
@@ -236,7 +236,7 @@ Your struggles are scaffolding. The difficulties that seemed so overwhelming, th
 
 Even your mistakes are scaffolding. The Course teaches that the Holy Spirit can use everything — every error, every detour, every wrong turn — for your learning:
 
-> "All things work together for good. There are no exceptions except in the ego's judgment."
+> "All things work together for good. There are no exceptions except in the ego's judgment." (JCIM, Chapter 4, Tx 4.69)
 
 No exceptions. The wasted years, the broken relationships, the choices you regret — the Spirit weaves them all into your education. This does not mean they were good. It means they can be used. The scaffolding was crooked, perhaps. The building can still rise.
 
@@ -270,13 +270,13 @@ You are not meant to stay in the material perspective forever. You are passing t
 
 The Course in Miracles says:
 
-> "Nothing real can be threatened. Nothing unreal exists. Herein lies the peace of God."
+> "Nothing real can be threatened. Nothing unreal exists. Herein lies the peace of God." (JCIM, Introduction, Tx I.4)
 
 Herein lies the peace. Not in pretending the world does not hurt. Not in escaping into abstraction. But in knowing — really knowing — that what is real in you is safe. The love you have given is safe. The truth you have glimpsed is safe. The self being built by the Adjuster is safe. No force in the universe can destroy what God is making of you.
 
 The Urantia Book offers the same assurance:
 
-> "In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led."
+> "In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led." (UB Paper 1, 1:3.7)
 
 Spirit taught. Spirit led. This is the transformation — not a single dramatic moment, but a gradual turning, a slow shift of identification from what passes to what remains. You are in that process now. Every choice toward love, every recognition of truth, every moment you remember what you really are — these are the adjustments. These are the transformations.
 
@@ -284,7 +284,7 @@ You do not need to be perfect. You need to be willing.
 
 The Urantia Book promises:
 
-> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
+> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God." (UB Paper 111, 111:5.1)
 
 Willingness to share. That is all. Not perfection. Not certainty. Not heroic achievement. Just this: opening yourself to the presence that has been with you since the beginning, letting it teach you, letting it lead you, letting it build you into what you were always meant to become.
 

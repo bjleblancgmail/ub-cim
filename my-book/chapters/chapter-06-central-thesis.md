@@ -8,7 +8,7 @@ The Urantia Book describes Adjuster fusion as the goal of human life — the mom
 
 The Course in Miracles never uses this language. It speaks instead of miracles, of atonement, of the union of Father and Son. But it is teaching the same thing. A Course in Miracles says:
 
-> "The miracle itself is just this fusion or union of will between Father and son." (JCIM, Chapter 5, Tx 5.18)
+> "The miracle itself is just this fusion or union of will between Father and son."
 
 This is not metaphor. This is the Course describing, in its own vocabulary, exactly what the Urantia Book calls Adjuster fusion.
 
@@ -22,17 +22,17 @@ The Course in Miracles opens with fifty principles of miracles. The very first p
 
 The Course does not define miracles as supernatural events — water into wine, healing the blind. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The Course says:
 
-> "The miracle itself is just this fusion or union of will between Father and son." (JCIM, Chapter 5, Tx 5.18)
+> "The miracle itself is just this fusion or union of will between Father and son."
 
 Read that carefully. The miracle is not *like* fusion. The miracle *is* fusion — the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
 
 The Urantia Book says the same thing without the word "miracle":
 
-> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God." (UB Paper 111, 111:5.1)
+> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
 
 And the Urantia Book makes explicit what happens when this alignment occurs:
 
-> "What the true son desires and the infinite Father wills IS. Such a prayer cannot remain unanswered, and no other sort of petition can possibly be fully answered." (UB Paper 146, 146:2.7)
+> "What the true son desires and the infinite Father wills IS. Such a prayer cannot remain unanswered, and no other sort of petition can possibly be fully answered."
 
 When the son's desire aligns with the Father's will, it simply *is* — it manifests. The Course calls this a miracle. The Urantia Book calls it prayer that cannot remain unanswered. Same mechanism: when human will fuses with divine will, reality responds.
 
@@ -50,19 +50,19 @@ The Urantia Book teaches that every normal human mind, beginning in early childh
 
 This is not metaphor. The Urantia Book describes the Adjuster as a literal piece of the Universal Father — prepersonal, divine, eternal — given to each human being as both gift and destiny. The Urantia Book says:
 
-> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival." (UB Paper 132, 132:3.6)
+> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival."
 
 The Adjuster has a mission: to prepare you for fusion. Throughout your life, it works to create a *soul* — a new reality that is neither fully human nor fully divine, but a blending of both. Every worthy thought, every unselfish choice, every movement toward truth and beauty and goodness becomes material the Adjuster uses to build this soul.
 
 Fusion is the culmination. At some point — whether in this life or on the mansion worlds after death — the human will and the Adjuster's will become so aligned that separation is no longer possible. The two become one. The mortal has become immortal. The creature has united permanently with a fragment of the Creator. The Urantia Book describes what fusion imparts:
 
-> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential... fixation of divinity quality, past-eternity experience and memory, immortality." (UB Paper 112, 112:7.1)
+> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential... fixation of divinity quality, past-eternity experience and memory, immortality."
 
 This is not absorption. You do not disappear into God. The fused being is "really one personality, one being" — but it is still *you*, now expanded beyond anything the mortal mind could have achieved alone.
 
 The Course in Miracles describes the same process in its own language:
 
-> "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true." (JCIM, Chapter 8, Tx 8.45)
+> "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true."
 
 Your creations — your worthy thoughts, your loving choices, your movements toward truth — are your gift to the Holy Trinity. They extend your being as God extended Himself to you through the Adjuster. And they are eternal. The Urantia Book calls this the building of the soul. The Course calls it your creations. Both are describing what survives — what you are becoming through partnership with the divine fragment within.
 
@@ -72,7 +72,7 @@ Your creations — your worthy thoughts, your loving choices, your movements tow
 
 How does fusion happen? The Urantia Book describes it as a transfer:
 
-> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul." (UB Paper 112, 112:2.20)
+> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul."
 
 The seat of identity must *move*. You begin life identified with your body, your emotions, your earthly mind. Fusion requires that your sense of self shift — from the temporary to the permanent, from the material to the spiritual, from the creature alone to the creature united with the Creator.
 
@@ -82,7 +82,7 @@ The Course in Miracles describes the same transfer — the Holy Spirit enabling 
 
 The Course says:
 
-> "The Holy Spirit is the mind of the atonement. It represents a state of mind that comes close enough to one-mindedness that transfer to it is at last possible." (JCIM, Chapter 5, Tx 5.12)
+> "The Holy Spirit is the mind of the atonement. It represents a state of mind that comes close enough to one-mindedness that transfer to it is at last possible."
 
 Transfer. The same word. The same process.
 
@@ -102,13 +102,13 @@ Both books speak of a bridge. And both point to Jesus as the one who built it.
 
 In the Urantia Book, during his final hours with the apostles, Jesus prayed:
 
-> "I am the living bridge from one world to another." (UB Paper 182, 182:1.24)
+> "I am the living bridge from one world to another."
 
 He was not speaking in metaphor. He had lived an entire human life — from infant to adult, from carpenter to teacher, from confusion to clarity — and in doing so, he had created a path. What he achieved, others could follow. The bridge was his life itself.
 
 The Course in Miracles uses the same image:
 
-> "The bridge that He would carry you across lifts you from time into eternity." (JCIM, Chapter 16, Tx 16.42)
+> "The bridge that He would carry you across lifts you from time into eternity."
 
 From time into eternity. From perception to knowledge. From the self you think you are to the self you truly are. Chapter 10 explores this bridge in detail — how the Holy Spirit carries you across, how the transfer unfolds, what awaits on the other side.
 
@@ -122,25 +122,25 @@ Both books speak of a spark within.
 
 The Urantia Book describes it plainly:
 
-> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival. The human soul of man survives mortal death by identity association with this indwelling spark of divinity, which is immortal." (UB Paper 132, 132:3.6)
+> "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival. The human soul of man survives mortal death by identity association with this indwelling spark of divinity, which is immortal."
 
 The spark is the Adjuster. It is a fragment of the Universal Father, placed within you, waiting to be discovered and chosen. It is immortal. It is divine. And it is already there — not distant, not earned, but given.
 
 The Course in Miracles uses the same image:
 
-> "The power of one mind can shine into another because all the lamps of God were lit by the same spark. It is everywhere, and it is eternal." (JCIM, Chapter 9, Tx 9.91)
+> "The power of one mind can shine into another because all the lamps of God were lit by the same spark. It is everywhere, and it is eternal."
 
 The same spark lit every lamp. Every human being carries the same divine fragment. This is not poetic language. It is a statement about reality: you are already lit from within.
 
 But the Course warns that the spark can be obscured:
 
-> "In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the rays can never be completely forgotten." (JCIM, Chapter 9, Tx 9.92)
+> "In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the rays can never be completely forgotten."
 
 The spark cannot be extinguished. No matter how lost, how confused, how identified with the ego, the spark remains. God has kept it alive. This is grace — the one thing that cannot be destroyed, no matter what the human does.
 
 And then the Course offers this:
 
-> "If you but see the little spark, you will learn of the greater light, for the rays are there unseen. Perceiving the spark will heal, but knowing the light will create." (JCIM, Chapter 9, Tx 9.92)
+> "If you but see the little spark, you will learn of the greater light, for the rays are there unseen. Perceiving the spark will heal, but knowing the light will create."
 
 Two stages. First, perceiving the spark — glimpsing the divine within yourself and others. This heals. It undoes the damage of separation, of fear, of false identity.
 
@@ -148,11 +148,11 @@ But there is more. *Knowing* the light — not just perceiving it, but fusing wi
 
 The Urantia Book describes the Adjuster's work in building the soul. The Adjusters operate at the highest levels of mind:
 
-> "Adjusters work in the spheres of the higher levels of the human mind, unceasingly seeking to produce morontia duplicates of every concept of the mortal intellect." (UB Paper 110, 110:2.4)
+> "Adjusters work in the spheres of the higher levels of the human mind, unceasingly seeking to produce morontia duplicates of every concept of the mortal intellect."
 
 And they never stop:
 
-> "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are (only spiritually)." (UB Paper 108, 108:6.5)
+> "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are (only spiritually)."
 
 The Adjuster is not waiting passively. It is actively building — taking every worthy thought, every true perception, every loving choice, and weaving them into the soul that will survive death. The spark is not just a light. It is a creator, working within you, preparing you for fusion.
 
@@ -166,7 +166,7 @@ The spark is already present. The work is simply to stop hiding it.
 
 The Course in Miracles opens with a striking statement:
 
-> "This is a required course. Only the time you take it is voluntary." (JCIM, Introduction, Tx I.1)
+> "This is a required course. Only the time you take it is voluntary."
 
 Required. Not optional. Not one path among many. The Course presents itself as something every mind must eventually learn — the only question is when.
 
@@ -174,7 +174,7 @@ This is a bold claim. But the Urantia Book makes the same one.
 
 Adjuster fusion is not a special achievement for spiritual elites. It is the natural destination of human life. The Urantia Book describes a universe designed for ascension — creatures moving upward through level after level, world after world, growing ever closer to the Creator who made them. Fusion is not the end of that journey, but it is the decisive turning point: the moment when survival becomes certain, when the creature is permanently joined to the divine. The Urantia Book says:
 
-> "This is a brilliant age for ascending mortals and usually witnesses the perfect fusion of the human mind and the divine Adjuster." (UB Paper 47, 47:8.3)
+> "This is a brilliant age for ascending mortals and usually witnesses the perfect fusion of the human mind and the divine Adjuster."
 
 The universe expects you to fuse. The Adjuster within you came for this purpose. The entire structure of reality is arranged to support it.
 
@@ -220,6 +220,6 @@ The thesis of this study guide is simple: the Course in Miracles is a course in 
 
 And this path is not new. It was walked before — by one who showed that it could be done. The Urantia Book says:
 
-> "Through the appropriation of the faith of Jesus, mortal man can foretaste in time the realities of eternity. Jesus made the discovery, in human experience, of the Final Father, and his brothers in the flesh of mortal life can follow him along this same experience of Father discovery. They can even attain, as they are, the same satisfaction in this experience with the Father as did Jesus as he was. New potentials were actualized in the universe of Nebadon consequent upon the terminal bestowal of Michael, and one of these was the new illumination of the path of eternity that leads to the Father of all, and which can be traversed even by the mortals of material flesh and blood in the initial life on the planets of space. Jesus was and is the new and living way whereby man can come into the divine inheritance which the Father has decreed shall be his for but the asking. In Jesus there is abundantly demonstrated both the beginnings and endings of the faith experience of humanity, even of divine humanity." (UB Paper 101, 101:6.17)
+> "Through the appropriation of the faith of Jesus, mortal man can foretaste in time the realities of eternity. Jesus made the discovery, in human experience, of the Final Father, and his brothers in the flesh of mortal life can follow him along this same experience of Father discovery. They can even attain, as they are, the same satisfaction in this experience with the Father as did Jesus as he was. New potentials were actualized in the universe of Nebadon consequent upon the terminal bestowal of Michael, and one of these was the new illumination of the path of eternity that leads to the Father of all, and which can be traversed even by the mortals of material flesh and blood in the initial life on the planets of space. Jesus was and is the new and living way whereby man can come into the divine inheritance which the Father has decreed shall be his for but the asking. In Jesus there is abundantly demonstrated both the beginnings and endings of the faith experience of humanity, even of divine humanity."
 
 Two revelations. One journey. The path he created, we can follow — even now, even here, even in the flesh.

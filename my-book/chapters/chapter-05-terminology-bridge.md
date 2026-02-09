@@ -62,21 +62,21 @@ The Atonement corresponds to the Plan of Ascension, the divine plan for mortal s
 
 First, in A Course in Miracles, Jesus acknowledges "another comforter" distinct from the Holy Spirit:
 
-> "The Holy Spirit is the only part of the Holy Trinity which is symbolic. He is referred to in the Bible as the Healer, the Comforter, and the Guide. He is also described as something 'separate,' apart from the Father and from the Son. I myself said, 'If I go I will send you another comforter, and He will abide with you.'" (JCIM, Chapter 5, Tx 5.10)
+> "The Holy Spirit is the only part of the Holy Trinity which is symbolic. He is referred to in the Bible as the Healer, the Comforter, and the Guide. He is also described as something 'separate,' apart from the Father and from the Son. I myself said, 'If I go I will send you another comforter, and He will abide with you.'"
 
 Second, the Course shows that Jesus *had* the Holy Spirit, just as we do — he is not the Holy Spirit:
 
-> "The Holy Spirit is nothing more than your own right mind. He was also mine." (JCIM, Chapter 5, Tx 5.9)
+> "The Holy Spirit is nothing more than your own right mind. He was also mine."
 
 Third, the Course describes Jesus and the Holy Spirit as two entities working in harmony:
 
-> "The Holy One shares my trust and always approves my Atonement decisions because my will is never out of accord with His. I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men." (JCIM, Chapter 4, Tx 4.89)
+> "The Holy One shares my trust and always approves my Atonement decisions because my will is never out of accord with His. I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men."
 
 Here Jesus makes Atonement decisions; the Holy Spirit ("the Holy One") approves them. Two distinct ministries, perfectly aligned.
 
 Fourth, the Course distinguishes Jesus' teaching from the Holy Spirit's judgment:
 
-> "My one lesson, which I must teach as I learned, is that no perception which is out of accord with the judgment of the Holy Spirit can be justified." (JCIM, Chapter 6, Tx 6.15)
+> "My one lesson, which I must teach as I learned, is that no perception which is out of accord with the judgment of the Holy Spirit can be justified."
 
 When Jesus says "I" in the Course — "I am in charge," "I will lend them my strength," "I lead," "I teach" — this is the Spirit of Truth in action. The Holy Spirit is referenced separately as approving, judging, and guiding perception. Once this pattern is recognized, the Course clearly distinguishes the two ministries, just as the Urantia Book does.
 
@@ -86,13 +86,12 @@ When Jesus says "I" in the Course — "I am in charge," "I will lend them my str
 
 The Course describes the soul as unalterable, already perfect, and beyond the need of any protection:
 
-> "The Soul never loses its communion with God." (JCIM, Chapter 1, Tx 1.45)
-
-> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve." (JCIM, Chapter 1, Tx 1.68)
+> "The Soul never loses its communion with God."
+> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve."
 
 This corresponds directly to the Urantia Book's teaching about the Thought Adjuster (also called the Divine Monitor or spirit monitor), the divine fragment indwelling every normal human mind. The Course even describes healing in terms of this identification:
 
-> "They heal because they deny body-identification and affirm Soul-identification." (JCIM, Chapter 1, Tx 1.41)
+> "They heal because they deny body-identification and affirm Soul-identification."
 
 The Course also speaks of the "altar" as the sacred place within where we encounter God. This too is the Adjuster, the fragment of the Father that indwells every normal human mind.
 

@@ -36,9 +36,7 @@ Beginning around 1913, a small group in Chicago — later known as the contact c
 
 The papers were transmitted, discussed, questioned, and sometimes revised in response to the questions. A larger study group called the Forum examined the papers as they came through. By 1934, the transmission was complete. After additional years of preparation, the Urantia Book was published in 1955.
 
-The Urantia Book's celestial authors acknowledge their limitations:
-
-> "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind." (UB Foreword, 0:12.13)
+The Urantia Book's celestial authors acknowledge their limitations. As they explain: "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind."
 
 They did their best with human language. Readers must do their best to receive it.
 

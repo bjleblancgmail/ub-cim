@@ -36,7 +36,7 @@ Three stages: material body → morontia soul → spirit reality.
 
 You begin identified with your body. This is natural. The body is where you experience the world, where you feel pleasure and pain, where you interact with others. The material mind — the electrochemical processes of the brain — is where you think, remember, decide.
 
-But this is the "transient life vehicle." It does not last. And if your sense of self remains entirely located there, it cannot survive.
+But this is the "transient life vehicle." It does not last.
 
 The morontia soul is the intermediate reality — part material, part spiritual — being built by the partnership of your mind and the Adjuster. Every worthy thought, every loving choice, every movement toward truth contributes to this soul. It is growing even now, beneath the surface of your awareness.
 
@@ -132,7 +132,7 @@ The Urantia Book confirms this:
 
 The Adjuster brings what you cannot bring yourself: eternal actualities. The fragment of God that has lived within you, guided you, preserved every worthy thought — this fragment completes what you started. It provides what you lack. Fusion is not achievement. It is gift.
 
-This should relieve enormous pressure. You are not required to perfect yourself. You are not required to earn your way across the bridge. You are required only to keep walking — to keep choosing, to keep turning toward the light, to keep cooperating with the will of God within you.
+This should relieve enormous pressure. You are not required to earn your way across the bridge. You are required only to keep walking — to keep choosing, to keep turning toward the light, to keep cooperating with the will of God within you.
 
 The last step is taken by God. Your job is to take all the steps before it.
 

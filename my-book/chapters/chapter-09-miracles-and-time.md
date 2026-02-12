@@ -42,7 +42,7 @@ The Course frames this as the miracle's purpose:
 
 > "The miracle is a learning device which lessens the need for time." (JCIM, Chapter 1, Tx 1.82)
 
-Time is for learning. We need time because we learn slowly, because we resist, because we forget. The miracle shortens the curriculum. It collapses the distance between where you are and where you need to be — not by removing the learning, but by removing the obstacles that made the journey long.
+Time is for extending creation. We exist in time because God's creation was forever designed to increase, and we were created to create as the Father creates. But we need time because we learn slowly, because we resist, because we forget. The miracle shortens the curriculum. It collapses the distance between where you are and where you need to be, not by removing the learning, but by removing the obstacles that made the journey long.
 
 Think of it this way: if you are walking toward a destination and someone removes a wall in your path, you arrive sooner. The miracle removes walls. It does not carry you magically; it clears the way. You still walk. You just walk without obstruction.
 

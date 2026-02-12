@@ -80,6 +80,8 @@ The Course speaks of the same journey in different language. It speaks of lettin
 
 Different words. Same path.
 
+Adjuster fusion is a moon shot. But first comes theory, then practice. First you need a goal to aim for. The path described here begins with maps drawn long before anyone makes the journey.
+
 ---
 
 This guide is organized in three parts.

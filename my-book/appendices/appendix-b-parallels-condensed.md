@@ -779,8 +779,6 @@ The Course says a major goal of its teaching is to reverse your view of giving. 
 - **Tier 2:** Same concept expressed differently
 - **Tier 3:** Supporting correlations and related ideas
 
-**Compilation:** These parallels were gathered from personal study notes over 30+ years of reading both texts. The Course concepts are present in the Urantia Book, often in more subtle ways. Studying the Course helps notice the eternal perspective within the Urantia Book.
-
 ---
 
 *"Two vocabularies. One truth. The bridge helps you see it."*

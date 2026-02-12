@@ -126,7 +126,7 @@ The Course in Miracles says the same:
 
 > "Your creations are protected for you because the Holy Spirit, Who is in your mind, knows of them and can bring them into your awareness whenever you will let Him. They are there as part of your own being because your fulfillment includes them." (JCIM, Chapter 7, Tx 7.95)
 
-Your creations — your acts of love, your moments of truth, your choices for goodness — are not lost. They are protected. The Holy Spirit holds them. The Adjuster preserves them. They wait for you, as part of your own being, because you cannot be complete without them.
+Your creations — your acts of love, your moments of truth, your choices for goodness — are not lost. They are protected. The Adjuster preserves them. They wait for you, as part of your own being, because you cannot be complete without them.
 
 The Urantia Book also speaks of worship as identification:
 

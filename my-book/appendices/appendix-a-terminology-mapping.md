@@ -250,14 +250,14 @@ You become real as you identify with what is eternal. What you identify with det
 |-------------------|--------------|-------|---------|
 | **Right mind** | Superconscious / Adjuster-led mind | "The Holy Spirit is nothing more than your own right mind" | Ch 5, 10 |
 | **Wrong mind** | Ego-dominated adjutant mind | The mind identified with fear and separation | Ch 13 |
-| **Mind of Christ** | Spirit of Truth | Jesus's mind offered to us | Ch 10 |
+| **Mind of Christ** | Holy Spirit | Jesus's mind offered to us | Ch 10 |
 | **One-mindedness** | Single-minded devotion | The state where transfer becomes possible | Ch 10 |
 | **Split mind** | Conflict between ego and Adjuster | Living in two thought systems | Ch 11, 13 |
 | **Seven adjutants** | Adjutant mind-spirits | The circuits of evolutionary mind | Ch 13 |
 | **Circles** | Circles of attainment | Stages of spiritual progress | Ch 13 |
 | **Mota** | Morontia insight | Bridges material logic and spiritual truth | Ch 8 |
 
-### Detailed: Mind of Christ = Spirit of Truth
+### Detailed: Mind of Christ = Holy Spirit
 
 **Course in Miracles:**
 > "The Holy Spirit is nothing more than your own right mind. He was also mine. The Bible says, 'May the mind be in you that was also in Christ Jesus,' and uses this as a blessing." (JCIM, Chapter 5, Tx 5.9)

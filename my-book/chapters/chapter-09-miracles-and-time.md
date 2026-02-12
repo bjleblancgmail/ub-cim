@@ -32,25 +32,47 @@ Both books state this explicitly, in remarkably similar language.
 
 The Course says:
 
-> "The miracle thus has the unique property of shortening time by rendering the space of time it occupies unnecessary." (JCIM, Chapter 1, Tx 1.83)
+> "The miracle thus has the unique property of shortening time by rendering the space of time it occupies unnecessary."
 
 The Urantia Book says:
 
-> "In this case, so we were taught, Michael multiplied food elements as he always does except for the elimination of the time factor and the visible life channel." (UB Paper 152, 152:2.10)
+> "In this case, so we were taught, Michael multiplied food elements as he always does except for the elimination of the time factor and the visible life channel."
 
-The Course frames this as the miracle's purpose:
+The same phenomenon, described from two angles. One speaks of time rendered unnecessary. The other speaks of time eliminated. But why does time exist in the first place? The Course answers directly:
 
-> "The miracle is a learning device which lessens the need for time." (JCIM, Chapter 1, Tx 1.82)
+> "The miracle is a learning device which lessens the need for time."
 
 Time is for extending creation. We exist in time because God's creation was forever designed to increase, and we were created to create as the Father creates. But we need time because we learn slowly, because we resist, because we forget. The miracle shortens the curriculum. It collapses the distance between where you are and where you need to be, not by removing the learning, but by removing the obstacles that made the journey long.
 
-Think of it this way: if you are walking toward a destination and someone removes a wall in your path, you arrive sooner. The miracle removes walls. It does not carry you magically; it clears the way. You still walk. You just walk without obstruction.
+This is how most of us move through life. Horizontally. One lesson at a time, one slow realization after another, stretched across what feels like endless time. But the miracle introduces something different. The Course describes it as a sudden shift from horizontal to vertical perception. Instead of crawling forward through lesson after lesson, something lifts you. You see from above. And in that moment of seeing, whole stretches of the horizontal journey become unnecessary.
 
-The Course says:
+The Course puts it plainly:
 
-> "The miracle, as an expression of true human charity, can only shorten time at most. It must be understood, however, that whenever a man offers a miracle to another, he is shortening the suffering of both." (JCIM, Chapter 2, Tx 2.71)
+> "It substitutes for learning that might have taken thousands of years."
 
-Shortening suffering. This is the mercy of miracles. We would all arrive eventually — but the miracle means we do not have to suffer as long. The learning still happens. The growth still occurs. But the unnecessary pain is removed.
+How? Not by skipping the learning. Not by granting knowledge you have not earned. But by removing the obstacle that made the learning take so long. And that obstacle, according to the Course, is the failure to recognize the perfect equality and holiness between the doer and the receiver.
+
+This is the mechanism. When you truly see another person as your equal in the Sonship, as a child of God no different from you in origin or destiny, something collapses. All the ego-driven lessons that separation would have forced you to learn simply fall away. You do not need to learn through years of conflict what a single moment of genuine recognition can teach. The doer and the receiver both emerge, as the Course says, "much farther along in time than they would otherwise have been."
+
+The Urantia Book frames the same truth from its own perspective. Consider the woman the apostles called Veronica. For years she had been afflicted with a hemorrhage. She had spent everything on physicians. None could cure her. Then she heard of Jesus, pressed through the crowd, and touched the border of his garment. In that moment, she was healed. Years of suffering, collapsed into a single instant. But Jesus would not let her leave believing it was the garment that healed her. As the Urantia Book records, "He did not want Veronica to go away thinking that her fear in attempting to steal her cure had been honored, or that her superstition in associating the touch of his garment with her healing had been effective. He desired all to know that it was her pure and living faith that had wrought the cure." It was not the cloth. It was recognition. In one moment of pure faith, something shifted. The temporal process that had dragged on for years simply became unnecessary. The doer and the receiver both emerged farther along in time than they would otherwise have been.
+
+The miracle from within works the same way. When you recognize your brother as equal, you are operating from the eternal perspective, where separation never happened and the Sonship is whole. From that vantage point, the lessons that separation requires are already complete. Time collapses because the need for it disappears.
+
+The Course describes this as an "out-of-pattern time interval," a moment that is not under the usual laws of time. It is not that the miracle breaks the laws of nature. It establishes a different framework, one governed by eternity rather than sequence. Within that framework, what would have taken thousands of years simply resolves.
+
+Think of it this way: if you are walking toward a destination and someone removes a wall in your path, you arrive sooner. But the miracle does something more than remove a single wall. It lifts you above the maze entirely, shows you that most of the walls were ones you built yourself, and sets you down on the other side. You still walk. But the unnecessary detours are gone.
+
+The Course adds:
+
+> "The miracle, as an expression of true human charity, can only shorten time at most. It must be understood, however, that whenever a man offers a miracle to another, he is shortening the suffering of both."
+
+Shortening suffering. This is the mercy of miracles. We would all arrive eventually. But the miracle means we do not have to suffer as long. The learning still happens. The growth still occurs. But the unnecessary pain, the pain born of separation and the refusal to see our brothers as ourselves, is removed.
+
+And there is something deeper at work here than efficiency. The Course teaches that miracles are a means of organizing different levels of consciousness. As the Course says:
+
+> "Miracles come from the below or subconscious level. Revelations come from the above or superconscious level."
+
+When the impulse from below breaks through into action, when doer and receiver truly meet, it opens a channel upward as well. Revelation meets the miracle from above. The learning that collapses is not just interpersonal. It is the whole consciousness being reorganized, below and above working together, shortening time through a single moment of genuine recognition.
 
 ---
 

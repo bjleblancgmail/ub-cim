@@ -20,7 +20,7 @@ And The Urantia Book says again:
 
 > "To material beings the spirit world is more or less unreal; to spirit beings the material world is almost entirely unreal, being merely a shadow of the substance of spirit realities." (UB Paper 44, 44:0.15)
 
-Almost entirely unreal. A shadow. This is not poetry. This is how spirit actually perceives matter — as fleeting, insubstantial, passing.
+Almost entirely unreal. A shadow. The Urantia Book means this literally. Spirit perceives matter — as fleeting, insubstantial, passing.
 
 The Course in Miracles reaches for the same truth:
 
@@ -106,7 +106,7 @@ The Urantia Book states it directly:
 
 You are not automatically real. You are potentially real. You become real as you identify with what is eternal — with the Adjuster, with spirit, with the values that survive.
 
-This is not mystical abstraction. It is practical. Every day, you choose what to identify with. You can identify with your body — its appetites, its fears, its demands. You can identify with your social role — your status, your possessions, your reputation. Or you can identify with the spirit within you — the Adjuster, the divine presence, the fragment of God that has been with you since childhood.
+The application is immediate and practical. Every day, you choose what to identify with. You can identify with your body — its appetites, its fears, its demands. You can identify with your social role — your status, your possessions, your reputation. Or you can identify with the spirit within you — the Adjuster, the divine presence, the fragment of God that has been with you since childhood.
 
 What you identify with determines what you become.
 
@@ -126,7 +126,7 @@ The Course in Miracles says the same:
 
 > "Your creations are protected for you because the Holy Spirit, Who is in your mind, knows of them and can bring them into your awareness whenever you will let Him. They are there as part of your own being because your fulfillment includes them." (JCIM, Chapter 7, Tx 7.95)
 
-Your creations — your acts of love, your moments of truth, your choices for goodness — are not lost. They are protected. The Adjuster preserves them. They wait for you, as part of your own being, because you cannot be complete without them.
+Your creations — your acts of love, your moments of truth, your choices for goodness — are not lost. They are protected. The Holy Spirit knows of them. The Adjuster preserves them. They wait for you, as part of your own being, because you cannot be complete without them.
 
 The Urantia Book also speaks of worship as identification:
 

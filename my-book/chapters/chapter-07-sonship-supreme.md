@@ -6,7 +6,7 @@ The Course in Miracles speaks of the Sonship. The Urantia Book speaks of God the
 
 Both books teach that we are not isolated individuals climbing separate paths to God. We are parts of a whole — a living, growing totality that includes every soul God ever created. The Course calls this totality the Sonship. The Urantia Book calls it the Supreme. The names differ. The reality is one.
 
-This is not metaphor. Both books teach that this collective reality is as real as you are — perhaps more real. You are a part of it. Your growth contributes to it. Your choices matter to it. And one day, when every part has returned, you will discover it together with every other soul who ever lived.
+Both books mean this literally. This collective reality is as real as you are — perhaps more real. You are a part of it. Your growth contributes to it. Your choices matter to it. And one day, when every part has returned, you will discover it together with every other soul who ever lived.
 
 A Course in Miracles says:
 
@@ -28,7 +28,7 @@ In traditional Christianity, "the Son" usually means Jesus — the only-begotten
 
 > "If all the Souls God created are His Sons, then every soul must be an integral part of the whole Sonship."
 
-Every soul is a part. No part is separate. No part is complete without the others. This is not a poetic way of saying we should be nice to each other. It is a statement about the structure of reality: we are literally joined.
+Every soul is a part. No part is separate. No part is complete without the others. The structure of reality itself is at stake here: we are literally joined.
 
 The Course returns to this idea again and again. A Course in Miracles says:
 

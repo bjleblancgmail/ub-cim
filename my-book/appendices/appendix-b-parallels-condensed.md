@@ -1,6 +1,6 @@
 # Appendix B: Selected Parallels: Urantia Book and Course in Miracles
 
-*57 parallels between The Urantia Book and A Course in Miracles, organized by correlation strength. Drawn from 30+ years of comparative study.*
+*57 parallels between The Urantia Book and A Course in Miracles, organized by correlation strength.*
 
 ---
 
@@ -755,9 +755,9 @@ The Course says a major goal of its teaching is to reverse your view of giving. 
 |-------------------|--------------|
 | Soul | Thought Adjuster |
 | Sonship | God the Supreme |
-| Holy Spirit | Spirit of Truth / Mind of Jesus |
+| Holy Spirit | Holy Spirit / Mind of Jesus |
 | The Separation | Lucifer Rebellion / Adamic Default |
-| Atonement | The Bestowal / Plan of Ascension |
+| Atonement | Plan of Ascension |
 | Ego | Material/Adjutant Mind |
 | Vision | Spiritual Insight / Eyes of the Spirit |
 | Miracles | Spiritual Transformation / Time Elimination |

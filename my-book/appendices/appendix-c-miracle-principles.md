@@ -2,8 +2,6 @@
 
 The first chapter of the Course in Miracles lays out fifty principles of miracles. These principles contain stunning parallels to concepts found in The Urantia Book. Below are the first twenty-five principles, each paired with relevant UB passages and commentary showing how these two revelations illuminate the same truths from different angles.
 
-Principles 26-50 will be added in a future edition.
-
 ---
 
 ## Principle 1
@@ -22,7 +20,7 @@ Miracles come from God, not from us. To an infinite being there is no small mira
 
 > "Miracles as such do not matter. The only thing that matters is their Source, Which is far beyond human evaluation." (Tx:1.2)
 
-The source of miracles is the Adjuster, and the Adjuster is far beyond human evaluation. We know this because in Paper 136, Jesus negotiated the terms of his public ministry directly with his Personalized Adjuster. He could limit the celestial hosts in space, but his Adjuster made clear that their function in time could not be overridden. Jesus had to remain "constantly time conscious" to prevent miracles from happening involuntarily. The miracle itself is not the point. The indwelling source that makes it possible is.
+The source of miracles is divine, and far beyond what the human mind can evaluate or control. The miracle itself is not the point. The source that makes it possible is. Paper 136 illustrates this vividly. When Jesus negotiated the terms of his public ministry with his Personalized Adjuster, he learned that the celestial hosts could be limited in space but not in time. Jesus had to remain "constantly time conscious" to prevent miracles from happening involuntarily. Even for a Creator Son, the divine source of miracles operated beyond conscious control.
 
 > "In accepting this command of the universe hosts in attendance upon Christ Michael, the Personalized Adjuster took great pains to point out to Jesus that, while such an assembly of universe creatures could be limited in their space activities by the delegated authority of their Creator, such limitations were not operative in connection with their function in time." (UB 136:5.4)
 

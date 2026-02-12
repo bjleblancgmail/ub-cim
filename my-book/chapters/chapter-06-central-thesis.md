@@ -48,7 +48,7 @@ For readers unfamiliar with the Urantia Book, the term "Adjuster fusion" require
 
 The Urantia Book teaches that every normal human mind, beginning in early childhood, receives an indwelling spirit — a fragment of God himself. This fragment is called by many names in the text: Thought Adjuster, Mystery Monitor, divine pilot, indwelling spirit. It is not a guide standing beside you. It is not an angel watching over you. It lives *within* your mind, at the very center of your thought life, working ceaselessly to spiritualize your thinking.
 
-This is not metaphor. The Urantia Book describes the Adjuster as a literal piece of the Universal Father — prepersonal, divine, eternal — given to each human being as both gift and destiny. The Urantia Book says:
+The Urantia Book means this literally. The Adjuster is a piece of the Universal Father — prepersonal, divine, eternal — given to each human being as both gift and destiny. The Urantia Book says:
 
 > "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival."
 
@@ -130,7 +130,7 @@ The Course in Miracles uses the same image:
 
 > "The power of one mind can shine into another because all the lamps of God were lit by the same spark. It is everywhere, and it is eternal."
 
-The same spark lit every lamp. Every human being carries the same divine fragment. This is not poetic language. It is a statement about reality: you are already lit from within.
+The same spark lit every lamp. Every human being carries the same divine fragment. You are already lit from within.
 
 But the Course warns that the spark can be obscured:
 

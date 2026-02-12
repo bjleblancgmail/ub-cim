@@ -46,9 +46,9 @@ Or, as The Urantia Book warns:
 
 > "The sinner finally identified himself wholly with sin." (UB Paper 2, 2:6.8)
 
-Two directions. Identify with the Adjuster — with spirit, with eternal values, with the divine presence within — and you become real. Identify with sin — with selfishness, with separation, with the denial of God — and you become unreal. Eventually, completely unreal.
+Two directions. Identify with the Adjuster — with spirit, with eternal values, with the divine presence within — and you become real. Identify with sin — with selfishness, with separation, with the denial of God — and you become unreal.
 
-This is not punishment. It is simply the consequence of identification. What you align with, you become. What you become determines what survives.
+The result is simply the consequence of identification. What you align with, you become. What you become determines what survives.
 
 ---
 
@@ -130,7 +130,7 @@ The Urantia Book says:
 
 > "Spiritual volition has begun to taste liberation from the fetters of time, having achieved partial escape from time sequence, and that is because spiritual volition is self-identifying with the will of God." (UB Paper 118, 118:6.6)
 
-Liberation from the fetters of time. This is not metaphor. As you identify with spirit, you begin to experience time differently. The anxious urgency of the ego — always rushing, always worried about the future — begins to fade. The eternal present becomes more accessible. You taste, even now, the timelessness that will be fully yours after fusion.
+Liberation from the fetters of time. As you identify with spirit, you begin to experience time differently. The anxious urgency of the ego — always rushing, always worried about the future — begins to fade. The eternal present becomes more accessible. You taste, even now, the timelessness that will be fully yours after fusion.
 
 The Course speaks of the same release:
 

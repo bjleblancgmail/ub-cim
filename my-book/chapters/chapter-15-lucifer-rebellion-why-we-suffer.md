@@ -74,7 +74,7 @@ This is why forgiveness is so central to both texts. You cannot heal a body by i
 
 But here is the mercy: suffering is not meaningless. The conditions we endure are used for our growth. Mortals who survive from rebellion-scarred worlds develop strengths that mortals from normal worlds never need. We become what the Urantia Book calls "agondontors," beings who can believe without seeing, who can persist without visible proof.
 
-This is not punishment. It is transformation. The very conditions that make our world difficult also make possible a unique kind of faith, a unique kind of strength, a unique contribution to the Supreme.
+The result is transformation, not punishment. The very conditions that make our world difficult also make possible a unique kind of faith, a unique kind of strength, a unique contribution to the Supreme.
 
 ---
 

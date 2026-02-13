@@ -56,11 +56,7 @@ The Urantia Book also teaches that sin is not a fundamental reality:
 
 > "Sin is a cosmic unreality."
 
-And on the subject of fear, the Urantia Book issues a direct warning:
-
-> "Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul."
-
-These are not concessions to the Course. These are foundational Urantia Book teachings. The Urantia Book does not treat evil as a substance with its own independent reality. Evil is the absence of choosing what is real. Sin is a cosmic unreality, not because choices lack weight, but because choosing against God has no permanence. Only what aligns with the Father endures.
+And on the subject of fear, the Urantia Book calls unreasoned fear "a master intellectual fraud." These are not concessions to the Course. These are foundational Urantia Book teachings. The Urantia Book does not treat evil as a substance with its own independent reality. Evil is the absence of choosing what is real. Sin is a cosmic unreality, not because choices lack weight, but because choosing against God has no permanence. Only what aligns with the Father endures.
 
 This is far closer to the Course's position than most readers realize.
 
@@ -106,9 +102,7 @@ The identity is gone. It becomes as though it had never been.
 
 But the personality? Absorbed into the Supreme. Not destroyed. Not annihilated. Not erased from existence. Returned to the great whole from which it came, contributing to the evolving experience of God the Supreme.
 
-And the Adjuster? The divine fragment within? It returns to the Father, carrying with it every experience of spiritual value from that life, and moves on to indwell other creatures in the universe. The Adjuster is never diminished. It carries forward everything worth carrying. The Urantia Book is clear:
-
-> "Nothing of survival value is ever lost in all the wide universe."
+And the Adjuster? The divine fragment within? It returns to the Father, carrying with it every experience of spiritual value from that life, and moves on to indwell other creatures in the universe. The Adjuster is never diminished. It carries forward everything worth carrying. As the Urantia Book promises, nothing of survival value is ever lost.
 
 The personality returns to the Supreme. The Adjuster moves on, enriched by every worthy experience, to continue its eternal mission in other lives. Everything of spiritual worth survives. What is lost is only what chose, completely and finally, to identify with what has no reality.
 
@@ -116,11 +110,7 @@ The personality returns to the Supreme. The Adjuster moves on, enriched by every
 
 ## Section 5: Nothing Real Can Be Threatened
 
-Now return to the Course's opening words:
-
-> "Nothing real can be threatened. Nothing unreal exists. Herein lies the peace of God."
-
-Read this through the lens of what the Urantia Book teaches.
+Now return to the Course's opening promise: that what is real cannot be threatened, that what is unreal does not endure, and that in this recognition lies peace. Read it through the lens of what the Urantia Book teaches.
 
 Personality is real. It cannot be threatened. It attains deity destiny with or without the participation of the temporal identity.
 
@@ -138,7 +128,7 @@ From the eternal perspective, there is nothing to fear. God's plan is merciful a
 
 To the Father, you are an individual son, making a personal journey. To the Supreme, you are part of One Son, the whole Sonship, awakening together. When the last part returns, the Supreme will stand complete, and every personality that ever existed will be part of that completion.
 
-This is not a compromise between the two books. It is both books saying the same thing at different magnitudes. The Urantia Book gives the close-up, showing every detail of the mechanism: evil, sin, iniquity, the three distinct categories, the consequences unfolding in time. The Course gives the wide view, showing the final truth that contains all the details: nothing real can be threatened, and nothing unreal exists.
+This is not a compromise between the two books. It is both books saying the same thing at different magnitudes. The Urantia Book gives the close-up, showing every detail of the mechanism: evil, sin, iniquity, the three distinct categories, the consequences unfolding in time. The Course gives the wide view, showing the final truth that contains all the details.
 
 Both views are true. Both are needed. The close-up without the wide view leads to fear. The wide view without the close-up leads to complacency. Together, they give the complete picture.
 

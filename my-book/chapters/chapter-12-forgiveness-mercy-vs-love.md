@@ -94,11 +94,7 @@ The Urantia Book is explicit:
 
 Not satisfied with mere forgiveness. The Master's love goes further. It does not stop at pardoning the wrong — it transforms the wrongdoer. It does not simply cancel the debt — it removes the belief that there ever was a debt.
 
-The Urantia Book says:
-
-> "Divine love does not merely forgive wrongs; it absorbs and actually destroys them." (UB Paper 188, 188:5.2)
-
-Absorbs. Destroys. Not sets aside. Not files away for future reference. The wrong is gone. It has been transformed by love into something else entirely — an occasion for healing rather than a memory of harm.
+Divine love absorbs and actually destroys wrongs. Not sets aside. Not files away for future reference. The wrong is gone. It has been transformed by love into something else entirely — an occasion for healing rather than a memory of harm.
 
 This is what Jesus demonstrated. He did not keep a record of wrongs. He did not extend mercy while secretly documenting guilt. He looked at the sinner and saw the child of God who had forgotten. And in that seeing, the sin lost its power.
 

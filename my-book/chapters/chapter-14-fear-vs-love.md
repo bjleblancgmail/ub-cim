@@ -38,11 +38,7 @@ Both books agree that fear is not native to the soul. It is an acquired conditio
 
 Fear distorts everything it touches.
 
-The Urantia Book describes the psychological effect:
-
-> "Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul." (UB Paper 48, 48:7.4)
-
-It is a fraud because it presents itself as reasonable. It disguises itself as prudence, caution, realism. It says: "Be afraid — you have good reason." But the reasons it offers are based on a misperception of reality. They assume you are a body that can be destroyed, an ego that can be threatened, a self separate from God.
+The fraud works because it presents itself as reasonable. It disguises itself as prudence, caution, realism. It says: "Be afraid — you have good reason." But the reasons it offers are based on a misperception of reality. They assume you are a body that can be destroyed, an ego that can be threatened, a self separate from God.
 
 The Course adds that fear is what maintains the ego:
 
@@ -114,6 +110,6 @@ Escaped from fear to peace. One with something beyond the body. Not by force, bu
 
 The opposite of love is fear. But love is all-encompassing. In the end, fear has no place to stand. It was never real. It was only a fraud — a convincing fraud, but a fraud nonetheless.
 
-The truth is that you are loved. The truth is that you are safe. The truth is that nothing real can be threatened, and nothing unreal exists.
+The truth is that you are loved. The truth is that you are safe. The truth is that what is real in you cannot be harmed.
 
 Let fear go. Love is waiting.

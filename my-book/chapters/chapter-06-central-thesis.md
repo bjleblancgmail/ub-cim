@@ -20,7 +20,7 @@ And again:
 
 Three times the Course uses the word "fuse" or "fusing." Three times it describes the union of human will with divine will. The Course is describing, in its own vocabulary, exactly what the Urantia Book calls Adjuster fusion.
 
-The chapters that follow will trace this connection in detail — the bridge, the transfer, the spark, the path. But the thesis is simple: these two books describe the same journey. One provides the map. The other teaches the walking.
+The chapters that follow will trace this connection in detail — the bridge, the transfer, the spark, the path. But the thesis is simple: these two books describe the same journey from opposite directions.
 
 ---
 
@@ -78,11 +78,7 @@ Your creations — your worthy thoughts, your loving choices, your movements tow
 
 ## Section 4: The Transfer of Identity
 
-How does fusion happen? The Urantia Book describes it as a transfer:
-
-> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle — the material body — to the more enduring and immortal nature of the morontia soul."
-
-The seat of identity must *move*. You begin life identified with your body, your emotions, your earthly mind. Fusion requires that your sense of self shift — from the temporary to the permanent, from the material to the spiritual, from the creature alone to the creature united with the Creator.
+How does fusion happen? The Urantia Book describes it as a transfer: the seat of identity must move from the material body to the morontia soul, and beyond to spirit reality (Paper 112). You begin life identified with your body, your emotions, your earthly mind. Fusion requires that your sense of self shift — from the temporary to the permanent, from the material to the spiritual, from the creature alone to the creature united with the Creator.
 
 This is not automatic. It requires your cooperation. The Adjuster cannot force this transfer. It can only invite, guide, lead. The human will must choose to follow.
 

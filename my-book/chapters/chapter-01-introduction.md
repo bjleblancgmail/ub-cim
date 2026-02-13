@@ -64,7 +64,7 @@ The Urantia Book expands awareness. It reveals the architecture of the universe 
 
 A Course in Miracles trains the mind. It teaches *how* - how to release fear, how to shift perception, how to hear the voice of spirit. But it assumes a reader already oriented toward the journey. It does not explain the larger universe or the cosmic context.
 
-Together they are more powerful than apart. The Urantia Book gives the map. A Course in Miracles teaches the walking. One without the other is incomplete.
+Together they are more powerful than apart. One without the other is incomplete.
 
 There is another dimension to this pairing. A Course in Miracles speaks the language of Christianity - Father, Son, Holy Spirit, atonement, forgiveness. It meets readers where they are. The Urantia Book introduces a vastly expanded vocabulary - Thought Adjusters, morontia, the Supreme. For many readers, the Course serves as a bridge: familiar enough to enter, yet pointing toward truths the Urantia Book reveals in full.
 

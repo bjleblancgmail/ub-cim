@@ -292,11 +292,7 @@ Spirit taught. Spirit led. This is the transformation — not a single dramatic 
 
 You do not need to be perfect. You need to be willing.
 
-The Urantia Book promises:
-
-> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God." (UB Paper 111, 111:5.1)
-
-Willingness to share. That is all. Not perfection. Not certainty. Not heroic achievement. Just this: opening yourself to the presence that has been with you since the beginning, letting it teach you, letting it lead you, letting it build you into what you were always meant to become.
+Willingness to share the inner life with God. That is all. Not perfection. Not certainty. Not heroic achievement. Just this: opening yourself to the presence that has been with you since the beginning, letting it teach you, letting it lead you, letting it build you into what you were always meant to become.
 
 From the eternal perspective, you are already known. You are already loved. The outcome is not in doubt — only the timing, only the path, only how much scaffolding you will need before you learn to stand on your own.
 

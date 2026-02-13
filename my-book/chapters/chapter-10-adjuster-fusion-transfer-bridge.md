@@ -172,9 +172,7 @@ The transfer is already underway.
 
 If you are reading these words, the Adjuster within you has been working for decades — preserving every worthy thought, building your soul, drawing you toward the bridge you may not have known existed. The Course workbook lessons, the prayers, the choices to forgive — all of this is the work of transfer. All of this is cooperation with the process that leads to fusion.
 
-The Urantia Book promises:
-
-> "His brothers in the flesh of mortal life can follow him along this same experience of Father discovery." (UB Paper 101, 101:6.17)
+The Urantia Book promises that his brothers in the flesh can follow the same experience of Father discovery.
 
 What Jesus achieved, you can achieve. The same bridge, the same transfer, the same fusion. Not in exactly the same way — you are not a Creator Son incarnate — but in the same direction. Toward the Father. Toward complete identification with the divine. Toward the moment when the last step is taken, and you discover that you have been carried home.
 

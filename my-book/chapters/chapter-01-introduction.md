@@ -76,9 +76,11 @@ At the heart of this study is a single thesis: *A Course in Miracles* is a cours
 
 The Urantia Book teaches that each human mind is indwelt by a Thought Adjuster - a fragment of the Universal Father. The goal of mortal life is to increasingly align with this divine presence until, eventually, the human will and the divine will become one. This is fusion: the permanent union of the mortal self with the immortal spirit.
 
-The Course speaks of the same journey in different language. It speaks of letting go of the ego - the false self - and identifying instead with spirit. It speaks of the Holy Spirit as a bridge between perception and knowledge. It speaks of atonement not as payment for sin, but as the correction of a mistake - the mistaken belief that we are separate from God.
+The Course speaks of the same journey in different language. It speaks of letting go of the ego - the false self - and identifying instead with spirit. It speaks of the Holy Spirit as a bridge between perception and knowledge. It speaks of atonement not as payment for sin, but as the correction of a mistake - the mistaken belief that we are separate from God. And it names the destination plainly:
 
-Different words. Same path.
+> "When the will of the Sonship and the Father are one, their perfect accord IS Heaven." (JCIM, Chapter 1)
+
+Heaven is not a place you go. It is a state you become. The union of your will with the Father's will. Both books point to the same summit.
 
 Adjuster fusion is a moon shot. But first comes theory, then practice. First you need a goal to aim for. The path described here begins with maps drawn long before anyone makes the journey.
 

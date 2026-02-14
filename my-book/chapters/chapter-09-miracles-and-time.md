@@ -170,8 +170,10 @@ But miracles remind us that time is not ultimate. They are windows, glimpses, pr
 
 Until then, be grateful for the miracles you receive, and more grateful still for the miracles you give. Every act of love shortens someone's suffering. Every extension of peace eliminates a wall. Every moment you remember that you are not separate from God, you are performing a miracle — whether you see its effects or not.
 
-The laws of eternity are always operating. The only question is whether you will cooperate with them. As the Course says:
+The laws of eternity are always operating. The only question is whether you will cooperate with them. The Course reveals where all of this leads:
 
-> "Miracles therefore rest on the laws of eternity, not of time." (JCIM, Chapter 1, Tx 1.19)
+> "The miracle-worker accepts the time-control factor gladly, because he knows that every collapse of time brings all men closer to the ultimate RELEASE from time, in which the Son and the Father ARE one." (JCIM, Chapter 1)
+
+Every miracle you perform or receive is not just a personal healing. It is a step toward the moment when time ends and Father and Son are one. This is the fusion thesis at work inside the miracle principles: every collapse of time is a step toward fusion.
 
 You are resting there too, even now — even if you have not yet noticed.

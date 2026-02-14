@@ -158,6 +158,12 @@ Even if you hold to the most traditional reading of annihilation, notice where b
 
 Both teach that choosing love is the purpose of life. Both teach that aligning your will with the Father's will is the path. Both teach that fear is the enemy of growth, and that unreasoned fear in particular is a fraud, a deception, a weapon used against the very soul it claims to protect. Both teach that the Adjuster within you is real, faithful, and tireless. Both teach that fusion is the goal. Both teach that the time is voluntary, but the course is required.
 
+The Course goes one step further:
+
+> "The lesson is that your will and God's CANNOT be out of accord because they ARE one. This is the UNdoing of everything the ego tries to teach." (JCIM, Chapter 7)
+
+The ego teaches that your will and God's will are separate, competing, in conflict. Every fear you have ever felt about God is rooted in this lie. Both books say the lie can be undone. They differ on what happens to those who never undo it. But they agree completely that the lie itself has no foundation.
+
 Both books agree completely on what to do, even where readers may differ on what happens in the most extreme case of permanent refusal.
 
 And there is one more thing both books share: mercy. The Urantia Book describes a universe in which the Father exhausts every possibility before allowing a creature to cease. The interval between choosing iniquity and facing its consequences is filled with appeals, with patience, with every chance the universe can offer. The Course describes a God who never stops calling, never stops waiting, never withdraws the spark that was given. Neither book presents a God who is eager to punish. Both present a God whose patience exceeds anything the human mind can imagine.

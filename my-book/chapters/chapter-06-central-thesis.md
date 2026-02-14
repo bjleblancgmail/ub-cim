@@ -6,11 +6,19 @@ This book rests on a single claim: *A Course in Miracles* is a course in Adjuste
 
 The Urantia Book describes Adjuster fusion as the goal of human life — the moment when the mortal will and the divine will become permanently one. It is not death. It is not heaven. It is transformation: the fusion of a human being with the fragment of God that has lived within them since childhood.
 
-The Course in Miracles never uses this language. It speaks instead of miracles, of atonement, of the union of Father and Son. But it is teaching the same thing. A Course in Miracles says:
+The Course in Miracles never uses the term "Adjuster fusion." But it uses the word *fusion* itself. A Course in Miracles says:
 
-> "The miracle itself is just this fusion or union of will between Father and son."
+> "The miracle itself is just this fusion or union of will between Father and son." (JCIM, Chapter 5)
 
-This is not metaphor. This is the Course describing, in its own vocabulary, exactly what the Urantia Book calls Adjuster fusion.
+This is not an isolated line. The Course returns to this language:
+
+> "Alone we can do nothing, but together our wills fuse into something whose power is far beyond the power of its separate parts. By not being separate, the Will of God is established in ours and as ours." (JCIM, Chapter 7)
+
+And again:
+
+> "Seeing with Him will show you that all meaning, including yours, comes not from double vision but from the gentle fusing of everything into one meaning, one emotion, and one purpose. God has one purpose which He shares with you. The single vision which the Holy Spirit offers you will bring this oneness to your mind with clarity and brightness so intense you could not wish for all the world not to accept what God would have you have. Behold your will, accepting it as His, with all His love as yours." (JCIM, Chapter 14)
+
+Three times the Course uses the word "fuse" or "fusing." Three times it describes the union of human will with divine will. The Course is describing, in its own vocabulary, exactly what the Urantia Book calls Adjuster fusion.
 
 The chapters that follow will trace this connection in detail — the bridge, the transfer, the spark, the path. But the thesis is simple: these two books describe the same journey. One provides the map. The other teaches the walking.
 
@@ -86,7 +94,11 @@ The Course says:
 
 Transfer. The same word. The same process.
 
-The Course does not speak of the material body and the morontia soul. It speaks of perception and knowledge, of the ego and the spirit, of fear and love. But the movement is identical: you must shift your identity from what is passing away to what is eternal.
+The Course does not speak of the material body and the morontia soul. It speaks of perception and knowledge, of the ego and the spirit, of fear and love. But the movement is identical: you must shift your identity from what is passing away to what is eternal. The Course describes the endpoint of this transfer:
+
+> "To unite having and being is only to unite your will with His, for He wills you HIMSELF. And you will yourself to HIM, because in your perfect understanding of Him, you KNOW there IS but One Will." (JCIM, Chapter 8)
+
+He wills you Himself. The Father's gift of the Adjuster is precisely this: He gives you a piece of Himself. And you will yourself to Him. The transfer is bilateral. Both wills move toward union. Both reach the same place: one will.
 
 This is the work. Every lesson in the Course workbook, every moment of forgiveness, every release of judgment — all of it serves the transfer. You are learning to identify with spirit rather than ego, with the eternal rather than the temporal, with the Adjuster rather than the animal mind.
 

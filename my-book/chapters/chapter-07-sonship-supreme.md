@@ -162,7 +162,11 @@ The Urantia Book is explicit:
 
 One more degree. One more step. Your attunement to the Adjuster does not merely advance *you*. It advances the Supreme. The whole grows because you grew.
 
-The Course in Miracles teaches the same. Every soul is "an integral part of the whole Sonship," and the whole cannot be complete while any part is missing.
+The Course in Miracles teaches the same, and goes further. It describes the relationship as mutual:
+
+> "In your completion lies the memory of His wholeness and His gratitude to you for His completion. In His link with you lie both His inability to forget and your ability to remember. In Him are joined your willingness to love and all the love of God, Who forgot you not." (JCIM, Chapter 16)
+
+His gratitude to you for His completion. His inability to forget. Your ability to remember. God is not merely waiting for you to arrive. Your completion completes Him. The Supreme needs your growth the way a body needs every cell. This is not humility dressed as theology. This is the Course stating plainly what the Urantia Book teaches about the Supreme: God is growing through you, and your journey matters to God. He cannot forget you. You can learn to remember Him. And in that remembering, both are made whole.
 
 You are not replaceable. No other soul can add what you add. No other journey contributes exactly what yours contributes. The Supreme would be incomplete without your particular growth, your particular choices, your particular path.
 

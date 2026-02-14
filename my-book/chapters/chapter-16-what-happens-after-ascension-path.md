@@ -108,4 +108,10 @@ The mansion worlds wait for those who need more time. Paradise waits at the end.
 
 You have already begun. You are reading this book. The Adjuster within you brought you here. The path to the Father stretches out before you, and every step you take is counted.
 
+The Course, which says so little about what comes after, says this:
+
+> "There is a place in you where this whole world has been forgotten, where no memory of sin and of illusion lingers still. There is a place in you which time has left, and echoes of eternity are heard. There is a resting place so still no sound except a hymn to Heaven rises up to gladden God the Father and the Son. Where both abide are They remembered both. And where They are is Heaven and is peace. Think not that you can change Their dwelling place. For your Identity abides in Them, and where They are, forever must you be." (CIM-OE 31)
+
+That place is already in you. The Adjuster holds it. The mansion worlds, the local universe, Havona, Paradise — these are the unfolding of what already lives within. The path is long. But the destination has been with you since before you were born.
+
 Something new is possible. It always was.

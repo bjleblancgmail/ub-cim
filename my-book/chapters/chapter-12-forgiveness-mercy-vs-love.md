@@ -140,4 +140,10 @@ Not merely relief. Salvation. The forgiveness of love saves you from the prison 
 
 And the Course confirms: no one in whom true forgiveness reigns can suffer.
 
+This is why forgiveness is central to the journey this book describes. The Course states the principle directly:
+
+> "Separation is overcome by union. It CANNOT be overcome by separating. The will to unite must be unequivocal, or the will itself is separated or NOT WHOLE." (JCIM, Chapter 8)
+
+The forgiveness of mercy separates. It keeps the divide between the one who pardons and the one who is pardoned. The forgiveness of love unites. It sees no divide to begin with. And the will to unite must be unequivocal — not partial, not conditional, not "I forgive you but I remember." Total. Whole. This is the same wholeness both books describe as fusion: the will no longer divided, no longer split between ego and spirit, but wholly given to love.
+
 That is the promise. That is the practice. See your brother's innocence, and you will know your own.

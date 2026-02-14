@@ -60,9 +60,15 @@ Both are valid. Both are complementary. But understanding this distinction helps
 
 For readers approaching the Urantia Book as a companion to the Course, certain themes deserve special attention:
 
-**The Thought Adjuster.** The Urantia Book teaches that a fragment of God — called the Thought Adjuster or Divine Monitor — indwells every normal human mind. This is what the Course calls the "soul" — the indestructible center of your being. The Adjuster is also referred to as the "altar" in Course terminology. Understanding the Adjuster illuminates everything the Course says about your divine core.
+**The Thought Adjuster.** The Urantia Book teaches that a fragment of God — called the Thought Adjuster or Divine Monitor — indwells every normal human mind. This is what the Course calls the "soul" — the indestructible center of your being. The Adjuster is also referred to as the "altar" in Course terminology. Understanding the Adjuster illuminates everything the Course says about your divine core. The Course confirms the indwelling in its own language:
 
-**Fusion.** The destiny of mortal ascension is fusion with the Adjuster — the permanent union of your evolving identity with the divine fragment. This is what the Course is teaching you to achieve. The Urantia Book describes the mechanics; the Course provides the practice.
+> "God created every mind by communicating His Mind to it, thus establishing it forever as a channel for the reception of His Mind and Will." (JCIM, Chapter 5)
+
+**Fusion.** The destiny of mortal ascension is fusion with the Adjuster — the permanent union of your evolving identity with the divine fragment. This is what the Course is teaching you to achieve. The Urantia Book describes the mechanics; the Course provides the practice. And the Course celebrates this union directly:
+
+> "Oh come ye faithful, to the holy union of the Father and Son in YOU!" (JCIM, Chapter 19)
+
+The union of Father and Son does not happen somewhere else. It happens in you.
 
 **The Ascension Path.** After death, survivors continue their education through a series of training worlds — the mansion worlds, the constellation spheres, the local universe capitals, and eventually Paradise itself. The Course focuses on this life; the Urantia Book shows what comes after.
 

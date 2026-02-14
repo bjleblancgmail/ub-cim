@@ -122,11 +122,9 @@ Here is the remarkable promise: you do not have to complete the journey alone. I
 
 The Course says:
 
-> "Perception can be transferred to knowledge... the last step is taken by God." (JCIM, Chapter 5, Tx 5.12)
+> "God honored even the miscreations of His Children because they had made them, but He also blessed them with a way of thinking that could raise their perceptions until they became so lofty that they could reach almost back to Him. The Holy Spirit is the Mind of the Atonement. It represents a state of mind that comes close enough to One-Mindedness that transfer to it is at last possible. Transfer depends on common elements in the old learning and the new situation to which it is transferred. Perception is not knowledge, but it can be transferred to knowledge or cross over into it. It might even be more helpful here to use the literal meaning of 'carried' over since the last step is taken by God." (JCIM, Chapter 5)
 
-The last step is taken by God. You do your part — you cooperate, you choose, you practice, you open every door. But the final act of fusion is not something you do. It is something God does. You bring yourself to the threshold. God carries you across.
-
-The Urantia Book confirms this:
+Read this slowly. God gave you a way of thinking that could raise your perceptions until they reach almost back to Him. Almost. The Holy Spirit brings you close enough to One-Mindedness that transfer becomes possible. And the last step? The Course suggests the literal meaning: you are *carried* over. God does the carrying.And when God carries you across, the Urantia Book describes what you receive:
 
 > "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential." (UB Paper 112, 112:7.1)
 
@@ -159,6 +157,12 @@ The Course says:
 > "In this world you can become a spotless mirror, in which the holiness of your Creator shines forth from you to all around you. You can reflect Heaven here." (JCIM, Chapter 14, Tx 14.42)
 
 Reflect Heaven here. Even before the final fusion, even while still on the bridge, you can begin to reflect what lies on the other side. The transfer does not wait entirely for death. It begins now. Every moment of peace, every extension of love, every recognition of truth — these are the reflections of the far shore already appearing in time.
+
+And the Course offers one more promise about what the crossing costs:
+
+> "The new perspective you will gain from crossing over will be the understanding of where Heaven is. From here it seems to be outside and across the bridge. Yet as you cross to join it, it will join with you and become one with you. And you will think in glad astonishment that for all this you gave up nothing! The joy of Heaven, which has no limit, is increased with each light that returns to take its rightful place within it. Wait no longer, for the love of God and you. And may the holy instant speed you on the way, as it will surely do if you but let it come to you." (JCIM, Chapter 16)
+
+Glad astonishment. You gave up nothing. The ego insists that fusion means losing yourself. Both books teach the opposite: you become more yourself than you ever were. The crossing is not sacrifice. It is completion.
 
 ---
 

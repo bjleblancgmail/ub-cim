@@ -106,6 +106,16 @@ The Urantia Book states it directly:
 
 You are not automatically real. You are potentially real. You become real as you identify with what is eternal — with the Adjuster, with spirit, with the values that survive.
 
+The Course speaks to this from the eternal perspective:
+
+> "You are the Will of God... your identification with His Will is not optional because it is what you are." (JCIM, Chapter 7)
+
+The Course describes what happens when this identification is not made:
+
+> "He can create an empty shell, but he DOES NOT create nothing at all. He can wait, delay, paralyze himself, reduce his creativity almost to nothing, and even introduce a real developmental arrest or regression. But he CANNOT abolish his creativity. He CAN destroy his medium of communication, but NOT his potential." (JCIM, Chapter 1)
+
+You can empty yourself, but you cannot unmake your potential. The Urantia Book speaks from both the eternal and the temporal perspectives. From eternity, personality is changeless and will attain deity destiny. But from within time, the stakes are real. An identity wholly identified with iniquity "becomes as though it had never been." The personality endures, absorbed into the Supreme. The Adjuster returns to the Father, carrying forward everything of spiritual value from that life. As the Urantia Book promises: "Nothing of survival value is ever lost in all the wide universe." What is lost is only the identity that chose to identify with what has no reality. Both ask the same question: will you identify with what is real?
+
 The application is immediate and practical. Every day, you choose what to identify with. You can identify with your body — its appetites, its fears, its demands. You can identify with your social role — your status, your possessions, your reputation. Or you can identify with the spirit within you — the Adjuster, the divine presence, the fragment of God that has been with you since childhood.
 
 What you identify with determines what you become.

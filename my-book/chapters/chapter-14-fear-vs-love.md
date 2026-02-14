@@ -106,6 +106,12 @@ The Course promises that fear will be eliminated. The Urantia Book promises that
 
 But you do not have to wait for death to begin the elimination of fear. The process can begin now. Every time you choose love over fear, you weaken fear's hold. Every time you remember what you really are — a child of God, temporarily housed in flesh, destined for fusion with the divine — fear loses a little more power.
 
+The deepest fear is that union with God means losing yourself. The Course addresses this directly:
+
+> "You have escaped from fear to peace, asking no questions of reality but merely accepting it. You have accepted this instead of the body and have let yourself be one with something beyond it simply by not letting your mind be limited by it." (JCIM, Feb 1967)
+
+Escaped from fear to peace. One with something beyond the body. Not by force, but simply by not letting your mind be limited. This is what both books are pointing toward: union that does not diminish you but frees you.
+
 The opposite of love is fear. But love is all-encompassing. In the end, fear has no place to stand. It was never real. It was only a fraud — a convincing fraud, but a fraud nonetheless.
 
 The truth is that you are loved. The truth is that you are safe. The truth is that nothing real can be threatened, and nothing unreal exists.

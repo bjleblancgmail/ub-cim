@@ -56,7 +56,13 @@
       "Bash(npx @anthropic/playwright-mcp@latest --help)",
       "Bash(npx @anthropic-ai/claude-code-playwright@latest:*)",
       "Bash(/tmp/rename_brian.ps1 << 'PSEOF'\n$basePath = \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\"\nGet-ChildItem -Path $basePath -Recurse | Where-Object { $_.Name -like '*Brian*' } | ForEach-Object {\n    $newName = $_.Name -replace 'Brian', 'Joseph'\n    $newPath = Join-Path $_.DirectoryName $newName\n    Rename-Item -Path $_.FullName -NewName $newName\n    Write-Output \"Renamed: $\\($_.FullName\\) -> $newPath\"\n}\nPSEOF)",
-      "Bash(/tmp/verify_brian.ps1 << 'PSEOF'\n$basePath = \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\"\n\nWrite-Output \"=== Checking for 'Brian' in file content ===\"\n$contentMatches = Get-ChildItem -Path $basePath -Recurse -Filter \"*.md\" | Select-String -Pattern 'Brian'\nif \\($contentMatches\\) {\n    $contentMatches | ForEach-Object { Write-Output \"$\\($_.Path\\):$\\($_.LineNumber\\): $\\($_.Line\\)\" }\n} else {\n    Write-Output \"No occurrences of 'Brian' found in any .md file content.\"\n}\n\nWrite-Output \"\"\nWrite-Output \"=== Checking for 'Brian' in filenames ===\"\n$nameMatches = Get-ChildItem -Path $basePath -Recurse | Where-Object { $_.Name -like '*Brian*' }\nif \\($nameMatches\\) {\n    $nameMatches | ForEach-Object { Write-Output $_.FullName }\n} else {\n    Write-Output \"No files with 'Brian' in their filename.\"\n}\nPSEOF)"
+      "Bash(/tmp/verify_brian.ps1 << 'PSEOF'\n$basePath = \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\.q-system\"\n\nWrite-Output \"=== Checking for 'Brian' in file content ===\"\n$contentMatches = Get-ChildItem -Path $basePath -Recurse -Filter \"*.md\" | Select-String -Pattern 'Brian'\nif \\($contentMatches\\) {\n    $contentMatches | ForEach-Object { Write-Output \"$\\($_.Path\\):$\\($_.LineNumber\\): $\\($_.Line\\)\" }\n} else {\n    Write-Output \"No occurrences of 'Brian' found in any .md file content.\"\n}\n\nWrite-Output \"\"\nWrite-Output \"=== Checking for 'Brian' in filenames ===\"\n$nameMatches = Get-ChildItem -Path $basePath -Recurse | Where-Object { $_.Name -like '*Brian*' }\nif \\($nameMatches\\) {\n    $nameMatches | ForEach-Object { Write-Output $_.FullName }\n} else {\n    Write-Output \"No files with 'Brian' in their filename.\"\n}\nPSEOF)",
+      "Bash(py -m pip install:*)",
+      "Bash(py build-epub.py:*)",
+      "Bash(for f in chapter-*.txt)",
+      "Bash(for f in appendix-*.txt)",
+      "Bash(start \"\" \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\Hold Files\\\\chapter-13-comparison.html\")",
+      "Bash(start \"\" \"C:\\\\Alpha\\\\UB-CIM \\(non fiction Author\\)\\\\Hold Files\\\\chapter-11-comparison.html\")"
     ]
   }
 }

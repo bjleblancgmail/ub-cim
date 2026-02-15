@@ -66,12 +66,6 @@ The Course is blunt:
 
 Peace of mind is impossible. As long as you try to live in both systems — serving the ego sometimes and the spirit sometimes, believing you are a body sometimes and a soul sometimes — you will experience conflict. The two systems are incompatible. They cannot be reconciled. One must be chosen.
 
-The Course makes the stakes clear:
-
-> "Your ego and your Soul will never be co-creators, but your Soul and YOUR Creator will ALWAYS be." (JCIM, Chapter 4)
-
-The ego cannot partner with God. It never will. Only the Soul — the Adjuster within — can enter that partnership. This is why the choice between the two thought systems is not a preference. It is a decision about which part of you will lead.
-
 The Urantia Book confirms this:
 
 > "The human mind does not well stand the conflict of double allegiance. It is a severe strain on the soul to undergo the experience of an effort to serve both good and evil. The supremely happy and efficiently unified mind is the one wholly dedicated to the doing of the will of the Father in heaven." (UB Paper 133, 133:7.12)
@@ -112,12 +106,6 @@ When you identify with the ego, God's love seems impossible. You feel unworthy, 
 
 How do you shift identification? Not by force. Not by denial. By practice.
 
-The Course names two stages in this process:
-
-> "Salvation is right-mindedness which is NOT the one-mindedness of the Soul, but which must be accomplished before one-mindedness can be restored." (JCIM, Chapter 4)
-
-Right-mindedness is the work you do now: choosing spirit over ego, truth over illusion, love over fear. One-mindedness is the destination: fusion, the state where human will and divine will are no longer separate. You cannot skip to the end. Right-mindedness must come first. The daily practice is how you get there.
-
 The Course workbook is 365 lessons — one for each day of the year — designed to train the mind to see differently. Each lesson is a small step in re-identification. Each day, you practice remembering what you really are.
 
 The Urantia Book describes the same practice through worship and prayer:
@@ -152,11 +140,11 @@ Your identification is with the Father and with the Son. When you remember this 
 
 ---
 
-## Section 7: The Choice That Ends Conflict
+## Section 7: Closing — The Choice That Ends Conflict
 
 The conflict of two thought systems is real. You are experiencing it. But it is not permanent.
 
-Choose one and relinquish the other. The supremely happy mind is wholly dedicated to the Father's will. Peace comes through decision.
+The Course says you must choose one and relinquish the other. The Urantia Book says the supremely happy mind is wholly dedicated to the Father's will. Both are saying the same thing: peace comes through decision.
 
 You do not have to make this decision all at once. You do not have to be perfect. You only have to keep choosing — moment by moment, day by day — to identify with spirit rather than ego, with the Adjuster rather than the fears of the material mind.
 

@@ -74,6 +74,18 @@ The answer is simple: love sees a lack of love.
 
 Where the ego sees attack, love sees a call for help. Where the ego sees guilt deserving punishment, love sees fear crying out for reassurance. Where the ego builds a case for condemnation, love recognizes a brother who has forgotten what he is.
 
+Consider a concrete example. Someone strikes you. The ego sees an attack and demands a response: defend, retaliate, or at minimum, document the offense. But the Holy Spirit sees the same event differently. It does not deny the blow. It does not pretend nothing happened. It sees the blow as a cry for love, an act born of fear, not malice. And a cry for love requires a response of love, not a response of defense.
+
+The Course says: "Forgive your brother for what he did not do." This does not mean he did not strike you. It means what he did not do was truly attack you, even though both he and you believed he did. The moment you understand the truth, that the blow was a cry for love, there is nothing remaining that requires forgiving. The offense dissolves. Not because you suppressed it, but because you saw through it to what was really happening.
+
+This is the difference between mercy and love in a single moment. Mercy says: "He hit me, but I will not hit back." Love says: "He is in pain. How can I help?"
+
+And this is why Jesus taught what he taught about turning the other cheek. For centuries, that teaching has been read as passivity, as a call to stand there and take it. But The Urantia Book records what Jesus actually meant:
+
+> "When an enemy smites you on one cheek, do not stand there dumb and passive but in positive attitude turn the other; that is, do the best thing possible actively to lead your brother in error away from the evil paths into the better ways of righteous living." (UB Paper 159, 159:5.9)
+
+Not passivity. Initiative. When you see the blow as a cry for love, turning the other cheek is not submission. It is the most active, courageous thing you can do: refusing to enter the ego's world of attack and defense, and instead responding from the real world, where your brother's fear is met with love.
+
 The Urantia Book describes this reorientation:
 
 > "Jesus, by the power of his personal love for men, could break the hold of sin and evil. He thereby set men free to choose better ways of living. Jesus portrayed a deliverance from the past which in itself promised a triumph for the future. Forgiveness thus provided salvation." (UB Paper 188, 188:5.3)
@@ -109,6 +121,8 @@ The Course teaches that you must look with the Holy Spirit rather than the ego. 
 But the Holy Spirit sees only two things: love, and calls for love. When your brother acts in love, the appropriate response is gratitude. When your brother acts without love, the appropriate response is compassion — recognizing his fear, his forgetfulness, his suffering.
 
 Neither response requires keeping score. Neither response preserves the proof that he is not really innocent.
+
+When you see this clearly, forgiveness is no longer an effort of will. It is simply what happens when understanding replaces judgment.
 
 The Urantia Book says:
 

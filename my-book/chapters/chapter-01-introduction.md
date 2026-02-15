@@ -84,6 +84,8 @@ Heaven is not a place you go. It is a state you become. The union of your will w
 
 Adjuster fusion is a moon shot. But first comes theory, then practice. First you need a goal to aim for. The path described here begins with maps drawn long before anyone makes the journey.
 
+For this author, this is a theoretical exercise. I have not attained these lofty goals. But I hope this book inspires a community to explore this moon shot, taking humanity to another level of awareness.
+
 ---
 
 This guide is organized in three parts.

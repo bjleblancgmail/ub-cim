@@ -60,7 +60,7 @@ The Urantia Book means this literally. The Adjuster is a piece of the Universal 
 
 > "Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival."
 
-The Adjuster has a mission: to prepare you for fusion. Throughout your life, it works to create a *soul* — a new reality that is neither fully human nor fully divine, but a blending of both. Every worthy thought, every unselfish choice, every movement toward truth and beauty and goodness becomes material the Adjuster uses to build this soul.
+The Adjuster has a mission: to prepare you for fusion. Throughout your life, it works to create a soul, a new reality that is neither fully human nor fully divine, but a blending of both. Every worthy thought, every unselfish choice, every movement toward truth and beauty and goodness becomes material the Adjuster uses to build this soul. The Course calls this the work of "your creations," the spiritual reality you are building through your choices. You are not passive in this process. The Adjuster builds, and you create. Together, you are making something that will survive.
 
 Fusion is the culmination. At some point — whether in this life or on the mansion worlds after death — the human will and the Adjuster's will become so aligned that separation is no longer possible. The two become one. The mortal has become immortal. The creature has united permanently with a fragment of the Creator. The Urantia Book describes what fusion imparts:
 
@@ -73,6 +73,12 @@ The Course in Miracles describes the same process in its own language:
 > "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true."
 
 Your creations — your worthy thoughts, your loving choices, your movements toward truth — are your gift to the Holy Trinity. They extend your being as God extended Himself to you through the Adjuster. And they are eternal. The Urantia Book calls this the building of the soul. The Course calls it your creations. Both are describing what survives — what you are becoming through partnership with the divine fragment within.
+
+A note on vocabulary. The Course's original dictation draws a careful line between two words that are easily confused:
+
+> "Since the Separation, the words 'create' and 'make' are inevitably confused. When you make something, you make it first out of a sense of lack or need, and second, out of a something that already exists." (JCIM Urtext)
+
+God creates. The ego makes. Creation flows from fullness; making flows from lack. The ego takes what God created and remakes it into something fearful. But you, in partnership with the Adjuster, are not making. You are creating. Your soul is not assembled from scraps of need. It is extended from the divine spark within you, just as God extended Himself to you. This is why your creations are eternal: they share the nature of their source.
 
 ---
 
@@ -186,9 +192,15 @@ Adjuster fusion is not a special achievement for spiritual elites. It is the nat
 
 The universe expects you to fuse. The Adjuster within you came for this purpose. The entire structure of reality is arranged to support it.
 
+The original dictation of the Course confirms this in striking language:
+
+> "And this universe, being of God, is far beyond the petty sum of all the separate bodies YOU perceive. For all its parts are joined in God through Christ, where they become like to their Father." (JCIM Urtext)
+
+This universe, being of God. Not made by the ego. Not an illusion to escape. A creation of God in which all parts are joined, designed for exactly this purpose: that the creature might become like the Creator. The required course is learning to see this, to shift from the ego's fearful remake of reality to the universe as God actually created it.
+
 Why, then, does it seem so rare? Why do so few people even know about it?
 
-The Urantia Book explains that on normal worlds — worlds without the confusion of rebellion — fusion is common. Mortals grow up understanding their divine potential. The culture supports it. The path is clear.
+The Urantia Book explains that on normal worlds, worlds without the confusion of rebellion, the fall, fusion is common. Mortals grow up understanding their divine potential. The culture supports it. The path is clear.
 
 Our world is not normal. Isolation, rebellion, and spiritual confusion have obscured what should be obvious. But the requirement has not changed. The destination has not moved. Only the difficulty of finding the path has increased.
 
@@ -202,7 +214,7 @@ Together, they make the required course passable.
 
 The Course says only the *time* is voluntary. You can delay. You can resist. You can spend years or decades wandering. And if fusion does not happen in this life, the journey continues. The Urantia Book describes the mansion worlds — training spheres where mortals who survived death resume their ascension. The work begun here is completed there. What was not learned in the flesh can be learned in the morontia life that follows.
 
-But the requirement remains. Fusion is not optional. Whether on this world or the worlds to come, every surviving soul must eventually achieve what these two books describe: the permanent union of the human will with the divine.
+But the requirement remains. Fusion is not optional. The Urantia Book describes rare exceptions, mortals who fuse with the Son or the Spirit rather than the Adjuster, but the principle holds: whether on this world or the worlds to come, every surviving soul must eventually achieve permanent union of the human will with the divine.
 
 These two books exist to help you complete the requirement — and perhaps to shorten the time it takes.
 

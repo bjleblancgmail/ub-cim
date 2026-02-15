@@ -163,7 +163,6 @@ These mappings are helpful but not perfect. Several cautions apply:
 
 **Avoid over-simplification.** The Course and the Urantia Book are not identical texts with different vocabulary. Each has emphases and perspectives the other lacks. The mappings identify correspondences, not equations.
 
-**Context matters.** The same Course term may have different meanings in different passages. "Soul" sometimes refers to the Adjuster, sometimes to the emerging morontia soul, sometimes to the whole person. Reading carefully is essential.
 
 **The mapping is incomplete.** These correspondences represent current understanding. Further study may reveal additional nuances, corrections, or expansions. This bridge is under construction.
 

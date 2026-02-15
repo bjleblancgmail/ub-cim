@@ -12,11 +12,11 @@ The Course in Miracles describes itself plainly:
 
 Not a course in theology. Not a course in cosmology. A course in *training the mind* — teaching it to see differently, to choose differently, to identify differently.
 
-The Urantia Book describes the same process without calling it a course:
+The Urantia Book doesn't call it a course, but it names the destination:
 
 > "The truly religious individual seeks to identify the self with the universe and then to dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman." (UB Paper 5, 5:4.3)
 
-Identify the self with the universe. This is what both books are teaching — a fundamental shift in what you believe yourself to be. Not the body. Not the ego. Not the collection of fears and desires that make up ordinary consciousness. Something larger. Something eternal.
+Identify the self with the universe: a fundamental shift in what you believe yourself to be. Not the body. Not the ego. Not the collection of fears and desires that make up ordinary consciousness. Something larger. Something eternal.
 
 The Course aims to lessen your identification with material reality and strengthen your identification with spirit reality. The Urantia Book describes this as the prerequisite for becoming real:
 
@@ -30,7 +30,7 @@ You are not yet fully real. You are becoming real. And what makes you real is wh
 
 Everyone identifies with something. You cannot escape it. The question is not whether you will identify, but with *what*.
 
-The Course says:
+And that choice has consequences. The Course says:
 
 > "Everyone identifies himself with his thought system, and every thought system centers on what you believe you are. If the center of the thought system is true, only truth extends from it. But if a lie is at its center, only deception proceeds from it." (JCIM, Chapter 6, Tx 6.71)
 
@@ -72,7 +72,7 @@ The Course makes the stakes clear:
 
 The ego cannot partner with God. It never will. Only the Soul — the Adjuster within — can enter that partnership. This is why the choice between the two thought systems is not a preference. It is a decision about which part of you will lead.
 
-The Urantia Book confirms this:
+The cost of divided allegiance is steep. The Urantia Book says:
 
 > "The human mind does not well stand the conflict of double allegiance. It is a severe strain on the soul to undergo the experience of an effort to serve both good and evil. The supremely happy and efficiently unified mind is the one wholly dedicated to the doing of the will of the Father in heaven." (UB Paper 133, 133:7.12)
 
@@ -100,7 +100,7 @@ The Urantia Book explains why the struggle cannot be avoided:
 
 The animal mind rebels. This is what the Course calls the ego's resistance — the part of you that fights the very growth you are seeking.
 
-The Course describes the same territory:
+And here is why the ego fights so hard against the shift. The Course says:
 
 > "You who identify with your egos cannot believe that God loves you." (JCIM, Chapter 4, Tx 4.49)
 
@@ -120,13 +120,13 @@ Right-mindedness is the work you do now: choosing spirit over ego, truth over il
 
 The Course workbook is 365 lessons — one for each day of the year — designed to train the mind to see differently. Each lesson is a small step in re-identification. Each day, you practice remembering what you really are.
 
-The Urantia Book describes the same practice through worship and prayer:
+The Urantia Book grounds this re-identification in worship and prayer:
 
 > "Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity." (UB Paper 143, 143:7.8)
 
 Worship is identification. When you worship, you are not begging a distant God for favors. You are aligning yourself — identifying yourself — with the source of your being. You are remembering your place in the larger reality. You are striking step with eternity.
 
-And prayer, the Urantia Book says:
+And prayer takes identification even deeper. The Urantia Book says:
 
 > "Prayer becomes the great unifier of the various inspirations of the creative imagination and the faith urges of a soul trying to identify itself with the spirit ideals of the indwelling and associated divine presence." (UB Paper 132, 132:3.10)
 
@@ -136,15 +136,13 @@ A soul trying to identify itself. That is what you are doing. Every time you pra
 
 ## Section 6: Liberation from Time
 
-Something remarkable happens as identification shifts: time loosens its grip.
-
-The Urantia Book says:
+Something remarkable happens as identification shifts: time loosens its grip. The Urantia Book says:
 
 > "Spiritual volition has begun to taste liberation from the fetters of time, having achieved partial escape from time sequence, and that is because spiritual volition is self-identifying with the will of God." (UB Paper 118, 118:6.6)
 
 Liberation from the fetters of time. As you identify with spirit, you begin to experience time differently. The anxious urgency of the ego — always rushing, always worried about the future — begins to fade. The eternal present becomes more accessible. You taste, even now, the timelessness that will be fully yours after fusion.
 
-The Course speaks of the same release:
+The imprisonment is self-inflicted, and so is the release. The Course says:
 
 > "When you imprison yourself, you are losing sight of your true identification with me and with the Father. Your identification is with the Father and with the Son. It cannot be with one and not the other." (JCIM, Chapter 8, Tx 8.34)
 

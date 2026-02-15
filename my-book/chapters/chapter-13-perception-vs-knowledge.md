@@ -6,9 +6,9 @@
 
 ## Section 1: Opening — Two Ways of Knowing
 
-The Course in Miracles makes a distinction that runs through its entire teaching: perception and knowledge are not the same thing. They operate by different rules. They see different worlds. And only one of them is true.
+There are two ways of knowing, and only one of them is true.
 
-The Holy Spirit, it says, is the bridge between them:
+The Course in Miracles makes a distinction that runs through its entire teaching: perception and knowledge operate by different rules. They see different worlds. And something bridges the gap between them. The Course says:
 
 > "The Holy Spirit is the bridge or thought-transfer of perception to knowledge." (JCIM, Chapter 5, Tx 5.32)
 
@@ -24,11 +24,11 @@ Two levels of mind. Two ways of knowing. And a bridge between them.
 
 Perception is how you navigate the world right now. It is constructed by the body's senses, interpreted by the brain, and colored by everything you have ever experienced. It is useful. It keeps you alive. But it can be mistaken.
 
-The Urantia Book says:
+And its limitations go deeper than occasional errors. The Urantia Book says:
 
 > "The human mind does not create real values; human experience does not yield universe insight. Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose." (UB Paper 196, 196:3.10)
 
-The human mind does not create real values. It can recognize them, interpret them, choose them, but their source lies beyond perception, in the realm the Course calls knowledge.
+The source of real values lies beyond perception, in the realm the Course calls knowledge.
 
 This is why the Course says, from the eternal perspective, the world you see is not real. It is not saying the chairs and tables are imaginary. It is saying that your interpretation of reality, colored by fear and desire, filtered through the ego, is not the truth. It is a construction. And constructions can be reconstructed.
 
@@ -44,11 +44,11 @@ The ego depends on this confusion. It lives in perception, needs perception to r
 
 Knowledge, in the Course's terminology, is not information. It is not facts you have learned or conclusions you have reasoned your way toward. Knowledge is direct awareness of truth.
 
-The Course says:
+And it is where the journey leads. Not learning in the ordinary sense, but transformation. The Course says:
 
 > "When the Holy Spirit has at last led you to Christ, at the altar to His Father, perception fuses into knowledge, because perception has become so holy that its transfer to Holiness is merely its natural extension." (JCIM, Chapter 11, Tx 11.59)
 
-Perception fuses into knowledge. This is not learning in the ordinary sense. It is transformation. The perceiving mind becomes so aligned with truth that it dissolves into direct knowing.
+The perceiving mind becomes so aligned with truth that it dissolves into direct knowing.
 
 The Adjuster already has this knowledge. It does not perceive. It knows. And fusion with the Adjuster means your mind gains access to that knowing, not as information received from outside, but as a reality recognized from within.
 
@@ -64,13 +64,11 @@ These adjutant minds are not evil. They are the gift of the universe to developi
 
 The ego is not a separate entity. It is a pattern of thought that develops within the adjutant mind, a pattern of self-centeredness, separation, and fear. The ego identifies with the body. It perceives threat everywhere. It defends endlessly.
 
-The spiritual journey involves moving beyond the ego, not by destroying it, but by outgrowing it. The Urantia Book says:
+The spiritual journey involves moving beyond the ego, not by destroying it, but by outgrowing it. The Urantia Book describes this outgrowing as a measurable progression through psychic circles:
 
 > "From the seventh to the third circle there occurs increased and unified action of the seven adjutant mind-spirits in the task of weaning the mortal mind from its dependence on the realities of the material life mechanisms preparatory to increased introduction to morontia levels of experience. From the third circle onward the adjutant influence progressively diminishes." (UB Paper 110, 110:6.20)
 
-The adjutant influence diminishes. As you progress through the circles, you rely less on the perceiving mind and more on the higher mind circuits, the influence of the Holy Spirit, the superconscious realm where the Adjuster works.
-
-And the Urantia Book says:
+As you progress, you rely less on the perceiving mind and more on the higher mind circuits, the superconscious realm where the Adjuster works. And there is a finish line. The Urantia Book says:
 
 > "The mastery of the first cosmic circle signalizes the attainment of premorontia mortal maturity and marks the termination of the conjoint ministry of the adjutant mind-spirits as an exclusive influence of mind action in the human personality. Beyond the first circle, mind becomes increasingly akin to the intelligence of the morontia stage of evolution." (UB Paper 110, 110:6.21)
 
@@ -82,11 +80,11 @@ The perceiving mind is no longer in charge. Something higher has taken its place
 
 How do you move from perception to knowledge? You cannot do it yourself. Perception cannot correct itself. The ego cannot transcend itself. Something from outside the system must intervene.
 
-The Course says:
+The bridge is the Holy Spirit, and the way to cross it is through your brother. The Course says:
 
 > "The way to learn to know your brother is by perceiving the Holy Spirit in him. We have already said that the Holy Spirit is the bridge or thought-transfer of perception to knowledge, so we can use the terms as if they were related because, in His mind, they ARE." (JCIM, Chapter 5, Tx 5.32)
 
-The Holy Spirit bridges perception and knowledge because the Holy Spirit sees both. The Holy Spirit knows truth, but also understands your perception. From that position, the Holy Spirit can guide you from where you are to where you need to be.
+The Holy Spirit sees both sides, truth and your perception of it, and can guide you from where you are to where you need to be.
 
 As adjutant influence diminishes, the mind becomes more responsive to the Adjuster and to the Spirit of Truth, the spirit of Jesus poured out upon all flesh. These spiritual influences work within your mind to lift it beyond the perceiving level into direct contact with truth.
 
@@ -110,13 +108,11 @@ You cannot maintain both indefinitely. Eventually a choice must be made. The uni
 
 ## Section 7: The Crossing
 
-The goal is not to fight perception forever. The goal is to transform it, to purify it so completely that it becomes transparent to knowledge.
-
-The Course says:
+The goal is not to fight perception forever. The goal is to transform it, to purify it so completely that it becomes transparent to knowledge. And at the end of that transformation, something breaks through. The Course says:
 
 > "At the altar of God, the holy perception of God's Son becomes so enlightened that light streams into it." (JCIM, Chapter 11, Tx 11.60)
 
-Perception becomes holy. It becomes so aligned with truth that it no longer distorts. And at that point, led to the altar by the Holy Spirit, perception fuses into knowledge. The bridge has been crossed.
+Perception, aligned with truth at last, no longer distorts. It fuses into knowledge. The bridge has been crossed.
 
 But the crossing has a midpoint, and both books describe it.
 

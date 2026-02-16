@@ -164,7 +164,7 @@ You are not going to a strange heaven. You are going home.
 
 ---
 
-## Section 8: Closing — When Time Ends
+## Section 8: Closing: When Time Ends
 
 Time exists for a reason. Both books agree on what that reason is.
 

@@ -60,7 +60,11 @@
       "Bash(git -C /Users/brianleblanc/code/ub-cim status)",
       "Bash(perl -pe:*)",
       "WebFetch(domain:circleofa.org)",
-      "WebFetch(domain:www.miraclecenter.org)"
+      "WebFetch(domain:www.miraclecenter.org)",
+      "Bash(git pull:*)",
+      "Bash(gh auth:*)",
+      "WebFetch(domain:www.urantiabook.org)",
+      "WebFetch(domain:members.urantiabook.org)"
     ]
   }
 }

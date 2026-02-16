@@ -4,7 +4,7 @@
 
 ---
 
-## Section 1: Opening — Two Ways of Knowing
+## Section 1: Opening: Two Ways of Knowing
 
 There are two ways of knowing, and only one of them is true.
 

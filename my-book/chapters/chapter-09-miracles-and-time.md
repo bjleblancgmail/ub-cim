@@ -4,9 +4,9 @@
 
 ---
 
-## Section 1: Opening — What Is a Miracle?
+## Section 1: Opening: What Is a Miracle?
 
-The word "miracle" has been cheapened. We use it for parking spaces and sports victories. We use it for anything surprising. But both the Urantia Book and the Course in Miracles treat miracles with precision — and their definitions reveal something profound about the nature of reality.
+The word "miracle" has been cheapened. We use it for parking spaces and sports victories. We use it for anything surprising. But both the Urantia Book and the Course in Miracles treat miracles with precision, and their definitions reveal something profound about the nature of reality.
 
 The Course opens with fifty miracle principles. The very first:
 
@@ -20,9 +20,9 @@ The Urantia Book provides the framework:
 
 > "It therefore becomes evident that any possible supernatural or supposedly superhuman accompaniments of Jesus' ministry pertained wholly to the elimination of time unless the Father in heaven specifically ruled otherwise." (UB Paper 136, 136:5.5)
 
-The elimination of time. This is the key. Miracles are not violations of natural law — they are operations that bypass the time factor. What would take years happens in moments. What would take generations happens now. The laws of nature are not broken; they are accelerated beyond recognition.
+The elimination of time. This is the key. Miracles are not violations of natural law. They are operations that bypass the time factor. What would take years happens in moments. What would take generations happens now. The laws of nature are not broken; they are accelerated beyond recognition.
 
-This is why there is no order of difficulty. From the eternal perspective — where time does not constrain — healing a headache and healing cancer require the same thing: the removal of the temporal delay between cause and effect. In eternity, all healing is instantaneous. Miracles simply allow that eternity to touch time.
+This is why there is no order of difficulty. From the eternal perspective, where time does not constrain, healing a headache and healing cancer require the same thing: the removal of the temporal delay between cause and effect. In eternity, all healing is instantaneous. Miracles simply allow that eternity to touch time.
 
 ---
 
@@ -88,15 +88,15 @@ Time was the variable. And so The Urantia Book continues:
 
 > "In order to prevent the appearance of apparent time miracles, it was necessary for Jesus to remain constantly time conscious. Any lapse of time consciousness on his part, in connection with the entertainment of definite desire, was equivalent to the enactment of the thing conceived in the mind of this Creator Son, and without the intervention of time." (UB Paper 136, 136:5.5)
 
-Read that again. If Jesus conceived a desire and momentarily forgot about time — even for an instant — the thing would simply happen. Immediately. Without delay. His mind, connected to the creative power of a Creator Son, could manifest reality the moment time-awareness lapsed.
+Read that again. If Jesus conceived a desire and momentarily forgot about time, even for an instant, the thing would simply happen. Immediately. Without delay. His mind, connected to the creative power of a Creator Son, could manifest reality the moment time-awareness lapsed.
 
-This is why Jesus was so careful. This is why he performed relatively few miracles compared to what he could have done. He had to stay "constantly time conscious" — deliberately keeping himself anchored in the temporal flow so that his every passing thought did not immediately materialize.
+This is why Jesus was so careful. This is why he performed relatively few miracles compared to what he could have done. He had to stay "constantly time conscious," deliberately keeping himself anchored in the temporal flow so that his every passing thought did not immediately materialize.
 
 The Course hints at the same power available to all minds aligned with God:
 
 > "Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense, everything that comes from love is a miracle." (JCIM, Chapter 1, Tx 1.3)
 
-Love is creative. Love aligned with God participates in God's creative power. Jesus demonstrated what that looks like when fully realized — and why such power requires perfect wisdom and restraint.
+Love is creative. Love aligned with God participates in God's creative power. Jesus demonstrated what that looks like when fully realized, and why such power requires perfect wisdom and restraint.
 
 ---
 
@@ -108,9 +108,9 @@ The Course states the principle directly:
 
 Material law operates within time. Cause precedes effect. Seeds grow into trees through seasons. Wounds heal through cellular processes that take days or weeks. These are the laws of time, and they are real. But they are not the only laws.
 
-Eternal law operates outside time. In eternity, cause and effect are simultaneous. There is no waiting, no sequence, no delay. What is true is simply true — immediately, completely, forever.
+Eternal law operates outside time. In eternity, cause and effect are simultaneous. There is no waiting, no sequence, no delay. What is true is simply true: immediately, completely, forever.
 
-When eternal law touches temporal existence, miracles happen. The temporal process is not violated; it is transcended. The healing that would take months happens in the space of a prayer — not because the body skipped steps, but because it was momentarily lifted into a framework where those steps are instantaneous.
+When eternal law touches temporal existence, miracles happen. The temporal process is not violated; it is transcended. The healing that would take months happens in the space of a prayer, not because the body skipped steps, but because it was momentarily lifted into a framework where those steps are instantaneous.
 
 We live in a slow dimension. But we are not only material. The Urantia Book says:
 
@@ -128,7 +128,7 @@ The Course answers: they do. We simply do not recognize them.
 
 > "Miracles are habits and should be involuntary. They should not be under conscious control. Consciously selected miracles can be misguided." (JCIM, Chapter 1, Tx 1.5)
 
-The deliberate miracle — the one where you try to make something happen — is fragile. It depends on your understanding, your timing, your purity of motive. But the involuntary miracle — the one that flows through you because you have aligned with love — happens constantly.
+The deliberate miracle, the one where you try to make something happen, is fragile. It depends on your understanding, your timing, your purity of motive. But the involuntary miracle, the one that flows through you because you have aligned with love, happens constantly.
 
 Every time you choose peace instead of conflict, time shortens. Every time you forgive instead of resent, a wall comes down. Every time you see someone as a child of God rather than as their mistakes, you clear the path for both of you. These are miracles. They may not look dramatic. They are still eliminations of time.
 
@@ -140,7 +140,7 @@ And the Course:
 
 > "They depend on cooperation because the Sonship is the sum of all the Souls God created." (JCIM, Chapter 1, Tx 1.19)
 
-Miracles require love, and love requires union. The isolated ego cannot perform miracles because it is cut off from the source of creative power. But the mind joined with God, aware of its connection to all other minds — that mind participates in eternity. And eternity is where miracles come from.
+Miracles require love, and love requires union. The isolated ego cannot perform miracles because it is cut off from the source of creative power. But the mind joined with God, aware of its connection to all other minds, that mind participates in eternity. And eternity is where miracles come from.
 
 ---
 
@@ -152,23 +152,23 @@ The Adjuster is an eternal being, working from the eternal perspective. From whe
 
 The Course teaches that miracles are expressions of love, but they may not always produce visible results.
 
-Not always observable. But always real. The work being done in you — the slow reconstruction of your soul, the gradual shift from ego to spirit, the accumulating weight of every loving choice — this is miracle in slow motion. It is eternity working within time, patiently, persistently, until the day when time is no longer needed.
+Not always observable. But always real. The work being done in you, the slow reconstruction of your soul, the gradual shift from ego to spirit, the accumulating weight of every loving choice, this is miracle in slow motion. It is eternity working within time, patiently, persistently, until the day when time is no longer needed.
 
 You are being shortened. The distance between who you are and who you will be is collapsing with every true prayer, every genuine forgiveness, every moment you remember that you are not alone.
 
 ---
 
-## Section 7: Closing — The Gift of Time
+## Section 7: Closing: The Gift of Time
 
 Time is not a prison. It is a gift.
 
-The Course says time is a learning device. The Urantia Book says it is scaffolding. Both are right. We need time because we are not yet ready to live without it. The eternal now would overwhelm us. The instantaneous manifestation of every thought would terrify us — and rightly so, given how confused our thoughts remain.
+The Course says time is a learning device. The Urantia Book says it is scaffolding. Both are right. We need time because we are not yet ready to live without it. The eternal now would overwhelm us. The instantaneous manifestation of every thought would terrify us, and rightly so, given how confused our thoughts remain.
 
 Time gives us room to learn, to make mistakes, to change our minds. It gives us second chances. It lets us grow slowly enough to integrate what we learn.
 
-But miracles remind us that time is not ultimate. They are windows, glimpses, promises. They say: this is not all there is. The slow world you inhabit is surrounded by a fast world you cannot see. And one day — one day that may feel like ages from now but is already present in eternity — you will live there.
+But miracles remind us that time is not ultimate. They are windows, glimpses, promises. They say: this is not all there is. The slow world you inhabit is surrounded by a fast world you cannot see. And one day, one day that may feel like ages from now but is already present in eternity, you will live there.
 
-Until then, be grateful for the miracles you receive, and more grateful still for the miracles you give. Every act of love shortens someone's suffering. Every extension of peace eliminates a wall. Every moment you remember that you are not separate from God, you are performing a miracle — whether you see its effects or not.
+Until then, be grateful for the miracles you receive, and more grateful still for the miracles you give. Every act of love shortens someone's suffering. Every extension of peace eliminates a wall. Every moment you remember that you are not separate from God, you are performing a miracle, whether you see its effects or not.
 
 The laws of eternity are always operating. The only question is whether you will cooperate with them. The Course reveals where all of this leads:
 
@@ -176,4 +176,4 @@ The laws of eternity are always operating. The only question is whether you will
 
 Every miracle you perform or receive is not just a personal healing. It is a step toward the moment when time ends and Father and Son are one. This is the fusion thesis at work inside the miracle principles: every collapse of time is a step toward fusion.
 
-You are resting there too, even now — even if you have not yet noticed.
+You are resting there too, even now, even if you have not yet noticed.

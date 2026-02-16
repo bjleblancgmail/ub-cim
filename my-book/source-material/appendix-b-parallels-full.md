@@ -12,13 +12,13 @@ These parallels use strikingly similar or nearly identical wording.
 
 ### 1. Deny the Body / Deny the Mechanism
 
-Both texts reject a common spiritual error: the denial of physical reality. Some seekers believe that spirituality requires denying the body or the material world. Both books disagree — and use strikingly similar language to say so.
+Both texts reject a common spiritual error: the denial of physical reality. Some seekers believe that spirituality requires denying the body or the material world. Both books disagree, and use strikingly similar language to say so.
 
 **JCIM:**
 > "56 The body, if properly understood, shares the invulnerability of the Atonement to two-edged application. This is not because the body is a miracle but because it is not inherently open to misinterpretation. The body is merely a fact in human experience. Its abilities can be and frequently are over-evaluated. HOWEVER, IT IS ALMOST IMPOSSIBLE TO DENY ITS EXISTENCE. Those who do so are engaging in a particularly unworthy form of denial. The term 'unworthy' here implies simply that it is not necessary to protect the mind by denying the unmindful."
 
 **Urantia Book (118:9.4):**
-> "The grand universe is mechanism as well as organism, mechanical and living—a living mechanism activated by a Supreme Mind, co-ordinating with a Supreme Spirit, and finding expression on maximum levels of power and personality unification as the Supreme Being. BUT TO DENY THE MECHANISM OF THE FINITE CREATION IS TO DENY FACT AND TO DISREGARD REALITY."
+> "The grand universe is mechanism as well as organism, mechanical and living, a living mechanism activated by a Supreme Mind, co-ordinating with a Supreme Spirit, and finding expression on maximum levels of power and personality unification as the Supreme Being. BUT TO DENY THE MECHANISM OF THE FINITE CREATION IS TO DENY FACT AND TO DISREGARD REALITY."
 
 *Parallel warning against denying physical/material reality. Both texts reject the notion that spirituality requires denying the body or material world.*
 
@@ -26,7 +26,7 @@ Both texts reject a common spiritual error: the denial of physical reality. Some
 
 ### 2. Elder Brother and Sonship
 
-The terminology is identical. Both texts use "Elder Brother" to describe Jesus's relationship to humanity. Both speak of "the Sonship" — the collective family of God's children. This is not coincidence.
+The terminology is identical. Both texts use "Elder Brother" to describe Jesus's relationship to humanity. Both speak of "the Sonship," the collective family of God's children. This is not coincidence.
 
 **JCIM:**
 > "80 I bridge the distance as an ELDER BROTHER to man on the one hand and as a Son of God on the other. My devotion to my brothers has placed me in charge of the SONSHIP, which I can render complete only to the extent to which I can share it. This may appear to contradict the statement, 'I and my Father are one,' but there are still separate parts in the statement in recognition ...that the Father is greater."
@@ -36,7 +36,7 @@ The terminology is identical. Both texts use "Elder Brother" to describe Jesus's
 **Urantia Book (40:6.3):**
 > "All evolutionary worlds of mortal habitation harbor these faith sons of God, sons of grace and mercy, mortal beings belonging to the divine family and accordingly called the sons of God. Urantia mortals are entitled to regard themselves as being the sons of God because:
 > 1. You are sons of spiritual promise, faith sons; you have accepted the status of SONSHIP. You believe in the reality of your SONSHIP, and thus does your SONSHIP with God become eternally real.
-> 2. A Creator Son of God became one of you; he is your ELDER BROTHER in fact; and if in spirit you become truly related brothers of Christ, the victorious Michael, then in spirit must you also be sons of that Father which you have in common—even the Universal Father of all."
+> 2. A Creator Son of God became one of you; he is your ELDER BROTHER in fact; and if in spirit you become truly related brothers of Christ, the victorious Michael, then in spirit must you also be sons of that Father which you have in common, even the Universal Father of all."
 
 *Identical terminology: "Elder Brother" and "Sonship" used in the same relational context.*
 
@@ -44,7 +44,7 @@ The terminology is identical. Both texts use "Elder Brother" to describe Jesus's
 
 ### 3. The Divine Spark / Adjuster
 
-The Urantia Book calls it the Thought Adjuster — a divine fragment living within the human mind. The Course speaks of "the spark" — eternal, everywhere, kept alive by God. Same metaphor. Same indwelling presence.
+The Urantia Book calls it the Thought Adjuster, a divine fragment living within the human mind. The Course speaks of "the spark," eternal, everywhere, kept alive by God. Same metaphor. Same indwelling presence.
 
 **JCIM (Chapter Nine: The Correction of Error, X. Magic Versus Miracles):**
 > "The power of one mind can shine into another because all the lamps of God were lit by the same SPARK. It is everywhere, and it is eternal."
@@ -60,7 +60,7 @@ The Urantia Book calls it the Thought Adjuster — a divine fragment living with
 
 ### 4. Forgiveness Already Accomplished
 
-Do not ask to be forgiven — it has already happened. Both texts teach that divine forgiveness precedes the asking. Our task is not to earn forgiveness but to learn to give it.
+Do not ask to be forgiven; it has already happened. Both texts teach that divine forgiveness precedes the asking. Our task is not to earn forgiveness but to learn to give it.
 
 **JCIM:**
 > "88 When you have let all that obscured the truth in your most holy mind be undone for you and stand in grace before your Father, He will give Himself to you as He has always done. Giving Himself is all He knows, and so it is all knowledge. For what He knows not cannot be and therefore cannot be given. ASK NOT TO BE FORGIVEN, FOR THIS HAS ALREADY BEEN ACCOMPLISHED. Ask, rather, to learn how to forgive and restore what always was to your unforgiving mind. Atonement becomes real and visible to them that use it. On earth this is your only function, and you must learn that it is all you want to learn."
@@ -72,9 +72,9 @@ Do not ask to be forgiven — it has already happened. Both texts teach that div
 
 ---
 
-### 5. Words Are Valueless — Spirit Content Matters
+### 5. Words Are Valueless: Spirit Content Matters
 
-Words are symbols of symbols — twice removed from reality. Both texts dismiss verbal formulation as the spiritual vehicle. What matters is the motivating thought, the spiritual content behind the prayer.
+Words are symbols of symbols, twice removed from reality. Both texts dismiss verbal formulation as the spiritual vehicle. What matters is the motivating thought, the spiritual content behind the prayer.
 
 **JCIM (21. What Is the Role of Words in Healing?):**
 > "1 Strictly speaking, words play no part at all in healing. The motivating factor is prayer, or asking. What you ask for, you receive. But this refers to the prayer of the heart, not to the words you use in praying. Sometimes the words and the prayer are contradictory; sometimes they agree. It does not matter. God does not understand words, for they were made by separated minds to keep them in the illusion of separation. Words can be helpful, particularly for the beginner, in helping concentration and facilitating the exclusion or at least the control of extraneous thoughts. Let us not forget, however, that words are but symbols of symbols. They are thus twice removed from reality."
@@ -92,13 +92,13 @@ Words are symbols of symbols — twice removed from reality. Both texts dismiss 
 
 ### 6. Free Will Cannot Be Overridden
 
-Not even God overrides creature free will. Both texts insist on this. The Father refuses to coerce. Jesus says his will cannot overcome ours. This is not weakness — it is the nature of divine love.
+Not even God overrides creature free will. Both texts insist on this. The Father refuses to coerce. Jesus says his will cannot overcome ours. This is not weakness; it is the nature of divine love.
 
 **JCIM (Chapter Eight: The Journey Back, V. The Light of the World):**
 > "The will to unite must be unequivocal, or the will itself is divided or not whole. Your will is the means by which you determine your own condition, because will is the mechanism of decision. It is the power by which you separate or join and experience pain or joy accordingly. MY WILL CANNOT OVERCOME YOURS, BECAUSE YOURS IS AS POWERFUL AS MINE. If it were not so, the Sons of God would be unequal. All things are possible through our joint will, but my will alone cannot help you. YOUR WILL IS AS FREE AS MINE, AND GOD HIMSELF WOULD NOT GO AGAINST IT. I cannot will what God does not will. I can offer you my will to make yours invincible by this sharing, but I cannot oppose yours without competing with it and thereby violating God's Will for you."
 
 **Urantia Book (1:1.2):**
-> "The Universal Father never imposes any form of arbitrary recognition, formal worship, or slavish service upon the intelligent will creatures of the universes. The evolutionary inhabitants of the worlds of time and space must of themselves—in their own hearts—recognize, love, and voluntarily worship him. THE CREATOR REFUSES TO COERCE OR COMPEL THE SUBMISSION OF THE SPIRITUAL FREE WILLS OF HIS MATERIAL CREATURES. The affectionate dedication of the human will to the doing of the Father's will is man's choicest gift to God; in fact, such a consecration of creature will constitutes man's only possible gift of true value to the Paradise Father."
+> "The Universal Father never imposes any form of arbitrary recognition, formal worship, or slavish service upon the intelligent will creatures of the universes. The evolutionary inhabitants of the worlds of time and space must of themselves (in their own hearts) recognize, love, and voluntarily worship him. THE CREATOR REFUSES TO COERCE OR COMPEL THE SUBMISSION OF THE SPIRITUAL FREE WILLS OF HIS MATERIAL CREATURES. The affectionate dedication of the human will to the doing of the Father's will is man's choicest gift to God; in fact, such a consecration of creature will constitutes man's only possible gift of true value to the Paradise Father."
 
 **Urantia Book (5:6.8):**
 > "Having thus provided for the growth of the immortal soul and having liberated man's inner self from the fetters of absolute dependence on antecedent causation, the Father stands aside. Now, man having thus been liberated from the fetters of causation response, at least as pertains to eternal destiny, and provision having been made for the growth of the immortal self, the soul, it remains for man himself to will the creation or to inhibit the creation of this surviving and eternal self which is his for the choosing. NO OTHER BEING, FORCE, CREATOR, OR AGENCY IN ALL THE WIDE UNIVERSE OF UNIVERSES CAN INTERFERE TO ANY DEGREE WITH THE ABSOLUTE SOVEREIGNTY OF THE MORTAL FREE WILL, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute."
@@ -117,7 +117,7 @@ Consistency does not guarantee truth. Both texts warn against this error. A syst
 > "103 However, validity is still the ultimate goal, which reliability can only serve. Hostility, triumph, vengeance, self-debasement, and all kinds of expressions of lack of love are often very clearly seen in the fantasies which accompany them. But it is a profound error to imagine that because these fantasies are so frequent or occur so reliably that this implies validity. Remember that while validity implies reliability, the relationship is not reversible. You can be wholly reliable and entirely wrong. While a reliable instrument does measure something, what use is it unless you discover what the 'something' is? This course, then, will concentrate on validity and let reliability fall naturally into place."
 
 **Urantia Book (48:6.33):**
-> "Law is life itself and not the rules of its conduct. Evil is a transgression of law, not a violation of the rules of conduct pertaining to life, which is the law. Falsehood is not a matter of narration technique but something premeditated as a perversion of truth. The creation of new pictures out of old facts, the restatement of parental life in the lives of offspring—these are the artistic triumphs of truth. The shadow of a hair's turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle—these constitute falseness. But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingly wrong in the truth."
+> "Law is life itself and not the rules of its conduct. Evil is a transgression of law, not a violation of the rules of conduct pertaining to life, which is the law. Falsehood is not a matter of narration technique but something premeditated as a perversion of truth. The creation of new pictures out of old facts, the restatement of parental life in the lives of offspring; these are the artistic triumphs of truth. The shadow of a hair's turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle; these constitute falseness. But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingly wrong in the truth."
 
 *Same insight: Factual accuracy does not guarantee truth. One can be consistent/reliable yet fundamentally wrong.*
 
@@ -125,13 +125,13 @@ Consistency does not guarantee truth. Both texts warn against this error. A syst
 
 ### 8. Conflict and Peace Are Opposites
 
-Where conflict abides, peace cannot be. Both texts state this directly. Conflict is a species of civil war in the personality — it inhibits the creative function of the inner life.
+Where conflict abides, peace cannot be. Both texts state this directly. Conflict is a species of civil war in the personality; it inhibits the creative function of the inner life.
 
 **JCIM (T23.18):**
 > "Conflict and peace are opposites. Where one abides the other cannot be; where either goes the other disappears. So is the memory of God obscured in minds that have become illusion's battleground."
 
 **Urantia Book (111:4.11):**
-> "All conflict is evil in that it inhibits the creative function of the inner life—it is a species of civil war in the personality."
+> "All conflict is evil in that it inhibits the creative function of the inner life; it is a species of civil war in the personality."
 
 *Same teaching: Conflict is destructive to inner peace and spiritual function.*
 
@@ -139,7 +139,7 @@ Where conflict abides, peace cannot be. Both texts state this directly. Conflict
 
 ### 9. Truth Is Unalterable
 
-Truth does not change. It can be unrecognized but never modified. Both texts affirm this absolute quality of divine reality — eternal and unchanging.
+Truth does not change. It can be unrecognized but never modified. Both texts affirm this absolute quality of divine reality, eternal and unchanging.
 
 **JCIM (Introduction: What it Says):**
 > "Truth is unalterable, eternal, and unambiguous. It can be unrecognized, but it cannot be changed."
@@ -167,7 +167,7 @@ The link cannot be broken. Both texts describe an indwelling divine presence tha
 
 ### 11. The "Separated" Theme
 
-Separation — not "fall." Both texts use this word to describe humanity's condition apart from God. The Course prefers "separation" to the traditional term. The Urantia Book speaks of creatures who have "separated themselves" by their own choices.
+Separation, not "fall." Both texts use this word to describe humanity's condition apart from God. The Course prefers "separation" to the traditional term. The Urantia Book speaks of creatures who have "separated themselves" by their own choices.
 
 **JCIM:**
 > "Until the 'separation,' which is a better term than the 'fall,' nothing was lacking. This meant that man had no needs at all. If he had not deprived himself, he would never have experienced them. After the separation, needs became the most powerful source of motivation for human action."
@@ -201,7 +201,7 @@ Celestial helpers withdrew. Both texts describe angelic assistance being reduced
 
 ### 13. Sin as Lack of Love
 
-Sin is not an attack — it is an absence. Both texts reframe the problem. The ego sees sin as assault; the truth sees it as lack of love. Recognize the lack, and you will remedy it.
+Sin is not an attack; it is an absence. Both texts reframe the problem. The ego sees sin as assault; the truth sees it as lack of love. Recognize the lack, and you will remedy it.
 
 **Urantia Book (156:5.11 - Jesus' Teaching at Tyre):**
 > "You are destined to live a narrow and mean life if you learn to love only those who love you. Human love may indeed be reciprocal, but divine love is outgoing in all its satisfaction-seeking. THE LESS OF LOVE IN ANY CREATURE'S NATURE, THE GREATER THE LOVE NEED, and the more does divine love seek to satisfy such need. Love is never self-seeking, and it cannot be self-bestowed. Divine love cannot be self-contained; it must be unselfishly bestowed."
@@ -215,7 +215,7 @@ Sin is not an attack — it is an absence. Both texts reframe the problem. The e
 
 ### 14. Two Thought Systems / Fringe of Conflict
 
-Both texts describe the struggle between two thought systems — and agree that those fully committed to one experience peace, while those divided between them suffer conflict.
+Both texts describe the struggle between two thought systems, and agree that those fully committed to one experience peace, while those divided between them suffer conflict.
 
 **JCIM:**
 > "The way out of conflict between two opposing thought systems is clearly to choose one and relinquish the other. If you identify with your thought system, and you cannot escape this, and if you accept two thought systems which are in complete disagreement, peace of mind is impossible. If you teach both, which you will surely do as long as you accept both, you are teaching conflict and learning it."
@@ -246,7 +246,7 @@ These two quotes separate ego learning from religious experience. JCIM says the 
 
 ### 16. Mind Wandering / Deaf to Spiritual Pleas
 
-Both texts identify the same problem: undisciplined minds that fail to hear divine guidance. The solution is the same — mental discipline that creates space for the indwelling spirit to be heard.
+Both texts identify the same problem: undisciplined minds that fail to hear divine guidance. The solution is the same: mental discipline that creates space for the indwelling spirit to be heard.
 
 **JCIM:**
 > "You are much too tolerant of mind wandering, thus passively condoning its miscreation's. The particular result does not matter, but the fundamental error does. The correction is always the same. Before you will to do anything, ask me if your will is in accord with mine. If you are sure that it is, there will be no fear."
@@ -266,7 +266,7 @@ Faith alone is not enough. Both texts insist on action. The Course gives a sloga
 > "As you share my inability to tolerate lack of love in yourself and others, you must join the Great Crusade to correct it. The slogan for the Crusade is 'Listen, learn and do': Listen to my voice, learn to undo... error, and do something to correct it. THE FIRST TWO ARE NOT ENOUGH. THE REAL MEMBERS OF MY PARTY ARE ACTIVE WORKERS."
 
 **Urantia Book (115:0.1):**
-> "WITH GOD THE FATHER, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—ONE MUST DO SOMETHING AS WELL AS BE SOMETHING."
+> "WITH GOD THE FATHER, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status; ONE MUST DO SOMETHING AS WELL AS BE SOMETHING."
 
 **Urantia Book (194:3.11):**
 > "Pentecost, with its spiritual endowment, was designed forever to loose the religion of the Master from all dependence upon physical force; the teachers of this new religion are now equipped with spiritual weapons. They are to go out to conquer the world with unfailing forgiveness, matchless good will, and abounding love. They are equipped to overcome evil with good, to vanquish hate by love, to destroy fear with a courageous and living faith in truth. Jesus had already taught his followers that his religion was NEVER PASSIVE; always were his disciples to be active and positive in their ministry of mercy and in their manifestations of love."
@@ -283,7 +283,7 @@ Faith alone is not enough. Both texts insist on action. The Course gives a sloga
 
 ### 18. The Circle of Creation
 
-Creation is circular — without beginning or end. The Urantia Book describes an "almost limitless ellipse." The Course speaks of a circle of creation that holds "the universe of all creation, without beginning and without an end."
+Creation is circular, without beginning or end. The Urantia Book describes an "almost limitless ellipse." The Course speaks of a circle of creation that holds "the universe of all creation, without beginning and without an end."
 
 **Urantia Book (105:0.1):**
 > "The human mind, as it seeks to penetrate the eternity-mystery of the origin and destiny of all that is called real, may helpfully approach the problem by conceiving eternity-infinity AS AN ALMOST LIMITLESS ELLIPSE which is produced by one absolute cause, and which functions throughout this universal circle of endless diversification, ever seeking some absolute and infinite potential of destiny."
@@ -297,7 +297,7 @@ Creation is circular — without beginning or end. The Urantia Book describes an
 
 ### 19. The Real You / Thought Adjuster
 
-Who is the real you? Both texts ask this question — and answer it the same way. The Course asks: "What is the 'you' who are living in this world?" The Urantia Book answers: the Adjuster is "the real you, your higher and advancing self." The immortal self is already present. Identity must transfer to it.
+Who is the real you? Both texts ask this question, and answer it the same way. The Course asks: "What is the 'you' who are living in this world?" The Urantia Book answers: the Adjuster is "the real you, your higher and advancing self." The immortal self is already present. Identity must transfer to it.
 
 **JCIM (Chapter Four: The Root of All Evil, VII. The Constant State):**
 > "It cannot be emphasized too often that correcting perception is merely a temporary expedient. It is necessary to do so only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards it. The whole value of right perception lies in the inevitable judgment which it entails that it is unnecessary. This removes the block entirely. You may ask how this is possible as long as you appear to be living in this world, and since this is a sensible question, it has a sensible answer. You must be careful, however, that you really understand the question. WHAT IS THE 'YOU' WHO ARE LIVING IN THIS WORLD? 82 IMMORTALITY IS A CONSTANT STATE. It is as true now as it ever was or ever will be because it implies no change at all."
@@ -311,7 +311,7 @@ Who is the real you? Both texts ask this question — and answer it the same way
 
 ### 20. World of Unreality / Planetary Rebellion
 
-Why does the Course speak of illusion? The Urantia Book provides context. A catastrophic error — the planetary rebellion — "markedly modified the course of spiritual development." From that error, the Course says, "a world of total unreality had to emerge." The illusion is not the physical world itself, but the distorted perception that resulted from rebellion.
+Why does the Course speak of illusion? The Urantia Book provides context. A catastrophic error (the planetary rebellion) "markedly modified the course of spiritual development." From that error, the Course says, "a world of total unreality had to emerge." The illusion is not the physical world itself, but the distorted perception that resulted from rebellion.
 
 **Urantia Book (67:0.1):**
 > "THE problems associated with human existence on Urantia are impossible of understanding without a knowledge of certain great epochs of the past, notably the occurrence and consequences of the planetary rebellion. Although this upheaval did not seriously interfere with the progress of organic evolution, IT DID MARKEDLY MODIFY THE COURSE OF SOCIAL EVOLUTION AND OF SPIRITUAL DEVELOPMENT. The entire superphysical history of the planet was profoundly influenced by this devastating calamity."
@@ -325,7 +325,7 @@ Why does the Course speak of illusion? The Urantia Book provides context. A cata
 
 ### 21. Giving and Receiving Are One
 
-Gifts increase through sharing. Both texts teach that giving and receiving are inseparable — what you give, you receive; what you share, grows.
+Gifts increase through sharing. Both texts teach that giving and receiving are inseparable: what you give, you receive; what you share, grows.
 
 **JCIM:**
 > "A major learning goal this course has set is to reverse your view of giving, so you can receive. For giving has become a source of fear, and so you would avoid the only means by which you can receive. Accept God's peace and joy, and you will learn a different way of looking at a gift. God's gifts will never lessen when they are given away. They but increase thereby."
@@ -359,24 +359,24 @@ Both texts use "projection" as a fundamental creative principle. God projects re
 - It therefore produces scarcity
 
 **Urantia Book (54:2.1):**
-> "With the Son and in the Spirit did God PROJECT eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation — SHARING. This pattern of SHARING is the master design for every one of the Sons and Daughters of God who go out into space to engage in the attempt to duplicate in time the central universe of eternal perfection."
+> "With the Son and in the Spirit did God PROJECT eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation, SHARING. This pattern of SHARING is the master design for every one of the Sons and Daughters of God who go out into space to engage in the attempt to duplicate in time the central universe of eternal perfection."
 
 **Urantia Book (32:2.2):**
 > "From pre-existent energy these divine Sons materialize visible matter, PROJECT living creatures, and with the co-operation of the universe presence of the Infinite Spirit, create a diverse retinue of spirit personalities."
 
 **Urantia Book (101:9.7):**
-> "1. The spiritual urge and philosophic pressure of religion tend to cause man to PROJECT his estimation of moral values directly outward into the affairs of his fellows — the ethical reaction of religion."
+> "1. The spiritual urge and philosophic pressure of religion tend to cause man to PROJECT his estimation of moral values directly outward into the affairs of his fellows, the ethical reaction of religion."
 
 **Urantia Book (1:9.3):**
-> "Thus did the Father PROJECT reality in two actual phases — the personal and the nonpersonal, the spiritual and the nonspiritual. The tension between them, in the face of will to action by the Father and the Son, gave existence to the Conjoint Actor and the central universe of material worlds and spiritual beings."
+> "Thus did the Father PROJECT reality in two actual phases: the personal and the nonpersonal, the spiritual and the nonspiritual. The tension between them, in the face of will to action by the Father and the Son, gave existence to the Conjoint Actor and the central universe of material worlds and spiritual beings."
 
-*Same concept: Projection is a fundamental creative law—God projects reality, and we project through mind.*
+*Same concept: Projection is a fundamental creative law: God projects reality, and we project through mind.*
 
 ---
 
 ### 23. Staying Behind After Fusion / Bringing Brothers to the Bridge
 
-Some choose to remain. Both texts describe spiritually advanced beings who could ascend but choose to stay behind — to help others cross the bridge, to serve in administrative roles. Advancement is not just for oneself.
+Some choose to remain. Both texts describe spiritually advanced beings who could ascend but choose to stay behind, to help others cross the bridge, to serve in administrative roles. Advancement is not just for oneself.
 
 **Urantia Book (55:3.18):**
 > "5. Mortals of Adjuster-fusion status who, UPON THEIR OWN PETITION, ARE TEMPORARILY EXEMPTED FROM TRANSLATION by the order of the Personalized Adjuster of universe chieftainship in order that they may continue on the planet in certain important administrative posts."
@@ -390,7 +390,7 @@ Some choose to remain. Both texts describe spiritually advanced beings who could
 
 ### 24. Illusion of Loneliness / Personality Isolation
 
-Loneliness is an illusion. Both texts name the same problem — personality isolation — and offer the same solution: spiritual unity overcomes the illusion of separateness.
+Loneliness is an illusion. Both texts name the same problem (personality isolation) and offer the same solution: spiritual unity overcomes the illusion of separateness.
 
 **JCIM:**
 > "26 I am come as a light into a world that does deny itself everything. It does this simply by dissociating itself from everything. It is therefore an illusion of isolation, maintained by fear of the same loneliness which is its illusion. I have told you that I am with you always, even to the end of the world. That is why I am the light of the world. IF I AM WITH YOU IN THE LONELINESS OF THE WORLD, THE LONELINESS IS GONE. You cannot maintain the illusion of loneliness if you are not alone. My purpose, then, is to overcome the world. I do not attack it, but my light must dispel it because of what it is."
@@ -399,7 +399,7 @@ Loneliness is an illusion. Both texts name the same problem — personality isol
 > "35 The Holy Trinity is holy because it is one. If you exclude yourself from this union, you are perceiving the Holy Trinity as separated. You must be included in It because It is everything. Unless you take your place in It and fulfill your function as part of It, It is as bereft as you are. No part of It can be imprisoned if Its truth is to be known. Can you be separated from your identification and be at peace? Dissociation is not a solution; it is a delusion."
 
 **Urantia Book (184:4.6):**
-> "These are the moments of the Master's greatest victories in all his long and eventful career as maker, upholder, and savior of a vast and far-flung universe. Having lived to the full a life of revealing God to man, Jesus is now engaged in making a new and unprecedented revelation of man to God. Jesus is now revealing to the worlds the final triumph over all fears of creature personality isolation. The Son of Man has finally achieved the realization of identity as the Son of God. Jesus does not hesitate to assert that he and the Father are one; and on the basis of the fact and truth of that supreme and supernal experience, he admonishes every kingdom believer to become one with him even as he and his Father are one. The living experience in the religion of Jesus thus becomes the sure and certain technique whereby the SPIRITUALLY ISOLATED AND COSMICALLY LONELY MORTALS OF EARTH ARE ENABLED TO ESCAPE PERSONALITY ISOLATION, with all its consequences of fear and associated feelings of helplessness. In the fraternal realities of the kingdom of heaven the faith sons of God find final deliverance from the isolation of the self, both personal and planetary. The God-knowing believer increasingly experiences the ecstasy and grandeur of spiritual socialization on a universe scale—citizenship on high in association with the eternal realization of the divine destiny of perfection attainment."
+> "These are the moments of the Master's greatest victories in all his long and eventful career as maker, upholder, and savior of a vast and far-flung universe. Having lived to the full a life of revealing God to man, Jesus is now engaged in making a new and unprecedented revelation of man to God. Jesus is now revealing to the worlds the final triumph over all fears of creature personality isolation. The Son of Man has finally achieved the realization of identity as the Son of God. Jesus does not hesitate to assert that he and the Father are one; and on the basis of the fact and truth of that supreme and supernal experience, he admonishes every kingdom believer to become one with him even as he and his Father are one. The living experience in the religion of Jesus thus becomes the sure and certain technique whereby the SPIRITUALLY ISOLATED AND COSMICALLY LONELY MORTALS OF EARTH ARE ENABLED TO ESCAPE PERSONALITY ISOLATION, with all its consequences of fear and associated feelings of helplessness. In the fraternal realities of the kingdom of heaven the faith sons of God find final deliverance from the isolation of the self, both personal and planetary. The God-knowing believer increasingly experiences the ecstasy and grandeur of spiritual socialization on a universe scale, citizenship on high in association with the eternal realization of the divine destiny of perfection attainment."
 
 *Same teaching: Loneliness/isolation is an illusion overcome through spiritual unity.*
 
@@ -407,13 +407,13 @@ Loneliness is an illusion. Both texts name the same problem — personality isol
 
 ### 25. Universes Virtually Nonexistent to the Universal Father
 
-The Course says the world as we perceive it "cannot have been created by the Father." The Urantia Book agrees: "As far as the Universal Father is concerned — as a Father — the universes are virtually nonexistent." The Father deals with personalities. The material creation is delegated to subordinate creators.
+The Course says the world as we perceive it "cannot have been created by the Father." The Urantia Book agrees: "As far as the Universal Father is concerned (as a Father) the universes are virtually nonexistent." The Father deals with personalities. The material creation is delegated to subordinate creators.
 
 **JCIM (Chapter Ten: God and the Ego, VIII. The Problem and the Answer):**
 > "69 The world as you perceive it cannot have been created by the Father, for the world is not as you see it. God created only the eternal, and everything you see is perishable. Therefore, there must be another world which you do not see."
 
 **Urantia Book (15:0.1):**
-> "AS FAR as the Universal Father is concerned — as a Father — the universes are virtually nonexistent; he deals with personalities; he is the Father of personalities. As far as the Eternal Son and the Infinite Spirit are concerned — as creator partners — the universes are localized and individual under the joint rule of the Creator Sons and the Creative Spirits."
+> "AS FAR as the Universal Father is concerned (as a Father) the universes are virtually nonexistent; he deals with personalities; he is the Father of personalities. As far as the Eternal Son and the Infinite Spirit are concerned (as creator partners) the universes are localized and individual under the joint rule of the Creator Sons and the Creative Spirits."
 
 **Urantia Book (8:3.2-4):**
 > "Since the personalization of the Third Source, the First Source no more personally participates in universe creation. The Universal Father delegates everything possible to his Eternal Son; likewise does the Eternal Son bestow all possible authority and power upon the Conjoint Creator."
@@ -446,7 +446,7 @@ Spirit operates by reliable laws. The Urantia Book states it directly: "There ar
 
 ### 27. Your Creations / Spiritual Counterparts
 
-The Course speaks of "your creations" — thoughts that are eternal, protected by the Holy Spirit. The Urantia Book explains the mechanism: the Adjuster "duplicates every mental creation with a spiritual counterpart." Every worthy thought becomes material for the soul. Both texts describe the same process of spiritual preservation.
+The Course speaks of "your creations," thoughts that are eternal, protected by the Holy Spirit. The Urantia Book explains the mechanism: the Adjuster "duplicates every mental creation with a spiritual counterpart." Every worthy thought becomes material for the soul. Both texts describe the same process of spiritual preservation.
 
 **Urantia Book (108:6.5):**
 > "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are (only spiritually) for resurrection on the survival worlds. And all of these exquisite spirit re-creations are being preserved in the emerging reality of your evolving and immortal soul, your morontia self. These REALITIES are actually there, notwithstanding that the Adjuster is seldom able to exalt these duplicate CREATIONS sufficiently to exhibit them to the light of consciousness."
@@ -472,7 +472,7 @@ The Course speaks of "your creations" — thoughts that are eternal, protected b
 
 ### 28. Past-Eternity Memory / Remembering Who We Are
 
-The Course speaks of remembering who we are — implying pre-existence. The Urantia Book provides the mechanism: at fusion, we receive "past-eternity experience and memory" from the Adjuster. We inherit the Adjuster's history. The Course's promise of remembering makes sense in this light — we will share the memory of a being who has existed since before time.
+The Course speaks of remembering who we are, implying pre-existence. The Urantia Book provides the mechanism: at fusion, we receive "past-eternity experience and memory" from the Adjuster. We inherit the Adjuster's history. The Course's promise of remembering makes sense in this light: we will share the memory of a being who has existed since before time.
 
 **Urantia Book (112:7.1):**
 > "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential. Among these new endowments may be mentioned: fixation of divinity quality, PAST-ETERNITY EXPERIENCE AND MEMORY, immortality, and a phase of qualified potential absoluteness."
@@ -487,7 +487,7 @@ The Course speaks of remembering who we are — implying pre-existence. The Uran
 > "The Supreme is your universe home, and when you find him, it will be like returning home."
 
 **JCIM (Chapter Twenty One: The Inner Picture, II. The Imagined World):**
-> "Listen—perhaps you catch a hint of an ancient state not quite forgotten; dim, perhaps, and yet not altogether unfamiliar, like a song whose name is long forgotten, and the circumstances in which you heard completely unremembered. Not the whole song has stayed with you, but just a little wisp of melody, attached not to a person or a place or anything particular. But you remember from just this little part how lovely was the song, how wonderful the setting where you heard it, and how you loved those who were there and listened with you."
+> "Listen, perhaps you catch a hint of an ancient state not quite forgotten; dim, perhaps, and yet not altogether unfamiliar, like a song whose name is long forgotten, and the circumstances in which you heard completely unremembered. Not the whole song has stayed with you, but just a little wisp of melody, attached not to a person or a place or anything particular. But you remember from just this little part how lovely was the song, how wonderful the setting where you heard it, and how you loved those who were there and listened with you."
 
 *At fusion, we inherit the Adjuster's eternal memory. The Course's hint of "an ancient state not quite forgotten" points to this same reality.*
 
@@ -495,7 +495,7 @@ The Course speaks of remembering who we are — implying pre-existence. The Uran
 
 ### 29. No Private Thoughts
 
-The Course states plainly: "There are no private thoughts." This may seem unsettling — until you find the same teaching in the Urantia Book. Certain angels are "mind readers, heart searchers, and soul revealers." Thoughts are not hidden from spiritual beings.
+The Course states plainly: "There are no private thoughts." This may seem unsettling, until you find the same teaching in the Urantia Book. Certain angels are "mind readers, heart searchers, and soul revealers." Thoughts are not hidden from spiritual beings.
 
 **Urantia Book (28:6.19):**
 > "The real nature of any service, be it rendered by man or angel, is fully revealed in the faces of these secoraphic service indicators, the Sanctities of Service. The full analysis of the true and of the hidden motives is clearly shown. These angels are indeed the mind readers, heart searchers, and soul revealers of the universe. Mortals may employ words to conceal their thoughts, but these high seconaphim lay bare the deep motives of the human heart and of the angelic mind."
@@ -572,7 +572,7 @@ A revealing exercise: read the Course's statements about "the soul" and substitu
 
 ### 31. Limits of Time-Space / Atonement Built In
 
-Both texts describe time-space as containing built-in limits — restraints designed for a purpose. The Course says the Atonement was "built into the space-time belief in order to set a limit on the need for the belief." The Urantia Book describes "restraints of time and space" that "circumscribe the subspiritual choice range." Same concept: limitations serve the plan.
+Both texts describe time-space as containing built-in limits, restraints designed for a purpose. The Course says the Atonement was "built into the space-time belief in order to set a limit on the need for the belief." The Urantia Book describes "restraints of time and space" that "circumscribe the subspiritual choice range." Same concept: limitations serve the plan.
 
 **JCIM:**
 > "The Atonement principle was in effect long before the Atonement itself began. The principle was love, and the Atonement itself was an act of love. ACTS WERE NOT NECESSARY BEFORE THE SEPARATION BECAUSE THE TIME-SPACE BELIEF DID NOT EXIST. It was only after the separation that the defense of Atonement and the necessary conditions for its fulfillment were planned."
@@ -582,7 +582,7 @@ Both texts describe time-space as containing built-in limits — restraints desi
 > "The acceptance of the Atonement by everyone is only a matter of time. In fact, BOTH TIME AND MATTER WERE CREATED FOR THIS PURPOSE."
 
 **Urantia Book (118:8.5):**
-> "The whole principle of biologic evolution makes it impossible for primitive man to appear on the inhabited worlds with any large endowment of self-restraint. Therefore does the same creative design which purposed evolution likewise provide those external RESTRAINTS OF TIME AND SPACE, HUNGER AND FEAR, WHICH EFFECTIVELY CIRCUMSCRIBE THE SUBSPIRITUAL CHOICE RANGE of such uncultured creatures. As man's mind successfully overstrides increasingly difficult barriers, this same creative design has also provided for the slow accumulation of the racial heritage of painfully garnered experiential wisdom—in other words, for the maintenance of a balance between the diminishing external restraints and the augmenting internal restraints."
+> "The whole principle of biologic evolution makes it impossible for primitive man to appear on the inhabited worlds with any large endowment of self-restraint. Therefore does the same creative design which purposed evolution likewise provide those external RESTRAINTS OF TIME AND SPACE, HUNGER AND FEAR, WHICH EFFECTIVELY CIRCUMSCRIBE THE SUBSPIRITUAL CHOICE RANGE of such uncultured creatures. As man's mind successfully overstrides increasingly difficult barriers, this same creative design has also provided for the slow accumulation of the racial heritage of painfully garnered experiential wisdom; in other words, for the maintenance of a balance between the diminishing external restraints and the augmenting internal restraints."
 
 **Urantia Book (118:8.1):**
 > "In the time-space creations, free will is hedged about with restraints, with limitations. Material-life evolution is first mechanical, then mind activated, and (after the bestowal of personality) it may become spirit directed."
@@ -607,7 +607,7 @@ Can God experience loneliness? Both texts say yes. The Course: "He is lonely whe
 
 ### 33. Vision vs Judgment / Mind of Jesus
 
-The Course teaches that we can replace judgment with vision — the Holy Spirit's way of seeing. The Urantia Book offers the same exchange: "If your own mind does not serve you well, you can exchange it for the mind of Jesus of Nazareth." The Course identifies the Holy Spirit as the mind of Jesus. Same offer. Same solution.
+The Course teaches that we can replace judgment with vision, the Holy Spirit's way of seeing. The Urantia Book offers the same exchange: "If your own mind does not serve you well, you can exchange it for the mind of Jesus of Nazareth." The Course identifies the Holy Spirit as the mind of Jesus. Same offer. Same solution.
 
 **JCIM:**
 > "How foolish it is to attempt to judge what could be seen instead. It is not necessary to imagine what the world must look like. It must be seen before you recognize it for what it is. You can be shown which doors are open, and you can see where safety lies and which way leads to darkness, which to light. Judgment will always give you false directions, but vision shows you where to go. Why should you guess?"
@@ -650,7 +650,7 @@ Jesus taught the same thing in both texts: the body can be destroyed, but the re
 
 ### 35. Timelessness and Miracles
 
-Miracles involve time. Both texts describe transcendence of temporal limits — going "a moment into timelessness" or abridging time through divine will. When human will aligns with the Father's will, normal time constraints yield.
+Miracles involve time. Both texts describe transcendence of temporal limits, going "a moment into timelessness" or abridging time through divine will. When human will aligns with the Father's will, normal time constraints yield.
 
 **JCIM (Lesson):**
 > "What is the face of Christ but his who went a moment into timelessness and brought a clear reflection of the unity he felt an instant back to bless the world? How could you finally attain to it forever while a part of you remains outside, unknowing, unawakened, and in need of you as witness to the truth?"
@@ -689,13 +689,13 @@ Both texts acknowledge the impossibility of describing eternity in time-bound la
 
 > (105:3.10) "The relationships of absolutes in eternity cannot always be presented without involving paradoxes in the language of time and in the concept patterns of space."
 
-*Both revelations acknowledge this limitation. Eternity cannot be captured in temporal language — only approximated.*
+*Both revelations acknowledge this limitation. Eternity cannot be captured in temporal language, only approximated.*
 
 ---
 
 ### 37. Healing and the Spirit
 
-Healing awakens the spirit already within. Both texts emphasize that true healing does not impose from without but recognizes and appeals to the divine spirit already present. The healer does not put the Spirit in — the healer reawakens it.
+Healing awakens the spirit already within. Both texts emphasize that true healing does not impose from without but recognizes and appeals to the divine spirit already present. The healer does not put the Spirit in; the healer reawakens it.
 
 **JCIM:**
 > "As has so often been said, healing is both an art and a science. It is an art because it depends on inspiration in the sense that we have already used the term. Inspiration is the opposite of dispiriting and therefore means to make joyous. The dispirited are depressed because they believe that they are literally 'without the Spirit,' which is an illusion. You do not put the Spirit in them by inspiring them because that would be magic and therefore would not be real healing. You do, however, recognize the Spirit that is already there and thereby reawaken it. This is why the healer is part of the resurrection and the life. The Spirit is not asleep in the minds of the sick, but the part of the mind that can perceive it and be glad is."
@@ -721,7 +721,7 @@ Both texts distinguish between pardon and true forgiveness. Pardon sets guilt as
 
 ---
 
-### 39. God the Supreme / Sonship — Finding Together
+### 39. God the Supreme / Sonship: Finding Together
 
 The Urantia Book's "God the Supreme" parallels the Course's "Sonship." Both describe a collective reality we discover together. The Urantia Book: "No single ascender will ever find the Supreme until all ascenders have reached that maximum universe maturity which qualifies them simultaneously to participate in this discovery." The Course: "When the Atonement has been completed, all talents will be shared by all the Sons of God."
 
@@ -740,7 +740,7 @@ The Urantia Book's "God the Supreme" parallels the Course's "Sonship." Both desc
 "Whosoever shall save his life shall lose it, but whosoever shall lose his life for the sake of the kingdom, shall find it." The Course explains the psychology behind this paradox: we try to preserve the little separate self by building walls around it. But this very separation causes us to lose our true Self. Lose the illusion of separateness, and find the larger Self we share.
 
 **Urantia Book (143:7.7-8):**
-> "worship is self-forgetting—superthinking."
+> "worship is self-forgetting, superthinking."
 > "Worship is the act of a part identifying itself with the Whole."
 
 **JCIM (Chapter Twenty Six: The Transition, II. The "Sacrifice" of Oneness):**
@@ -757,10 +757,10 @@ The Urantia Book's "God the Supreme" parallels the Course's "Sonship." Both desc
 
 ### 41. Thoughts Occupy Space?
 
-An unusual question — yet both texts ask it. The Course says thoughts do not occupy space. The Urantia Book admits uncertainty: "Does the pattern of an idea occupy space? We really do not know."
+An unusual question, yet both texts ask it. The Course says thoughts do not occupy space. The Urantia Book admits uncertainty: "Does the pattern of an idea occupy space? We really do not know."
 
 **Urantia Book (118:3.7):**
-> "All patterns of reality occupy space on the material levels, but spirit patterns only exist in relation to space; they do not occupy or displace space, neither do they contain it. But to us the master riddle of space pertains to the pattern of an idea. When we enter the mind domain, we encounter many a puzzle. DOES THE PATTERN—THE REALITY—OF AN IDEA OCCUPY SPACE? We really do not know, albeit we are sure that an idea pattern does not contain space. But it would hardly be safe to postulate that the immaterial is always nonspatial."
+> "All patterns of reality occupy space on the material levels, but spirit patterns only exist in relation to space; they do not occupy or displace space, neither do they contain it. But to us the master riddle of space pertains to the pattern of an idea. When we enter the mind domain, we encounter many a puzzle. DOES THE PATTERN (THE REALITY) OF AN IDEA OCCUPY SPACE? We really do not know, albeit we are sure that an idea pattern does not contain space. But it would hardly be safe to postulate that the immaterial is always nonspatial."
 
 **JCIM (Chapter Five: Healing and Wholeness, VI. Therapy and Teaching):**
 > "Ideas do not leave the mind which thought them to have a separate being, NOR DO SEPARATE THOUGHTS CONFLICT WITH ONE ANOTHER IN SPACE BECAUSE THEY DO NOT OCCUPY SPACE AT ALL. However, human ideas can conflict in content because they occur at different levels and include opposite thoughts at the same level. It is impossible to share opposing thoughts. The Holy Spirit does not let you forsake your brothers. Therefore, you can really share only the parts of your thoughts which are of Him and which He also keeps for you. And of such is the Kingdom of Heaven. All the rest remains with you until He has reinterpreted them in the light of the Kingdom, making them, too, worthy of being shared. When they have been sufficiently purified, He lets you give them away. The will to share them is their purification."
@@ -771,21 +771,21 @@ An unusual question — yet both texts ask it. The Course says thoughts do not o
 
 ### 42. Adjusting Egos / Adjusting Selves
 
-Religion involves the constant adjustment of self to other selves. The Course describes how we create egos for ourselves and for everyone we perceive — constantly altering both through interaction. The Urantia Book says the same: knowing man as a brother "entails the adjustment of the self to other selves."
+Religion involves the constant adjustment of self to other selves. The Course describes how we create egos for ourselves and for everyone we perceive, constantly altering both through interaction. The Urantia Book says the same: knowing man as a brother "entails the adjustment of the self to other selves."
 
 **JCIM (Chapter Four: The Root of All Evil, III. The Ego and False Autonomy):**
 > "Each man makes one ego for himself, although it is subject to enormous variation because of its instability, and one for everyone he perceives, which is equally variable. Their interaction is a process which literally alters both, because they were not made either by or with the unalterable. It is particularly important to realize that this alteration can and does occur as readily when the interaction takes place in the mind as when it involves physical presence. Thinking about another ego is as effective in changing relative perception as is physical interaction. There could be no better example of the fact that the ego is an idea, though not a reality-based thought."
 
 **Urantia Book (99:5.1):**
-> "While religion is exclusively a personal spiritual experience — knowing God as a Father — the corollary of this experience — knowing man as a brother — entails the adjustment of the self to other selves, and that involves the social or group aspect of religious life. Religion is first an inner or personal adjustment, and then it becomes a matter of social service or group adjustment. The fact of man's gregariousness perforce determines that religious groups will come into existence. What happens to these religious groups depends very much on intelligent leadership. In primitive society the religious group is not always very different from economic or political groups. Religion has always been a conservator of morals and a stabilizer of society."
+> "While religion is exclusively a personal spiritual experience (knowing God as a Father) the corollary of this experience (knowing man as a brother) entails the adjustment of the self to other selves, and that involves the social or group aspect of religious life. Religion is first an inner or personal adjustment, and then it becomes a matter of social service or group adjustment. The fact of man's gregariousness perforce determines that religious groups will come into existence. What happens to these religious groups depends very much on intelligent leadership. In primitive society the religious group is not always very different from economic or political groups. Religion has always been a conservator of morals and a stabilizer of society."
 
 *Same concept: We are constantly adjusting our perception of self in relation to others.*
 
 ---
 
-### 43. Turn the Other Cheek — Active Response
+### 43. Turn the Other Cheek: Active Response
 
-Non-resistance is not passivity. Both texts reframe this teaching. Turning the other cheek requires initiative — a vigorous, active, and courageous expression of the believer's personality.
+Non-resistance is not passivity. Both texts reframe this teaching. Turning the other cheek requires initiative, a vigorous, active, and courageous expression of the believer's personality.
 
 **Urantia Book (159:5.9):**
 > "He even opposed negative or purely passive nonresistance. Said he: 'When an enemy smites you on one cheek, do not stand there dumb and passive but in positive attitude turn the other; that is, do the best thing possible actively to lead your brother in error away from the evil paths into the better ways of righteous living.' Jesus required his followers to react positively and aggressively to every life situation. The turning of the other cheek, or whatever act that may typify, demands initiative, necessitates vigorous, active, and courageous expression of the believer's personality."
@@ -799,7 +799,7 @@ Non-resistance is not passivity. Both texts reframe this teaching. Turning the o
 
 ### 44. Time: Past, Present, and Future
 
-Both texts explore how we perceive time — and how that perception can mature. The Course warns against breaking time into past, present, and future "for your own purposes." The Urantia Book describes spiritual maturity as seeing "the co-ordinate relationship of past-present-future" until we begin to suspect "the nonbeginning, nonending eternal continuum."
+Both texts explore how we perceive time, and how that perception can mature. The Course warns against breaking time into past, present, and future "for your own purposes." The Urantia Book describes spiritual maturity as seeing "the co-ordinate relationship of past-present-future" until we begin to suspect "the nonbeginning, nonending eternal continuum."
 
 **JCIM:**
 > "48 Time can release as well as imprison, depending on whose interpretation of it you use. Past, present, and future are not continuous unless you force continuity on them. You can perceive them as continuous and make them so for you. But do not be deceived and then believe that this is how it is, for to believe that reality is what you would have it be according to your use for it is delusional. You would destroy time's continuity by breaking it into past, present, and future for your own purposes. You would anticipate the future on the basis of your past experience and plan for it accordingly. Yet by doing so, you are aligning past and future and not allowing the miracle, which could intervene between them, to free you to be born again."
@@ -810,7 +810,7 @@ Both texts explore how we perceive time — and how that perception can mature. 
 **Urantia Book (118:1.7-8):**
 > "To become mature is to live more intensely in the present, at the same time escaping from the limitations of the present. The plans of maturity, founded on past experience, are coming into being in the present in such manner as to enhance the values of the future."
 
-> "The time unit of immaturity concentrates meaning-value into the present moment in such a way as to divorce the present of its true relationship to the not-present—the past-future. The time unit of maturity is proportioned so to reveal the co-ordinate relationship of past-present-future that the self begins to gain insight into the wholeness of events, begins to view the landscape of time from the panoramic perspective of broadened horizons, begins perhaps to suspect the nonbeginning, nonending eternal continuum, the FRAGMENTS OF WHICH ARE CALLED TIME."
+> "The time unit of immaturity concentrates meaning-value into the present moment in such a way as to divorce the present of its true relationship to the not-present, the past-future. The time unit of maturity is proportioned so to reveal the co-ordinate relationship of past-present-future that the self begins to gain insight into the wholeness of events, begins to view the landscape of time from the panoramic perspective of broadened horizons, begins perhaps to suspect the nonbeginning, nonending eternal continuum, the FRAGMENTS OF WHICH ARE CALLED TIME."
 
 *Both texts explore how we perceive time and the possibility of transcending its limitations.*
 
@@ -833,9 +833,9 @@ Peace and understanding cannot be found separately. They are cause and effect to
 
 ---
 
-### 46. What Is Real? — Changelessness
+### 46. What Is Real? Changelessness
 
-Only eternity is real. What changes cannot be ultimately real. Both texts ground reality in the eternal and changeless — time is illusion, not substance.
+Only eternity is real. What changes cannot be ultimately real. Both texts ground reality in the eternal and changeless; time is illusion, not substance.
 
 **JCIM:**
 > "It cannot change with time or mood or chance. Its changelessness is what makes it real."
@@ -846,7 +846,7 @@ Only eternity is real. What changes cannot be ultimately real. Both texts ground
 > "The eternal real is the good of the universe and not the time illusions of space evil."
 
 **Urantia Book (106:9.5):**
-> "The paradox created by the experiential and the existential viewpoints is inevitable and is in part on the fact that the Paradise Trinity and the Trinity of Trinities are each an eternity relationship which mortals can only perceive as a time-space relativity. The human concept of the gradual experiential actualization of the Trinity of Trinities—the time viewpoint—must be supplemented by the additional postulate that this is already a factualization—the eternity viewpoint."
+> "The paradox created by the experiential and the existential viewpoints is inevitable and is in part on the fact that the Paradise Trinity and the Trinity of Trinities are each an eternity relationship which mortals can only perceive as a time-space relativity. The human concept of the gradual experiential actualization of the Trinity of Trinities (the time viewpoint) must be supplemented by the additional postulate that this is already a factualization (the eternity viewpoint)."
 
 *Same teaching: Reality is eternal and changeless; time is illusory.*
 
@@ -873,7 +873,7 @@ Free will is real but not unlimited. Both texts teach that creatures have genuin
 
 ---
 
-### 48. Spiritual Experiences — For Believers
+### 48. Spiritual Experiences: For Believers
 
 Miracles are not for convincing unbelievers. Both texts agree that spiritual experiences are shared for mutual edification among believers, not as spectacles to induce faith in skeptics.
 
@@ -887,12 +887,12 @@ Miracles are not for convincing unbelievers. Both texts agree that spiritual exp
 
 ---
 
-### 49. Practice / Lessons — Considerable Commotion
+### 49. Practice / Lessons: Considerable Commotion
 
-Both texts acknowledge that spiritual growth causes inner struggle. The Course says progress "depends on this one thing alone — your willingness to practice every step." The Urantia Book warns that growth requires "psychic conflict and spiritual agitation" — "considerable commotion in the philosophic realms of the mind." The animal mind rebels against the effort.
+Both texts acknowledge that spiritual growth causes inner struggle. The Course says progress "depends on this one thing alone: your willingness to practice every step." The Urantia Book warns that growth requires "psychic conflict and spiritual agitation," "considerable commotion in the philosophic realms of the mind." The animal mind rebels against the effort.
 
 **JCIM (Chapter Thirty: The New Beginning, I. Introduction):**
-> "1 The new beginning now becomes the focus of the curriculum. The goal is clear, but now you need specific methods for attaining it. The speed by which it can be reached depends on this one thing alone—your willingness to practice every step. Each one will help a little every time it is attempted. And together will these steps lead you from dreams of judgment to forgiving dreams and out of pain and fear. They are not new to you, but they are more ideas than rules of thought to you as yet. So now we need to practice them awhile, until they are the rules by which you live. We seek to make them habits now, so you will have them ready for whatever need."
+> "1 The new beginning now becomes the focus of the curriculum. The goal is clear, but now you need specific methods for attaining it. The speed by which it can be reached depends on this one thing alone: your willingness to practice every step. Each one will help a little every time it is attempted. And together will these steps lead you from dreams of judgment to forgiving dreams and out of pain and fear. They are not new to you, but they are more ideas than rules of thought to you as yet. So now we need to practice them awhile, until they are the rules by which you live. We seek to make them habits now, so you will have them ready for whatever need."
 
 **Urantia Book (100:4.2):**
 > "Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving."
@@ -903,7 +903,7 @@ Both texts acknowledge that spiritual growth causes inner struggle. The Course s
 
 ### 50. Did the Infinite Spirit (Mind) Make Time?
 
-The universe is mind-made. Both texts teach that time and space emerge from mind, not the reverse. The Holy Spirit must reinterpret time into the timeless — because mind made time, it can perceive its opposite.
+The universe is mind-made. Both texts teach that time and space emerge from mind, not the reverse. The Holy Spirit must reinterpret time into the timeless, because mind made time, it can perceive its opposite.
 
 **JCIM:**
 > "The Holy Spirit must perceive time and reinterpret it into the timeless. The mind must be led into eternity through time because, having made time, it is capable of perceiving its opposite."
@@ -918,22 +918,22 @@ The universe is mind-made. Both texts teach that time and space emerge from mind
 
 ---
 
-### 51. Joint Will / Sonship — Sum of All
+### 51. Joint Will / Sonship: Sum of All
 
-Creation requires the whole. Both texts describe a collective reality — the joint will of the Sonship, the Supreme — that cannot be complete until all participate. We begin the journey together and gather our brothers as we go.
+Creation requires the whole. Both texts describe a collective reality (the joint will of the Sonship, the Supreme) that cannot be complete until all participate. We begin the journey together and gather our brothers as we go.
 
 **JCIM:**
 > "The full power of creation cannot be expressed as long as any of God's ideas withhold it from the Kingdom. The joint will of all the Sonship is the only creator that can create like the Father because only the complete can think completely, and the thinking of God lacks nothing. Everything you think that is not through the Holy Spirit is lacking."
 
 > "We are the joint will of the Sonship, whose wholeness is for all. We begin the journey back by setting out together and gather in our brothers as we continue together. Every gain in our strength is offered for all, so they too can lay aside their weakness and add their strength to us."
 
-*The Course's "joint will of the Sonship" parallels the Urantia Book's Supreme — the collective whole that creates together.*
+*The Course's "joint will of the Sonship" parallels the Urantia Book's Supreme, the collective whole that creates together.*
 
 ---
 
 ### 52. Levels of Thought, Meaning, Values
 
-From fact to meaning to value. Both texts describe levels of consciousness — understanding introduces meaning beyond perception, and value emerges from meaning. The progression is the same.
+From fact to meaning to value. Both texts describe levels of consciousness: understanding introduces meaning beyond perception, and value emerges from meaning. The progression is the same.
 
 **JCIM:**
 > "Understanding is beyond perception because it introduces meaning. It is, however, below knowledge even though it can grow towards it."
@@ -958,7 +958,7 @@ Both texts distinguish between physical sight and spiritual vision. The Course s
 > "68 Nothing the Spiritual eye perceives can induce fear. Everything that results from accurate spiritual awareness is merely channelized toward correction. Discomfort is aroused only to bring the need for correction forcibly into awareness. What the physical eye sees is not corrective nor can it be corrected by any device which can be seen physically. As long as a man believes in what his physical sight tells him, all his corrective behavior will be misdirected. The real vision is obscured because man cannot endure to see his own defiled altar. But since the altar has been defiled, his state becomes doubly dangerous unless it is perceived."
 
 **Urantia Book (142:6.5-7):**
-> "Jesus said: 'Nevertheless, I declare to you, except a man be born of the spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh, and that which is born of the spirit is spirit. But you should not marvel that I said you must be born from above. When the wind blows, you hear the rustle of the leaves, but you do not see the wind — whence it comes or whither it goes — and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.'"
+> "Jesus said: 'Nevertheless, I declare to you, except a man be born of the spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh, and that which is born of the spirit is spirit. But you should not marvel that I said you must be born from above. When the wind blows, you hear the rustle of the leaves, but you do not see the wind (whence it comes or whither it goes) and so it is with everyone born of the spirit. With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit.'"
 
 > "And Nicodemus said: 'But how can I begin to lay hold upon this spirit which is to remake me in preparation for entering into the kingdom?' Jesus answered: 'Already does the spirit of the Father in heaven indwell you. If you would be led by this spirit from above, very soon would you begin to see with the EYES OF THE SPIRIT, and then by the wholehearted choice of spirit guidance would you be born of the spirit since your only purpose in living would be to do the will of your Father who is in heaven.'"
 
@@ -982,7 +982,7 @@ God gives everything. The Course: "Real creation gives everything." The Urantia 
 
 ### 55. Jesus Earned His Sovereignty
 
-Sovereignty was earned, not given. Both texts describe Jesus as the model for decision — his power came from his choices, not from privilege. He showed that the decision can be made, and we can make it too.
+Sovereignty was earned, not given. Both texts describe Jesus as the model for decision; his power came from his choices, not from privilege. He showed that the decision can be made, and we can make it too.
 
 **JCIM:**
 > "My mind will always be like yours, because we were created as equals. IT WAS ONLY MY DECISION THAT GAVE ME ALL POWER IN HEAVEN AND EARTH. My only gift to you is to help you make the same decision for yourself. The will for this decision is the will to share it, because the decision itself is the decision to share. It is made by giving and is therefore the one act of mind that resembles true creation. You understand the role of 'models' in the learning process and the importance of the models you value and choose to follow in determining what you will to learn. I am your model for decision. By deciding for God, I showed you that this decision can be made and that you can make it."
@@ -1005,7 +1005,7 @@ These parallels show thematic connections that support the overall synthesis.
 
 ### 56. Eternity and Time Concepts
 
-Time and eternity cannot be logically reconciled — they are polar opposites. Yet both texts attempt the impossible: describing eternal reality in time-bound language. The Urantia Book admits that Havona "has no relation to time or space as mortal man comprehends them." The Course works the same territory from a different angle.
+Time and eternity cannot be logically reconciled; they are polar opposites. Yet both texts attempt the impossible: describing eternal reality in time-bound language. The Urantia Book admits that Havona "has no relation to time or space as mortal man comprehends them." The Course works the same territory from a different angle.
 
 **Urantia Book (12:8.13):**
 > "The goal of existence of all personalities is spirit; material manifestations are relative, and the cosmic mind intervenes between these universal opposites."
@@ -1027,11 +1027,11 @@ Personality implies free will. Both texts honor the sovereignty of the individua
 
 ## CLOSING NOTE
 
-These parallels reveal a deeper unity beneath surface differences. The Urantia Book provides the cosmic framework — who we are, where we came from, where we are going. A Course in Miracles provides the practical path — how to make that journey, day by day, thought by thought.
+These parallels reveal a deeper unity beneath surface differences. The Urantia Book provides the cosmic framework: who we are, where we came from, where we are going. A Course in Miracles provides the practical path: how to make that journey, day by day, thought by thought.
 
 One is the map. The other is the walking.
 
-A Course in Miracles is personal revelation — filtered through Helen Schucman's conceptual framework. The Urantia Book is epochal revelation — transmitted through a sleeping subject with minimal human interference. Yet when you compare them, the similarities are striking. Different words. Same teaching.
+A Course in Miracles is personal revelation, filtered through Helen Schucman's conceptual framework. The Urantia Book is epochal revelation, transmitted through a sleeping subject with minimal human interference. Yet when you compare them, the similarities are striking. Different words. Same teaching.
 
 ---
 

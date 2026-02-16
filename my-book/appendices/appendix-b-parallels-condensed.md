@@ -16,7 +16,7 @@ These parallels use strikingly similar or nearly identical wording.
 > "The body is merely a fact in human experience. Its abilities can be and frequently are over-evaluated. HOWEVER, IT IS ALMOST IMPOSSIBLE TO DENY ITS EXISTENCE. Those who do so are engaging in a particularly unworthy form of denial."
 
 **Urantia Book (118:9.4):**
-> "The grand universe is mechanism as well as organism, mechanical and living—a living mechanism activated by a Supreme Mind. BUT TO DENY THE MECHANISM OF THE FINITE CREATION IS TO DENY FACT AND TO DISREGARD REALITY."
+> "The grand universe is mechanism as well as organism, mechanical and living: a living mechanism activated by a Supreme Mind. BUT TO DENY THE MECHANISM OF THE FINITE CREATION IS TO DENY FACT AND TO DISREGARD REALITY."
 
 Both texts issue the same warning in nearly identical language: do not deny the body or the mechanism. The Course says it is "almost impossible to deny its existence" and calls doing so "a particularly unworthy form of denial." The UB calls it denying "fact" and disregarding "reality." Spirituality does not require pretending the physical world does not exist.
 
@@ -66,7 +66,7 @@ The Course says: do not ask to be forgiven, because it has already been accompli
 
 ---
 
-### 5. Words Are Valueless — Spirit Content Matters
+### 5. Words Are Valueless: Spirit Content Matters
 
 **JCIM (M:21.1):**
 > "Strictly speaking, words play no part at all in healing. The motivating factor is prayer, or asking... Words are but symbols of symbols. They are thus twice removed from reality."
@@ -123,7 +123,7 @@ The Course says truth is beyond your ability to destroy. The UB says nothing can
 > "Conflict and peace are opposites. Where one abides the other cannot be; where either goes the other disappears."
 
 **Urantia Book (111:4.11):**
-> "All conflict is evil in that it inhibits the creative function of the inner life—it is a species of civil war in the personality."
+> "All conflict is evil in that it inhibits the creative function of the inner life: it is a species of civil war in the personality."
 
 The Course says conflict and peace cannot coexist. The UB calls internal conflict "a species of civil war in the personality" and says it inhibits the creative function of the inner life. Both texts treat conflict not as a normal part of growth but as something that actively blocks it. Peace is not the absence of problems. It is the condition required for the soul to create.
 
@@ -225,7 +225,7 @@ The Course scolds us gently: we are too tolerant of mind wandering. The UB scold
 > "The slogan for the Crusade is 'Listen, learn and do'... THE FIRST TWO ARE NOT ENOUGH. THE REAL MEMBERS OF MY PARTY ARE ACTIVE WORKERS."
 
 **Urantia Book (115:0.1):**
-> "WITH GOD THE FATHER, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—ONE MUST DO SOMETHING AS WELL AS BE SOMETHING."
+> "WITH GOD THE FATHER, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status: ONE MUST DO SOMETHING AS WELL AS BE SOMETHING."
 
 **Urantia Book (117:4.7):**
 > "Mankind does not ascend effortlessly in the universe, neither does the Supreme evolve without purposeful and intelligent action."
@@ -276,7 +276,7 @@ The Course says remembering is not creating something new but restoring what is 
 > "PROJECTION IS A FUNDAMENTAL LAW OF THE MIND and therefore one which always operates. It is the law by which you create and were created."
 
 **Urantia Book (54:2.1):**
-> "With the Son and in the Spirit did God PROJECT eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation—SHARING."
+> "With the Son and in the Spirit did God PROJECT eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation: SHARING."
 
 **Urantia Book (11:9.3):**
 > "Thus did the Father PROJECT reality in two actual phases."
@@ -433,7 +433,7 @@ The Course says using miracles to induce belief is a misunderstanding of their p
 > "Worship is the act of a part identifying itself with the Whole."
 
 **Urantia Book (143:7.7):**
-> "Worship is self-forgetting—superthinking."
+> "Worship is self-forgetting, superthinking."
 
 The Course says the ego fences off a little self and defends it at the cost of everything else. But if we see ourselves as one self, we find our true Self. The UB defines worship as "the act of a part identifying itself with the Whole" and "self-forgetting." Both texts describe the same shift: from defending the small self to recognizing the larger one. The ego contracts. Worship expands. The Course is teaching us to stop fencing off and start identifying with the Whole. That is worship, whether or not we call it that.
 
@@ -550,7 +550,7 @@ The Course says the full power of creation cannot be expressed as long as any pa
 > "Ideas do not leave the mind which thought them to have a separate being, NOR DO SEPARATE THOUGHTS CONFLICT WITH ONE ANOTHER IN SPACE BECAUSE THEY DO NOT OCCUPY SPACE AT ALL."
 
 **Urantia Book (118:3.7):**
-> "DOES THE PATTERN—THE REALITY—OF AN IDEA OCCUPY SPACE? We really do not know, albeit we are sure that an idea pattern does not contain space."
+> "DOES THE PATTERN (THE REALITY) OF AN IDEA OCCUPY SPACE? We really do not know, albeit we are sure that an idea pattern does not contain space."
 
 Both texts ask the same startling question: do thoughts occupy space? The Course answers with confidence: they do not. Ideas remain within the mind that thought them and do not conflict in space because they have no spatial existence. The UB's revelators are more cautious. They admit they do not know whether the pattern of an idea occupies space, but they are sure it does not contain space. The fact that a celestial being of high order confesses uncertainty about this question tells you something about its depth. Both texts treat mind and ideas as belonging to a different order of reality than the physical. Thoughts are real, but they are not material. This distinction matters because it means the mind operates beyond the limits of space.
 
@@ -562,13 +562,13 @@ Both texts ask the same startling question: do thoughts occupy space? The Course
 > "Each man makes one ego for himself, although it is subject to enormous variation because of its instability, and one for everyone he perceives, which is equally variable. Their interaction is a process which literally alters both."
 
 **Urantia Book (99:5.1):**
-> "While religion is exclusively a personal spiritual experience—knowing God as a Father—the corollary of this experience—knowing man as a brother—entails the adjustment of the self to other selves."
+> "While religion is exclusively a personal spiritual experience (knowing God as a Father), the corollary of this experience (knowing man as a brother) entails the adjustment of the self to other selves."
 
 The Course observes that each person constructs an ego for himself and a separate ego for everyone he perceives, and that their interaction literally alters both. The UB says knowing God as a Father necessarily entails adjusting the self to other selves. Both texts recognize that spiritual life is not a solitary affair. The moment you encounter another person, something changes in you. The Course describes the psychological mechanism. The UB states the spiritual principle. But both agree: you cannot grow toward God without also growing toward your brothers. Every relationship is an adjustment, and every adjustment is an opportunity.
 
 ---
 
-### 44. Turn the Other Cheek — Active Response
+### 44. Turn the Other Cheek: Active Response
 
 **JCIM (Tx:6.15):**
 > "My one lesson, which I must teach as I learned, is that no perception which is out of accord with the judgment of the Holy Spirit can be justified."
@@ -714,7 +714,7 @@ The Course defines reality by a single criterion: changelessness. What is real c
 ### 55. Practice and Commotion
 
 **JCIM (Tx:30.1):**
-> "The speed by which it can be reached depends on this one thing alone—your willingness to practice every step."
+> "The speed by which it can be reached depends on this one thing alone: your willingness to practice every step."
 
 **Urantia Book (100:4.2):**
 > "Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion."
@@ -729,7 +729,7 @@ The Course says the speed of your progress depends on one thing alone: your will
 > "The world as you perceive it cannot have been created by the Father, for the world is not as you see it. God created only the eternal."
 
 **Urantia Book (15:0.1):**
-> "AS FAR AS the Universal Father is concerned—as a Father—the universes are virtually nonexistent; he deals with personalities; he is the Father of personalities."
+> "AS FAR AS the Universal Father is concerned, as a Father, the universes are virtually nonexistent; he deals with personalities; he is the Father of personalities."
 
 The Course says the world as you perceive it was not created by the Father, because God created only the eternal. The UB says something equally striking: as far as the Universal Father is concerned, the universes are virtually nonexistent. He deals with personalities. He is the Father of personalities. Both texts say that what we think of as "the world" is not what God sees. We see matter, geography, physical systems. God sees persons. The Course says our perception of the world is not what God created. The UB says the entire physical universe is virtually nonexistent from the Father's perspective. Both are pointing to the same truth: the material world is not the point. Personality is the point. Relationship with the Father is the point. Everything else is scaffolding.
 

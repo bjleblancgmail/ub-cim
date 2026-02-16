@@ -1,4 +1,4 @@
-# Chapter 6: The Central Thesis — A Course in Adjuster Fusion
+# Chapter 6: The Central Thesis: A Course in Adjuster Fusion
 
 ## Section 1: Opening
 

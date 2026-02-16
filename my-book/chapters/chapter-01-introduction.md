@@ -2,9 +2,9 @@
 
 Something new is possible.
 
-Within fifty years, the English-speaking world received two extraordinary gifts: *The Urantia Book* in 1955 and *A Course in Miracles* in the early 1970s. Each arrived quietly, passed from hand to hand by readers who recognized something profound. Today, millions study one or both — but rarely together.
+Within fifty years, the English-speaking world received two extraordinary gifts: *The Urantia Book* in 1955 and *A Course in Miracles* in the early 1970s. Each arrived quietly, passed from hand to hand by readers who recognized something profound. Today, millions study one or both, but rarely together.
 
-These books illuminate each other in ways their readers have only begun to discover. The Urantia Book provides the cosmic framework — who we are, where we came from, where we are going. A Course in Miracles provides the practical path — how to make that journey, day by day, thought by thought. One is the map; the other is the walking.
+These books illuminate each other in ways their readers have only begun to discover. The Urantia Book provides the cosmic framework: who we are, where we came from, where we are going. A Course in Miracles provides the practical path: how to make that journey, day by day, thought by thought. One is the map; the other is the walking.
 
 This book brings them into conversation.
 
@@ -36,17 +36,6 @@ This study guide builds the bridge. It maps the terminology. It shows where the 
 
 ---
 
-This guide is written for four readers.
-
-If you know *The Urantia Book* but have never explored *A Course in Miracles*, you will find here a doorway into a text that may at first seem foreign. The Course's language is different - more psychological, less cosmological - but the destination is the same.
-
-If you know *A Course in Miracles* but have never opened *The Urantia Book*, you will discover the larger universe your inner work is preparing you for. The Urantia Book answers questions the Course does not ask - not because they don't matter, but because the Course has a different purpose.
-
-If you know both books, you will find connections you may have sensed but never seen laid out clearly. The synthesis here is not the final word, but a starting point for your own deeper study.
-
-And if you know neither book - if you have simply heard of them and wondered what they offer - this guide can serve as your introduction to both. You need not choose one over the other. They belong together.
-
----
 
 ## Why Two Revelations?
 
@@ -85,6 +74,10 @@ Heaven is not a place you go. It is a state you become. The union of your will w
 Adjuster fusion is a moon shot. But first comes theory, then practice. First you need a goal to aim for. The path described here begins with maps drawn long before anyone makes the journey.
 
 For this author, this is a theoretical exercise. I have not attained these lofty goals. But I hope this book inspires a community to explore this moon shot, taking humanity to another level of awareness.
+
+No effort is wasted. As Jesus reminds us:
+
+> "Remember that no effort is wasted, for unless you remember this, you cannot avail yourselves of my efforts, which are limitless. Only eternity is real. Why not use the illusion of time constructively?" (JCIM, Chapter 1, Tx 1.26)
 
 ---
 

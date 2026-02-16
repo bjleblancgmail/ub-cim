@@ -1,4 +1,4 @@
-# Chapter 12: Forgiveness - Mercy vs Love
+# Chapter 10: Forgiveness - Mercy vs Love
 
 **STATUS: COMPLETE**
 

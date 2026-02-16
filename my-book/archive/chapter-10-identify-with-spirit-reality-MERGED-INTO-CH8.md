@@ -1,4 +1,4 @@
-# Chapter 11: Identify with Spirit Reality
+# Chapter 10: Identify with Spirit Reality
 
 **STATUS: COMPLETE**
 

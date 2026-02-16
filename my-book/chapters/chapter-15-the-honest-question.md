@@ -1,4 +1,4 @@
-# Chapter 17: The Honest Question
+# Chapter 15: The Honest Question
 
 ## Section 1: Opening
 

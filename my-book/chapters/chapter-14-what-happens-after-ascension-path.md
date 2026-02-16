@@ -1,4 +1,4 @@
-# Chapter 16: What Happens After - The Ascension Path
+# Chapter 14: What Happens After - The Ascension Path
 
 **STATUS: COMPLETE**
 

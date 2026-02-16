@@ -1,4 +1,4 @@
-# Chapter 13: Perception vs Knowledge
+# Chapter 11: Perception vs Knowledge
 
 **STATUS: COMPLETE**
 

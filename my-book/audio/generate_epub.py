@@ -128,9 +128,10 @@ def process_text(text):
         line = re.sub(r'\s*\(Workbook[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Text[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Manual[^)]*\)\s*$', '', line)
-        # Short citation patterns: (Tx:1.1), (W1 45.8), etc.
+        # Short citation patterns: (Tx:1.1), (W1 45.8), (M:21.1), etc.
         line = re.sub(r'\s*\(Tx[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(W\d[^)]*\)\s*$', '', line)
+        line = re.sub(r'\s*\(M:[^)]*\)\s*$', '', line)
 
         # Inline citation references like (Ch 5, 13) or (Ch 6, 8)
         line = re.sub(r'\s*\(Ch \d+(?:,\s*\d+)*\)\s*$', '', line)

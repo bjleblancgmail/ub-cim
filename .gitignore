@@ -22,6 +22,10 @@ Desktop.ini
 !.q-system/transcripts/.gitkeep
 !.q-system/checkpoints/.gitkeep
 
+# Large source material folders (kept local only)
+my-book/Course In Miracles/
+my-book/Urantia Book/
+
 # Backup files
 *.bak
 *.backup

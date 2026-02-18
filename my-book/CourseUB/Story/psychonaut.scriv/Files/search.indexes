@@ -1,0 +1,2207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="4">
+            <Title>Van visits Alex</Title>
+            <Synopsis>test chapter one
+</Synopsis>
+        </Document>
+        <Document ID="6">
+            <Title>Van visits Ales</Title>
+            <Synopsis>Van visits Alex at the facility. 
+</Synopsis>
+            <Text>First scene
+</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Standard Manuscript</Title>
+        </Document>
+        <Document ID="10">
+            <Title>ADE E-Book</Title>
+        </Document>
+        <Document ID="11">
+            <Title>E-Book</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Novel Format</Title>
+            <Text>NOVEL FORMAT
+
+About This Template
+By default, when compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
+
+How To Use This Template
+Create a new folder for each chapter and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
+Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+
+Compiling
+Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Research” folders). You will choose different front matter depending on the format to which you are compiling.
+Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File &gt; Compile… and click the “Compile” button straight away.
+
+To compile to standard manuscript format:
+Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information. (The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; placeholders will be replaced during compile with the information you provide in the Project Properties tab of Project &gt; Meta-Data Settings…, or you can delete them and enter whatever text you like.)
+Go to File &gt; Compile…
+Select “Standard Manuscript Format” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” option is ticked and select the “Manuscript Format” folder from the menu button next to it (this is already selected by default).
+Click “Compile”.
+
+To compile to paperback PDF format:
+Edit the front matter pages contained inside the Front Matter/Paperback Novel folder.
+Go to File &gt; Compile…
+Select “Paperback Novel” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” button is ticked and select the “Paperback Novel” folder from the menu button next to it if it is not already selected.
+Click “Compile”.
+
+To compile to e-book format:
+Edit or remove the dedication page contained inside the Front Matter/E-Book folder. Feel free to add any other front matter documents as required.
+Import a cover image (the recommended size is 600x800 pixels, preferably in JPG or PNG format). You can store this anywhere, but it makes sense to place it in the “E-Book” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.
+Go to File &gt; Compile…
+Select “E-book (with Parts)” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+If you have front matter documents other than the cover image, ensure that the “Add front matter” option is ticked and select the “E-Book” folder from the menu button next to it if it is not already selected. If you don’t have any front matter documents, you can un-tick “Add front matter”. (This does not affect the cover image.)
+If you have imported your own cover image, be sure to click “Cover” in the left sidebar and select the image from the “Cover Image” menu button.
+From the “Compile for” menu button, choose whether to export to EPUB or Kindle format.
+Click “Compile”.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile dialog and deselect “Title” in the list of elements to include.
+Page header and footer: You can edit the page header in the “Page Settings” pane of the Compile dialog.
+Page size: The “Paperback Novel” format is set to export to a page size of 5.06” x 7.81”, which is one of the formats you can use with CreateSpace. You can customise this by clicking the menu button beside “Paper Size” in the “Page Settings” pane of Compile.
+Font: You can use the “Formatting” pane in Compile to change the font used in the final document by selecting a row in the elements table, then clicking into the preview text to select it and clicking the “A” button in the format bar to change the font settings. Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+Rename the “Scene” document to use your chapter title and move it so that it is on the same level as the “Chapter” folder rather than being inside it.
+Move the “Chapter” folder to the Trash.
+Create a new text document for each chapter.
+In the “Separators” pane of the Compile dialog, change the “Text separator” setting to “Page break”.
+If your scene separators are centred (for instance if you are using “#” as the scene separator) and you want them to appear centred in the compiled document, too, select them and choose Format &gt; Formatting &gt; Preserve Formatting.
+Everything else: The above constitutes only the most common changes. You can completely change the output format by changing the various settings available in Compile.
+
+Sample Documents
+The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Standard Manuscript Format”; “Paperback Novel” shows the results when compiling to “Paperback Novel” format; and “ADE E-book” shows the results when compiling to “E-book” format and opening the resulting EPUB file in Adobe Digital Editions on Windows.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="14">
+            <Title>Manuscript Format</Title>
+        </Document>
+        <Document ID="16">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+Insert dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Copyright</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © year &lt;$fullname&gt;
+All rights reserved.
+ISBN:
+ISBN-13:</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="20">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+&lt;$fullname&gt;</Text>
+            <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="22">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+Your dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="23">
+            <Title>Cover</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+		Role in Story:	
+
+		Occupation:	
+     	
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      	
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Sample Output</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>
+Your name
+Your address
+Your phone number
+Your email address
+
+Your agent’s name
+Your agent’s address
+&lt;$wc100&gt; words.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="41">
+            <Title>Chapter Two</Title>
+            <Synopsis>Too small
+</Synopsis>
+            <Text>This is better</Text>
+        </Document>
+        <Document ID="42"/>
+        <Document ID="43"/>
+        <Document ID="44">
+            <Title>Outline</Title>
+        </Document>
+        <Document ID="45">
+            <Title>Van gets breifing </Title>
+            <Synopsis>Van arrives at achitectual sphere. Meets with small group of celestial govenment offices
+</Synopsis>
+            <Text>Do not deprive Alex of the joy of discovery by over revelation. (This allows me to present current thinking and watch Alex struggle to find his way). The real story is why we are in this mess to begin with. And what the celestials are doing to fix it. Quarantine planet. 
+
+Outline
+You are in isolation because your celestial rulers rebelled against the established order. It is up to you when or if you rejoin the cosmic family.
+The narrative of robots rebelling against their creators parallels the story of Earths rulers rebelling against its creator. 
+Ideas are contagious much like a virus. Rebellion must be allowed to be worked out. 
+We can only assist based on the mandate from above and within the limits of your free will. 
+Earth has been quarantined for over 200,000 years. The universe is peaceful except for the few worlds in isolation. The universe is organized and governed by a deity group. This group is comprised of countless beings of every imaginable order from spirit to material beings and all phases in between.  
+God has the ability to make earth perfect. But that would deprive you of participating in creation. What is at stake is bigger than your wildest dreams. Each person is an irreplaceable part of this creation. 
+
+You have become the example of why it is better to follow the established way.
+The only time we intervene in free will choice is when the Deity Group deem it wise. Seldom do we interfere in the affairs of men. 
+The decision making process goes all the way up to the Deity group. At the center of it all if the one true God who rules with absolute authority. Hi has the big picture in mind, he defines the purpose and outlines the goals. 
+65:5.3 (736.6) The universe of universes, including this small world called Urantia, is not being managed merely to meet our approval nor just to suit our convenience, much less to gratify our whims and satisfy our curiosity. The wise and all-powerful beings who are responsible for universe management undoubtedly know exactly what they are about; and so it becomes Life Carriers and behooves mortal minds to enlist in patient waiting and hearty co-operation with the rule of wisdom, the reign of power, and the march of progress.
+
+Van travels to Earth
+Alex Deals with conflict (crazy)
+Alex Davis gets a call. One best friend shoots another. Alex runs to hospital
+Old school mate crisis, flashback to spirit vision while in hospital waiting, 
+Fell from tree, saw angels, mother running, 2 best friends stayed with him overnight, angels hovering over bed had lasting impact
+Now friend is in trouble. Alex stay's by his side until he gets out of intensive care. 
+Van attends celestial meeting on earth, status, update
+Others attending include greys (classified mission), midwayers, angels, Lanonadec son (mystery powerful guy), and student visitors (material sons, mortals from L&amp;L worlds)
+Van is briefed on his roll in Alex's awakening. 
+Van gets human identification ID, secret government background, black ops cover
+ 
+Alex gives tour of lab to van, explains robots mimic mind model
+Van is accompanied with black ops team who know nothing about its true backing. 
+Alex is recruited by black ops team to experiment with robotic ant technology. Turning ants into useful robots. 
+Ties electronics into insect brains, builds insect robots
+Intelligence is broadcast, the brain is the receptor, it learns by acting. Instructions broadcast in loop over and over a million times a second. 
+Mechanical mind animates basic building blocks. No learning takes place. 
+Learning mind changes reaction based on results. 
+Uses what he learned to build long lasting robot that mimics insect brain waves
+Van seems mysterious, unrevealing, wise, asks deep unanswerable questions
+Van throws in hints of mind, spirit working. Perhaps mind is undetectable reality, like gravity, unexplainable. 
+Synchronicity event for alex, then vivid dream
+Alex struggles with wife, Grand funk - in love with a girl I can't live without
+She wants to be with him but he is too busy. The life of a spy
+Van reveals himself to Alex
+There will come a day when your technology will be so great we will not be able to hide behind the veil. This explains the awareness of strange things going on behind the scenes 
+Takes Alex to architectural world 
+Van reveals mission to Alex 
+People are taking sides 
+Too many paranoid people for this plot. [Corporation X develops virus to limit connectivity to spirit creativity]
+Seeks to wrestle control over masses
+[They want to interferer with the few brain cells that give humans access to inspiration from higher intelligences.]
+Alternative plot, Corp X develops mind interference mechanism to limit interaction with god fragment (quantum effects). 
+Corporation Y builds similar artificial intelligence but harnesses and builds on the destructive aspects to create a vicious army. 
+Secret groups go back in history, use mythology to tie into the present
+has been working on this for centuries
+We have a contact in congress who has complete awareness of his role. Because of our limitations to interfere sometimes these black ops projects go astray and fall into the hands of people with a different agenda. 
+Explains limits of his mission, can't interfere with sanctity (holiness) of human will
+Human will is respected in the entire universe above all else. Only when men freely choose the will of God will there be peace on earth 
+Rarely intervenes without cooperation  Could make world perfect today, would interfere with the very purpose of creation in time.
+[Alex must destroy virus, setback evil empire a few more years (similar to how Israel setback Iran's nuclear progress) using his technology and celestial help within limits of commission]
+Alex must use the superior power of his good AI to defeat the army of evil AI. 
+Van can't tell Alex how to accomplish his goal. 
+This would not be possible without Van's help
+Van's main mission is to help Alex deal with the revelation and the confusion and trouble it will cause his psyche
+Alex visits his friend in prison, councils him
+Peek inside evil corporation
+
+
+
+End of movie, scene of 3 friends visiting in prison. Alex brings his two best friends back together for healing. 
+</Text>
+            <Notes>This doc only</Notes>
+        </Document>
+        <Document ID="46">
+            <Title>Scene x Van gets a briefing</Title>
+            <Synopsis>Van gets breifing at earth celestial headquarters. </Synopsis>
+            <Text>Van gets briefing at Earth headquarters
+
+
+ 
+ 
+All I have seen teaches me to trust the Creator for all I have not seen.”
+- Ralph Waldo Emerson
+
+
+Scene One
+24 Councilors 
+
+It would require extended vision to perceive the presence of some members of the celestial government attending a parliament meeting. To compensate for this deficiency of material vision, the hosts provide visual simulators so all attendees can perceive each other during the parliament meeting.    
+
+Van enters into the parliament meeting room on his levitating pod and settles down next to the designated area set aside for material forms. The pod floats off to a designated parking spot. The meeting is held in an open roof building with full view of the stars. A light cool breeze blows continuously. On artificial planets the weather is controlled perfectly. Roofs are never used. Van settles down in one of the many parliament seats. Most humans attending in this section are student visitors. This is the area designated for wholly material forms. 
+
+To his left are seated the semi material beings. These beings consist of planetary guardians who work with the celestial governments of individual planets. They are born to the planets they serve and only leave after fulfilling their mission of guiding the planet from the dark ages all the way through the age of enlightenment. These beings are a dedicated group who work ceaselessly for the planet of their origin. Van looks at them fondly as he recalls his days back on his native planet where he worked closely with these semi material beings. He knew very little about them back when he was on his planet of nativity. It was only later in his life when one of their order did work closely with him once he was made aware of the celestial government on his planet. 
+
+Van extends his hand to his neighbor sitting to his right.
+
+
+Van: &quot;Hi, I am Van&quot;. 
+
+Toby: &quot;Toby, nice to meet you&quot;. 
+
+Van: &quot;Are you here for the quickening project?&quot;
+
+Toby: &quot;Oh no, I am here as a student, level three. I am from Tostoron, from Universe six. I was not aware of a quickening project here. That is rare isn't it?&quot;
+
+Van: &quot;Level three, you are in store for such a huge mind blowing experience. I remember that level like it was yesterday. What an amazing group it was. 
+
+Toby: &quot;Yes that is what I hear.&quot;
+
+Van: &quot;Yes quickening is rare, but apparently much needed. From what I understand this sector is way out of step with the ascension plan. And the celestials are running behind on earth recruits for their reserve team.&quot;  
+
+Toby: &quot;Yes I viewed the briefing, Earth has been in isolation for over 200,000 years. Some of the scenes were hard to watch. So much brutality. I know all things work together for good but I still cannot understand why this has been allowed to continue for so long. 
+
+Van: Yes I struggled with the same  issues. My birth planet was similar in some ways to earth. It survived rebellion and is now in it's sixth epoch. Was your home planet in isolation or did it follow the normal plan? 
+
+Toby: Yes Tostoron was loyal to the plan. We had a pretty easy path compared to your world. 
+
+Van looks up at the visual translator and notices the twenty four councilors are beginning to take their places around the head of the chamber tables. These twenty four presiding heads 
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="47">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="48">
+            <Title>Copyright</Title>
+        </Document>
+        <Document ID="49">
+            <Title>Van is briefed on earths status</Title>
+            <Synopsis>Introduce world government, status, his mission. 
+</Synopsis>
+            <Text>World in quarantine
+No visible celestial government
+Contact limited to those approved by the CG
+</Text>
+        </Document>
+        <Document ID="50">
+            <Title>Betty Davis</Title>
+            <Text> 
+ 
+Betty Davis
+Born in 1972
+She's got Betty Davis Eye's
+All the boys think she's a spy
+Love and Theft Angel Eyes
+
+
+Betty wears trendy cloths. The boys never miss a chance to sneak a peak at her as she sashays by. She knows she turns heads. She learned to live with it in high school. No one told her how to cope with the popularity when she came of age. It was a little hard to believe. But now she is at the age where she figures she will use it to her advantage. It is a gift she figures. Why not put it to good use. She says beauty is to glorify God. And every Sunday she gives it her all while singing in the church choir. Her father has been a pastor as long as she can remember. 
+
+Brad Paisley She's everything 
+
+a thousand miles away 
+i want you
+nothing else matters
+
+took a trip 
+
+abandon all reason
+the heart leads
+passion bleeds
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="51">
+            <Title>BookOnline</Title>
+            <Text>His body goes numb inside the sensory deprivation chamber. The advanced HEPA air filter removes gaseous pollutants, as well as bacteria, viruses, pollen and mold spores. Sixty minutes later the alarm slowly grows louder within his mind. Alex wiggles his right hand. It is a sensory trick he learned years ago while meditating. Attempting to move his digits slowly brings his consciousness back to an awareness of his body. The mind when allowed to roam in this chamber can produce vivid altered states of awareness profoundly different from worldly experiences. Merging the two at once can be a shock to the mind. The slow process of awakening is less dramatic and allows the fading wispy experiences to be recalled with some degree of accuracy and then logged in a notebook.  Still aware of his dreamy state Alex recalls his physical presence within the chamber. Fading from his mediation his fingers feel stiff, he begins to move his toes. Taking a deep breath, he slowly exhales through his mouth and then another breath. Minutes later fully awake he opens his eyes to see the digital display above. He flips a button that ends recording of his session. A helmet lifts off his head.  
+The chamber was designed by Alex to help further his exploration into the mysterious world of the mind. The technology built into the chamber is as complicated as a space capsule. Various sensors record his brain waves, heartbeat, breathing rate, blood pressure, blood composition, weight, body fat, BMI, body water, bone mass and too many readings to list. All data is recorded on highly secure servers back at his robotics lab. A lab funded by a top secret black budget government project. 
+Alex sits at his desk after exiting the chamber trying to recall his latest excursion into his altered state. He opens a spiral notebook and begins writing his experiences. An objective mindset is hard to maintain while trying to interpret these altered states. Often religious interpretations are assigned to these experiences. Are they just dreams created by the mind within its electro chemical processes or something more profound? Throughout his career he has remained single minded in his quest to penetrate these mysteries of mind. 
+“Moved into level 21. Binaural beats faded. Brilliant display of lights, same strange geometric shapes constantly changing. Faded after a few minutes, sensation of moving rapidly, detected the presence of someone surrounding me, inside me. Lights flash, suddenly on a beach. Had sense of limited range of vision. Strange man standing on beach trying to get my attention. Seemed to be proud of his artificial rendering of this beach scene. Waves flowed with peculiar regularity. Sun light pierced the water without bending, an obvious flaw in his design. I had the impression he was an adventurer. His clothing resembled that of Indiana Jones down to the kahki pants, fedora and jacket minus the bull whip. He smiled without saying a word. He stared at me for what seemed like an eternity. I began to feel uncomfortable and wanted to turn away. He held out his hand and lights appeared above it. I saw seven glowing orbs. Three orbs glowed with colors interacting with each other. The other four were poorly lit. 
+
+Maybe this image will fit here: You have come to where the road is carpeted with leaves of false desires, fallen from the trees of hopelessness you sought before. Now are they underfoot.
+
+1.a. Betty is cooking breakfast for the kids. A routine she cherishes every morning. Flipping pancakes and frying turkey bacon with military like precision. Always conscious of the clock, she juggled the morning duties with effortless joy. Her legs are shaved but her hair is a mess. Her skirt is a little too long for her taste but she doesn’t want to show up the other women in her fundraiser later today. Just enough makeup to get the job done. Not too pretentious. She knows the appeal will help free up a few more dollars from the men’s pockets. All in good taste.
+“Mom, sally pushed me. Mom tell sally to stop!”
+“Sally, yes mom, 
+2. Alex goes to the lab. Reviews progress on a project.
+
+3. Van gets briefing on his mission and current status of earth. 
+Update on how Alex achieved his current status and history of black ops budget. 
+4. Need to introduce bad guy. Plot to rule the world on terms at odds with celestial government (prime objective) 
+	Bad guy modeled after George Soros
+5. 	
+
+
+	
+
+
+
+ 
+
+
+
+</Text>
+        </Document>
+        <Document ID="52">
+            <Title>Government Entities</Title>
+            <Text> 
+ 
+
+
+Carlos Leite da Silva
+4 hrs
+CELESTIAL HOSTS RESIDING ON OUR PLANET, according to THE URANTIA BOOK
+Although Urantia, our planet, is in quarantine, isolated from the circuits of the Constellation it belongs to, it is secured by the presence of vast celestial hosts, which are organized and commanded under rigorous and powerful order, thus preserving our planet for the due evolution of humankind.
+Every day our planet welcomes cosmic visitors and students, however here resides a permanent population of spiritual and semi-spiritual beings.
+Notwithstanding it doesn’t reveal us the totality of numbers and types of those celestial residents, The Urantia Book does present us a general view where we can perceive that, in the least, the amount of those celestial residents can be close to 2.4 billion. 
+This summary provides the list of those celestial beings revealed by The Urantia Book who are living alongside our humanity upon our planet.
+1. 
+VORONDADEK SON (The Most High observer upon Urantia sent by the Constellation Father) [UB, 43:5.17] [Probably this Vorondadek Son is the author of Paper 36.]
+2. 
+PERSONALIZED THOUGHT ADJUSTERS (3 are on Urantia, together with the Vorondadek Son) [UB, 109:7.7]
+3. 
+LANAFORGE, the Sovereign of our System of 619, or maybe now more, inhabited worlds (he frequently visits Urantia) [UB, 45:2.4]
+4.
+NORSON, the Executive Planetary Prince of Urantia (since August 21st 1951 he is on Urantia in representation of the Vice-Gerent Machiventa Melchizedek, who by its turn rules in name of Jesus, our rightful Planetary Prince, as these last two are absent from Urantia; Machiventa resides on Jerusem, the system capital; Jesus is on Salvington, the capital of the Local Universe). [UB, 93:0.2] [UB, 55:7.3] [Norson is not mentioned in the Urantia Book, rather in the “Publication Mandate of The Urantia Book]
+5. 
+RESIDENT GOVERNOR GENERAL (every 100 years one of the 24 planetary supervisors resides on Urantia; among them are John the Baptist, Moses, Elijah, Enoch, Machiventa Melchizedek, Adam and Eve, besides others revealed and unrevealed) [UB, 45:4 and 114:3.1]
+6. 
+CHIEF OF URANTIA SERAPHIM, A Primary Supernaphim [UB, 37:8.10] [Author of Papers 82, 83, 84, 113 and 114]
+7. 
+MANOTIA, Associate Chief of Seraphim. [UB, 53:6.6]
+8. 
+MASTER PHYSICAL CONTROLLERS, sub-order of the MECHANICAL CONTROLLERS (10 are on Urantia) [UB, 29:4.19]
+9. 
+MORTAL FINALITERS [UB, 31:0.11]
+10. 
+LIFE CARRIERS (2 are on Urantia) [UB, 36:3.9] [Authors of Papers 57 to 65]
+CUSTODIANS OF THE LIFE CARRIERS STAFF (12 are on Urantia) [UB, 36:3.9]
+11. 
+PRIMARY MIDWAYERS (there are 9,981 on Urantia) [UB, 77:7.1]
+SECONDARY MIDWAYERS (there are 1,111 on Urantia) [LU, 77:7.2]
+[Their chief wrote Paper 91; a commission of the Brotherhood of the United Midwayers is responsible for the entire Fourth Part of The Urantia Book, “The Life and Teachings of Jesus”.]
+12. 
+ARCHANGEL CORPS (“a divisional headquarters of the archangels has been maintained on Urantia” [UB, 37:3.3-4]
+13. 
+CONCILIATORS [UB, 25:3.1]
+14. 
+RECORDING ANGELS [UB, 25:5.2]
+15. 
+MASTER SERAPHIM OF PLANETARY SUPERVISION [UB, 114:6]
+16. 
+EPOCHAL ANGELS, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.5]
+17. 
+PROGRESS ANGELS, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.6]
+18. 
+RELIGIOUS GUARDIANS, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.7]
+19. 
+ANGELS OF NATION LIFE, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.8]
+20. 
+ANGELS OF THE RACES, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.9]
+21. 
+ANGELS OF THE FUTURE, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.10]
+22. 
+ANGELS OF ENLIGHTENMENT, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.11]
+23. 
+ANGELS OF HEALTH, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.12]
+24. 
+HOME SERAPHIM, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.13]
+25. 
+ANGELS OF INDUSTRY, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.14]
+26. 
+ANGELS OF DIVERSION, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.15]
+27. 
+ANGELS OF SUPERHUMAN MINISTRY, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.16]
+28. 
+Various SERAPHIM, mainly SERAPHIC GUARDIANS (close to 1.2 billion on Urantia) [UB, 114:0.2]
+29. 
+CHERUBIM and SANOBIM (about the same number of Seraphim, close to 1.2 billion on Urantia) [UB, 114:0.2]
+30. 
+ASSISTANT TEACHERS, sub-order of the Superior Seraphim [UB, 39:2.7]
+31. 
+SOCIAL ARCHITECTS, sub-order of the Supervisor Seraphim [UB, 39:3.4]
+32. 
+ADMINISTRATIVE ASSISTANTS, sub-order of the Administrator Seraphim (there are 1,000 on Urantia) [UB, 39:4.3]
+33. 
+JUSTICE GUIDES, sub-order of the Administrator Seraphim [UB, 39:4.4]
+34. 
+QUICKENERS OF MORALITY, sub-order of the Administrator Seraphim [LU, 39:4.13]
+35. 
+TRANSPORTERS (always a variable number) [UB, 39:4.15]
+36. 
+PLANETARY HELPERS [UB, 39:5.2]
+37. 
+VOICES OF THE GARDEN, sub-order of the Planetary Helpers [UB, 39:5.3]
+SOLONIA is the Voice of the Garden who on Urantia communicated with Adam and Eve and was registered on the biblical texts as “the Lord God” [UB, 75:4.8] [Author of Papers 73 to 76]
+38. 
+SPIRITS OF BROTHERHOOD, sub-order of the Planetary Helpers [UB, 39:5.4]
+39. 
+SOULS OF PEACE, sub-order of the Planetary Helpers [UB, 39:5.5-6]
+VEVONA is the chief of the Souls of Peace on Urantia [UB, 39:5.5]
+40. 
+SPIRITS OF TRUST, sub-order of the Planetary Helpers (UB, 39:5.7-9]
+41. 
+TRANSPORTERS, sub-order of the Planetary Helpers (UB, 39:5.10]
+42. 
+TRANSPORT ADVISERS, sub-order of the Energy Manipulators (there are 70 on Urantia) [UB, 44:5.6]
+43. 
+EXPERTS OF COMMUNICATION, sub-order of the Energy Manipulators (there are 12 on Urantia) [UB, 44:5.7]
+44. 
+CELESTIAL ARTISANS [UB, 44:8.1-2]
+45. 
+SERAPHIC EVANGELS, sub-order of Transition Seraphim [UB, 48:6.7-8]
+46. 
+RATIAL INTERPRETERS, sub-order of Transition Seraphim [UB, 48:6.22]
+47. 
+MIND PLANNERS, sub-order of Transition Seraphim [UB, 48:6.24-26]
+</Text>
+        </Document>
+        <Document ID="53">
+            <Title>Movie Music</Title>
+            <Text> 
+ 
+Body is a wonderland - John mayer
+
+</Text>
+        </Document>
+        <Document ID="54">
+            <Title>Mission Impossible</Title>
+            <Text>Mission Impossible
+
+Suspense, mystery, team work, doing good, 
+
+
+</Text>
+        </Document>
+        <Document ID="55">
+            <Title>AI</Title>
+            <Text> 
+ 
+Artificial intelligence
+
+Team 
+Alex
+Bruce, Neural net expert
+Robotics expert - Fred
+Computer farm/server specialist - Gerry
+
+Ant colony represents society
+Ant brain duplicated in mother brain
+Signal transmitted like pulse or heartbeat
+Mother brain receives update during every pulse
+Signal contains new learning in each pulse
+Learning is cumulative 
+Pulse creates a kind of perception
+Ant brains constantly experience change
+If pulse was the same each time there would be no change in perception
+Time would stand still, learning stops
+Diversity creates the maximum potential for learning
+Slightly different neural networks, different experience, creates a stronger colony
+
+Learning is not memorization of facts by reaction to any given situation, maturity
+
+Mother brain duplicates all ant brains that are good for the colony, delete ones that are bad. 
+Mother brain is the accumulation of all good neural networks, constantly learning, growing stronger
+Bad ones can't be deleted until given time to work out its final reactions. Then when determined to be only for destruction it is deleted. Future not predictable for any one ant
+
+Philosophy of good technology
+AI continues to develop expanding the roll of each unit to its maximum capability.
+Bad technology
+Isolates and dumbs down the unit to be a destructive force only. A killing machine.  We can make mean machines but limits to building functional society 
+
+William mcdugal Trained rats to escape the water mains. Children learned quicker. Grandchildren learned quicker. 
+
+Identical Twins have a strong morphic resonance. Study show's remarkable similarities. 
+
+Flynn effect- Intelligence continuously goes up. 
+https://en.wikipedia.org/wiki/Flynn_effect
+
+Karl Spencer Lashley studied rats, cut out parts of brains to see where memory is stored. 
+https://en.wikipedia.org/wiki/Karl_Lashley
+
+Alfred Rupert Sheldrake - Morphic Resonance -  A New Science of Life
+https://en.wikipedia.org/wiki/Rupert_Sheldrake#Morphic_resonance
+https://www.youtube.com/watch?v=9bm8RrkIHgQ
+Morphic fields exist in nested hierarchy (like 7 adjutants). .
+Bruce Lipton The Wisdom of you Cells. Posted by Tracy Michell
+https://www.brucelipton.com/resource/article/the-wisdom-your-cells
+
+We are close to the point of no return. Science is advancing at exponential rates. Genetic tinkering is a threat, biological weapons, nuclear technology, chemical warfare. Biological robots will soon be a new threat. Mans understanding of his physical environment is outpacing his maturity level to cope with the consequences of it. Ms. Juliet, we simply cannot let mankind self destruct. We will intervene only as much as necessary to insure the survival of civilization. At this time we need the help of a few key people. In the not too distant future you will be the fortunate recipients of an assistant creator son who will be born into the world in the usual way. He will transition civilization to a new level of efficiency. But for now we can only prepare the stage for his arrival. 
+
+You can recreate animated life up to the animal level. But never will you accomplish the feat of creating a conscious being capable of overtaking human civilization, said Van. You will never understand gravity. Nor will you ever assemble an atom. These are exclusive acts of the creative deity group. God has given them Sovereignty over the affairs of time and space. Then who is this deity group Van? And why is it that man will never master the discipline to  
+
+I intend to build a robot capable of self consciousness. The possibilities are staggering, Alex said excitedly. Wouldn't that be the next step in our evolution? Van thinking for a moment says Alex there is much you have yet to accomplish. The neural network complex you engineered does reproduce some of the more low level animal life functions. But never will you create a self conscious being. 
+
+What is tragic in the eyes of a creature of time and space is but a necessary step in the unfolding of a synthesized God. Your world is the unfortunate ..... Rebellion by the celestial government plunged your world into automatic isolation from the inhabits universe.
+Your world has been in isolation from the inhabited u inverse for over 200,000 years. 
+
+</Text>
+        </Document>
+        <Document ID="56">
+            <Title>Alex Davis</Title>
+            <Text> 
+ 
+The reality of illusions
+
+Alex Davis Character
+Born in 1975
+Went to school for neuropsychologist 
+Studies brain/behavior relationships especially cognitive function.
+Read Rene Descartes - Meditations on first philosophy - Principals of philosophy 
+The Oakridge brothers the song the journey
+You don't know how it feels Tom Petty
+Zack brown Colder Weather 
+I musta picked a bad time to fall in love Grand Funk Railroad
+Ship of fools Robert Plant
+Seal Crazy
+Seven Year Ache from 
+Believable, intriguing, adventitious 
+
+Hypnotized Fleetwood mac
+This gave me the idea of Alex doing what Monroe did in a lab. Discovers powers/levels of mind previously unknown. 
+ 
+Also, pattern a character after Bruce Willis in the fifth element and Hans solo in Star Wars. A rebel new age adventurer who pushes the limits of mind exploration with psychedelics and crazy adventures. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex was out on Saturday night with some buddies having a good time when he met Betty. She was with friends drinking whiskey and water, dancing, and having fun. They started dancing, had a good time but he didn't get her phone number.
+
+The next morning he went to church and saw her singing in the choir. The preachers daughter. 
+
+Alex had a spiritual experience young. Went to church where he met Betty. This sets up some interesting discussions between him and Betty. Betty is a little on the wild side. He pursues her in the little time he has while perusing his career. 
+
+He couldn't convince her to come to Colorado (Pittsburg) where he went to a university 
+Longed for her. Kept in touch. He feels driven by a purpose, he has to pursue his research. He looks forward to the day they can be together. What holds her back?
+
+He meets a friend in college who studies robotics. He is studying neuropsychology. Together they found a startup making robots out of ants. Together they discover insights into the mind and build robots to mimic the natural interactions of mind with material bodies. 
+
+Alex felt certain he and Betty were meant to be together. She didn't seem as certain. 
+
+Alex's motivations
+114:7.3 (1257.3) Mortals of the realm are chosen for service in the reserve corps of destiny on the inhabited worlds because of:
+114:7.4 (1257.4) 1. Special capacity for being secretly rehearsed for numerous possible emergency missions in the conduct of various activities of world affairs.
+114:7.5 (1257.5) 2. Wholehearted dedication to some special social, economic, political, spiritual, or other cause, coupled with willingness to serve without human recognition and rewards.
+114:7.6 (1257.6) 3. The possession of a Thought Adjuster of extraordinary versatility and probable pre-Urantia experience in coping with planetary difficulties and contending with impending world emergency situations.
+
+Alex is a cross between Will Rogers and 
+
+Richard Gere 
+Alex minored in psychology 
+He spends time exploring the mind in deep meditation. He has experiences, gets insights into his artificial intelligence work. Similar to how tesla did. Tesla knew there was a central transmitting station for mind and he was in touch with it. 
+</Text>
+        </Document>
+        <Document ID="57">
+            <Title>Alex write</Title>
+            <Text>IN THE BEGINNING THERE WAS THE WORD. AND THE WORD WAS GOOD. 
+IN THE BEGINNING THE EARTH WAS PART OF A VAST CREATION OF POPULATED WORLDS GOVERNED BY A UNIVERSAL SYSTEM. 
+
+EARTH BELONGS TO A SYSTEM OF 1000 INHABITED PLANETS. EACH SYSTEM BELONGING TO A LARGER CONSTELATION CONSISTS OF 100,000 INHABITED PLANETS . EACH PLANET IS RULED OVER BY A BRILLIANT BEING OF LIGHT. 200,000 YEAR AGO A GROUP OF BRILLIANT BEINGS REBELLED AGAINST THE ESTABLISHED WAY. TRILLIONS OF WORLDS WENT THROUG EONS OF TIME WITH A NEAR PERFECT RECORD. EACH SUCCESSIVE GROUP OF DEVELOPING SYSTEMS WERE GIVIN INCREASING AUTONO
+
+TWO HUNDRED THOUSAND YEARS AGO THE CELESTIAL GOVERNMENT OF EARTH REBELLED AGAINST THE ESTABLISHED ORDER of the galaxy. The very authority of the central government was questioned by these rebellious rulers. EARTH WAS QUICKLY PUT into quarantine. Earth became know in the galaxy as an orphaned planet. All celestial communication has been severed. The head of the angelic core determines what will be communicated to earth’s inhabitants. Universe law requires court proceedings to depose it’s rebellious planetary prince. No date has been set for the proceedings over the last 200,000 years. The prince has been stripped of much of his power to perpetrate his evil plans. But he retains the power to approach any human who has a heart of evil. In place of the deposed planetary prince, a vicegerent prince has been installed. These two planetary princes have competed for the hearts and minds of Earths inhabitants. The rebellion has launched Earth into an orgy of darkness and death and out of step with the established plan. The estanlished order has been turned on it’s head.
+
+
+
+
+
+Alex becomes a mind-naught, penetrates deep mind function, and meets interesting characters. It is revealed to him that the earth has been quarantined for several several centuries. Earths ancient rulers rebelled against the universal government and threw the planet into quarantine. All communications circuits were cut off except for the angels who live and work within the universal mind. The angels live within the circuits of all mind indwelt humans. This is the century humans begin to break through the mental barriers and connect with the angels. 
+Contact is forbidden. On who’s orders did this come from? Alex will be accompanied by a star student. This level of contact has not been allowed since the quarantine. In fact, I have no record of it happening in the entire seventh super universe. Earth is surrounded by a mental forcefield of seemingly impenetrable ideas. 
+Alex was eager to get to his meeting with potential venture capitalists. His company is making great strides in developing advanced artificial intelligence. His cash burn rate has him on edge. He needs more capital to invest in his young thriving company. 
+
+His technology is top secret. In order to keep his technology from prying eyes he separates his employee duties. Very few employees are privy to his master plan. 
+
+He hurries through his sprawling front door to his office with books and a briefcase in hand. Not one to waste time on niceties he tells his receptionist to send his eight o clock appointment to his private conference room on the second floor. He spreads his notes out on the table 
+
+Billboard
+Corporate structure
+
+</Text>
+        </Document>
+        <Document ID="58">
+            <Title>Scenes</Title>
+            <Text> 
+ 
+Realistic fiction
+
+Alex spends his life trying to reverse engineer the human mind.
+He starts by studying mind at it simplest level, ant colonies.
+He studies hymisync 
+Dates Betty.
+Builds robotics. 
+Tension is both with Alex wanting to use AI power for his own good (ego) vs what's good for the group. And also tension between Alex and  (Soros as a scientist). He who masters himself is more powerful than he who conquers a nation. 
+ 
+
+
+Scene I - Recruit and inform Van about earth mission. Danger!
+Earth on verge of retrogression
+Civilization is in jeopardy of progressing too fast to allow the development of wisdom to keep up with the increasing power mankind has achieved. Artificial Intelligence threatens man, gives evil people too much power. Celestial Gov has intervened 10 times in earths history. Another intervention is about to take place. Ultimate success depends on decisions of population. Tension similar to story It's a Wonderful Life. Success is not guaranteed. Limits are placed on intervention by higher authority. AI is just one of many threats. Ultimate goal of creation is to build hearty souls, requires free will, freedom to choose destruction if necessary. 
+With Van Imagine a scene with the 24 counselors discussing Alex possible recruitment into the guardians of destiny. They are having a conversation about his status, Circle attainment, reviewing reports from his personal guardian, his ambition, his personal story, when he received his personal guardian. ..... Info about how Caligastia still influences the world might be an interesting briefing. Once he knew his physical members were going to die he devised a plan to pass on vital information from generation to generation keeping the dark ideology alive. But don't get into conspiracy theories.  Our world is not like most world's. Why?
+
+Scene II - Alex meditates - Discuss ancient book. Strange things happen to him, funny dude as in strange. 
+Betty wakes up and finds Alex in his usual place meditating early in the morning. She rounds up the kids for school. She is a high energy perky person. They have a discussion about a book he is reading. He see's the present in an ancient story. Facts about his personal life seem eerily similar to the story. Alex considers his role in prophecy. (messing with time perception)
+Perhaps Alex will discover prophecy about himself in stories written by great novelists (fictional novelists of course) Make up a fictional account of a greek story like Gilgamesh. It was discovered in &quot;Ashurbanipal's palace
+library at Nineveh&quot;. It is the oldest known writing known to man. Here is a definition we can use in the story - hierophants nounplural noun: hierophantsa person, especially a priest in ancient
+
+Scene III - Black opps (Van) recruits Alex (he is unaware of who)
+Alex has private AI company. Alex meets with black ops budget director. Dir pitches a project to Alex. Develop artificial intelligence to be used for defense. Alex is successful and resists until Van reveals certain facts that intrigue him. Of course Van can't reveal how he knows.  Alex has no knowledge of Dir affiliation with the 24. Alex &quot;When I was young I had interesting experiences when I meditated but I quickly learned I couldn't tell anyone. It sounded too outrageous. 
+
+Scene 4 - From Van's perspective. Meet villain - Soros is influenced by forces he is unaware of. 
+Spooky doo type person recruits evil scientist to build artificial intelligence for war. Evil presence behind spooky do. Hitler is prototype for this character. Van has extended vision which allows him to see who is indwelt by God and who is not. Spooky do is not indwelt. Villain raises money by crooked means. Madoff is template. Race to get AI power first. 
+
+Scene 5 - Alex builds insect robots
+Alex conducts a trial run of his AI technology. He develops echo system of different types of robots all driven by the central &quot;brain&quot;. These echo systems are modeled after insects. Eventually he learns to model animal behavior with use of central brain. Eventually maps out 7 key motivations or logical segregations. He can only achieve 5 of the 7. His research suggests a 5th adjutant functioning in the animal brain. What clues lead him to that conclusion? 
+
+
+Scene 6 
+Alex has flashback to childhood, see's vision. 
+
+
+Scene 7 
+Alex see's Betty signing in choir at church. Her father is the pastor. Alex's scientific mind struggles with a simplistic faith. 
+
+Scene 8 = Alex joins elite group
+Maybe second half of story
+Dir reveals behind the scenes operations of black ops management. Alex is offered an opportunity to join an elite group of humans to work behind the scenes for the advancement of mankind. &quot;You have an energy interface and if we were to take it out of you, you would feel instantly lonely.&quot; The reason your world is in the shape it's in is because you strayed from the divine plan. Your divine leaders
+
+Greece, who interprets sacred mysteries or esoteric principles.  Is this the name of a midwayer? Lugulbanda. Or Jesus?
+
+Scene 9 - Alex dreams of his mission
+Alex will have symbolic dreams where he goes up a mountain and see's visions. Is this Adam dreaming that Jesus would set Adams feet on the ground? Gilgamesh said, ‘I dreamed again. We stood in a deep gorge of the mountain, and beside it we two were like the smallest of swamp flies; and suddenly the mountain fell, it struck me and caught my feet from under me. Then came an intolerable light blazing out, and in it was one whose grace and whose beauty were greater than the beauty of this world. He pulled me out from under the mountain, he gave me water to drink and my heart was comforted, and he set my feet on the-ground.' UB quote:  &quot;I have given consideration to the circumstances of your default, I have remembered the desire of your hearts ever to be loyal to my Father's will, and you will be called from the embrace of mortal slumber when I come to Urantia if the subordinate Sons of my realm do not send for you before that time.&quot;
+Water represents spirit. Water will be part of the theme of the vivid dream. 
+
+Scene 10 - Alex films invisible spirit beings spying on nuclear sites. 
+Work in a scene of someone with infrared goggles observing semi spirit beings working/hanging around government officials, or spying on nuclear facilities. Later recordings are erased. Technology altered to prevent visuals of midwayers.
+
+Scene 11 - Alex identifies 7 major functions of the brains. 
+Alex discovers radio type receivers in the brain, circular in nature. He finds 7 distinct sections that map to 7 adjutants. Spooky Do wants to genetically engineer people so the seventh adjutant does not work. He recreates living structures in the brain that perform specific functions. He integrates them into electronic neural networks. As he progresses in integrating himself into the big brain he learns that thinking as a group (family) or organism works better than thinking whats best for the part. He struggles with the idea of all this power in his hands. Will it corrupt him. His antagonist has been corrupted by a similar technology. He eventually learns how to tap into his own higher consciousness to defeat the bad guy (his own ego and the villain). The bad guy being drunk with power blocks his access to the higher mind functions giving Alex the advantage. 
+
+Scene 12 - 
+</Text>
+        </Document>
+        <Document ID="59">
+            <Title>Story notes</Title>
+            <Text> 
+ Cassandra, of course, was the prophetess of Greek mythology who was doomed to issue unheeded warnings. 
+
+
+
+
+
+
+
+
+
+
+https://www.facebook.com/BigThinkVideo/videos/1279521618826626/ Video of brain being a receiver into universal consciousness
+
+https://m.medicalxpress.com/news/2017-06-blue-brain-team-multi-dimensional-universe.html Blue brain project great research on brain function
+
+https://www.theepochtimes.com/uplift/a-new-theory-of-consciousness-the-mind-exists-as-a-field-connected-to-the-brain_2325840.html Article about consciousness as a field. 
+
+https://futurism.com/weve-finally-created-an-ai-network-thats-been-decades-in-the-making/  New approach to AI 
+
+light and sound helps with alzheimers
+https://www.scientificamerican.com/article/an-hour-of-light-and-sound-a-day-might-keep-alzheimers-at-bay/?linkId=64806299&amp;fbclid=IwAR3_KxG7HE6aYhdECngZ1Lh7y4sVXn_zp7bdx_A6aHJZmDRBuZ-p4YcgL0I
+
+Mind much like gravity. Consciousness exists outside the brain. 
+https://www.psychologytoday.com/ca/blog/think-well/201906/does-consciousness-exist-outside-the-brain?fbclid=IwAR0NFZ79zh1ciBX75T234gdzfVREk8HSkngFB_qy8kfqIwT1x5ePX7NCdRw
+
+Building robots Japanese inventor believes he can create friendly robots 
+https://news.yahoo.com/japan-roboticists-predict-rise-machines-051305749.html
+
+Russian philosopher- we live in a state of wakeful sleep
+https://en.m.wikipedia.org/wiki/George_Gurdjieff
+His publications
+https://gurdjieff-heritage-society.org/BeelzebubsTales/Beelzebub.htm#Chapter_III
+
+Biophotons
+https://bigthink.com/robby-berman/there-are-biophotons-in-the-brain-is-something-light-based-going-on
+
+
+Scrivener - Word editor for writers
+Alex
+As a child he (Alex) had a supernatural experience when sick
+Grew up to be successful (studied artificial intelligently, mind function)
+Always had supernatural experience in the back of his mind.
+Read books exploring this supernatural world, spirituality 
+Certain fate was keeping him safe
+Pursued some kind of service work on his spare time (suicide line)
+Experiences dreams and visions (foresight, 
+Traveled often exploring other parts of the world
+Use Jesus as an example as to why Alex learned when young not to share his unusual insights. He challenges traditional beliefs. 
+Van has extended vision, he can see who is indwelt by God and who is not. The villain is not. 
+Reveal God the Supreme, start with mind
+
+Site exploring altered states of consciousness 
+http://www.terra-incognita-project.org/outcomes/
+Weird stuff
+http://dmt.tribe.net/thread/9e832018-5fbc-4ff6-b4e5-e314184f687c
+
+Universe is organism. Terrance McKenna
+http://youtu.be/d1-5tjpkxE0
+
+
+
+Contacted by midwayers for a mission?
+Midwayers reveal who they are, stay somewhat mysterious?
+* Star student (comes to earth to study a certain phase of our world. 
+He gets a briefing on the status of the local universe and how many planets went into rebellion. 
+They reveal some of our history, Adam and Eve
+The Angels of progress and angels of churches held intense debates about the next steps to be taken
+Winston Churchill - I felt like I am a man who met his destiny. All of my life has been preparation for this moment. 
+Wife reminded him of his need to be mindful of others 
+There comes a time when the cost of war outweighs it's benefits
+No socialist system can be established without a political police (central planning)
+The masses are unwittingly taking sides
+
+Sentence 
+A visiting celestial star student  and an mere mortal fight against the clock to prevent a villain from releasing a genetically modified virus that will delete the God(spirit) gene and turn mankind into obedient pacifists to be ruled over by the elite. 
+Paragraph
+Alex discoveries his destiny when he is introduced to Van
+
+A celestial and a mortal work to prevent the release of a virus engineered to delete the spirit gene and turn mankind into obedient pacifists. 
+
+The opposition use various means to subdue the population. The goal is to setup a global rulership of the few dictating to the many.  
+
+
+
+The celestial government enlists the help of a mortal destiny reservist to prevent the release of a genetically modified virus that will delete the God gene and turn mankind into obedient pacifists to be ruled over by the elite. 
+
+interesting website on tying together history with the UB
+http://firstlegend.info/introduction.html
+
+
+
+Data dump
+Scene in lab 
+Nikola
+&quot;My brain is only a receiver, in the Universe there is a core from which we obtain knowledge, strength and inspiration. I have not penetrated into the secrets of this core, but I know that it exists.&quot;
+
+Nikola Tesla
+
+
+main character explaining his discoveries to a potential investor. He develops little robots that have an onboard neural network brain along with a radio transmitter and receiver. He explains to the investor that he transmits instructions to all robots simultaneously from a main system brain with a large neural network. The complete set of instructions are transmitted over and over every 10th of a second. The neural networks have sensors to help them navigate their environment like cameras, microphones, etc. a goal is set for the robot, the neural network makes decisions to achieve the goal and as it learns to solve a piece of the puzzle it transmits its learning results to the main neural network computer (main brain) and that bit of learned knowledge is instantly included in the instructions. This way the learning of one robot is instantly shared by all robots. So instead of storing the instructions on each device, the instructions are stored in the main system and each device accesses it over the radio waves constantly. This is equivalent to the device thinking. By increasing or decreasing the rate of transmission of the complete data set we can change the time frames of the devices. This is how time is possibly managed in our minds. 
+
+This system grossly illustrates how the human mind works. The mind is a transmitter/receiver of a greater intelligence shared by all mankind. The brain patterns receive this living intelligence just as a radio receiver receives its signal. It has storage and retrieval but the driving instructions/intelligence are external to the brain itself. There is a central brain external to us. It is a living mind transmitted in a way that we cannot detect. A type of reality we don't understand. 
+
+This is why some inventors in different parts of the world have similar ideas at the same time. History is full of these stories. The character had these insights as he was growing up. He began to suspect mind was connected to all other minds and mankind is learning collectively at some fundamental level. This inspired him to study this subject. This explains why Alex is not the only one to discover the mysteries of the mind. 
+
+There is a story of a monkey on an island learning to clean potatoes before he eats them. Soon all monkeys on the island clean the potatoes before they eat them. Very soon monkeys on a neighboring island were also cleaning potatoes. These monkeys had no way of traveling to the neighboring island. It is a mystery just how the monkeys almost simultaneously learned to clean potatoes. 
+
+Meeting the man behind the veil. 
+There needs to be a mystery behind Alex meeting Van for the first time. It needs to be epic. A series of events that lead up to his encounter. 
+
+Celestial briefing 
+Van gets a briefing from the daily administrative meeting held on earth by the celestial government. He learns a brief history of earth and the current challenges mankind is facing. Religious conflict, family deterioration, political turmoil, etc. 
+
+The Conflict
+The conflict is really the age old battle for the hearts and minds of the masses. It goes back 200,000 plus years. It started on earth with the prince of the celestial government rebelling against the established order in the universe. 
+
+Ants
+Ants are able to solve the traveling salesman problem. Major computation going on by a distributed network. 
+
+Mind function - superphysical
+65:6.8 (738.1) Physics and chemistry alone cannot explain how a human being evolved out of the primeval protoplasm of the early seas. The ability to learn, memory and differential response to environment, is the endowment of mind. The laws of physics are not responsive to training; they are immutable and unchanging. The reactions of chemistry are not modified by education; they are uniform and dependable. Aside from the presence of the Unqualified Absolute, electrical and chemical reactions are predictable. But mind can profit from experience, can learn from reactive habits of behavior in response to repetition of stimuli.
+(Everything of value is recorded in the master mind) 
+
+Ordained natural procedures 
+65:7.2 (738.5) On an evolutionary world much, very much, depends on the work of these seven adjutants. But they are mind ministers; they are not concerned in physical evolution, the domain of the Life Carriers. Nevertheless, the perfect integration of these spirit endowments with the ordained and natural procedure of the unfolding and inherent regime of the Life Carriers is responsible for the mortal inability to discern, in the phenomenon of mind, aught but the hand of nature and the outworking of natural processes, albeit you are occasionally somewhat perplexed in explaining all of everything connected with the natural reactions of mind as it is associated with matter. And if Urantia were operating more in accordance with the original plans, you would observe even less to arrest your attention in the phenomenon of mind.
+
+https://www.psychologytoday.com/ca/blog/think-well/201906/does-consciousness-exist-outside-the-brain?fbclid=IwAR0NFZ79zh1ciBX75T234gdzfVREk8HSkngFB_qy8kfqIwT1x5ePX7NCdRw
+
+This opens the possibility that genetic mistakes or experiments allowed for observations that give a hint that mind is not purely a physical phenomenon. 
+
+
+
+
+Quick reactions of mind
+65:7.6 (739.2) The acquisition of the potential of the ability to learn from experience marks the beginning of the functioning of the adjutant spirits, and they function from the lowliest minds of primitive and invisible existences up to the highest types in the evolutionary scale of human beings. They are the source and pattern for the otherwise more or less mysterious behavior and incompletely understood quick reactions of mind to the material environment. Long must these faithful and always dependable influences carry forward their preliminary ministry before the animal mind attains the human levels of spirit receptivity.
+
+The seventh adjutant interfaces with the higher mind function
+65:7.7 (739.3) Th adjutants function exclusively in the evolution of experiencing mind up to the level of the sixth phase, the spirit of worship. At this level there occurs that inevitable overlapping of ministry — the phenomenon of the higher reaching down to co-ordinate with the lower in anticipation of subsequent attainment of advanced levels of development. And still additional spirit ministry accompanies the action of the seventh and last adjutant, the spirit of wisdom. Throughout the ministry of the spirit world the individual never experiences abrupt transitions of spirit co-operation; always are these changes gradual and reciprocal.
+
+Distinct realms of cosmic reality
+65:7.8 (739.4) Always should the domains of the physical (electrochemical) and the mental response to environmental stimuli be differentiated, and in turn must they all be recognized as phenomena apart from spiritual activities. The domains of physical, mental, and spiritual gravity are distinct realms of cosmic reality, notwithstanding their intimate interrelations.
+
+
+Paraphrase Van saying what Jesus said to Thomas. Something like, &quot;truths are discerned with the eye of spiritual faith and not the material eyes. 
+142:7.17 Jesus replied: “Thomas, Thomas, how long before you will acquire the ability to listen with the ear of the spirit? 
+
+Maybe a scene of congress approving a black budget military project. The  other destiny guardian. 
+
+The universe is a giant living organism
+116:7.1 (1276.2) The grand universe is not only a material creation of physical grandeur, spirit sublimity, and intellectual magnitude, it is also a magnificent and responsive living organism. There is actual life pulsating throughout the mechanism of the vast creation of the vibrant cosmos. The physical reality of the universes is symbolic of the perceivable reality of the Almighty Supreme; and this material and living organism is penetrated by intelligence circuits, even as the human body is traversed by a network of neural sensation paths. This physical universe is permeated by energy lanes which effectively activate material creation, even as the human body is nourished and energized by the circulatory distribution of the assimilable energy products of nourishment. The vast universe is not without those co-ordinating centers of magnificent overcontrol which might be compared to the delicate chemical-control system of the human mechanism. But if you only knew something about the physique of a power center, we could, by analogy, tell you so much more about the physical universe.
+
+Angels of the trumpets
+114:6.8 (1255.7) 4. The angels of nation life. These are the “angels of the trumpets,” directors of the political performances of Urantia national life. The group now functioning in the overcontrol of international relations is the fourth corps to serve on the planet. It is particularly through the ministry of this seraphic division that “the Most Highs rule in the kingdoms of men.”
+
+
+
+At celestial meeting one item on the agenda is EMP threats. Only take action for existential threats. What is the plan to prevent it?  
+
+The world thought system is like a operating system. It needs a reboot. 
+
+Alex journey is the study of mind and a parallel tract of a spiritual discovery. Spiritual discovery inspires his scientific journey. 
+
+195:8.8 It was not necessary for the secularists to antagonize true religion in order to promote science and to advance education.
+
+The antagonist could be an atheist who thinks science proves there is no God. Debate on level of Nobel peace prize. Challenges Alex's conclusions on the nature of the mind. 
+
+
+Van reveals mysterious power of mind when the person embraces forgiveness and recognizes the interrelatedness of the human species. Don't make it sound so boring. Alex probed the mind his whole life. This is a big deal for him. 
+
+Interesting article on mind existing in the universe 
+http://www.zengardner.com/quantum-theory-proves-consciousness-moves-another-universe-death-2/
+
+Esther
+I believe the adjutants are 'broadcast' from &quot;central lodgments&quot; and are received by our minds so that we can be conscious of our experiences.
+36:5.3 The central lodgments of the adjutant spirits on the Life Carrier headquarters world indicate to the Life Carrier supervisors the extent and quality of the mind function of the adjutants on any world and in any given living organism of intellect status...
+
+Nikola
+&quot;My brain is only a receiver, in the Universe there is a core from which we obtain knowledge, strength and inspiration. I have not penetrated into the secrets of this core, but I know that it exists.&quot;
+
+Nikola Tesla
+
+Alfred Rupert Sheldrake, A New Science of Life
+
+The connection of material to spiritual is achieved through certain glands within the human body. 
+
+Major point in the story!
+Work into the story line the idea that man progressed quickly after the spirit of truth was bestowed. Mans mind was limited before hand. 
+
+Current view is black with patches of while. Make theme of story white with patches of black. 
+
+State of consciousness when falling asleep and waking up. Visions? 
+https://en.m.wikipedia.org/wiki/Hypnagogia
+
+
+Van can see in dwell in  spirit, he can also see and communicate with Alex's  angel. The struggle takes place between van trying to get Alex to discover his higher mind function through van guidance.
+
+In the 24 counselors meeting man asks the question about psychology philosophy. Have they gotten past something. Response, they are stuck in their current understanding even possibly retrograding
+
+He also asks how many current conscious reserve Corp 
+The 
+
+The spirituality of the film is Alex Klutey that aunt and possibly store all the information you need to make decisions within its. It has to have some outside input
+The mind is surrounded by Force
+
+The goal is to sync your mind with the presence of the adjuster. If you can I just you thinking to them to reflect what the thought of just your embodies, values, he will meet you where you are and open doors for you.
+
+Use &quot;gatekeeper&quot; as the term for Thought Adjuster. 
+
+We need a character that is unappealing maybe even hard to look at but ultimately makes a sacrifice for the greater good. 
+
+Show resurrection hall, wake up scholar who has knowledge of scroll with information on it that pertains to the story. 
+
+Through Alixis research he discovers mind has the potential to access higher forms of consciousness. And in the process he realizes that when enough people reach this level it will trigger a new awareness of reality by all. He discovers this through his chance to basically reverse engineer mine likes to meditate in his private sensory deprivation chamber
+
+Part of the celestial gov update might summarize details of the status of current genetic stocks. Second thought it might be a bad idea
+
+Ants experience fear, do they have hunger? What about sex drive? 
+</Text>
+        </Document>
+        <Document ID="60">
+            <Title>Story notes.docx</Title>
+        </Document>
+        <Document ID="61">
+            <Title>Story</Title>
+            <Text> 
+ 
+Star student
+Special advisor
+
+Change of plans. Van will be informed of his next mission to Earth as he resides on a headquarters world for our local system. He will meet in buildings with open roofs in high tech offices capable of imaging the spirit beings who attend his briefing. 
+
+
+Having just come back from a much needed rest with the reversion angels , Van was ready for his next assignment. Van heard about the request seeking volunteers for a mission to serve on a planet stricken by rebellion. He checked the listing over the circuit and noticed they were looking for a candidate of mortal origin with his experience. A mortal born as a human who ascended from a planet with a similar history to the one in need. The requirements called for someone on record as having stood up against the rebellion by the celestial government of his home planet. Someone accepted into the rare position of a conscious mortal citizen of the celestial government. He was in fact tapped on the shoulder by his angelic associate back in his time as a ascending moral. He did participate in the celestial government of his home planet. He was one of only 20 citizens of his day actually conscious of their participation in the affairs of the celestial government. He submitted his application for consideration noting his focus on genetic studies as meeting one of the requirements of the mission. Shortly before dawn the next day he received his acceptance notice over the mind circuit. 
+
+Alex struggles with saying goodbye after working so intimately with his companions. He made some dear friends from all parts of the local universe and many a varied entities ranging from the angelic to the material and all in between. What an incredible journey it has been over the last 10,000 years. And now for the first time since leaving his home planet he will be returning to a material body to serve yet another mission. This universe is one vast school and one amazing adventure! 
+
+After attending a gathering of his closest companions, he tidied up his quarters in preparation for the trip to planet earth. In the presence of the assembled friends and associates who came to see him off, Van submitted himself to the awaiting seraphic transporters for dematerialization in preparation for the long transit sleep. He laid his simispirit form on the meditation table and closed his eyes as he listened to the soothing music being played in the dematerialization chamber. The transport angel swooped down into the chamber and wrapped his four energy shields gently around Van's body and ensarphimed him for the long trip across the universe. As his consciousness slipped away, his last thought was of his friend from long ago in human form ushering him into the special service of his home planets unseen government. And that would now be his role to some unsuspecting human of earth. 
+
+Van fell asleep in the transport chamber and when he awakened he was sitting comfortably in the resurrection chamber wrapped in a soft white robe listening to the same soothing sounds he had fallen asleep to. For the first time in almost 10,000 years he felt the beating of a human heart in his chest. He was slow to move his arms and legs as he reacquainted himself with the functions of the human form. He had traveled to many worlds and assumed many forms during his lifetime. The exhilaration of exploring new worlds always swelled up in his heart when he first woke up after a long slumbering transit. The transport angels never make a mistake he thought. Their energy shields provide the perfect cocoon for the long high speed transit across the universe. He reached out with his human arms to hug his angelic friend when he suddenly realized he is no longer in semispirit form.  He thanked his transport companion for the safe trip with a gesture of his human hands. These angels always show a genuine affection for their passengers. They truly love everyone with a deep and abiding affection. He watched as the transporter lifted off, hovered over the lake of crystal and darted off into the night sky. 
+
+Walks out of chamber, looks around at the architectural sphere constructed by the master architects of the local universe. 
+
+
+and transport to his emergency assignment. 
+
+is engulfed in the protective shields of the seraphim in preparation for transport. 
+
+Describe the landing station for the Seraphim. 
+
+Alex gets a call
+The phone buzzed. &quot;Alex&quot; said a voice that rang out of the speaker. &quot;Yes Jennifer?&quot; Alex replied. &quot;They are ready to run the test now.&quot; she said. Alex jumped to his feet, pushed back his chair and started towards the door. &quot;Be right there&quot; he yelled. 
+
+Alex was working late again as usual. He was waiting for the team to upload the final code to his robotic ant farm. His latest creation needed just a few more tweaks to run the test. This is his third version of the robotic ant. After years of turning real ants into robots he has begun to recreate the process of how ant brains work together. Now it's time to run the test. He hurries down the hall where Jennifer is waiting. 
+Jennifer &quot;They uploaded the latest code to the neural networks. All but a few ant's aren't responding&quot;. 
+Alex &quot;What happened?&quot;
+Jennifer, &quot;The neural patterns were rejected by the previous upload. A few neurals didn't shut down and the upload was interpreted as danger and the patterns were rejected, the ants began to attack the colony&quot;. 
+Alex &quot;Was it the queen?&quot;
+Jennifer &quot;No a few foragers and one worker ant&quot; 
+Alex &quot;We can do a hard reboot later. I just want to see if the new patterns work&quot;. 
+Alex opens the door to the lab and see's his team standing by. 
+Alex &quot;Brad, what's the status of the upload? Jennifer tells me we had a few rejections.&quot;
+Brad has been the chief technology officer from the beginning. Alex recruited him from a prestigious robotics company.  As usual with these kinds of ventures, Brad works 16 hour days with almost no time for family life.
+Brad &quot;
+ 
+
+
+
+</Text>
+        </Document>
+        <Document ID="62">
+            <Title>UB Angel quotes</Title>
+            <Text> 
+ 
+113:4.1 Seraphim are mind stimulators; they continually seek to promote circle-making decisions in human mind. They do this, not as does the Adjuster, operating from within and through the soul, but rather from the outside inward, working through the social, ethical, and moral environment of human beings. Seraphim are not the divine Adjuster lure of the Universal Father, but they do function as the personal agency of the ministry of the Infinite Spirit.
+
+113:4.2 (1245.2) Mortal man, subject to Adjuster leading, is also amenable to seraphic guidance. The Adjuster is the essence of man’s eternal nature; the seraphim is the teacher of man’s evolving nature 
+
+113:4.3 (1245.3) Seraphim function as teachers of men by guiding the footsteps of the human personality into paths of new and progressive experiences. To accept the guidance of a seraphim rarely means attaining a life of ease.
+
+113:4.4 But the urge to pray so often experienced by God-conscious mortals very often arises as the result of seraphic influence. The guarding seraphim is constantly manipulating the mortal environment for the purpose of augmenting the cosmic insight of the human ascender to the end that such a survival candidate may acquire enhanced realization of the presence of the indwelling Adjuster and thus be enabled to yield increased co-operation with the spiritual mission of the divine presence
+
+Manual for Teachers
+JCIM: 2. Who Are Their Pupils?
+1 Certain pupils have been assigned to each of God's teachers, and they will begin to look for him as soon as he has answered the Call. They were chosen for him because the form of the universal curriculum that he will teach is best for them in view of their level of understanding. His pupils have been waiting for him, for his coming is certain. Again, it is only a matter of time. Once he has chosen to fulfill his role, they are ready to fulfill theirs. Time waits on his choice but not whom he will serve. When he is ready to learn, the opportunities to teach will be provided for him.
+
+Chapter 1
+32 The power to work miracles belongs to you. I will provide the opportunities to do them, but you must be ready and willing since you are already able. Doing them will bring conviction in the ability since conviction really comes through accomplishment. The ability is the potential; the achievement is its expression; and the Atonement is the purpose.
+
+
+
+
+.
+
+113:4.5 The guardians are most active at those times when the Adjusters are least active
+
+114:6.18 They cannot fully control the affairs of their respective realms of action, but they can and do so manipulate planetary conditions and so associate circumstances as favorably to influence the spheres of human activity to which they are attached.
+
+
+
+114:7.9 Such potential contact mortals of the evolutionary worlds are mobilized in the numerous reserve corps, and it is, to a certain extent, through these small groups of forward-looking personalities that spiritual civilization is advanced and the Most Highs are able to rule in the kingdoms of men. The men and women of these reserve corps of destiny thus have various degrees of contact with their Adjusters through the intervening ministry of the midway creatures; but these same mortals are little known to their fellows except in those rare social emergencies and spiritual exigencies wherein these reserve personalities function for the prevention of the breakdown of evolutionary culture or the extinction of the light of living truth. On Urantia these reservists of destiny have seldom been emblazoned on the pages of human history.
+
+
+114:6.19 (1256.9) The master seraphim of planetary supervision utilize many agencies for the prosecution of their missions. They function as ideational clearinghouses, mind focalizers, and project promoters. While unable to inject new and higher conceptions into human minds, they often act to intensify some higher ideal which has already appeared within a human intellect.
+
+114:6.20 (1256.10) But aside from these many means of positive action, the master seraphim insure planetary progress against vital jeopardy through the mobilization, training, and maintenance of the reserve corps of destiny. The chief function of these reservists is to insure against breakdown of evolutionary progress; they are the provisions which the celestial forces have made against surprise; they are the guarantees against disaster.
+
+
+114:7.1 It is the general practice in the conduct of the affairs of the ascension plans to begin this liaison utilization of mortal will creatures immediately they are competent and trustworthy to assume such responsibilities. Accordingly, as soon as men and women appear on the stage of temporal action with sufficient mental capacity, adequate moral status, and requisite spirituality, they are quickly assigned to the appropriate celestial group of planetary personalities as human liaisons, mortal assistants. *
+
+
+114:7.2 (1257.2) When human beings are chosen as protectors of planetary destiny, when they become pivotal individuals in the plans which the world administrators are prosecuting, at that time the planetary chief of seraphim confirms their temporal attachment to the seraphic corps and appoints personal destiny guardians to serve with these mortal reservists. All reservists have self-conscious Adjusters, and most of them function in the higher cosmic circles of intellectual achievement and spiritual attainment.
+
+Intimately connected
+114:7.7 (1257.7) Each division of planetary celestial service is entitled to a liaison corps of these mortals of destiny standing. The average inhabited world employs seventy separate corps of destiny, which are intimately connected with the superhuman current conduct of world affairs. On Urantia there are twelve reserve corps of destiny, one for each of the planetary groups of seraphic supervision.
+
+Bring like minded people together. 
+39:3.4 3. Social Architects. From the individual 
+planets up through the morontia training worlds, these seraphim labor to
+ enhance all sincere social contacts and to further the social evolution
+ of universe creatures. These are the angels who seek to divest the 
+associations of intelligent beings of all artificiality while 
+endeavoring to facilitate the interassociation of will creatures on a 
+basis of real self-understanding and genuine mutual appreciation. 
+
+39:3.5 Social architects do everything within their province and power to 
+bring together suitable individuals that they may constitute efficient 
+and agreeable working groups on earth;
+ and sometimes such groups have found themselves reassociated on the 
+mansion worlds for continued fruitful service. But not always do these 
+seraphim attain their ends; not always are they able to bring together 
+those who would form the most ideal group to achieve a given purpose or 
+to accomplish a certain task; under these conditions they must utilize 
+the best of the material available.
+
+The secret of growth of society and government
+39:3.7 4. Ethical Sensitizers. It is the mission of 
+these seraphim to foster and to promote the growth of creature 
+appreciation of the morality of interpersonal relationships, for such is
+ the seed and secret of the continued and purposeful growth of society 
+and government, human or superhuman. 
+</Text>
+        </Document>
+        <Document ID="63">
+            <Title>Alex</Title>
+            <Synopsis>Alex Davis Character
+Born in 1975
+He </Synopsis>
+            <Text> 
+ 
+The reality of illusions
+
+Alex Davis Character
+Born in 1975
+Went to school for neuropsychologist 
+Studies brain/behavior relationships especially cognitive function.
+Alex spends his life trying to reverse engineer the human mind.
+He starts by studying mind at it simplest level, ant colonies.
+He studies hymisync 
+Dates Betty.
+Builds robotics. 
+Tension is both with Alex wanting to use AI power for his own good (ego) vs what's good for the group. And also tension between Alex and  (Soros as a scientist). He who masters himself is more powerful than he who conquers a nation. 
+
+Read Rene Descartes - Meditations on first philosophy - Principals of philosophy 
+The Oakridge brothers the song the journey
+You don't know how it feels Tom Petty
+Zack brown Colder Weather 
+I musta picked a bad time to fall in love Grand Funk Railroad
+Ship of fools Robert Plant
+Seal Crazy
+Seven Year Ache from 
+Believable, intriguing, adventitious 
+
+
+Scrivener - Word editor for writers
+Alex
+As a child he (Alex) had a supernatural experience when sick
+Grew up to be successful (studied artificial intelligently, mind function)
+Always had supernatural experience in the back of his mind.
+Read books exploring this supernatural world, spirituality 
+Certain fate was keeping him safe
+Pursued some kind of service work on his spare time (suicide line)
+Experiences dreams and visions (foresight, 
+Traveled often exploring other parts of the world
+Use Jesus as an example as to why Alex learned when young not to share his unusual insights. He challenges traditional beliefs. 
+
+Hypnotized Fleetwood mac
+This gave me the idea of Alex doing what Monroe did in a lab. Discovers powers/levels of mind previously unknown. 
+ 
+Also, pattern a character after Bruce Willis in the fifth element and Hans solo in Star Wars. A rebel new age adventurer who pushes the limits of mind exploration with psychedelics and crazy adventures. 
+
+Alex was out on Saturday night with some buddies having a good time when he met Betty. She was with friends drinking whiskey and water, dancing, and having fun. They started dancing, had a good time but he didn't get her phone number.
+
+The next morning he went to church and saw her singing in the choir. The preachers daughter. 
+
+Alex had a spiritual experience young. Went to church where he met Betty. This sets up some interesting discussions between him and Betty. Betty is a little on the wild side. He pursues her in the little time he has while perusing his career. 
+
+He couldn't convince her to come to Colorado (Pittsburg) where he went to a university 
+Longed for her. Kept in touch. He feels driven by a purpose, he has to pursue his research. He looks forward to the day they can be together. What holds her back?
+
+He meets a friend in college who studies robotics. He is studying neuropsychology. Together they found a startup making robots out of ants. Together they discover insights into the mind and build robots to mimic the natural interactions of mind with material bodies. 
+
+Alex felt certain he and Betty were meant to be together. She didn't seem as certain. 
+
+Alex's motivations
+114:7.3 (1257.3) Mortals of the realm are chosen for service in the reserve corps of destiny on the inhabited worlds because of:
+114:7.4 (1257.4) 1. Special capacity for being secretly rehearsed for numerous possible emergency missions in the conduct of various activities of world affairs.
+114:7.5 (1257.5) 2. Wholehearted dedication to some special social, economic, political, spiritual, or other cause, coupled with willingness to serve without human recognition and rewards.
+114:7.6 (1257.6) 3. The possession of a Thought Adjuster of extraordinary versatility and probable pre-Urantia experience in coping with planetary difficulties and contending with impending world emergency situations.
+
+Alex is a cross between Will Rogers and 
+
+Richard Gere 
+Alex minored in psychology 
+He spends time exploring the mind in deep meditation. He has experiences, gets insights into his artificial intelligence work. Similar to how tesla did. Tesla knew there was a central transmitting station for mind and he was in touch with it. 
+</Text>
+        </Document>
+        <Document ID="64">
+            <Title>Lab Colorado</Title>
+            <Synopsis>Lab is in a mountain in Colorado
+</Synopsis>
+        </Document>
+        <Document ID="65">
+            <Title>Parliament meeting</Title>
+            <Text> 
+ 
+All I have seen teaches me to trust the Creator for all I have not seen.”
+- Ralph Waldo Emerson
+
+
+Scene One
+24 Councilors 
+
+It would require extended vision to perceive the presence of some members of the celestial government attending a parliament meeting. To compensate for this deficiency of material vision, the hosts provide visual simulators so all attendees can perceive each other during the parliament meeting.    
+
+Van enters into the parliament meeting room on his levitating pod and settles down next to the designated area set aside for material forms. The pod floats off to a designated parking spot. The meeting is held in an open roof building with full view of the stars. A light cool breeze blows continuously. On artificial planets the weather is controlled perfectly. Roofs are never used. Van settles down in one of the many parliament seats. Most humans attending in this section are student visitors. This is the area designated for wholly material forms. 
+
+To his left are seated the semi material beings. These beings consist of planetary guardians who work with the celestial governments of individual planets. They are born to the planets they serve and only leave after fulfilling their mission of guiding the planet from the dark ages all the way through the age of enlightenment. These beings are a dedicated group who work ceaselessly for the planet of their origin. Van looks at them fondly as he recalls his days back on his native planet where he worked closely with these semi material beings. He knew very little about them back when he was on his planet of nativity. It was only later in his life when one of their order did work closely with him once he was made aware of the celestial government on his planet. 
+
+Van extends his hand to his neighbor sitting to his right.
+
+
+Van: &quot;Hi, I am Van&quot;. 
+
+Toby: &quot;Toby, nice to meet you&quot;. 
+
+Van: &quot;Are you here for the quickening project?&quot;
+
+Toby: &quot;Oh no, I am here as a student, level three. I am from Tostoron, from Universe six. I was not aware of a quickening project here. That is rare isn't it?&quot;
+
+Van: &quot;Level three, you are in store for such a huge mind blowing experience. I remember that level like it was yesterday. What an amazing group it was. 
+
+Toby: &quot;Yes that is what I hear.&quot;
+
+Van: &quot;Yes quickening is rare, but apparently much needed. From what I understand this sector is way out of step with the ascension plan. And the celestials are running behind on earth recruits for their reserve team.&quot;  
+
+Toby: &quot;Yes I viewed the briefing, Earth has been in isolation for over 200,000 years. Some of the scenes were hard to watch. So much brutality. I know all things work together for good but I still cannot understand why this has been allowed to continue for so long. 
+
+Van: Yes I struggled with the same  issues. My birth planet was similar in some ways to earth. It survived rebellion and is now in it's sixth epoch. Was your home planet in isolation or did it follow the normal plan? 
+
+Toby: Yes Tostoron was loyal to the plan. We had a pretty easy path compared to your world. 
+
+Van looks up at the visual translator and notices the twenty four councilors are beginning to take their places around the head of the chamber tables. These twenty four presiding heads 
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="66">
+            <Title>Scene 1 - Recruit and inform Van about earth</Title>
+            <Synopsis>Scene I - Recruit and inform Van about earth mission. Danger!</Synopsis>
+            <Text>Scene 1 - Recruit and inform Van about earth mission. Danger!
+Earth on verge of retrogression
+Civilization is in jeopardy of progressing too fast to allow the development of wisdom to keep up with the increasing power mankind has achieved. Artificial Intelligence threatens man, gives evil people too much power. Celestial Gov has intervened 10 times in earths history. Another intervention is about to take place. Ultimate success depends on decisions of population. Tension similar to story It's a Wonderful Life. Success is not guaranteed. Limits are placed on intervention by higher authority. AI is just one of many threats. Ultimate goal of creation is to build hearty souls, requires free will, freedom to choose destruction if necessary. 
+With Van Imagine a scene with the 24 counselors discussing Alex possible recruitment into the guardians of destiny. They are having a conversation about his status, Circle attainment, reviewing reports from his personal guardian, his ambition, his personal story, when he received his personal guardian. ..... Info about how Caligastia still influences the world might be an interesting briefing. Once he knew his physical members were going to die he devised a plan to pass on vital information from generation to generation keeping the dark ideology alive. But don't get into conspiracy theories.  Our world is not like most world's. Why?
+
+Van warns Alex about keeping discoveries in silos. No one but Alex should know about how these discoveries work together. It would be dangerous in the wrong hands. 
+</Text>
+        </Document>
+        <Document ID="67">
+            <Title>Scene 2 - Alex meditates - Discuss ancient book.</Title>
+            <Synopsis> Alex meditates</Synopsis>
+            <Text>Scene II - Alex meditates - Discuss ancient book. Strange things happen to him, funny dude as in strange. 
+Betty wakes up and finds Alex in his usual place meditating early in the morning. She rounds up the kids for school. She is a high energy perky person. They have a discussion about a book he is reading. He see's the present in an ancient story. Facts about his personal life seem eerily similar to the story. Alex considers his role in prophecy. (messing with time perception)
+Perhaps Alex will discover prophecy about himself in stories written by great novelists (fictional novelists of course) Make up a fictional account of a greek story like Gilgamesh. It was discovered in &quot;Ashurbanipal's palace
+library at Nineveh&quot;. It is the oldest known writing known to man. Here is a definition we can use in the story - hierophants nounplural noun: hierophantsa person, especially a priest in ancient</Text>
+            <Notes>Idea for tie in to prophecy, like Jesus realinzing his divinity from reading scripture </Notes>
+        </Document>
+        <Document ID="68">
+            <Title>Scene 3 - Black opps (Van) recruits Alex (he is</Title>
+            <Synopsis>Scene III - Black opps (Van) recruits Alex</Synopsis>
+            <Text>Scene III - Black opps (Van) recruits Alex (he is unaware of who)
+Alex has private AI company. Alex meets with black ops budget director. Dir pitches a project to Alex. Develop artificial intelligence to be used for defense. Alex is successful and resists until Van reveals certain facts that intrigue him. Of course Van can't reveal how he knows.  Alex has no knowledge of Dir affiliation with the 24. Alex &quot;When I was young I had interesting experiences when I meditated but I quickly learned I couldn't tell anyone. It sounded too outrageous. </Text>
+        </Document>
+        <Document ID="69">
+            <Title>Scene 4 - From Van's perspective. Meet villain -</Title>
+            <Synopsis>Van meets villian
+</Synopsis>
+            <Text>Scene 4 - From Van's perspective. Meet villain - Soros is influenced by forces he is unaware of. 
+Spooky doo type person recruits evil scientist to build artificial intelligence for war. Evil presence behind spooky do. Hitler is prototype for this character. Van has extended vision which allows him to see who is indwelt by God and who is not. Spooky do is not indwelt. Villain raises money by crooked means. Madoff is template. Race to get AI power first. </Text>
+        </Document>
+        <Document ID="70">
+            <Title>Scene 5 - Alex builds insect robots</Title>
+            <Synopsis>Scene 5 - Alex builds insect robots
+
+Alex identifies 7 major functions of the brains. </Synopsis>
+            <Text>Scene 5 - Alex builds insect robots
+Alex conducts a trial run of his AI technology. He develops echo system of different types of robots all driven by the central &quot;brain&quot;. These echo systems are modeled after insects. Eventually he learns to model animal behavior with use of central brain. Eventually maps out 7 key motivations or logical segregations. He can only achieve 5 of the 7. His research suggests a 5th adjutant functioning in the animal brain. What clues lead him to that conclusion? 
+
+Scene 11 - Alex identifies 7 major functions of the brains. 
+Alex discovers radio type receivers in the brain, circular in nature. He finds 7 distinct sections that map to 7 adjutants. Spooky Do wants to genetically engineer people so the seventh adjutant does not work. He recreates living structures in the brain that perform specific functions. He integrates them into electronic neural networks. As he progresses in integrating himself into the big brain he learns that thinking as a group (family) or organism works better than thinking whats best for the part. He struggles with the idea of all this power in his hands. Will it corrupt him. His antagonist has been corrupted by a similar technology. He eventually learns how to tap into his own higher consciousness to defeat the bad guy (his own ego and the villain). The bad guy being drunk with power blocks his access to the higher mind functions giving Alex the advantage. </Text>
+        </Document>
+        <Document ID="71">
+            <Title>Scene 6 
+Alex has flashback to childhood, see's vision. </Title>
+        </Document>
+        <Document ID="72">
+            <Title>Scene 6</Title>
+            <Synopsis>Alex has flashback to childhood, see's vision.</Synopsis>
+            <Text>Scene 6 
+Alex has flashback to childhood, see's vision. </Text>
+        </Document>
+        <Document ID="73">
+            <Title>Scene 7</Title>
+            <Synopsis>Betty signing in choir at church
+</Synopsis>
+            <Text>Scene 7 
+Alex see's Betty signing in choir at church. Her father is the pastor. Alex's scientific mind struggles with a simplistic faith. </Text>
+        </Document>
+        <Document ID="74">
+            <Title>Scene 9 = Alex joins elite group</Title>
+            <Synopsis>Alex joins elite group</Synopsis>
+            <Text>Scene 8 = Alex joins elite group
+Maybe second half of story
+Dir reveals behind the scenes operations of black ops management. Alex is offered an opportunity to join an elite group of humans to work behind the scenes for the advancement of mankind. &quot;You have an energy interface and if we were to take it out of you, you would feel instantly lonely.&quot; The reason your world is in the shape it's in is because you strayed from the divine plan. Your divine leaders</Text>
+        </Document>
+        <Document ID="75">
+            <Title>Scene 8 - Alex dreams of his mission</Title>
+            <Synopsis>Alex dreams of his mission</Synopsis>
+            <Text>Scene 9 - Alex dreams of his mission
+Alex will have symbolic dreams where he goes up a mountain and see's visions. Is this Adam dreaming that Jesus would set Adams feet on the ground? Gilgamesh said, ‘I dreamed again. We stood in a deep gorge of the mountain, and beside it we two were like the smallest of swamp flies; and suddenly the mountain fell, it struck me and caught my feet from under me. Then came an intolerable light blazing out, and in it was one whose grace and whose beauty were greater than the beauty of this world. He pulled me out from under the mountain, he gave me water to drink and my heart was comforted, and he set my feet on the-ground.' UB quote:  &quot;I have given consideration to the circumstances of your default, I have remembered the desire of your hearts ever to be loyal to my Father's will, and you will be called from the embrace of mortal slumber when I come to Urantia if the subordinate Sons of my realm do not send for you before that time.&quot;
+Water represents spirit. Water will be part of the theme of the vivid dream. </Text>
+        </Document>
+        <Document ID="76">
+            <Title>Scene 10 - Alex films invisible spirit beings</Title>
+            <Synopsis>Alex films invisible spirit beings</Synopsis>
+            <Text>Scene 10 - Alex films invisible spirit beings spying on nuclear sites. 
+Work in a scene of someone with infrared goggles observing semi spirit beings working/hanging around government officials, or spying on nuclear facilities. Later recordings are erased. Technology altered to prevent visuals of midwayers.</Text>
+        </Document>
+        <Document ID="77">
+            <Title>Scene 11 - Alex identifies 7 major functions of</Title>
+            <Synopsis>Alex identifies 7 major functions of the brains. </Synopsis>
+            <Text>Scene 11 - Alex identifies 7 major functions of the brains. 
+Alex discovers radio type receivers in the brain, circular in nature. He finds 7 distinct sections that map to 7 adjutants. Spooky Do wants to genetically engineer people so the seventh adjutant does not work. He recreates living structures in the brain that perform specific functions. He integrates them into electronic neural networks. As he progresses in integrating himself into the big brain he learns that thinking as a group (family) or organism works better than thinking whats best for the part. He struggles with the idea of all this power in his hands. Will it corrupt him. His antagonist has been corrupted by a similar technology. He eventually learns how to tap into his own higher consciousness to defeat the bad guy (his own ego and the villain). The bad guy being drunk with power blocks his access to the higher mind functions giving Alex the advantage. </Text>
+        </Document>
+        <Document ID="78">
+            <Title>Alexl in Sensory deprevation chamber</Title>
+        </Document>
+        <Document ID="79">
+            <Title>Van</Title>
+            <Synopsis>Star Student hails from agondonter world. </Synopsis>
+            <Text>Van has extended vision, he can see who is indwelt by God and who is not. The villain is not. 
+Reveal God the Supreme, start with mind</Text>
+        </Document>
+        <Document ID="80">
+            <Title>Orphan Blue
+The ruling vicegerent of the milky way galaxy sent out his decree. Isolate earth from all inhabited planets. No communications will be allowed unless preapproved by the twenty four councilors and the presiding arc angel. Thus began the long dark journey of earth. It has been the policy of the universal governments to quarantine planets of rebellious supervisors. One of three in the local system, earth suffered such a miscarriage of leadership 201,320 years ago. Born out of error the people have had to endure the challenges of life without normal celestial supervision. Visible celestial leadership is essential to normal progress on all created worlds. Civilization will have limited help as it struggles to ascend the seven levels of perfection designed into the master plan. 
+Unusual Awakening
+Ted wakes up to a sound of wind howling past the window. Night has snuck up on him. So tired from work he must have fallen asleep in the lazy boy. The wind morphs into a high pitch noise reminiscent of a similar sound he heard as a child. Fear grips him as he clutches the handles on the lazy boy. A distant memory snatches his attention from the moment. He remembers a vision of being hauled out of his childhood home through his parents window by creatures too shocking to behold. The flashback was too vivid. He was frozen with fear. Was this a dream or was this happening? Wake up he thought, repeating it over and over again. The noise rose to an unbearable pitch. The colors around him warped into a hazy blur. He felt a weird assurance that everything will be alright.  The noise camouflaged a voice in the background repeating a phrase over and over. “Dreams are ….. more noise.” “Ted” his wife screamed. “Ted wake up.” Frozen in fear Ted opens his eyes to see Julie standing over him. “you were dreaming again.” His wife’s voice snaps his mind back into focus. In an instant all was quiet. “What, wat. Oh geeze. Again” Ted said. “I heard you from the bedroom. Come to bed” Julie said.
+Breakfast consisted of the usual two poached eggs, turkey sausage, orange juice, and oatmeal. Julie prepared a simple breakfast for Ted and the kids this morning as usual. While they ate, she sat on the porch sipping her morning brew. It is still early spring in Tennessee and the clouds are scattered overhead. The grass is freshly cut just as she likes it. Another day in paradise she thinks to herself. 
+Scientist - A project is overdue and the customer is getting anxious. 
+Ted rushes off to his office, a short three-mile scenic drive from his house. Ancient oak trees planted by old cattle farmers from the 1800’s cover the road with shade. The drive can never be taken for granted. Curves trace the path of dirt roads from long ago. The natural beauty of the countryside has a calming effect on his psyche. Ted relaxes and reminds himself why he is here. Surroundings provide a powerful boost to the mind. Years ago, he noticed a subtle effect, surrounded by dense wildlife, he had a noticeable clarity of mind. Keeping himself grounded in this effect greatly multiplied his efficiency in his work. Not to mention the effect it has on his libido. 
+The early morning ride grinds to a halt as a tractor comes barreling across the road in an uncontrolled wobble. Crashing through a fencepost, the tractor blazes a path of it’s own, the driver passed out behind the wheel appears to be along for the ride. Ted slams on the brakes, puts the car in park and jumps out in pursuit. The tractor running at full speed crashes through the fence on the opposite side of the road and bounces out into the field with fenceposts and wire dragging behind. Ted runs at full speed closing in, trying to avoid the wire dragging behind. He jumps onto the rear of the tractor, reaches over the driver, pushes the gear shift into neutral. The tractor slows down eventually stopping. The engine still running at full. The acceslerator appears to be stuck. Reaching for the key he turns off the engine. 
+
+Save the world from some ideological struggle. Battle with unseen influencers
+Or save the community from cold outside unseen influences guided by celestial helpers protecting strongholds of insight and ingenuity. 
+Struggle with perceptions of delusion. What is the goal? 
+Battle self doubt as intruders spin webs of deception to throw him off his path. 
+Seek higher truth, 
+Fight the bad guys with superior wisdom, long term thinking. Seeds of past trail blazers lead the way. 
+Experiment with internal mind influences
+
+
+
+</Title>
+        </Document>
+        <Document ID="81">
+            <Title>RevivalCIMUB</Title>
+            <Text>Introduction
+Jesus seems to be preparing us for a revival of his message. During the last fifty years we have been given two publications that seem to point to preparations for a revival. There are probably other publications but the following two publications are the focus of this book. 
+
+The Urantia Book was first published in 1950. It is broken down into four sections. The first three sections contain incredible details of the universe we live in while the fourth section gives an eyewitness account by celestial beings of the life of Jesus from birth to death and resurrection. The Urantia book was approved by Jesus for publication for our time. None of the information in the Urantia book was dictated by Jesus himself but was written by various personalities under his celestial administration. I believe this is important to acknowledge because of the nature of people to dogmatize every word coming from Jesus himself. The authors do however quote Jesus words directly as they witnessed them.  Jesus let his bestowal story be told by those humans who witnessed his life in the flesh as recorded in the Bible. Jesus also let his celestial personalities write the Urantia Book from their vantage point. Jesus did not personally write the Urantia book just as he did not personally write the Bible. 
+
+The second publication I want to mention is the Course in Miracles. It was published In 1973. Notation was taken down by the scribe Helen Schuman over a x year period. Helen claims to have detected a voice in her mind that instructed her to write the Course in Miracles. Again, I think it is important to notice the method Jesus used to communicate the information. Through Helens notes we can see how the information was written down and edited many times. These versions are referred to online as the urtext. The notes Helen took were edited by her and Bill T over many years. Again, we see a similar pattern to Jesus technique. He never writes anything down himself. Helen confessed that she constantly fought the urge to edit the course often as she was taking shorthand notes. While it is dictated by Jesus, it is not a perfect word for word dictation. We must assume because of her confession of fighting the urge to edit, she may have even edited the first set of shorthand notes. We will never know for sure. A comment in the original notes mentions Helen as a scribe. This comment leads me to believe Helen did the best she could but may have inserted some of her own thoughts into the process.  
+
+ACIM notes comment:&quot;NOTE: Scribes have a particular role in the Plan of Atonmenent, because they have the ability to EXPERIENCE revelations themselves, and also to put into words enough of the experience to serve as a basis for miracles.&quot;
+
+For anyone interested in a deep dive of the notes Helen took, you can find them online by typing urtext and Course In Miracles. It is truly a fascinating and insightful process. I mention the process to bring attention to the imperfect nature of revelation. The UB does claim to be an unadulterated word for word publication as written by the celestial personalities mentioned at the end of each paper. Some also claim the CIM is a word for word dictation by Jesus. But the notes give caution to that idea. The process is insightful for another reason. Helen was not familiar with the UB. She was a catholic. I often wonder if Helen would have accepted the UB had she known about it. She had a herculean task to be a scribe for Jesus. How could Jesus possibly educate her on the UB and at the same time dictate the CIM to her? I doubt it was possible. In fact, it seems Jesus tried to stay within the Christian domain while attempting to relate Urantia concepts to her. Since Helen was unaware of the UB she was also unaware of the terms and ideas within the UB. While concepts may overlap they are not as obvious due to Jesus use of Helens existing vocabulary. As it was, Helen fought to understand what she was writing. The possibility that she could read the UB and take down dictation of the CIM is remote. Therefore we will need to pay attention to concepts written in slightly different terminology. Once this becomes obvious, the commonality between the two books becomes a little more obvious. (Concepts such as time, the fragment of God, miracles and their relation to time, what is the sonship)
+
+Chapter One CIM.  
+
+I do believe the Course in Miracles is a course in adjuster fusion. Anything short of fusion is still progress. If you assume fusion as the goal of the course the statement in the beginning of the book takes on a deeper meaning. (What is an adjuster? What is fusion?)
+
+
+ACIM 1 &quot;This is a course in miracles. It is a required course. Only the time you take it is voluntary. Free will does not mean that you can establish the curriculum. It means only that you may elect what you want to take at a given time.&quot;
+
+
+Let's take a closer look. 
+
+
+&quot;This is a course in miracles.&quot; Is fusion related to miracles? As we saw in Jesus life, miracles were unavoidable once he attained fusion status. 
+
+
+&quot;It is a required course.&quot; Is fusion a requirement? If we want to attain paradise, then yes we must fuse. 
+
+
+&quot;Only the time you take it is voluntary.&quot; Can we postpone fusion? Sure we can, on some worlds mortal fusion is common. For us, we will need mansion world training until some future time when it will be common to fuse from the mortal state. Perhaps the Course in Miracles is a step in that direction. (What is mansion world training)
+
+
+&quot;Free will does not mean that you can establish the curriculum. It means only that you may elect what you want to take at a given time.&quot; 
+We can take the course now if we choose, but there is no guarantee that we will &quot;establish&quot; the goal of the course. We know what fusion looked like for Jesus by reading the Urantia book. If we set fusion as the goal, we then have an idea of what the outcome should look like. We will reach milestones on the journey for sure. But if we assign some lessor goal to the course outcome, we may think we have established the goal of the course when in reality we have only reached a milestone. 
+
+ACIM 2 The course does not aim at teaching the meaning of love, for that is beyond what can be taught. It does aim, however, at removing the blocks to the awareness of love's presence, which is your natural inheritance. The opposite of love is fear, but what is all-encompassing can have no opposite.
+
+“The course does not aim at teaching the meaning of love, for that is beyond what can be taught.” If we search the Urantia Book for a definition of love we see that it references the Thought Adjuster (a fragment of God living within us, the purest most indestructible form of reality) as the greatest manifestation of diving love. Since Adjuster is the greatest manifestation of divine love, we can connect the dots and determine that love and the god fragment that lives within us is beyond our ability to understand. We can however, experience this infinite reality.
+
+UB 2:5.10 The greatest manifestation of the divine love for mortal beings is observed in the bestowal of the Thought Adjusters, but your greatest revelation of the Father's love is seen in the bestowal life of his Son Michael (Jesus) as he lived on earth the ideal spiritual life. It is the indwelling Adjuster who individualizes the love of God to each human soul.
+
+“It does aim, however, at removing the blocks to the awareness of love's presence, which is your natural inheritance.” In Urantia Book terms I read this to mean the course aims at removing the blocks to the Thought Adjusters presence. This course is the result of the life Jesus lived in the flesh. 
+
+UB (196:3.1) Personal, spiritual religious experience is an efficient solvent for most mortal difficulties; it is an effective sorter, evaluator, and adjuster of all human problems. Religion does not remove or destroy human troubles, but it does dissolve, absorb, illuminate, and transcend them. True religion unifies the personality for effective adjustment to all mortal requirements. Religious faith—THE POSITIVE LEADING OF THE INDWELLING DIVINE PRESENCE—unfailingly enables the God-knowing man to bridge that gulf existing between the intellectual logic which recognizes the Universal First Cause as It and those positive affirmations of the soul which aver this First Cause is He, the heavenly Father of Jesus' gospel, the personal God of human salvation.
+“The opposite of love is fear, but what is all-encompassing can have no opposite.” 
+
+UB  (48:7.4) 2. Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul.
+
+
+
+
+
+
+ACIM 3 This course can therefore be summed up very simply in this way:
+ACIM 4 Nothing real can be threatened.
+   Nothing unreal exists.
+ACIM 5 Herein lies the peace of God.
+
+</Text>
+        </Document>
+        <Document ID="82">
+            <Title>ThirdParagraph</Title>
+            <Text>The third paragraph from the CIM
+
+3 This course can therefore be summed up very simply in this way:
+4 Nothing real can be threatened.
+   Nothing unreal exists.
+5 Herein lies the peace of God.
+
+
+One word, paradox. It is impossible to see from both perspectives, time and eternity, at the same time. Both have different rules. One is indestructible, the other has an expiration date, we die. The journey across the bridge from the temporal to the eternal is possible but it is a struggle within the mind. We were warned about this struggle from both the CIM and the UB. 
+CIM quote: The way out of conflict between two opposing thought systems is clearly to choose one and relinquish the other. If you identify with your thought system, and you cannot escape this, and if you accept two thought systems which are in complete disagreement,peace of mind is impossible. If you teach both, which you will surely do as long as you accept both, you are teaching conflict and learning it.
+Urantia 159:3.7 Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living. In entering the kingdom, you cannot escape its responsibilities or avoid its obligations, but remember: The gospel yoke is easy and the burden of truth is light.
+
+What the course has done is helped me to see the language in the UB that makes the paradox of reality stand out. 
+
+We can even find quotes in the Urantia book from Jesus who says “My brother, God is love; therefore he must be good, and his goodness is so great and real that it cannot contain the small and UNREAL THINGS OF EVIL.”
+According to the UB and CIM sin is unreal. 
+
+109:3.2 “Nothing of survival value is ever lost in all the wide universe.” From an eternal perspective there is no danger of losing anything that matters. Hence no fear. The personality will survive, the adjuster will survive, even the experiences of the lost identity of the human will survive in the adjuster. The part that does not survive is the IDENTITY of the human being. That is a purely temporal creation. No danger ever exists in eternity. The idea that God or Jesus would create some kind of reality (temporal) and then subject something that was changeless and eternal (personality) to a potential eternal death is as heartless as the atonement doctrine of Christianity (that God required his perfect son’s life on the cross as ransom for a creation he no longer loves).
+
+
+With the UB we have the master plan, a birds eye view of creation. The course has helped me see paradox in the UB. When the course says nothing unreal exists it sounds like an oversimplification. How can that help eliminate fear?
+
+The course is a roadmap on how to transition from the material world to the spiritual world. How do we let go of our ego identity (temporal reality) and identify with our thought adjuster (indestructible reality).
+
+Our limited view of ourself holds us back, identifies with a fearful existence.
+</Text>
+        </Document>
+        <Document ID="83">
+            <Title>Orphaned Planet</Title>
+            <Text>Orphan Blue
+The ruling vicegerent of the milky way galaxy sent out his decree. Isolate earth from all inhabited planets. No communications will be allowed unless preapproved by the twenty four councilors and the presiding arc angel. Thus began the long dark journey of earth. It has been the policy of the universal governments to quarantine planets of rebellious supervisors. One of three in the local system, earth suffered such a miscarriage of leadership 201,320 years ago. Born out of error the people have had to endure the challenges of life without normal celestial supervision. Visible celestial leadership is essential to normal progress on all created worlds. Civilization will have limited help as it struggles to ascend the seven levels of perfection designed into the master plan. 
+Unusual Awakening
+Ted wakes up to a sound of wind howling past the window. Night has snuck up on him. So tired from work he must have fallen asleep in the lazy boy. The wind morphs into a high pitch noise reminiscent of a similar sound he heard as a child. Fear grips him as he clutches the handles on the lazy boy. A distant memory snatches his attention from the moment. He remembers a vision of being hauled out of his childhood home through his parents window by creatures too shocking to behold. The flashback was too vivid. He was frozen with fear. Was this a dream or was this happening? Wake up he thought, repeating it over and over again. The noise rose to an unbearable pitch. The colors around him warped into a hazy blur. He felt a weird assurance that everything will be alright.  The noise camouflaged a voice in the background repeating a phrase over and over. “Dreams are ….. more noise.” “Ted” his wife screamed. “Ted wake up.” Frozen in fear Ted opens his eyes to see Julie standing over him. “you were dreaming again.” His wife’s voice snaps his mind back into focus. In an instant all was quiet. “What, wat. Oh geeze. Again” Ted said. “I heard you from the bedroom. Come to bed” Julie said.
+Breakfast consisted of the usual two poached eggs, turkey sausage, orange juice, and oatmeal. Julie prepared a simple breakfast for Ted and the kids this morning as usual. While they ate, she sat on the porch sipping her morning brew. It is still early spring in Tennessee and the clouds are scattered overhead. The grass is freshly cut just as she likes it. Another day in paradise she thinks to herself. 
+Scientist - A project is overdue and the customer is getting anxious. 
+Ted rushes off to his office, a short three-mile scenic drive from his house. Ancient oak trees planted by old cattle farmers from the 1800’s cover the road with shade. The drive can never be taken for granted. Curves trace the path of dirt roads from long ago. The natural beauty of the countryside has a calming effect on his psyche. Ted relaxes and reminds himself why he is here. Surroundings provide a powerful boost to the mind. Years ago, he noticed a subtle effect, surrounded by dense wildlife, he had a noticeable clarity of mind. Keeping himself grounded in this effect greatly multiplied his efficiency in his work. Not to mention the effect it has on his libido. 
+The early morning ride grinds to a halt as a tractor comes barreling across the road in an uncontrolled wobble. Crashing through a fencepost, the tractor blazes a path of it’s own, the driver passed out behind the wheel appears to be along for the ride. Ted slams on the brakes, puts the car in park and jumps out in pursuit. The tractor running at full speed crashes through the fence on the opposite side of the road and bounces out into the field with fenceposts and wire dragging behind. Ted runs at full speed closing in, trying to avoid the wire dragging behind. He jumps onto the rear of the tractor, reaches over the driver, pushes the gear shift into neutral. The tractor slows down eventually stopping. The engine still running at full. The acceslerator appears to be stuck. Reaching for the key he turns off the engine. 
+
+Save the world from some ideological struggle. Battle with unseen influencers
+Or save the community from cold outside unseen influences guided by celestial helpers protecting strongholds of insight and ingenuity. 
+Struggle with perceptions of delusion. What is the goal? 
+Battle self doubt as intruders spin webs of deception to throw him off his path. 
+Seek higher truth, 
+Fight the bad guys with superior wisdom, long term thinking. Seeds of past trail blazers lead the way. 
+Experiment with internal mind influences
+
+
+
+</Text>
+        </Document>
+        <Document ID="84">
+            <Title>ThirdParagraph</Title>
+            <Text>The third paragraph from the CIM
+
+3 This course can therefore be summed up very simply in this way:
+4 Nothing real can be threatened.
+   Nothing unreal exists.
+5 Herein lies the peace of God.
+
+
+One word, paradox. It is impossible to see from both perspectives, time and eternity, at the same time. Both have different rules. One is indestructible, the other has an expiration date, we die. The journey across the bridge from the temporal to the eternal is possible but it is a struggle within the mind. We were warned about this struggle from both the CIM and the UB. 
+CIM quote: The way out of conflict between two opposing thought systems is clearly to choose one and relinquish the other. If you identify with your thought system, and you cannot escape this, and if you accept two thought systems which are in complete disagreement,peace of mind is impossible. If you teach both, which you will surely do as long as you accept both, you are teaching conflict and learning it.
+Urantia 159:3.7 Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living. In entering the kingdom, you cannot escape its responsibilities or avoid its obligations, but remember: The gospel yoke is easy and the burden of truth is light.
+
+What the course has done is helped me to see the language in the UB that makes the paradox of reality stand out. 
+
+We can even find quotes in the Urantia book from Jesus who says “My brother, God is love; therefore he must be good, and his goodness is so great and real that it cannot contain the small and UNREAL THINGS OF EVIL.”
+According to the UB and CIM sin is unreal. 
+
+109:3.2 “Nothing of survival value is ever lost in all the wide universe.” From an eternal perspective there is no danger of losing anything that matters. Hence no fear. The personality will survive, the adjuster will survive, even the experiences of the lost identity of the human will survive in the adjuster. The part that does not survive is the IDENTITY of the human being. That is a purely temporal creation. No danger ever exists in eternity. The idea that God or Jesus would create some kind of reality (temporal) and then subject something that was changeless and eternal (personality) to a potential eternal death is as heartless as the atonement doctrine of Christianity (that God required his perfect son’s life on the cross as ransom for a creation he no longer loves).
+
+
+With the UB we have the master plan, a birds eye view of creation. The course has helped me see paradox in the UB. When the course says nothing unreal exists it sounds like an oversimplification. How can that help eliminate fear?
+
+The course is a roadmap on how to transition from the material world to the spiritual world. How do we let go of our ego identity (temporal reality) and identify with our thought adjuster (indestructible reality).
+
+Our limited view of ourself holds us back, identifies with a fearful existence.
+</Text>
+        </Document>
+        <Document ID="85">
+            <Title>Orphaned Planet</Title>
+            <Text>Orphan Blue
+The ruling vicegerent of the milky way galaxy sent out his decree. Isolate earth from all inhabited planets. No communications will be allowed unless preapproved by the twenty four councilors and the presiding arc angel. Thus began the long dark journey of earth. It has been the policy of the universal governments to quarantine planets of rebellious supervisors. One of three in the local system, earth suffered such a miscarriage of leadership 201,320 years ago. Born out of error the people have had to endure the challenges of life without normal celestial supervision. Visible celestial leadership is essential to normal progress on all created worlds. Civilization will have limited help as it struggles to ascend the seven levels of perfection designed into the master plan. 
+Unusual Awakening
+Ted wakes up to a sound of wind howling past the window. Night has snuck up on him. So tired from work he must have fallen asleep in the lazy boy. The wind morphs into a high pitch noise reminiscent of a similar sound he heard as a child. Fear grips him as he clutches the handles on the lazy boy. A distant memory snatches his attention from the moment. He remembers a vision of being hauled out of his childhood home through his parents window by creatures too shocking to behold. The flashback was too vivid. He was frozen with fear. Was this a dream or was this happening? Wake up he thought, repeating it over and over again. The noise rose to an unbearable pitch. The colors around him warped into a hazy blur. He felt a weird assurance that everything will be alright.  The noise camouflaged a voice in the background repeating a phrase over and over. “Dreams are ….. more noise.” “Ted” his wife screamed. “Ted wake up.” Frozen in fear Ted opens his eyes to see Julie standing over him. “you were dreaming again.” His wife’s voice snaps his mind back into focus. In an instant all was quiet. “What, wat. Oh geeze. Again” Ted said. “I heard you from the bedroom. Come to bed” Julie said.
+Breakfast consisted of the usual two poached eggs, turkey sausage, orange juice, and oatmeal. Julie prepared a simple breakfast for Ted and the kids this morning as usual. While they ate, she sat on the porch sipping her morning brew. It is still early spring in Tennessee and the clouds are scattered overhead. The grass is freshly cut just as she likes it. Another day in paradise she thinks to herself. 
+Scientist - A project is overdue and the customer is getting anxious. 
+Ted rushes off to his office, a short three-mile scenic drive from his house. Ancient oak trees planted by old cattle farmers from the 1800’s cover the road with shade. The drive can never be taken for granted. Curves trace the path of dirt roads from long ago. The natural beauty of the countryside has a calming effect on his psyche. Ted relaxes and reminds himself why he is here. Surroundings provide a powerful boost to the mind. Years ago, he noticed a subtle effect, surrounded by dense wildlife, he had a noticeable clarity of mind. Keeping himself grounded in this effect greatly multiplied his efficiency in his work. Not to mention the effect it has on his libido. 
+The early morning ride grinds to a halt as a tractor comes barreling across the road in an uncontrolled wobble. Crashing through a fencepost, the tractor blazes a path of it’s own, the driver passed out behind the wheel appears to be along for the ride. Ted slams on the brakes, puts the car in park and jumps out in pursuit. The tractor running at full speed crashes through the fence on the opposite side of the road and bounces out into the field with fenceposts and wire dragging behind. Ted runs at full speed closing in, trying to avoid the wire dragging behind. He jumps onto the rear of the tractor, reaches over the driver, pushes the gear shift into neutral. The tractor slows down eventually stopping. The engine still running at full. The acceslerator appears to be stuck. Reaching for the key he turns off the engine. 
+
+Save the world from some ideological struggle. Battle with unseen influencers
+Or save the community from cold outside unseen influences guided by celestial helpers protecting strongholds of insight and ingenuity. 
+Struggle with perceptions of delusion. What is the goal? 
+Battle self doubt as intruders spin webs of deception to throw him off his path. 
+Seek higher truth, 
+Fight the bad guys with superior wisdom, long term thinking. Seeds of past trail blazers lead the way. 
+Experiment with internal mind influences
+
+
+
+</Text>
+        </Document>
+        <Document ID="86">
+            <Title>RevivalCIMUB</Title>
+            <Text>Introduction
+Jesus seems to be preparing us for a revival of his message. During the last fifty years we have been given two publications that seem to point to preparations for a revival. There are probably other publications but the following two publications are the focus of this book. 
+
+The Urantia Book was first published in 1950. It is broken down into four sections. The first three sections contain incredible details of the universe we live in while the fourth section gives an eyewitness account by celestial beings of the life of Jesus from birth to death and resurrection. The Urantia book was approved by Jesus for publication for our time. None of the information in the Urantia book was dictated by Jesus himself but was written by various personalities under his celestial administration. I believe this is important to acknowledge because of the nature of people to dogmatize every word coming from Jesus himself. The authors do however quote Jesus words directly as they witnessed them.  Jesus let his bestowal story be told by those humans who witnessed his life in the flesh as recorded in the Bible. Jesus also let his celestial personalities write the Urantia Book from their vantage point. Jesus did not personally write the Urantia book just as he did not personally write the Bible. 
+
+The second publication I want to mention is the Course in Miracles. It was published In 1973. Notation was taken down by the scribe Helen Schuman over a x year period. Helen claims to have detected a voice in her mind that instructed her to write the Course in Miracles. Again, I think it is important to notice the method Jesus used to communicate the information. Through Helens notes we can see how the information was written down and edited many times. These versions are referred to online as the urtext. The notes Helen took were edited by her and Bill T over many years. Again, we see a similar pattern to Jesus technique. He never writes anything down himself. Helen confessed that she constantly fought the urge to edit the course often as she was taking shorthand notes. While it is dictated by Jesus, it is not a perfect word for word dictation. We must assume because of her confession of fighting the urge to edit, she may have even edited the first set of shorthand notes. We will never know for sure. A comment in the original notes mentions Helen as a scribe. This comment leads me to believe Helen did the best she could but may have inserted some of her own thoughts into the process.  
+
+ACIM notes comment:&quot;NOTE: Scribes have a particular role in the Plan of Atonmenent, because they have the ability to EXPERIENCE revelations themselves, and also to put into words enough of the experience to serve as a basis for miracles.&quot;
+
+For anyone interested in a deep dive of the notes Helen took, you can find them online by typing urtext and Course In Miracles. It is truly a fascinating and insightful process. I mention the process to bring attention to the imperfect nature of revelation. The UB does claim to be an unadulterated word for word publication as written by the celestial personalities mentioned at the end of each paper. Some also claim the CIM is a word for word dictation by Jesus. But the notes give caution to that idea. The process is insightful for another reason. Helen was not familiar with the UB. She was a catholic. I often wonder if Helen would have accepted the UB had she known about it. She had a herculean task to be a scribe for Jesus. How could Jesus possibly educate her on the UB and at the same time dictate the CIM to her? I doubt it was possible. In fact, it seems Jesus tried to stay within the Christian domain while attempting to relate Urantia concepts to her. Since Helen was unaware of the UB she was also unaware of the terms and ideas within the UB. While concepts may overlap they are not as obvious due to Jesus use of Helens existing vocabulary. As it was, Helen fought to understand what she was writing. The possibility that she could read the UB and take down dictation of the CIM is remote. Therefore we will need to pay attention to concepts written in slightly different terminology. Once this becomes obvious, the commonality between the two books becomes a little more obvious. (Concepts such as time, the fragment of God, miracles and their relation to time, what is the sonship)
+
+Chapter One CIM.  
+
+I do believe the Course in Miracles is a course in adjuster fusion. Anything short of fusion is still progress. If you assume fusion as the goal of the course the statement in the beginning of the book takes on a deeper meaning. (What is an adjuster? What is fusion?)
+
+
+ACIM 1 &quot;This is a course in miracles. It is a required course. Only the time you take it is voluntary. Free will does not mean that you can establish the curriculum. It means only that you may elect what you want to take at a given time.&quot;
+
+
+Let's take a closer look. 
+
+
+&quot;This is a course in miracles.&quot; Is fusion related to miracles? As we saw in Jesus life, miracles were unavoidable once he attained fusion status. 
+
+
+&quot;It is a required course.&quot; Is fusion a requirement? If we want to attain paradise, then yes we must fuse. 
+
+
+&quot;Only the time you take it is voluntary.&quot; Can we postpone fusion? Sure we can, on some worlds mortal fusion is common. For us, we will need mansion world training until some future time when it will be common to fuse from the mortal state. Perhaps the Course in Miracles is a step in that direction. (What is mansion world training)
+
+
+&quot;Free will does not mean that you can establish the curriculum. It means only that you may elect what you want to take at a given time.&quot; 
+We can take the course now if we choose, but there is no guarantee that we will &quot;establish&quot; the goal of the course. We know what fusion looked like for Jesus by reading the Urantia book. If we set fusion as the goal, we then have an idea of what the outcome should look like. We will reach milestones on the journey for sure. But if we assign some lessor goal to the course outcome, we may think we have established the goal of the course when in reality we have only reached a milestone. 
+
+ACIM 2 The course does not aim at teaching the meaning of love, for that is beyond what can be taught. It does aim, however, at removing the blocks to the awareness of love's presence, which is your natural inheritance. The opposite of love is fear, but what is all-encompassing can have no opposite.
+
+“The course does not aim at teaching the meaning of love, for that is beyond what can be taught.” If we search the Urantia Book for a definition of love we see that it references the Thought Adjuster (a fragment of God living within us, the purest most indestructible form of reality) as the greatest manifestation of diving love. Since Adjuster is the greatest manifestation of divine love, we can connect the dots and determine that love and the god fragment that lives within us is beyond our ability to understand. We can however, experience this infinite reality.
+
+UB 2:5.10 The greatest manifestation of the divine love for mortal beings is observed in the bestowal of the Thought Adjusters, but your greatest revelation of the Father's love is seen in the bestowal life of his Son Michael (Jesus) as he lived on earth the ideal spiritual life. It is the indwelling Adjuster who individualizes the love of God to each human soul.
+
+“It does aim, however, at removing the blocks to the awareness of love's presence, which is your natural inheritance.” In Urantia Book terms I read this to mean the course aims at removing the blocks to the Thought Adjusters presence. This course is the result of the life Jesus lived in the flesh. 
+
+UB (196:3.1) Personal, spiritual religious experience is an efficient solvent for most mortal difficulties; it is an effective sorter, evaluator, and adjuster of all human problems. Religion does not remove or destroy human troubles, but it does dissolve, absorb, illuminate, and transcend them. True religion unifies the personality for effective adjustment to all mortal requirements. Religious faith—THE POSITIVE LEADING OF THE INDWELLING DIVINE PRESENCE—unfailingly enables the God-knowing man to bridge that gulf existing between the intellectual logic which recognizes the Universal First Cause as It and those positive affirmations of the soul which aver this First Cause is He, the heavenly Father of Jesus' gospel, the personal God of human salvation.
+“The opposite of love is fear, but what is all-encompassing can have no opposite.” 
+
+UB  (48:7.4) 2. Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul.
+
+
+
+
+
+
+ACIM 3 This course can therefore be summed up very simply in this way:
+ACIM 4 Nothing real can be threatened.
+   Nothing unreal exists.
+ACIM 5 Herein lies the peace of God.
+
+</Text>
+        </Document>
+        <Document ID="87">
+            <Title>Outline</Title>
+            <Text> 
+ 
+Outline
+ Alex
+Van travels to Earth
+Alex Deals with conflict (crazy)
+Alex Davis gets a call. One best friend shoots another. Alex runs to hospital
+Old school mate crisis, flashback to spirit vision while in hospital waiting, 
+Fell from tree, saw angels, mother running, 2 best friends stayed with him overnight, angels hovering over bed had lasting impact
+Now friend is in trouble. Alex stay's by his side until he gets out of intensive care. 
+Van attends celestial meeting on earth, status, update
+Others attending include greys (classified mission), midwayers, angels, Lanonadec son (mystery powerful guy), and student visitors (material sons, mortals from L&amp;L worlds)
+Van is briefed on his roll in Alex's awakening. 
+Van gets human identification ID, secret government background, black ops cover
+ 
+Alex gives tour of lab to van, explains robots mimic mind model
+Van is accompanied with black ops team who know nothing about its true backing. 
+Alex is recruited by black ops team to experiment with robotic ant technology. Turning ants into useful robots. 
+Ties electronics into insect brains, builds insect robots
+Intelligence is broadcast, the brain is the receptor, it learns by acting. Instructions broadcast in loop over and over a million times a second. 
+Mechanical mind animates basic building blocks. No learning takes place. 
+Learning mind changes reaction based on results. 
+Uses what he learned to build long lasting robot that mimics insect brain waves
+Van seems mysterious, unrevealing, wise, asks deep unanswerable questions
+Van throws in hints of mind, spirit working. Perhaps mind is undetectable reality, like gravity, unexplainable. 
+Synchronicity event for alex, then vivid dream
+Alex struggles with wife, Grand funk - in love with a girl I can't live without
+She wants to be with him but he is too busy. She confesses her undying love to Alex, but Alex hears she is meeting with him and becomes concerned. Now he is even more busy and can't tell her what he is doing. The life of a spy
+Van reveals himself to Alex
+There will come a day when your technology will be so great we will not be able to hide behind the veil. This explains the awareness of strange things going on behind the scenes 
+Takes Alex to architectural world 
+Van reveals mission to Alex 
+People are taking sides 
+Corporation X develops virus to limit connectivity to spirit creativity
+Seeks to wrestle control over masses
+They want to interferer with the few brain cells that give humans access to inspiration from higher intelligences. 
+Secret groups go back in history, use mythology to tie into the present
+has been working on this for centuries
+We have a contact in congress who has complete awareness of his role. Because of our limitations to interfere sometimes these black ops projects go astray and fall into the hands of people with a different agenda. 
+Explains limits of his mission, can't interfere with sanctity (holiness) of human will
+Human will is respected in the entire universe above all else. Only when men freely choose the will of God will there be peace on earth 
+Rarely intervenes without cooperation  Could make world perfect today, would interfere with the very purpose of creation in time.
+Alex must destroy virus, setback evil empire a few more years (similar to how Israel setback Iran's nuclear progress) using his technology and celestial help within limits of commission 
+Van can't tell Alex how to accomplish his goal. 
+This would not be possible without Van's help
+Van's main mission is to help Alex deal with the revelation and the confusion and trouble it will cause his psyche
+Alex visits his friend in prison, councils him
+Peek inside evil corporation
+
+
+
+End of movie, scene of 3 friends visiting in prison. Alex brings his two best friends back together for healing. 
+</Text>
+        </Document>
+        <Document ID="88">
+            <Title>Book (transfer)</Title>
+            <Text>The sensory deprivation chamber was designed by Alex to help further his exploration into the mysterious world of the mind. The technology built into the chamber is more complicated than a space capsule. Various sensors record his brain waves, heartbeat, breathing rate, blood pressure, blood composition, weight, body fat, BMI, body water, bone mass and too many readings to list for purposes of this narrative. All data is recorded on the highly secure servers back at his robotics lab funded by a top secret black budget government project. 
+His body goes numb from extended meditation within the sensory deprivation chamber. The alarm slowly grows louder within his mind. Alex wiggles his right hand. It is a sensory trick he learned years ago while meditating that slowly brings his consciousness back to an awareness of his body. The mind when allowed to roam in this chamber can produce vivid altered states of awareness profoundly different from worldly experiences. Merging the two at once can be a shock to the mind. The slow process of awakening is less dramatic and allows the fading wispy experiences to be recalled with some degree of accuracy and are then logged in a notebook.  Still aware of his dreamy state Alex recalls his physical presence within the chamber. Fading from his mediation his fingers feel stiff, he begins to move his toes. Taking a deep breath, he slowly exhales through his mouth and then another breath. Minutes later fully awake he opens his eyes to see the digital display above. He flips a button that ends recording of his session. 
+
+Alex sits at his desk after exiting the chamber trying to recall his latest foray into his altered state. He opens a spiral notebook and begins writing his experiences. An objective mindset is hard to maintain while trying to interpret these altered states. Often religious interpretations are assigned to these experiences.  Alex is determined to maintain an objective scientific point of view. Are they just dreams created by the mind within its electro chemical processes or something more profound? Throughout his career he has remained single minded in his quest to penetrate the mysteries of mind. 
+“Moved into level 21. Binaural beats faded. Brilliant display of lights, same strange geometric shapes constantly changing. Faded after a few minutes, sensation of moving rapidly, detected the presence of someone surrounding me, inside me. Lights flash, suddenly on a beach. Had sense of limited range of vision. Strang man standing on beach trying to get my attention. Seemed to be proud of his artificial rendering of this beach scene. Waves flowed with peculiar regularity. Sun light pierced the water without bending, an obvious flow in his design. I had the impression he was an adventurer. His clothing resembled that of Indiana Jones down to the kahki pants, fedora and jacket minus the bull whip. He smiled without saying a word. He stared at me for what seemed like an eternity. I began to feel uncomfortable and wanted to turn away but could not. He held out his hand and lights appeared above it. I saw seven glowing orbs. Three orbs glowed with colors interacting with each other. The other four were poorly lit. 
+
+</Text>
+        </Document>
+        <Document ID="89">
+            <Title>Angel</Title>
+            <Text> 
+ 
+Possibly lower order angels interacting with us, unrevealed. 
+13:1.19 6. SERAPHINGTON. This sphere is the “bosom of the Son and the Spirit” and is the home world of the vast hosts of unrevealed beings created by the Son and the Spirit. This is also the destiny sphere of all ministering orders of the angelic hosts, including supernaphim, seconaphim, and seraphim. There also serve in the central and outlying universes many orders of superb spirits who are not “ministering spirits to those who shall be heirs of salvation.” All these spirit workers in all levels and realms of universe activities look upon Seraphington as their Paradise home.
+
+13:1.20 The secrets of Seraphington involve a threefold mystery, only one of which I may mention – the mystery of seraphic transport. The ability of various orders of seraphim and allied spirit beings to envelop within their spirit forms all orders of nonmaterial personalities and to carry them away on lengthy interplanetary journeys, is a secret locked up in the sacred sectors of Seraphington. The transport seraphim comprehend this mystery, but they do not communicate it to the rest of us, or perhaps they cannot. The other mysteries of Seraphington pertain to the personal experiences of types of spirit servers as yet not revealed to mortals. And we refrain from discussing the secrets of such closely related beings because you can almost comprehend such near orders of existence, and it would be akin to betrayal of trust to present even our partial knowledge of such phenomena.
+113:4.1 Seraphim are mind stimulators; they continually seek to promote circle-making decisions in human mind. They do this, not as does the Adjuster, operating from within and through the soul, but rather from the outside inward, working through the social, ethical, and moral environment of human beings. Seraphim are not the divine Adjuster lure of the Universal Father, but they do function as the personal agency of the ministry of the Infinite Spirit.
+
+113:4.2 (1245.2) Mortal man, subject to Adjuster leading, is also amenable to seraphic guidance. The Adjuster is the essence of man’s eternal nature; the seraphim is the teacher of man’s evolving nature 
+
+113:4.3 (1245.3) Seraphim function as teachers of men by guiding the footsteps of the human personality into paths of new and progressive experiences. To accept the guidance of a seraphim rarely means attaining a life of ease.
+
+113:4.4 But the urge to pray so often experienced by God-conscious mortals very often arises as the result of seraphic influence. The guarding seraphim is constantly manipulating the mortal environment for the purpose of augmenting the cosmic insight of the human ascender to the end that such a survival candidate may acquire enhanced realization of the presence of the indwelling Adjuster and thus be enabled to yield increased co-operation with the spiritual mission of the divine presence
+
+Manual for Teachers
+JCIM: 2. Who Are Their Pupils?
+1 Certain pupils have been assigned to each of God's teachers, and they will begin to look for him as soon as he has answered the Call. They were chosen for him because the form of the universal curriculum that he will teach is best for them in view of their level of understanding. His pupils have been waiting for him, for his coming is certain. Again, it is only a matter of time. Once he has chosen to fulfill his role, they are ready to fulfill theirs. Time waits on his choice but not whom he will serve. When he is ready to learn, the opportunities to teach will be provided for him.
+
+Chapter 1
+32 The power to work miracles belongs to you. I will provide the opportunities to do them, but you must be ready and willing since you are already able. Doing them will bring conviction in the ability since conviction really comes through accomplishment. The ability is the potential; the achievement is its expression; and the Atonement is the purpose.
+
+
+
+
+.
+
+113:4.5 The guardians are most active at those times when the Adjusters are least active
+
+114:6.18 They cannot fully control the affairs of their respective realms of action, but they can and do so manipulate planetary conditions and so associate circumstances as favorably to influence the spheres of human activity to which they are attached.
+
+
+
+114:7.9 Such potential contact mortals of the evolutionary worlds are mobilized in the numerous reserve corps, and it is, to a certain extent, through these small groups of forward-looking personalities that spiritual civilization is advanced and the Most Highs are able to rule in the kingdoms of men. The men and women of these reserve corps of destiny thus have various degrees of contact with their Adjusters through the intervening ministry of the midway creatures; but these same mortals are little known to their fellows except in those rare social emergencies and spiritual exigencies wherein these reserve personalities function for the prevention of the breakdown of evolutionary culture or the extinction of the light of living truth. On Urantia these reservists of destiny have seldom been emblazoned on the pages of human history.
+
+
+114:6.19 (1256.9) The master seraphim of planetary supervision utilize many agencies for the prosecution of their missions. They function as ideational clearinghouses, mind focalizers, and project promoters. While unable to inject new and higher conceptions into human minds, they often act to intensify some higher ideal which has already appeared within a human intellect.
+
+114:6.20 (1256.10) But aside from these many means of positive action, the master seraphim insure planetary progress against vital jeopardy through the mobilization, training, and maintenance of the reserve corps of destiny. The chief function of these reservists is to insure against breakdown of evolutionary progress; they are the provisions which the celestial forces have made against surprise; they are the guarantees against disaster.
+
+
+114:7.1 It is the general practice in the conduct of the affairs of the ascension plans to begin this liaison utilization of mortal will creatures immediately they are competent and trustworthy to assume such responsibilities. Accordingly, as soon as men and women appear on the stage of temporal action with sufficient mental capacity, adequate moral status, and requisite spirituality, they are quickly assigned to the appropriate celestial group of planetary personalities as human liaisons, mortal assistants. *
+
+
+114:7.2 (1257.2) When human beings are chosen as protectors of planetary destiny, when they become pivotal individuals in the plans which the world administrators are prosecuting, at that time the planetary chief of seraphim confirms their temporal attachment to the seraphic corps and appoints personal destiny guardians to serve with these mortal reservists. All reservists have self-conscious Adjusters, and most of them function in the higher cosmic circles of intellectual achievement and spiritual attainment.
+
+Intimately connected
+114:7.7 (1257.7) Each division of planetary celestial service is entitled to a liaison corps of these mortals of destiny standing. The average inhabited world employs seventy separate corps of destiny, which are intimately connected with the superhuman current conduct of world affairs. On Urantia there are twelve reserve corps of destiny, one for each of the planetary groups of seraphic supervision.
+
+Bring like minded people together. 
+39:3.4 3. Social Architects. From the individual 
+planets up through the morontia training worlds, these seraphim labor to
+ enhance all sincere social contacts and to further the social evolution
+ of universe creatures. These are the angels who seek to divest the 
+associations of intelligent beings of all artificiality while 
+endeavoring to facilitate the interassociation of will creatures on a 
+basis of real self-understanding and genuine mutual appreciation. 
+
+39:3.5 Social architects do everything within their province and power to 
+bring together suitable individuals that they may constitute efficient 
+and agreeable working groups on earth;
+ and sometimes such groups have found themselves reassociated on the 
+mansion worlds for continued fruitful service. But not always do these 
+seraphim attain their ends; not always are they able to bring together 
+those who would form the most ideal group to achieve a given purpose or 
+to accomplish a certain task; under these conditions they must utilize 
+the best of the material available.
+
+The secret of growth of society and government
+39:3.7 4. Ethical Sensitizers. It is the mission of 
+these seraphim to foster and to promote the growth of creature 
+appreciation of the morality of interpersonal relationships, for such is
+ the seed and secret of the continued and purposeful growth of society 
+and government, human or superhuman. 
+</Text>
+        </Document>
+        <Document ID="90">
+            <Title>Betty</Title>
+            <Synopsis>Betty Davis
+Born in 1972</Synopsis>
+            <Text>
+
+Betty Davis
+Born in 1972
+She's got Betty Davis Eye's
+All the boys think she's a spy
+I musta picked a bad time to fall in love Grand Funk Railroad
+Zack brown born for leaving
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="91">
+            <Title>Scene Intro Alex in meditation chamber</Title>
+            <Synopsis>Alex sensory deprevation chamber</Synopsis>
+            <Text>The sensory deprivation chamber was designed by Alex to help further his exploration into the mysterious world of the mind.  The technology built into the chamber is more complicated than a space capsule. Various sensors record his brain waves, heartbeat, breathing rate, blood pressure, blood composition, weight, body fat, BMI, body water, bone mass and too many readings to list for purposes of this narrative. All data is recorded on the highly secure servers back at his robotics lab funded by a top secret black budget government project. 
+His body goes numb from extended meditation within the sensory deprivation chamber. The alarm slowly grows louder within his mind. Alex wiggles his right hand. It is a sensory trick he learned years ago while meditating that slowly brings his consciousness back to an awareness of his body. The mind when allowed to roam in this chamber can produce vivid altered states of awareness profoundly different from worldly experiences. Merging the two at once can be a shock to the mind. The slow process of awakening is less dramatic and allows the fading wispy experiences to be recalled with some degree of accuracy and are then logged in a notebook.  Still aware of his dreamy state Alex recalls his physical presence within the chamber. Fading from his mediation his fingers feel stiff, he begins to move his toes. Taking a deep breath, he slowly exhales through his mouth and then another breath. Minutes later fully awake he opens his eyes to see the digital display above. He flips a button that ends recording of his session. 
+
+Alex sits at his desk after exiting the chamber trying to recall his latest foray into his altered state. He opens a spiral notebook and begins writing his experiences. An objective mindset is hard to maintain while trying to interpret these altered states. Often religious interpretations are assigned to these experiences.  Alex is determined to maintain an objective scientific point of view. Are they just dreams created by the mind within its electro chemical processes or something more profound? Throughout his career he has remained single minded in his quest to penetrate the mysteries of mind. 
+“Moved into level 21. Binaural beats faded. Brilliant display of lights, same strange geometric shapes constantly changing. Faded after a few minutes, sensation of moving rapidly, detected the presence of someone surrounding me, inside me. Lights flash, suddenly on a beach. Had sense of limited range of vision. Strang man standing on beach trying to get my attention. Seemed to be proud of his artificial rendering of this beach scene. Waves flowed with peculiar regularity. Sun light pierced the water without bending, an obvious flow in his design. I had the impression he was an adventurer. His clothing resembled that of Indiana Jones down to the kahki pants, fedora and jacket minus the bull whip. He smiled without saying a word. He stared at me for what seemed like an eternity. I began to feel uncomfortable and wanted to turn away but could not. He held out his hand and lights appeared above it. I saw seven glowing orbs. Three orbs glowed with colors interacting with each other. The other four were poorly lit. 
+
+</Text>
+        </Document>
+        <Document ID="92">
+            <Title>Villian</Title>
+            <Synopsis>Gorge Soros, Hitler
+</Synopsis>
+            <Text>Spooky doo type person recruits evil scientist to build artificial intelligence for war. Evil presence behind spooky do. Hitler is prototype for this character. Van has extended vision which allows him to see who is indwelt by God and who is not. Spooky do is not indwelt. Villain raises money by crooked means. Madoff is template. Race to get AI power first. </Text>
+        </Document>
+        <Document ID="93">
+            <Title>North Carolina</Title>
+        </Document>
+        <Document ID="94">
+            <Title>Van travels to Earth</Title>
+            <Synopsis>Van volunteers for earth mission. </Synopsis>
+            <Text>Van volunteers for earth mission. 
+ 
+ 
+Star student
+Special advisor to 
+
+
+
+Change of plans. Van will be informed of his next mission to Earth as he resides on a headquarters world for our local system. He will meet in buildings with open roofs in high tech offices capable of imaging the spirit beings who attend his briefing. 
+
+
+Having just come back from a much needed rest with the reversion angels , Van was ready for his next assignment. Van heard about the request seeking volunteers for a mission to serve on a planet stricken by rebellion. He checked the listing over the circuit and noticed they were looking for a candidate of mortal origin with his experience. A mortal born as a human who ascended from a planet with a similar history to the one in need. The requirements called for someone on record as having stood up against the rebellion by the celestial government of his home planet. Someone accepted into the rare position of a conscious mortal citizen of the celestial government. He was in fact tapped on the shoulder by his angelic associate back in his time as a ascending moral. He did participate in the celestial government of his home planet. He was one of only 20 citizens of his day actually conscious of their participation in the affairs of the celestial government. He submitted his application for consideration noting his focus on genetic studies as meeting one of the requirements of the mission. Shortly before dawn the next day he received his acceptance notice over the mind circuit. 
+
+Van struggles with saying goodbye after working so intimately with his companions. He made some dear friends from all parts of the local universe and many a varied entities ranging from the angelic to the material and all in between. What an incredible journey it has been over the last 10,000 years. And now for the first time since leaving his home planet he will be returning to a material body to serve yet another mission. This universe is one vast school and one amazing adventure! 
+
+After attending a gathering of his closest companions, he tidied up his quarters in preparation for the trip to planet earth. In the presence of the assembled friends and associates who came to see him off, Van submitted himself to the awaiting seraphic transporters for dematerialization in preparation for the long transit sleep. He laid his simispirit form on the meditation table and closed his eyes as he listened to the soothing music being played in the dematerialization chamber. The transport angel swooped down into the chamber and wrapped his four energy shields gently around Van's body and ensarphimed him for the long trip across the universe. As his consciousness slipped away, his last thought was of his friend from long ago in human form ushering him into the special service of his home planets unseen government. And that would now be his role to some unsuspecting human of earth. 
+
+Van fell asleep in the transport chamber and when he awakened he was sitting comfortably in the resurrection chamber wrapped in a soft white robe listening to the same soothing sounds he had fallen asleep to. For the first time in almost 10,000 years he felt the beating of a human heart in his chest. He was slow to move his arms and legs as he reacquainted himself with the functions of the human form. He had traveled to many worlds and assumed many forms during his lifetime. The exhilaration of exploring new worlds always swelled up in his heart when he first woke up after a long slumbering transit. The transport angels never make a mistake he thought. Their energy shields provide the perfect cocoon for the long high speed transit across the universe. He reached out with his human arms to hug his angelic friend when he suddenly realized he is no longer in semispirit form.  He thanked his transport companion for the safe trip with a gesture of his human hands. These angels always show a genuine affection for their passengers. They truly love everyone with a deep and abiding affection. He watched as the transporter lifted off, hovered over the lake of crystal and darted off into the night sky. 
+
+Walks out of chamber, looks around at the architectural sphere constructed by the master architects of the local universe. 
+
+
+and transport to his emergency assignment. 
+
+is engulfed in the protective shields of the seraphim in preparation for transport. 
+
+Describe the landing station for the Seraphim. 
+
+Alex gets a call
+The phone buzzed. &quot;Alex&quot; said a voice that rang out of the speaker. &quot;Yes Jennifer?&quot; Alex replied. &quot;They are ready to run the test now.&quot; she said. Alex jumped to his feet, pushed back his chair and started towards the door. &quot;Be right there&quot; he yelled. 
+
+Alex was working late again as usual. He was waiting for the team to upload the final code to his robotic ant farm. His latest creation needed just a few more tweaks to run the test. This is his third version of the robotic ant. After years of turning real ants into robots he has begun to recreate the process of how ant brains work together. Now it's time to run the test. He hurries down the hall where Jennifer is waiting. 
+Jennifer &quot;They uploaded the latest code to the neural networks. All but a few ant's aren't responding&quot;. 
+Alex &quot;What happened?&quot;
+Jennifer, &quot;The neural patterns were rejected by the previous upload. A few neurals didn't shut down and the upload was interpreted as danger and the patterns were rejected, the ants began to attack the colony&quot;. 
+Alex &quot;Was it the queen?&quot;
+Jennifer &quot;No a few foragers and one worker ant&quot; 
+Alex &quot;We can do a hard reboot later. I just want to see if the new patterns work&quot;. 
+Alex opens the door to the lab and see's his team standing by. 
+Alex &quot;Brad, what's the status of the upload? Jennifer tells me we had a few rejections.&quot;
+Brad has been the chief technology officer from the beginning. Alex recruited him from a prestigious robotics company.  As usual with these kinds of ventures, Brad works 16 hour days with almost no time for family life.
+Brad &quot;
+ 
+
+
+
+</Text>
+        </Document>
+        <Document ID="95">
+            <Title>Bunker</Title>
+            <Text>Bunker in North Carolina close to DC
+
+https://www.onlyinyourstate.com/north-carolina/hidden-underground-nuclear-bunker-nc/
+
+Real bunker empty ready to be re-purposed </Text>
+        </Document>
+        <Document ID="96">
+            <Title>Bunker in North Carolina close to DC</Title>
+            <Text>Bunker in North Carolina close to DC
+
+https://www.onlyinyourstate.com/north-carolina/hidden-underground-nuclear-bunker-nc/
+
+Real bunker empty ready to be re-purposed </Text>
+        </Document>
+        <Document ID="97">
+            <Title>Test change snapshot</Title>
+            <Text>This is the best novel ever written. Two people fall in love. 
+
+Woman eats apple, causes celestial upheaval. 
+
+
+</Text>
+        </Document>
+        <Document ID="98">
+            <Title>Van is selected for earth mission</Title>
+            <Synopsis>Van is visited by his guardian angel. He is assigned to his next phase of  ascension learning
+</Synopsis>
+            <Text>Van Gets New Assignment
+
+Van was born on a planet 20 thousand light years from earth. He lived 84 years on his home planet Urnta before dieing of natural causes. He woke up after his death on a planet created specifically to receive those who died. The universal scheme of ascension works this way throughout the entire system of inhabited planets. 
+
+
+people die and their souls are left unconscious until a periodic dispensation wakes all sleeping survivors up.
+Much like Earth, Urnta did not follow the divine plan of progression. Both Earth and Urnta endured rebellion of the divine rulers. Both were quarantined from the very populated universal government. The quarantine included the severing of the universal broadcast circuits. No rebel rulers could receive or transmit information beyond their planetary borders. They were limited to carrying out their orgy of darkness and death on the planet of their ruling.   
+
+The universal government requires any planetary ruler who strays from the divine plan to be immediately quarantined along with his subordinates and the population of the planet. The planet remains in quarantine until all the results of the former folly have been overcome and the products of rebellion removed from the planet or system ruled over by the rebels. 
+
+Van lived on his native world serving under the planetary prince at the time of the prince’s rebellion. Urnta was immediately put under quarantine. The entire local constellation followed the daily briefings of  Van’s response to his predicament. Van, at the age of 45, refused to join with his erring prince who called for a break in allegiance to the universal government and declaring himself sovereign planetary ruler. His prince, Galael, was not of human origin being created fully mature by the life givers from the central universe. For someone of human origin to so fully resist the temptation of power that comes with rebellion was a shock to the universal inhabitants. Van stood firm in his belief that his prince was overstepping his authority by declaring himself sovereign of the planet. Daily broadcasts were closely monitored for updates on Van’s progress. He has proven his loyalty in the midst of temptation. 
+
+This loyalty has given him many opportunities to serve in unique rolls throughout the years following his human life. 
+
+
+Van hails from a planet very similar to Earth. 
+Having recently returned from a much needed rest with the reversion Angels, Van was ready for his next assignment. 
+
+Need mystery. 
+Voice from a giant ball of light, pulsates as it speaks. 
+Van
+
+
+
+
+ 
+Star student
+Special advisor to 
+
+
+
+Change of plans. Van will be informed of his next mission to Earth as he resides on a architectural sphere within the . He will meet in buildings with open roofs in high tech offices capable of imaging the spirit beings who attend his briefing. 
+
+
+Having just come back from a much needed rest with the reversion angels Van was ready to continue his ascension plans. In a meditation Van was visited by a mission angel seeking volunteers for a mission to serve on a planet stricken by rebellion. The visit was brief and advised him to look for details on the universal broadcasts. He checked the listing over the circuit and immediately realized why he was notified. They are looking for a candidate of mortal origin with his experience. The notice read:
+
+Seeking volunteers for a quarantined planet
+Earth has suffered rebellion and default
+It is passing through the material age and into uncharted waters. Few contacts have been allowed since the third epoch due to limited progress. Earth is currently emerging into a new awareness of consciousness and technological progress. Technological progress is out pacing technological, emotional, moral and ethical progress. The celestial government is upstepping it’s efforts to recruit and train earth mortals to help navigate this challenging time. The candidate of this mission has successfully navigagted from the 7th mindal circle of progress to the 3rd level. This position will be critical if they are to learn how to posses a means to subjigate the population to the rule of a few in possession of simulated mindal technology. 
+
+
+A mortal born as a human who ascended from a planet with a similar history to the one in need. The requirements called for someone on record as having stood up against the rebellion by the celestial government of his home planet. Someone accepted into the rare position of a conscious mortal citizen of the celestial government. He was in fact tapped on the shoulder by his angelic associate back in his time as a ascending moral. He did participate in the celestial government of his home planet. He was one of only 20 citizens of his day actually conscious of their participation in the affairs of the celestial government. He submitted his application for consideration noting his focus on genetic studies as meeting one of the requirements of the mission. Shortly before dawn the next day he received his acceptance notice over the mind circuit. 
+
+Van struggles with saying goodbye after working so intimately with his companions. He made some dear friends from all parts of the local universe and many a varied entities ranging from the angelic to the material and all in between. What an incredible journey it has been over the last 10,000 years. And now for the first time since leaving his home planet he will be returning to a material body to serve yet another mission. This universe is one vast school and one amazing adventure! 
+
+After attending a gathering of his closest companions, he tidied up his quarters in preparation for the trip to planet earth. In the presence of the assembled friends and associates who came to see him off, Van submitted himself to the awaiting seraphic transporters for dematerialization in preparation for the long transit sleep. He laid his simispirit form on the meditation table and closed his eyes as he listened to the soothing music being played in the dematerialization chamber. The transport angel swooped down into the chamber and wrapped his four energy shields gently around Van's body and ensarphimed him for the long trip across the universe. As his consciousness slipped away, his last thought was of his friend from long ago in human form ushering him into the special service of his home planets unseen government. And that would now be his role to some unsuspecting human of earth. 
+
+Van fell asleep in the transport chamber and when he awakened he was sitting comfortably in the resurrection chamber wrapped in a soft white robe listening to the same soothing sounds he had fallen asleep to. For the first time in almost 10,000 years he felt the beating of a human heart in his chest. He was slow to move his arms and legs as he reacquainted himself with the functions of the human form. He had traveled to many worlds and assumed many forms during his lifetime. The exhilaration of exploring new worlds always swelled up in his heart when he first woke up after a long slumbering transit. The transport angels never make a mistake he thought. Their energy shields provide the perfect cocoon for the long high speed transit across the universe. He reached out with his human arms to hug his angelic friend when he suddenly realized he is no longer in semispirit form.  He thanked his transport companion for the safe trip with a gesture of his human hands. These angels always show a genuine affection for their passengers. They truly love everyone with a deep and abiding affection. He watched as the transporter lifted off, hovered over the lake of crystal and darted off into the night sky. 
+
+Walks out of chamber, looks around at the architectural sphere constructed by the master architects of the local universe. 
+
+
+and transport to his emergency assignment. 
+
+is engulfed in the protective shields of the seraphim in preparation for transport. 
+
+Describe the landing station for the Seraphim. 
+
+Alex gets a call
+The phone buzzed. &quot;Alex&quot; said a voice that rang out of the speaker. &quot;Yes Jennifer?&quot; Alex replied. &quot;They are ready to run the test now.&quot; she said. Alex jumped to his feet, pushed back his chair and started towards the door. &quot;Be right there&quot; he yelled. 
+
+Alex was working late again as usual. He was waiting for the team to upload the final code to his robotic ant farm. His latest creation needed just a few more tweaks to run the test. This is his third version of the robotic ant. After years of turning real ants into robots he has begun to recreate the process of how ant brains work together. Now it's time to run the test. He hurries down the hall where Jennifer is waiting. 
+Jennifer &quot;They uploaded the latest code to the neural networks. All but a few ant's aren't responding&quot;. 
+Alex &quot;What happened?&quot;
+Jennifer, &quot;The neural patterns were rejected by the previous upload. A few neurals didn't shut down and the upload was interpreted as danger and the patterns were rejected, the ants began to attack the colony&quot;. 
+Alex &quot;Was it the queen?&quot;
+Jennifer &quot;No a few foragers and one worker ant&quot; 
+Alex &quot;We can do a hard reboot later. I just want to see if the new patterns work&quot;. 
+Alex opens the door to the lab and see's his team standing by. 
+Alex &quot;Brad, what's the status of the upload? Jennifer tells me we had a few rejections.&quot;
+Brad has been the chief technology officer from the beginning. Alex recruited him from a prestigious robotics company.  As usual with these kinds of ventures, Brad works 16 hour days with almost no time for family life.
+Brad &quot;
+ 
+
+
+
+</Text>
+            <Notes>
+Reverential meeting with his angel? Is van human? No, he is morontia. What does that look like. Should I try to describe it?
+
+</Notes>
+        </Document>
+        <Document ID="99">
+            <Title>what is this</Title>
+        </Document>
+        <Document ID="100"/>
+        <Document ID="101">
+            <Title>Alex emerges from his chamber</Title>
+            <Synopsis>Introduce Alex, his focus, career. </Synopsis>
+            <Text>The neighborhood was build forty years ago and is one of the premier gated communities in the little town of somewhere NC.  
+
+
+
+
+
+
+The sensory deprivation chamber was designed by Alex to help further his exploration into the mysterious world of the mind.  The technology built into the chamber is more complicated than a space capsule. Various sensors record his brain waves, heartbeat, breathing rate, blood pressure, blood composition, weight, body fat, BMI, body water, bone mass and too many readings to list for purposes of this narrative. All data is recorded on the highly secure servers back at his robotics lab funded by a top secret black budget government project. 
+His body goes numb from extended meditation within the sensory deprivation chamber. The alarm slowly grows louder within his mind. Alex wiggles his right hand. It is a sensory trick he learned years ago while meditating that slowly brings his consciousness back to an awareness of his body. The mind when allowed to roam in this chamber can produce vivid altered states of awareness profoundly different from worldly experiences. Merging the two at once can be a shock to the mind. The slow process of awakening is less dramatic and allows the fading wispy experiences to be recalled with some degree of accuracy and are then logged in a notebook.  Still aware of his dreamy state Alex recalls his physical presence within the chamber. Fading from his mediation his fingers feel stiff, he begins to move his toes. Taking a deep breath, he slowly exhales through his mouth and then another breath. Minutes later fully awake he opens his eyes to see the digital display above. He flips a button that ends recording of his session. 
+
+Alex sits at his desk after exiting the chamber trying to recall his latest foray into his altered state. He opens a spiral notebook and begins writing his experiences. An objective mindset is hard to maintain while trying to interpret these altered states. Often religious interpretations are assigned to these experiences.  Alex is determined to maintain an objective scientific point of view. Are they just dreams created by the mind within its electro chemical processes or something more profound? Throughout his career he has remained single minded in his quest to penetrate the mysteries of mind. 
+“Moved into level 21. Binaural beats faded. Brilliant display of lights, same strange geometric shapes constantly changing. Faded after a few minutes, sensation of moving rapidly, detected the presence of someone surrounding me, inside me. Lights flash, suddenly on a beach. Had sense of limited range of vision. Strang man standing on beach trying to get my attention. Seemed to be proud of his artificial rendering of this beach scene. Waves flowed with peculiar regularity. Sun light pierced the water without bending, an obvious flow in his design. I had the impression he was an adventurer. His clothing resembled that of Indiana Jones down to the kahki pants, fedora and jacket minus the bull whip. He smiled without saying a word. He stared at me for what seemed like an eternity. I began to feel uncomfortable and wanted to turn away but could not. He held out his hand and lights appeared above it. I saw seven glowing orbs. Three orbs glowed with colors interacting with each other. The other four were poorly lit. 
+
+</Text>
+        </Document>
+        <Document ID="102">
+            <Title>Quantum Research</Title>
+            <Text> 	
+This site published a peer reviewed paper about consciousness and quantum physics. 
+https://quantumgravityresearch.org/
+
+Link to podcast that made me aware of Quantum Gravity Research paper
+https://podcasts.apple.com/us/podcast/skywatchtv-podcast/id1107445564?i=1000472929809
+
+
+Link to paper, also copied in subsection of this folder 
+https://res.mdpi.com/d_attachment/entropy/entropy-22-00247/article_deploy/entropy-22-00247-v2.pdf
+
+</Text>
+        </Document>
+        <Document ID="103">
+            <Title>STORYNOMICS-white-paper</Title>
+        </Document>
+        <Document ID="104">
+            <Title>entropy-22-00247-v2</Title>
+        </Document>
+        <Document ID="105">
+            <Title>Van warns Alex</Title>
+            <Synopsis>Keep knowledge in silos, very dangerous for employees to discover this</Synopsis>
+            <Text>Van warns Alex to keep </Text>
+        </Document>
+        <Document ID="106">
+            <Title>The-Epic-of-Gilgames</Title>
+        </Document>
+        <Document ID="107"/>
+        <Document ID="108">
+            <Title>Website of life after death on other worlds</Title>
+            <Synopsis>By Saskia Praamsma
+Books from others who made it to the other side and survived to tell about it
+</Synopsis>
+            <Text>https://lifeonotherworlds.com/
+
+Saskia Praamsma
+
+Lots of books from way back
+</Text>
+        </Document>
+        <Document ID="109">
+            <Title>Morontia world book descriptions</Title>
+            <Synopsis>Descriptions of morontia worlds
+</Synopsis>
+            <Text>\
+
+Saskia Raevouri
+Star Smith
+
+https://lifeonotherworlds.com/
+Not excited about this one
+The Worlds Unseen link
+http://www.ghostcircle.com/wp-content/uploads/2014/08/Anthony-Borgia-Life-In-The-World-Unseen.pdf
+
+This one is interesting. Talks about ego
+https://www.theosophy.world/sites/default/files/ebooks/Leadbeater/C.W._Leadbeater-The_Life_After_Death_and_How_Theosophy_Unveils_It.pdf
+
+
+The most popular ones are &quot;The World Unseen&quot; and &quot;The Blue Island.&quot; They don't use Urantia terminology but describe the next world -- the houses, the gardens, meeting our loved ones, the work we'll be doing. I've been collecting books like this for 40 years and finally had a place to display them. I've also republished some that are in public domain and made them available on Kindle as well. Most of the very old ones can be read for free online.</Text>
+        </Document>
+        <Document ID="110">
+            <Title>Story of afterlife </Title>
+        </Document>
+        <Document ID="111">
+            <Title>C.W._Leadbeater-The_Life_After_Death_and_How_Theosophy_Unveils_It</Title>
+            <Synopsis>Story of what sounds like morontia life while still here in the flesh
+</Synopsis>
+        </Document>
+        <Document ID="112">
+            <Title>From Icloud</Title>
+        </Document>
+        <Document ID="113">
+            <Title>Blank 4</Title>
+        </Document>
+        <Document ID="114">
+            <Title>Government Entities</Title>
+        </Document>
+        <Document ID="115">
+            <Title>UB Angel quotes</Title>
+        </Document>
+        <Document ID="116">
+            <Title>AI</Title>
+        </Document>
+        <Document ID="117">
+            <Title>Government Entities</Title>
+            <Text> 
+ 
+
+
+Carlos Leite da Silva
+4 hrs
+CELESTIAL HOSTS RESIDING ON OUR PLANET, according to THE URANTIA BOOK
+Although Urantia, our planet, is in quarantine, isolated from the circuits of the Constellation it belongs to, it is secured by the presence of vast celestial hosts, which are organized and commanded under rigorous and powerful order, thus preserving our planet for the due evolution of humankind.
+Every day our planet welcomes cosmic visitors and students, however here resides a permanent population of spiritual and semi-spiritual beings.
+Notwithstanding it doesn’t reveal us the totality of numbers and types of those celestial residents, The Urantia Book does present us a general view where we can perceive that, in the least, the amount of those celestial residents can be close to 2.4 billion. 
+This summary provides the list of those celestial beings revealed by The Urantia Book who are living alongside our humanity upon our planet.
+1. 
+VORONDADEK SON (The Most High observer upon Urantia sent by the Constellation Father) [UB, 43:5.17] [Probably this Vorondadek Son is the author of Paper 36.]
+2. 
+PERSONALIZED THOUGHT ADJUSTERS (3 are on Urantia, together with the Vorondadek Son) [UB, 109:7.7]
+3. 
+LANAFORGE, the Sovereign of our System of 619, or maybe now more, inhabited worlds (he frequently visits Urantia) [UB, 45:2.4]
+4.
+NORSON, the Executive Planetary Prince of Urantia (since August 21st 1951 he is on Urantia in representation of the Vice-Gerent Machiventa Melchizedek, who by its turn rules in name of Jesus, our rightful Planetary Prince, as these last two are absent from Urantia; Machiventa resides on Jerusem, the system capital; Jesus is on Salvington, the capital of the Local Universe). [UB, 93:0.2] [UB, 55:7.3] [Norson is not mentioned in the Urantia Book, rather in the “Publication Mandate of The Urantia Book]
+5. 
+RESIDENT GOVERNOR GENERAL (every 100 years one of the 24 planetary supervisors resides on Urantia; among them are John the Baptist, Moses, Elijah, Enoch, Machiventa Melchizedek, Adam and Eve, besides others revealed and unrevealed) [UB, 45:4 and 114:3.1]
+6. 
+CHIEF OF URANTIA SERAPHIM, A Primary Supernaphim [UB, 37:8.10] [Author of Papers 82, 83, 84, 113 and 114]
+7. 
+MANOTIA, Associate Chief of Seraphim. [UB, 53:6.6]
+8. 
+MASTER PHYSICAL CONTROLLERS, sub-order of the MECHANICAL CONTROLLERS (10 are on Urantia) [UB, 29:4.19]
+9. 
+MORTAL FINALITERS [UB, 31:0.11]
+10. 
+LIFE CARRIERS (2 are on Urantia) [UB, 36:3.9] [Authors of Papers 57 to 65]
+CUSTODIANS OF THE LIFE CARRIERS STAFF (12 are on Urantia) [UB, 36:3.9]
+11. 
+PRIMARY MIDWAYERS (there are 9,981 on Urantia) [UB, 77:7.1]
+SECONDARY MIDWAYERS (there are 1,111 on Urantia) [LU, 77:7.2]
+[Their chief wrote Paper 91; a commission of the Brotherhood of the United Midwayers is responsible for the entire Fourth Part of The Urantia Book, “The Life and Teachings of Jesus”.]
+12. 
+ARCHANGEL CORPS (“a divisional headquarters of the archangels has been maintained on Urantia” [UB, 37:3.3-4]
+13. 
+CONCILIATORS [UB, 25:3.1]
+14. 
+RECORDING ANGELS [UB, 25:5.2]
+15. 
+MASTER SERAPHIM OF PLANETARY SUPERVISION [UB, 114:6]
+16. 
+EPOCHAL ANGELS, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.5]
+17. 
+PROGRESS ANGELS, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.6]
+18. 
+RELIGIOUS GUARDIANS, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.7]
+19. 
+ANGELS OF NATION LIFE, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.8]
+20. 
+ANGELS OF THE RACES, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.9]
+21. 
+ANGELS OF THE FUTURE, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.10]
+22. 
+ANGELS OF ENLIGHTENMENT, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.11]
+23. 
+ANGELS OF HEALTH, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.12]
+24. 
+HOME SERAPHIM, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.13]
+25. 
+ANGELS OF INDUSTRY, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.14]
+26. 
+ANGELS OF DIVERSION, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.15]
+27. 
+ANGELS OF SUPERHUMAN MINISTRY, sub-order of the Master Seraphim of Planetary Supervision [UB, 114:6.16]
+28. 
+Various SERAPHIM, mainly SERAPHIC GUARDIANS (close to 1.2 billion on Urantia) [UB, 114:0.2]
+29. 
+CHERUBIM and SANOBIM (about the same number of Seraphim, close to 1.2 billion on Urantia) [UB, 114:0.2]
+30. 
+ASSISTANT TEACHERS, sub-order of the Superior Seraphim [UB, 39:2.7]
+31. 
+SOCIAL ARCHITECTS, sub-order of the Supervisor Seraphim [UB, 39:3.4]
+32. 
+ADMINISTRATIVE ASSISTANTS, sub-order of the Administrator Seraphim (there are 1,000 on Urantia) [UB, 39:4.3]
+33. 
+JUSTICE GUIDES, sub-order of the Administrator Seraphim [UB, 39:4.4]
+34. 
+QUICKENERS OF MORALITY, sub-order of the Administrator Seraphim [LU, 39:4.13]
+35. 
+TRANSPORTERS (always a variable number) [UB, 39:4.15]
+36. 
+PLANETARY HELPERS [UB, 39:5.2]
+37. 
+VOICES OF THE GARDEN, sub-order of the Planetary Helpers [UB, 39:5.3]
+SOLONIA is the Voice of the Garden who on Urantia communicated with Adam and Eve and was registered on the biblical texts as “the Lord God” [UB, 75:4.8] [Author of Papers 73 to 76]
+38. 
+SPIRITS OF BROTHERHOOD, sub-order of the Planetary Helpers [UB, 39:5.4]
+39. 
+SOULS OF PEACE, sub-order of the Planetary Helpers [UB, 39:5.5-6]
+VEVONA is the chief of the Souls of Peace on Urantia [UB, 39:5.5]
+40. 
+SPIRITS OF TRUST, sub-order of the Planetary Helpers (UB, 39:5.7-9]
+41. 
+TRANSPORTERS, sub-order of the Planetary Helpers (UB, 39:5.10]
+42. 
+TRANSPORT ADVISERS, sub-order of the Energy Manipulators (there are 70 on Urantia) [UB, 44:5.6]
+43. 
+EXPERTS OF COMMUNICATION, sub-order of the Energy Manipulators (there are 12 on Urantia) [UB, 44:5.7]
+44. 
+CELESTIAL ARTISANS [UB, 44:8.1-2]
+45. 
+SERAPHIC EVANGELS, sub-order of Transition Seraphim [UB, 48:6.7-8]
+46. 
+RATIAL INTERPRETERS, sub-order of Transition Seraphim [UB, 48:6.22]
+47. 
+MIND PLANNERS, sub-order of Transition Seraphim [UB, 48:6.24-26]
+</Text>
+        </Document>
+        <Document ID="118">
+            <Title>Plot</Title>
+            <Text>AI innovator discovers quantum mind wave, makes plans to use it to interfere with man kind mind. 
+
+Builds device capable of interfering with higher mind function blocking access to intuition. If successful world will be set back to the stone ages. </Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

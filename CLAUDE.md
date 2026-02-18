@@ -210,6 +210,17 @@ Keep the Q-System mention brief - one sentence. Don't explain the whole system.
 
 ---
 
+## Source Material Search Folders
+
+When Joseph says **"search the Urantia Book"**, search in:
+- `my-book/Urantia Book/UF-ENG-001-1955-1.22.md` (full UB, 1.15M words)
+
+When Joseph says **"search the Course in Miracles"** (or ACIM, Course, CIM), search:
+- **Default:** `my-book/Course In Miracles/ACourseInMiraclesUrtextEdition.md` (all 7 volumes: Text, Workbook, Manual, Use of Terms, Psychotherapy, Song of Prayer, Gifts of God + appendices; 701K words; OCR from EPUB)
+- **Only if specified:** `my-book/Course In Miracles/URTEXT.md` (raw dictation text only; 323K words; cleaner transcription from .DOC but no Manual, Workbook, etc.)
+
+---
+
 ## Project Structure
 
 ```
@@ -219,7 +230,12 @@ q-nonfiction-author/
 │   ├── session-log.md        # Progress tracking
 │   ├── outline/              # Book outline (Part 3)
 │   ├── chapters/             # Draft chapters (Part 4)
-│   └── edits/                # Revision work (Part 5)
+│   ├── edits/                # Revision work (Part 5)
+│   ├── Urantia Book/         # UB source texts
+│   ├── Course In Miracles/   # ACIM source texts (URTEXT.md, PDF, EPUB)
+│   ├── CourseUB/              # Additional ACIM materials
+│   ├── appendices/           # Book appendices (3)
+│   └── source-material/      # Reference material
 ├── methodology/              # The system
 │   ├── book-writing-guide.md
 │   ├── book-writing-methodology.yaml

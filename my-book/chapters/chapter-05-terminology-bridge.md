@@ -84,13 +84,25 @@ The Urantia Book names the same experience. Jesus told Nicodemus that those born
 
 The Urantia Book identifies the Holy Spirit as a specific spirit circuit of the local universe Divine Minister, distinct from her adjutant mind-spirits which operate at the level of temporal perception. It operates above the adjutants, mediating between your temporal mind and the spirit within, exactly as the Course describes.
 
-**8. The "I" of Jesus, Christ Guidance = The Spirit of Truth**
+**8. Christ-Guidance: The Living Voice = The Spirit of Truth**
 
-When Jesus says "I" in the Course ("I am in charge," "I will lend them my strength," "I lead," "I teach"), this is the Spirit of Truth speaking. The Course calls it Christ Guidance. The Urantia Book calls it the Spirit of Truth. Both mean the same thing: the living spirit of Jesus, poured out upon all flesh after his resurrection, personally available to guide every believer.
+When Jesus speaks in the Course, he speaks in first person. "I am in charge of the process of Atonement, which I undertook to begin." "I am with you always, even to the end of the world." "I am working with your higher mind whether you are asleep or awake." "I will lend them my strength as long as theirs is wanting."
 
-Jesus tells us plainly in the Course that he is in charge of the Atonement and in control of miracles. He directs but does not override: "A guide does not control, but he does direct, leaving the following up to you." (JCIM, Tx 1.50)
+Who is this "I"?
 
-The Urantia Book confirms the power of this gift: "In less than a month after the bestowal of the Spirit of Truth, the apostles made more individual spiritual progress than during their almost four years of personal and loving association with the Master." (UB 194:2.9) The spirit of Jesus alive in your mind is more effective than Jesus standing in the room.
+The Course itself provides the answer. Early in the dictation, Jesus describes his ongoing action in the world as Christ-control and Christ-guidance. This is the Spirit of Truth at work: correcting error, directing minds, and leading each person toward salvation. "Christ-guidance is personal, and leads to personal salvation... A guide does not control, by definition, but he does direct, leaving the following up to you." (HLC, Chapter 1)
+
+The Urantia Book names this same presence the Spirit of Truth. Before his departure, Jesus promised a "new helper" to dwell in the hearts of believers. The Urantia Book describes it as "the conviction of truth, the consciousness and assurance of true meanings on real spirit levels... the spirit of living and growing truth, expanding, unfolding, and adaptative truth." (UB 180:5.1)
+
+Its mission is specific. It came "to foster and personalize truth." It came "to destroy the believer's feeling of orphanhood." It came "to help men recall and understand the words of the Master as well as to illuminate and reinterpret his life on earth." (UB 194:2.2, 194:2.5)
+
+Read those missions again. Foster and personalize truth. Destroy the feeling of orphanhood. Help recall and understand the Master's words. Illuminate and reinterpret his life. This is precisely what the Course does. Every page of it.
+
+And the results confirm the source. "In less than a month after the bestowal of the Spirit of Truth, the apostles made more individual spiritual progress than during their almost four years of personal and loving association with the Master." (UB 194:2.9) The spirit of Jesus working within the mind is more powerful than Jesus standing in the room. That is the promise, and that is what the Course delivers: Christ-guidance, the Spirit of Truth, personally directing the reader toward awakening.
+
+Jesus is in charge. He says so repeatedly. "I have told you several times that I am in charge of the whole Atonement. This is only because I completed my part in it as a man, and can now complete it through other men." (HLC, Chapter 4) He completed it as a man. Now he completes it through us, through his spirit poured out upon all flesh, through the living voice that spoke to Helen Schucman and speaks still to every mind willing to listen.
+
+Christ-guidance. The Spirit of Truth. Two names for one reality: Jesus, still teaching.
 
 **9. Ego = Ego (adjutant mind)**
 
@@ -132,18 +144,19 @@ When Jesus says "I" in the Course ("I am in charge," "I will lend them my streng
 
 The Course describes the soul as unalterable, already perfect, and beyond the need of any protection:
 
-> "The Soul never loses its communion with God."
-> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve."
+> "The soul is in a state of grace forever. Man's reality is ONLY his soul. Therefore, man is in a state of Grace forever." (HLC, Chapter 1)
 
-This corresponds directly to the Urantia Book's teaching about the Thought Adjuster (also called the Divine Monitor or spirit monitor), the divine fragment indwelling every normal human mind. The Course even describes healing in terms of this identification:
+> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve." (HLC, Chapter 4)
 
-> "They heal because they deny body-identification and affirm Soul-identification."
+The Urantia Book explains why. What the Course calls the soul corresponds to the Thought Adjuster, the divine fragment indwelling every normal human mind. And the Urantia Book makes a staggering claim about what this fragment is: "They are of God, and as far as we are able to discern, they are God." (UB 107:1.2) Not a gift from God. God himself, fragmentized and indwelling. This is why the soul is unalterable. What is God cannot become un-Godlike.
 
-The Course also speaks of the "altar" as the sacred place within where we encounter God. This too is the Adjuster, the fragment of the Father that indwells every normal human mind.
+The Course names this presence the altar: "A miracle reawakens the awareness that the spirit, and not the body, is the altar of Truth." (HLC, Chapter 1) The altar is not a place you go. The soul, the Adjuster, IS the altar. And it is not cold or abstract. The Urantia Book says: "I regard the love and devotion of a Thought Adjuster as the most truly divine affection in all creation." (UB 110:0.2) The most loving presence in the universe is already inside you.
 
-Understanding this mapping transforms how we read both texts. When the Course says to look within to your soul, it means turn attention to the Adjuster. When it speaks of laying your gifts upon the altar, it means offering your will to the divine fragment that seeks to guide you.
+The Course describes healing as remembering this: "They heal because they deny body-identification and affirm Soul-identification." (HLC, Chapter 1) To heal is to remember what you are. "The mind awakens from its sleep, and the Soul remembers its Creator. All sense of Separation disappears." (HLC, Chapter 3) The soul does not learn about God. It remembers. The Adjuster "always and unerringly points the soul Godward." (UB 107:0.6) The compass has always been set.
 
-The Urantia Book provides the mechanics; the Course provides the practice.
+And nothing real is lost in this process. The Urantia Book promises: "No worth-while experience ever happens in vain; no true meaning or real value ever perishes." (UB 109:6.1) The Course opens with the same assurance: "Nothing real can be threatened. Nothing unreal exists." Whatever the soul touches is preserved forever.
+
+When the Course says to look within to your soul, it means turn attention to the Adjuster. When it speaks of laying gifts upon the altar, it means offering your will to the divine fragment that has loved you since before you drew breath. The Urantia Book provides the mechanics. The Course provides the practice. Together they reveal what neither fully conveys alone: the most loving presence in the universe is already home.
 
 ---
 

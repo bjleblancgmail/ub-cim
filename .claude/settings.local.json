@@ -64,7 +64,15 @@
       "Bash(git pull:*)",
       "Bash(gh auth:*)",
       "WebFetch(domain:www.urantiabook.org)",
-      "WebFetch(domain:members.urantiabook.org)"
+      "WebFetch(domain:members.urantiabook.org)",
+      "Bash(git -C /Users/brianleblanc/code/ub-cim diff my-book/chapters/chapter-14-what-happens-after-ascension-path.md)",
+      "Bash(git -C /Users/brianleblanc/code/ub-cim checkout -- my-book/chapters/chapter-14-what-happens-after-ascension-path.md)",
+      "WebFetch(domain:masteruniverse.org)",
+      "WebFetch(domain:urantia-book.org)",
+      "WebFetch(domain:www.truthbook.com)",
+      "Bash(textutil:*)",
+      "Bash(brew install:*)",
+      "Bash(git -C /Users/brianleblanc/code/ub-cim diff --stat HEAD)"
     ]
   }
 }

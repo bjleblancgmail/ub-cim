@@ -1,6 +1,6 @@
 # Chapter 5: The Terminology Bridge
 
-**STATUS: DRAFT**
+**STATUS: DRAFT - NEEDS REVIEW**
 
 ---
 
@@ -20,15 +20,9 @@ In each mapping below, the Course in Miracles term appears first, followed by th
 
 **1. Soul, Altar = Thought Adjuster, Divine Monitor**
 
-The Course describes the soul as unalterable, already perfect, and beyond the need of any protection:
+The Course's Soul and Altar both correspond to the Urantia Book's Thought Adjuster (also called the Divine Monitor), the indestructible divine fragment indwelling the mind.
 
-> "The soul is in a state of grace forever. Man's reality is ONLY his soul. Therefore, man is in a state of Grace forever." (HLC, Chapter 1)
-
-> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve." (HLC, Chapter 4)
-
-The Urantia Book explains why. What the Course calls the soul corresponds to the Thought Adjuster, the divine fragment indwelling every normal human mind. And the Urantia Book makes a staggering claim about what this fragment is: "They are of God, and as far as we are able to discern, they are God." (UB 107:1.2) Not a gift from God. God himself, fragmentized and indwelling. This is why the soul is unalterable. What is God cannot become un-Godlike.
-
-The Urantia Book teaches that this fragment arrives unbidden, usually around age five or six. It is not a guide or angel. It is a piece of God, prepersonal and eternal, living within the center of your thought life. It works ceaselessly to spiritualize your thinking and preserves every worthy thought toward building the soul that will survive death.
+The Urantia Book teaches that every normal human mind receives a fragment of the Universal Father himself, usually around age five or six. This is not a guide or angel. It is a piece of God, prepersonal and eternal, living within the center of your thought life. It arrives unbidden, works ceaselessly to spiritualize your thinking, and preserves every worthy thought toward building the soul that will survive death.
 
 The Urantia Book describes the relationship this way:
 
@@ -36,15 +30,7 @@ The Urantia Book describes the relationship this way:
 
 Two parents, one child. You are the human parent. The Adjuster is the divine parent. Together you are building something new: the morontia soul, the "real you" that survives death and continues the journey.
 
-The Course also names this presence the altar: "A miracle reawakens the awareness that the spirit, and not the body, is the altar of Truth." (HLC, Chapter 1) The altar is not a place you go. The soul, the Adjuster, IS the altar. And it is not cold or abstract. The Urantia Book says: "I regard the love and devotion of a Thought Adjuster as the most truly divine affection in all creation." (UB 110:0.2) The most loving presence in the universe is already inside you.
-
-The Course describes healing as remembering this: "They heal because they deny body-identification and affirm Soul-identification." (HLC, Chapter 1) To heal is to remember what you are. "The mind awakens from its sleep, and the Soul remembers its Creator. All sense of Separation disappears." (HLC, Chapter 3) The soul does not learn about God. It remembers. The Adjuster "always and unerringly points the soul Godward." (UB 107:0.6) The compass has always been set.
-
-And nothing real is lost in this process. The Urantia Book promises: "No worth-while experience ever happens in vain; no true meaning or real value ever perishes." (UB 109:6.1) The Course opens with the same assurance: "Nothing real can be threatened. Nothing unreal exists." Whatever the soul touches is preserved forever.
-
-When the Course says to look within to your soul, it means turn attention to the Adjuster. When it speaks of laying gifts upon the altar, it means offering your will to the divine fragment that has loved you since before you drew breath. The Urantia Book provides the mechanics. The Course provides the practice. Together they reveal what neither fully conveys alone: the most loving presence in the universe is already home.
-
-One caution before moving on. The word "soul" does not mean the same thing in these two texts. The Course uses "soul" to mean the Adjuster itself, the divine fragment, already perfect and unalterable. The Urantia Book uses "soul" to mean something else entirely: the morontia soul, the new reality that the Adjuster and the human will are building together through every worthy choice. One names the seed. The other names the flower. This distinction matters throughout the book. The next mapping explains what the Urantia Book means by soul, and how it connects to what the Course calls your creations. Keep it close.
+The Course calls this divine parent the "soul," unalterable and already perfect. It also speaks of the "altar," the sacred center within where we meet God. Both point to the Adjuster. When the Course says to look within to your soul, it means turn attention to the Adjuster. When it speaks of laying gifts upon the altar, it means offering your will to the divine fragment that seeks to guide you.
 
 **2. Your Creations = Morontia Soul**
 
@@ -62,29 +48,23 @@ A note on terminology: the word "soul" means different things in these two texts
 
 **3. Sonship = God the Supreme**
 
-One of the most important mappings is between the Course's "Sonship" and the Urantia Book's "God the Supreme."
-
 The Course teaches that the Sonship is the totality of all souls God created, understood as a single living whole. No part is separate. No part is complete without the others. The Sonship is not one person but every soul joined together, and it is not yet complete. It awaits the return of every part.
 
 The Urantia Book describes God the Supreme in remarkably similar terms. The Supreme is the God of time and space, a deity who is growing through the experiences of all creatures. Every choice for goodness, every step toward truth, every act of love becomes part of this living, evolving totality. The Supreme is not yet finished. It is still becoming, and you are part of how it becomes.
 
-The Sonship is our best understanding of who God is. All concepts beyond this temporal God are attempts to explain the unexplainable in terms of our own limited temporal language.
-
-When the Course speaks of our relationship to the Sonship, it is describing our relationship to the Supreme. Your growth matters not just to you but to the whole. Your brother's awakening matters to you because the Sonship cannot know itself as complete until every part returns. When it says we contribute to the Sonship, it means we contribute to the growth of the Supreme. Chapter 7 explores this connection in detail.
+When the Course speaks of our relationship to the Sonship, it is describing our relationship to the Supreme. Your growth matters not just to you but to the whole. Your brother's awakening matters to you because the Sonship cannot know itself as complete until every part returns. Chapter 7 explores this connection in detail.
 
 **4. Perception = Adjutant mind, temporal levels**
 
 The Course draws a sharp line between perception and knowledge. Perception is the realm of interpretation, where things can be seen truly or falsely. Knowledge is certain, eternal, beyond doubt. Perception itself is neutral. It can be right-minded, guided by the Holy Spirit, or wrong-minded, guided by the ego. While you walk in time, the work is to correct perception. But perception itself ends when time ends.
 
-The Urantia Book explains why. What the Course calls perception corresponds to the adjutant mind, the seven mind-spirit circuits that operate in evolutionary creatures. Perception in the Course is simply all things temporal, all of temporal mind. This is the animal-origin intellect that processes sensory data, constructs meaning from experience, and builds our picture of the world. Within the adjutant mind, the ego is created. The adjutant mind is a gift, part of God's provision for developing creatures. But it is neutral territory. It can serve the ego's agenda of separation and fear, or it can be aligned with the Holy Spirit's purpose of healing and return.
+The Urantia Book explains why. What the Course calls perception corresponds to the adjutant mind, the seven mind-spirit circuits that operate in evolutionary creatures. This is the animal-origin intellect that processes sensory data, constructs meaning from experience, and builds our picture of the world. It is a gift, part of God's provision for developing creatures. But it is neutral territory. It can serve the ego's agenda of separation and fear, or it can be aligned with the Holy Spirit's purpose of healing and return.
 
 This mapping removes the mysticism from the Course's teaching. When the Course says you must move from wrong perception to right perception, it is describing something the Urantia Book makes concrete: the adjutant mind, guided by spiritual influence rather than ego, begins to see truly. The mind itself is not the problem. The direction it serves is everything. Chapter 11 explores this journey from perception to knowledge in detail.
 
 **5. Knowledge = Absolute level, Adjuster perspective**
 
-If perception belongs to time, knowledge belongs to eternity. Knowledge in the Course is not information or learning. It is direct awareness of truth, the certainty that needs no proof because it comes from God. It is not learned but recognized. It comes not through study but through communion with the indwelling spirit.
-
-The Adjuster already has this knowledge. It does not perceive. It knows. What the Course calls knowledge corresponds to the superconscious level, the Adjuster's perspective, the eternal viewpoint that transcends time and space. What the Course calls the journey from perception to knowledge, the Urantia Book describes as the progressive alignment of the adjutant mind with the Adjuster's perspective, culminating in fusion. Knowledge is where perception was always meant to lead you.
+If perception belongs to time, knowledge belongs to eternity. Knowledge in the Course is not information or learning. It is direct awareness of truth, the certainty that needs no proof because it comes from God. The Adjuster already has this knowledge. It does not perceive. It knows. What the Course calls the journey from perception to knowledge, the Urantia Book describes as the progressive alignment of the adjutant mind with the Adjuster's perspective, culminating in fusion. Knowledge is where perception was always meant to lead you.
 
 **6. Will = Personality**
 
@@ -92,11 +72,11 @@ The Course places enormous weight on will. The entire drama of separation and re
 
 The Urantia Book answers the question. Will originates in personality, the unique and changeless gift bestowed directly by the Universal Father on each individual. Personality is not earned or developed. It is given before you take your first breath, and it never changes. Its defining feature is the capacity for choice. And this capacity is sovereign. Your will cannot be overridden by anyone: not by other creatures, not by celestial beings, not even by God himself. The Father who gave you the power to choose will never take it back or force it in any direction.
 
-This means that when the Course appeals to your willingness, it is appealing to the deepest gift the Father has given you. This is why the Course must appeal to your willingness rather than simply correct you. This is why God waits. This is why the Adjuster can only invite, guide, and lead but never compel. The ability to choose is not a product of the adjutant mind or the ego. It comes from a higher source entirely, designed from the beginning for one purpose: the voluntary alignment of your will with the Father's will. That alignment is what both books call the goal of the entire journey.
+This is why the Course must appeal to your willingness rather than simply correct you. This is why God waits. This is why the Adjuster can only invite, guide, and lead but never compel. The ability to choose is not a product of the adjutant mind or the ego. It comes from a higher source entirely, designed from the beginning for one purpose: the voluntary alignment of your will with the Father's will. That alignment is what both books call the goal of the entire journey.
 
 **7. Holy Spirit = Holy Spirit**
 
-This is the simplest mapping in the entire bridge, because both books use the same name. The Course defines the Holy Spirit in terms remarkably consistent with the Urantia Book: "The Holy Spirit is the only part of the mind that lies between the ego and the soul, mediating between them always in favor of the soul." It sits between your ego (adjutant mind) and your Adjuster, and it always takes the Adjuster's side.
+This is the simplest mapping in the entire bridge, because both books use the same name. The Course defines the Holy Spirit precisely: "The Holy Spirit is the part of the mind that lies between the ego and the soul, mediating between them always in favor of the soul." It sits between your ego (adjutant mind) and your Adjuster, and it always takes the Adjuster's side.
 
 The Course also calls this the Spiritual eye: the capacity to see beyond the ego's distortions to what is real. The Spiritual eye cannot see error. It is capable only of looking beyond it to the Atonement. It does not attack. It does not command. It merely reminds you of what is true.
 
@@ -126,7 +106,7 @@ Christ-guidance. The Spirit of Truth. Two names for one reality: Jesus, still te
 
 **9. Ego = Ego (adjutant mind)**
 
-The ego lives within the adjutant mind (human mind), but it is not the adjutant mind itself. The adjutant mind is a gift, part of God's creation, necessary for mortal experience. The ego is the self-concept that the adjutant mind constructs. The Course defines it plainly: "The ego is a man-made attempt to perceive himself as he wished to be rather than as he is." (JCIM, Tx 3.40) Consciousness itself is the domain of the ego.
+The ego lives within the adjutant mind. It is the self-concept we create, our attempt to perceive ourselves. The Course defines it plainly: "The ego is a man-made attempt to perceive himself as he wished to be rather than as he is." (JCIM, Tx 3.40) Consciousness itself is the domain of the ego.
 
 The Urantia Book describes the same process from the perspective of mind itself:
 
@@ -134,7 +114,7 @@ The Urantia Book describes the same process from the perspective of mind itself:
 
 The ego is the framework the adjutant mind builds to make sense of reality. It is indispensable, but always partially wrong. It can be misguided, but it can also learn. The Course says: "The ego can learn because its maker can be misguided but cannot make the totally lifeless out of the life-given. The Soul need not be taught, but the ego must." (JCIM, Tx 4.8)
 
-On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion. The Course corrects what should have been taught from the beginning.
+On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion.
 
 **Note on the Spirit of Truth:** The Urantia Book clearly distinguishes between the Holy Spirit (the ministry of the Divine Minister/Creative Spirit of the local universe) and the Spirit of Truth (poured out by Jesus after his resurrection). Several passages in the Course reveal this same distinction.
 
@@ -160,11 +140,88 @@ When Jesus says "I" in the Course ("I am in charge," "I will lend them my streng
 
 ---
 
-## Section 3: Cautions and Limitations
+## Section 3: Soul and Thought Adjuster
+
+The Course describes the soul as unalterable, already perfect, and beyond the need of any protection:
+
+> "The soul is in a state of grace forever. Man's reality is ONLY his soul. Therefore, man is in a state of Grace forever." (HLC, Chapter 1)
+
+> "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve." (HLC, Chapter 4)
+
+The Urantia Book explains why. What the Course calls the soul corresponds to the Thought Adjuster, the divine fragment indwelling every normal human mind. And the Urantia Book makes a staggering claim about what this fragment is: "They are of God, and as far as we are able to discern, they are God." (UB 107:1.2) Not a gift from God. God himself, fragmentized and indwelling. This is why the soul is unalterable. What is God cannot become un-Godlike.
+
+The Course names this presence the altar: "A miracle reawakens the awareness that the spirit, and not the body, is the altar of Truth." (HLC, Chapter 1) The altar is not a place you go. The soul, the Adjuster, IS the altar. And it is not cold or abstract. The Urantia Book says: "I regard the love and devotion of a Thought Adjuster as the most truly divine affection in all creation." (UB 110:0.2) The most loving presence in the universe is already inside you.
+
+The Course describes healing as remembering this: "They heal because they deny body-identification and affirm Soul-identification." (HLC, Chapter 1) To heal is to remember what you are. "The mind awakens from its sleep, and the Soul remembers its Creator. All sense of Separation disappears." (HLC, Chapter 3) The soul does not learn about God. It remembers. The Adjuster "always and unerringly points the soul Godward." (UB 107:0.6) The compass has always been set.
+
+And nothing real is lost in this process. The Urantia Book promises: "No worth-while experience ever happens in vain; no true meaning or real value ever perishes." (UB 109:6.1) The Course opens with the same assurance: "Nothing real can be threatened. Nothing unreal exists." Whatever the soul touches is preserved forever.
+
+When the Course says to look within to your soul, it means turn attention to the Adjuster. When it speaks of laying gifts upon the altar, it means offering your will to the divine fragment that has loved you since before you drew breath. The Urantia Book provides the mechanics. The Course provides the practice. Together they reveal what neither fully conveys alone: the most loving presence in the universe is already home.
+
+---
+
+## Section 4: Sonship and God the Supreme
+
+One of the most important mappings is between the Course's "Sonship" and the Urantia Book's "God the Supreme."
+
+The Course teaches that the Sonship is the totality of God's creation: all souls together, functioning as one. We are members of the Sonship, and what any part does affects the whole.
+
+The Urantia Book describes God the Supreme in remarkably similar terms: the evolving deity of time and space, growing through the experiences of all creatures, the totality of finite creation actualizing its potential.
+
+The Sonship is our best understanding of who God is. All concepts beyond this temporal God are attempts to explain the unexplainable in terms of our own limited temporal language.
+
+When the Course speaks of our relationship to the Sonship, it is describing our relationship to the Supreme. When it says we contribute to the Sonship, it means we contribute to the growth of the Supreme. This mapping illuminates both texts.
+
+---
+
+## Section 5: Perception and Knowledge
+
+The Course makes a sharp distinction between perception and knowledge. Perception is unreliable, shifting, the source of illusion. Knowledge is certain, eternal, the domain of truth.
+
+The Urantia Book provides the framework for understanding this distinction. Perception in the Course is simply all things temporal or temporal mind. In the Urantia Book temporal mind is known as the adjutant mind. Within the adjutant mind the ego is created.
+
+Perception corresponds to the adjutant mind, the animal-origin intellect that processes sensory data and constructs our experience of the world. This level of mind is subject to error, distortion, and the influence of fear.
+
+Knowledge corresponds to the superconscious level, the Adjuster's perspective, the eternal viewpoint that transcends time and space. This is not learned but recognized. It comes not through study but through communion with the indwelling spirit.
+
+The Course teaches us to move from perception to knowledge. The Urantia Book explains what we are moving from and to.
+
+---
+
+## Section 6: Will and Personality
+
+The Course places enormous emphasis on will. The entire drama of separation and return hinges on choice. We chose wrongly, and we can choose again. The "little willingness" is all that is required to begin the journey back.
+
+But the Course never explains where will comes from. It treats will as a given, something we simply have.
+
+The Urantia Book answers the question. Will originates in personality, the unique and changeless gift bestowed directly by the Universal Father on each individual. Personality is not something we develop or earn. It is given. And its defining feature is the capacity for choice.
+
+This means that when the Course appeals to your will, it is appealing to the deepest gift the Father has given you. Your ability to choose is not a product of the adjutant mind or the ego. It comes from a higher source entirely.
+
+The Course teaches that you can align your will with God's will. The Urantia Book explains why this is possible: because your will originates in a gift from God himself. The capacity to choose was designed for exactly this alignment.
+
+---
+
+## Section 7: The Ego
+
+Both texts address the ego, but with important nuances.
+
+The Course often speaks as if the ego is the enemy, the source of illusion, fear, and separation. This has led some readers to view the ego as purely negative.
+
+The Urantia Book provides clarification. Perception (adjutant mind) is not the ego. The ego is a concept of who we are which is created by perception (adjutant mind).
+
+The ego is not the adjutant mind itself but the self-concept constructed by that mind. The adjutant mind is a gift, part of God's creation, necessary for mortal experience. The problem is not the mind but the distorted identity we create with it.
+
+On normal worlds, the ego would be taught right perception by visible celestial teachers. On our rebellion-scarred world, the ego inflates because it lacks this guidance. The Course corrects what should have been taught from the beginning.
+
+---
+
+## Section 8: Cautions and Limitations
 
 These mappings are helpful but not perfect. Several cautions apply:
 
 **Avoid over-simplification.** The Course and the Urantia Book are not identical texts with different vocabulary. Each has emphases and perspectives the other lacks. The mappings identify correspondences, not equations.
+
 
 **The mapping is incomplete.** These correspondences represent current understanding. Further study may reveal additional nuances, corrections, or expansions. This bridge is under construction.
 
@@ -172,7 +229,7 @@ These mappings are helpful but not perfect. Several cautions apply:
 
 ---
 
-## Section 4: Closing: Using the Bridge
+## Section 9: Closing: Using the Bridge
 
 This terminology bridge serves a practical purpose: it allows readers to move freely between the two texts, recognizing the same realities described in different language.
 

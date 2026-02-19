@@ -34,16 +34,6 @@ The Course does not define miracles as supernatural events: water into wine, hea
 
 Read that carefully. The miracle is not *like* fusion. The miracle *is* fusion: the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
 
-The Course captures this in one of its earliest and most compressed images:
-
-> "Miracles are cobwebs of iron. They unite human frailty to the strength of God." (JCIM, Chapter 1)
-
-Cobwebs of iron. The seemingly fragile becomes unbreakable when it is the link between human will and divine strength. And from the original miracle principles, a line that later editions omitted:
-
-> "A miracle is a spark of Life. It shines through the darkness and brings in the light. You must begin to forget and remember." (JCIM, Notes)
-
-A spark of Life. The miracle is not an event. It is the divine spark itself, shining through. You must forget what the ego taught you and remember what the Adjuster already knows.
-
 The Urantia Book says the same thing without the word "miracle":
 
 > "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
@@ -68,27 +58,9 @@ The Urantia Book teaches that every normal human mind, beginning in early childh
 
 The Urantia Book means this literally. The Adjuster is a piece of the Universal Father: prepersonal, divine, eternal. It is given to each human being as both gift and destiny.
 
-And it is not cold or abstract. A celestial being who has observed the Adjusters across the universe offers this testimony:
-
-> "I regard the love and devotion of a Thought Adjuster as the most truly divine affection in all creation. The love of the Sons in their ministry to the races is superb, but the devotion of an Adjuster to the individual is touchingly sublime, divinely Fatherlike." (UB 110:0.2)
-
-The most truly divine affection in all creation. Not the love of angels or teachers or even the Creator Sons. The Adjuster's love for you, specifically, individually, is described as the highest form of love in the universe.
-
-And the Adjusters themselves know it. The Urantia Book preserves an extraordinary document: the actual words of a Thought Adjuster, transmitted to its human subject:
-
-> "Upon him I bestow the supreme devotion and affection of a divine spirit. And say further to my beloved subject that I will function with wisdom and power until the very end, until the last earth struggle is over; I will be true to my personality trust. And I exhort him to survival, not to disappoint me, not to deprive me of the reward of my patient and intense struggle. On the human will our achievement of personality depends." (UB 110:7.10)
-
-Read those words again. "My beloved subject." "Supreme devotion." "Not to deprive me of the reward of my patient and intense struggle." The Adjuster is not a mechanism. It is a presence that loves you, that has struggled alongside you, that longs for fusion as much as you should. On the human will, the Adjuster says, our achievement depends. Both partners need this union. Both want it. Both are working toward it.
-
-The Urantia Book calls them "prisoners of undying hope, the founts of everlasting progression." (UB 108:6.7) Prisoners. They are bound within your mind, unable to leave, waiting with undying hope that you will choose what they already know is true.
-
 The Adjuster has a mission: to prepare you for fusion. Throughout your life, it works to create a *soul*, a new reality that is neither fully human nor fully divine, but a blending of both. Every worthy thought, every unselfish choice, every movement toward truth and beauty and goodness becomes material the Adjuster uses to build this soul.
 
 Fusion is the culmination. At some point, whether in this life or on the mansion worlds after death, the human will and the Adjuster's will become so aligned that separation is no longer possible. The two become one. The mortal has become immortal. The creature has united permanently with a fragment of the Creator.
-
-The Urantia Book describes what that union becomes in language that builds like music:
-
-> "There will eventually ensue that morontia oneness, that supernal harmony, that cosmic co-ordination, that divine attunement, that celestial fusion, that never-ending blending of identity, that oneness of being which is so perfect and final that even the most experienced personalities can never segregate or recognize as separate identities the fusion partners, mortal man and divine Adjuster." (UB 110:1.6)
 
 This is not absorption. You do not disappear into God. The fused being is "really one personality, one being," but it is still *you*, now expanded beyond anything the mortal mind could have achieved alone.
 
@@ -130,12 +102,6 @@ Two stages. First, perceiving the spark: glimpsing the divine within yourself an
 
 But there is more. *Knowing* the light, not just perceiving it, but fusing with it, creates. This is the difference between recognizing the Adjuster and uniting with it. Perception is the beginning. Knowledge is the destination.
 
-The Course goes further still, describing the spark as an Eternal Guest who cannot leave:
-
-> "The Eternal Guest remains, but His Voice grows faint in alien company. He needs your protection, but only because your care is a sign that you WANT Him. Think like Him ever so slightly, and the little spark becomes a blazing light that fills your mind so that He becomes your only Guest. Whatever journey you choose to take, He will go with you, waiting. You can safely trust His patience, for He CANNOT leave a part of God. But you will far more than patience. You will never rest until you know your function AND FULFILL IT, for only in this can your will and your Father's be wholly joined." (JCIM, Chapter 10)
-
-The Eternal Guest. He cannot leave, because He is a part of God placed within you. His Voice grows faint when you keep alien company, when you listen to the ego instead. But think like Him ever so slightly, and the little spark becomes a blazing light. This is the Course's description of what happens when the human mind begins to cooperate with the Adjuster: the spark does not merely glow. It blazes. It fills the mind. And you will never rest until your will and the Father's will are wholly joined.
-
 The Urantia Book describes the Adjuster's work in building the soul. The Adjusters operate at the highest levels of mind:
 
 > "Adjusters work in the spheres of the higher levels of the human mind, unceasingly seeking to produce morontia duplicates of every concept of the mortal intellect."
@@ -168,23 +134,7 @@ The Urantia Book describes three stages in this shift:
 
 Material body. Morontia soul. Spirit reality. You begin identified with the body, the transient life vehicle. The morontia soul is the intermediate reality being built by the partnership of your mind and the Adjuster. Every worthy thought, every loving choice contributes to this soul. It is growing even now, beneath the surface of your awareness. And beyond the soul lies spirit reality: the destination of fusion itself.
 
-But this transfer is not what it first appears to be. It is not surrender. It is not the annihilation of your will. The Urantia Book is emphatic about this:
-
-> "Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father." (UB 111:5.5)
-
-Consecration. Expansion. Glorification. Perfecting. The transfer does not diminish you. It completes you. Your will does not shrink. It grows into what it was always meant to become.
-
-And the Urantia Book reframes the most famous prayer in human history:
-
-> "This choosing does not so much consist in the negation of creature will, 'Not my will but yours be done,' as it consists in the creature's positive affirmation: 'It is my will that your will be done.'" (UB 111:5.6)
-
-Not passive submission. Active, joyful choice. It is my will that your will be done. The difference is everything. One is resignation. The other is alignment. One gives up. The other reaches forward.
-
-And here is the theological foundation that makes it possible: God moved first.
-
-> "As men trust themselves to him, so has he, and first, trusted a part of himself to be with men; has consented to live in men and to indwell men subject to the human will." (UB 111:5.3)
-
-And first. Before you ever sought God, God placed Himself inside you. The Adjuster arrived before you could ask for it, before you even knew what it was. The transfer is bilateral from the beginning. God did not wait for you to reach toward Him. He reached first.
+This is not automatic. It requires your cooperation. The Adjuster cannot force this transfer. It can only invite, guide, lead. The human will must choose to follow.
 
 The Course in Miracles describes this same movement as the shift from perception to knowledge. Perception is how the earthly mind sees: partial, interpretive, filtered through fear and past experience. Knowledge is how spirit sees: direct, complete, unified with truth. The Course does not speak of the material body and the morontia soul. It speaks of the ego and the spirit, of fear and love. But the movement is identical: you must shift your identity from what is passing away to what is eternal.
 
@@ -220,12 +170,6 @@ And again:
 
 The bridge lifts you from time into eternity. You start on one side: time, perception, material identity. You end on the other: eternity, knowledge, spiritual reality. The bridge does not eliminate the gap. It spans it. It makes crossing possible.
 
-The Course makes an extraordinary claim about this bridge and about Jesus' relationship to you:
-
-> "When I said, 'Behold I am with you always,' I meant it literally. I am not absent to ANYONE nor in ANY situation. BECAUSE I am always with you, YOU are the Way, and the Truth, and the Light." (JCIM, Chapter 7)
-
-Because I am with you, YOU are the Way. Jesus does not say he alone is the way. He says that because his spirit indwells you, you become the way. The indwelling presence is what makes the human the path. This is Adjuster theology in Course language.
-
 The Urantia Book locates this bridge within your own mind:
 
 > "The Thought Adjuster is the cosmic window through which a finite creature may faith-glimpse the certainties and divinities of limitless Deity." (UB Paper 103, 103:0.1)
@@ -254,12 +198,6 @@ The Urantia Book says:
 
 The Adjuster does not need to choose. It already is what it is: the Father's will, present within you. But you possess the power of volition. You can align with that will or resist it. Every time you choose love over fear, truth over self-deception, service over selfishness, you are cooperating with the transfer.
 
-The Urantia Book captures this cooperation in a single image:
-
-> "Mind is your ship, the Adjuster is your pilot, the human will is captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to guide the ascending soul into the morontia harbors of eternal survival. Only by selfishness, slothfulness, and sinfulness can the will of man reject the guidance of such a loving pilot and eventually wreck the mortal career upon the evil shoals of rejected mercy and upon the rocks of embraced sin. With your consent, this faithful pilot will safely carry you across the barriers of time and the handicaps of space to the very source of the divine mind and on beyond, even to the Paradise Father of Adjusters." (UB 111:1.9)
-
-You are the captain. The Adjuster is the pilot. The captain does not steer, but the captain must consent. And the pilot is faithful, patient, and willing to carry you all the way to Paradise.
-
 The Course says the same:
 
 > "The Holy Spirit asks of you but this: bring to Him every secret you have locked away from Him. Open every door to Him, and bid Him enter the darkness and lighten it away." (JCIM, Chapter 14, Tx 14.30)
@@ -271,36 +209,6 @@ The Course describes daily practice as the mechanism:
 > "Each day, each hour and minute, even every second, you are deciding between the crucifixion and the resurrection; between the ego and the Holy Spirit." (JCIM, Chapter 13, Tx 13.68)
 
 Every moment is a choice. Every choice either reinforces material identification or strengthens spiritual identification. The transfer happens choice by choice, moment by moment, not in one dramatic leap, but in ten thousand small decisions to turn toward the light.
-
-And the Course offers practical reassurance about what this feels like:
-
-> "God CANNOT ask more than you WILL. The strength to DO comes from your own undivided will to do. There is NO strain in doing God's will as soon as it is also your own." (JCIM, Chapter 2)
-
-No strain. The struggle is not in the doing. The struggle is in the divided will, the part that wants God and the part that clings to the ego. As soon as the will becomes undivided, the strain disappears. The path to fusion is not self-torture. The Urantia Book confirms this:
-
-> "Co-operation with the Thought Adjuster does not entail self-torture, mock piety, or hypocritical and ostentatious self-abasement; the ideal life is one of loving service rather than an existence of fearful apprehension." (UB 110:3.4)
-
-The ideal life is one of loving service. Not fearful apprehension. Both books teach this: the journey toward fusion is meant to be joyful.
-
-But if the path is joyful and the destination is glorious, why does it seem so difficult? Why do so few people walk it consciously? Because there is an obstacle, and both books name it: fear.
-
-The Course says plainly:
-
-> "What seems to be the fear of God is really only the fear of YOUR OWN REALITY." (JCIM, Chapter 8)
-
-The fear of God is not about God at all. It is the fear of discovering what you actually are. The ego recoils from the knowledge that you carry divinity within you, because that knowledge is the end of the ego.
-
-The Urantia Book describes the same dynamic from the Adjuster's perspective:
-
-> "The Thought Adjusters would like to change your feelings of fear to convictions of love and confidence; but they cannot mechanically and arbitrarily do such things; that is your task. In executing those decisions which deliver you from the fetters of fear, you literally supply the psychic fulcrum on which the Adjuster may subsequently apply a spiritual lever of uplifting and advancing illumination." (UB 108:5.8)
-
-The Adjuster cannot remove your fear for you. That is your task. But every time you choose against fear, you provide the fulcrum the Adjuster needs to lift you higher. Your small act of courage becomes the leverage for divine power.
-
-And here is the reassurance that both books offer: the bar is lower than you think. You do not need to be perfect. You do not even need to be certain. The Urantia Book says:
-
-> "Confusion, being puzzled, even sometimes discouraged and distracted, does not necessarily signify resistance to the leadings of the indwelling Adjuster. Only conscious resistance to the Adjuster's leading can prevent the survival of the evolving immortal soul." (UB 110:3.5)
-
-Only conscious, deliberate resistance prevents survival. Not confusion. Not doubt. Not discouragement. Not the bad days when you cannot feel the spark. Only the willful, sustained choice to turn away from the light. Everything else is part of the journey.
 
 ---
 
@@ -336,12 +244,6 @@ The Course offers glimpses:
 
 Fuses. The word is exact. Perception does not simply improve or clarify. It fuses with knowledge, becomes one with it, is absorbed into it. The limited way of seeing is not destroyed but transformed, taken up into a larger seeing that includes it and transcends it.
 
-The Course describes the actual experience of crossing:
-
-> "Sooner or later must everyone bridge the gap which he imagines exists between his selves. Each one builds this bridge, which CARRIES HIM ACROSS the gap, as soon as he is willing to expend some little effort on behalf of bridging it. His little efforts are powerfully supplemented by the strength of Heaven, and by the united will of all who make Heaven what it is, being joined within it. And so the one who would cross over, is literally transported there. Your bridge is builded stronger than you think, and your foot is planted firmly on it. Have no fear that the attraction of those who stand on the other side and wait for you, will not draw you safely across. For you WILL come where you would be, and where your Self awaits you." (JCIM, Chapter 16)
-
-Little efforts, powerfully supplemented. Literally transported. Your Self awaits you on the other side. This is the Course's vision of what the Urantia Book calls fusion: you are not abandoned to cross alone. Heaven supplements your effort. Those who have already crossed are drawing you forward. And the Self waiting on the other side is the fused identity, the person you are becoming.
-
 The Urantia Book describes the fused being:
 
 > "But the fused individual is really one personality, one being, whose unity defies all attempts at analysis by any intelligence of the universes." (UB Paper 112, 112:7.8)
@@ -360,12 +262,6 @@ And the Course offers one more promise about what the crossing costs:
 
 Glad astonishment. You gave up nothing. The ego insists that fusion means losing yourself. Both books teach the opposite: you become more yourself than you ever were. The crossing is not sacrifice. It is completion.
 
-The Urantia Book sees what lies beyond completion, and can barely contain itself:
-
-> "What an adventure! What a romance! A gigantic creation to be administered by the children of the Supreme, these personalized and humanized Adjusters, these Adjusterized and eternalized mortals, these mysterious combinations and eternal associations of the highest known manifestation of the essence of the First Source and Center and the lowest form of intelligent life capable of comprehending and attaining the Universal Father." (UB 112:7.18)
-
-What an adventure. What a romance. The highest essence of God and the lowest creature capable of reaching God, fused into one being. The universe has never seen anything like what you are becoming.
-
 ---
 
 ## Section 10: The Required Course
@@ -383,18 +279,6 @@ Adjuster fusion is not a special achievement for spiritual elites. It is the nat
 > "This is a brilliant age for ascending mortals and usually witnesses the perfect fusion of the human mind and the divine Adjuster."
 
 The universe expects you to fuse. The Adjuster within you came for this purpose. The entire structure of reality is arranged to support it.
-
-The Course puts it with characteristic directness:
-
-> "The word 'inevitable' is fearful to the ego, but joyous to the Soul. God IS inevitable and you CANNOT avoid Him any more than He can avoid YOU." (JCIM, Chapter 4)
-
-The ego hears "inevitable" and panics. The soul hears it and rejoices. God cannot avoid you any more than you can ultimately avoid God. The Adjuster cannot leave. The spark cannot be extinguished. The requirement stands.
-
-And the Course offers this assurance about the outcome:
-
-> "He WILL learn the lesson of awaking. God watches over him, and light surrounds him. Can God's Son lose himself in dreams, when God has placed WITHIN him the glad call to awaken and be glad? He cannot separate himself from what is IN him. His sleep will not withstand the call to wake. The mission of redemption will be fulfilled, as surely as the Creation will remain unchanged throughout Eternity." (JCIM, Chapter 13)
-
-His sleep will not withstand the call to wake. God placed the call inside you. The Adjuster is that call. And no amount of dreaming can silence it forever.
 
 Why, then, does it seem so rare? Why do so few people even know about it?
 
@@ -433,11 +317,5 @@ The Course in Miracles confirms this in Jesus's own voice:
 > "My mind will always be like yours, because we were created as equals. It was only my decision that gave me all power in heaven and earth. My only gift to you is to help you make the same decision for yourself... I am your model for decision. By deciding for God, I showed you that this decision can be made and that you can make it." (JCIM, Chapter 5)
 
 Two revelations, one message. The Urantia Book says you can follow Jesus along the same experience of Father discovery. The Course says he is your model for decision, and you can make it too. His power was not privilege. It was choice. And the same choice is yours.
-
-The Urantia Book offers the final word:
-
-> "True it is, you mortals are of earthly, animal origin; your frame is indeed dust. But if you actually will, if you really desire, surely the heritage of the ages is yours, and you shall someday serve throughout the universes in your true characters, children of the Supreme God of experience and divine sons of the Paradise Father of all personalities." (UB 112:7.19)
-
-If you actually will. If you really desire. The heritage of the ages is yours.
 
 The bridge is there. You are already on it. Keep walking.

@@ -1,6 +1,6 @@
 # Chapter 5: The Terminology Bridge
 
-**STATUS: DRAFT**
+**STATUS: DRAFT - REVISED (merged duplicate sections)**
 
 ---
 
@@ -165,6 +165,7 @@ When Jesus says "I" in the Course ("I am in charge," "I will lend them my streng
 These mappings are helpful but not perfect. Several cautions apply:
 
 **Avoid over-simplification.** The Course and the Urantia Book are not identical texts with different vocabulary. Each has emphases and perspectives the other lacks. The mappings identify correspondences, not equations.
+
 
 **The mapping is incomplete.** These correspondences represent current understanding. Further study may reveal additional nuances, corrections, or expansions. This bridge is under construction.
 

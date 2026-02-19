@@ -9,7 +9,7 @@ from ebooklib import epub
 BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
 CHAPTERS_DIR = os.path.join(BASE_DIR, 'chapters')
 APPENDICES_DIR = os.path.join(BASE_DIR, 'appendices')
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'Audiobook.epub')
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'UB-CIM-Study-Guide-audio.epub')
 
 
 def convert_table_to_prose(lines, start_idx):
@@ -125,6 +125,7 @@ def process_text(text):
         line = re.sub(r'\s*\(CIM-OE[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(CIM[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Course[^)]*\)\s*$', '', line)
+        line = re.sub(r'\s*\(HLC[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Workbook[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Text[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Manual[^)]*\)\s*$', '', line)
@@ -132,6 +133,10 @@ def process_text(text):
         line = re.sub(r'\s*\(Tx[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(W\d[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(M:[^)]*\)\s*$', '', line)
+        # ACIM Text references: (T 10 C 6-7), (T 2 D), (T 16 D 8), etc.
+        line = re.sub(r'\s*\(T \d+[^)]*\)\s*$', '', line)
+        # UB short form: (110:7.10), (112:7.18), etc.
+        line = re.sub(r'\s*\(\d+:\d+\.\d+\)\s*$', '', line)
 
         # Inline citation references like (Ch 5, 13) or (Ch 6, 8)
         line = re.sub(r'\s*\(Ch \d+(?:,\s*\d+)*\)\s*$', '', line)

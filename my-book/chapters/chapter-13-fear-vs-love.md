@@ -1,4 +1,4 @@
-# Chapter 12: Fear vs Love
+# Chapter 13: Fear vs Love
 
 **STATUS: COMPLETE**
 

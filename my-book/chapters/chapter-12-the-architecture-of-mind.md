@@ -8,7 +8,7 @@
 
 Both the Urantia Book and the Course in Miracles describe the human mind in extraordinary detail. They name its parts. They explain how it works. They warn what goes wrong when you do not understand it. And the picture they paint, independently, from two different sources and two different vocabularies, is the same picture.
 
-This matters because most people live their entire lives inside their own minds without any map of the territory. They experience thoughts, feelings, impulses, fears, flashes of insight, and moments of peace, but they have no framework for understanding where any of it comes from. They assume it is all "me." It is not.
+This matters because most people live their entire lives inside their own minds without any map of the territory. They experience thoughts, feelings, impulses, fears, flashes of insight, and moments of peace, but they have no framework for understanding where any of it comes from. They assume all of it originates from themselves, from one unified "I." It does not. Some of it comes from below consciousness. Some of it comes from above. And you are in the middle, receiving from both.
 
 Both texts describe a mind with three distinct levels. Below consciousness, a subconscious realm where miracle-impulses and animal drives coexist. Above consciousness, a superconscious realm where the divine partner dwells and operates. And in the middle, consciousness itself: the level where you live, where you perceive, where you choose.
 
@@ -143,6 +143,14 @@ And when you reach, something reaches back. The Adjuster is not passive:
 You supply the fulcrum. The Adjuster applies the lever. You make the choice to release fear. The divine partner amplifies that choice into transformation. Neither can do it alone. Both are required.
 
 Prayer is the fulcrum. It is the one thing you can do, right now, from the middle of consciousness, that opens the channel in both directions. It does not require understanding the architecture perfectly. It does not require defeating the ego first. It only requires reaching.
+
+The Course does not leave this as abstraction. Its Workbook provides 365 daily lessons, one for each day of the year, each one a structured practice in reaching past the ego toward the divine. Lessons like "God is the light in which I see" and "My mind is part of God's" are not affirmations. They are exercises in redirecting consciousness upward, toward the superconscious, away from the weeds. Each lesson is a few minutes of deliberate contact with the Adjuster. Three hundred and sixty-five days of pulling weeds and parting the cloud cover, one morning at a time.
+
+The Urantia Book has no workbook. But it describes the same daily discipline:
+
+> "The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one's fellow creatures." (UB 91:7.1)
+
+Prayer, meditation, service. The Course provides the structured inner practice. The Urantia Book adds the outer practice: loving service. Together, they describe a complete daily discipline for clearing the channel.
 
 The Urantia Book adds one critical detail:
 

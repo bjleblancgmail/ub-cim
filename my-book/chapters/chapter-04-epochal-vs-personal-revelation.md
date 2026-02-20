@@ -1,6 +1,6 @@
 # Chapter 4: Epochal vs Personal Revelation
 
-**STATUS: COMPLETE**
+**STATUS: DRAFT**
 
 ---
 

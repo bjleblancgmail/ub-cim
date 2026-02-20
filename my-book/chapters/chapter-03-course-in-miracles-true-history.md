@@ -1,6 +1,6 @@
 # Chapter 3: A Course in Miracles - The True History
 
-**STATUS: COMPLETE**
+**STATUS: DRAFT**
 
 ---
 

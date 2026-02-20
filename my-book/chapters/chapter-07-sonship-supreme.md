@@ -1,5 +1,7 @@
 # Chapter 7: The Sonship / God the Supreme
 
+**STATUS: DRAFT**
+
 ## Section 1: Opening
 
 Both books describe something larger than any individual soul. A Course in Miracles calls it the Sonship. The Urantia Book calls it God the Supreme. At first glance, these seem like very different ideas: one sounds personal, intimate, familial. The other sounds cosmic, evolutionary, vast.

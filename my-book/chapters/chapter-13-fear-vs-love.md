@@ -1,6 +1,6 @@
 # Chapter 13: Fear vs Love
 
-**STATUS: COMPLETE**
+**STATUS: DRAFT**
 
 ---
 

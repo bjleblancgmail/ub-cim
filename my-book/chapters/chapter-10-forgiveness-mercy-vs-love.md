@@ -1,6 +1,6 @@
 # Chapter 10: Forgiveness - Mercy vs Love
 
-**STATUS: COMPLETE**
+**STATUS: DRAFT**
 
 ---
 

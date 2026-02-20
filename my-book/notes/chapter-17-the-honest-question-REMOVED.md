@@ -1,5 +1,7 @@
 # Chapter 17: The Honest Question
 
+**STATUS: DRAFT**
+
 ## Section 1: Opening
 
 Every honest book must face the hard questions. This one is no different.

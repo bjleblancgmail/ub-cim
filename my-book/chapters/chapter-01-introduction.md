@@ -1,4 +1,6 @@
-# Chapter 1: Introduction 
+# Chapter 1: Introduction
+
+**STATUS: DRAFT**
 
 For over two thousand years, Jesus' message has slumbered within the cocoon of the Christian church. The church preserved what it could, but something larger was always waiting to emerge. Now is the time for a greater revelation about his message and the world we live in.
 

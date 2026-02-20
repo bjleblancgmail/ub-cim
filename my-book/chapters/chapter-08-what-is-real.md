@@ -1,5 +1,7 @@
 # Chapter 8: What Is Real? Identification and the Eternal Perspective
 
+**STATUS: DRAFT**
+
 ---
 
 ## Section 1: Opening, The Paradox

@@ -26,7 +26,23 @@ The consequences were immediate and devastating. The planet was quarantined. The
 
 Later, the Adamic mission, sent to biologically and spiritually uplift our world, also failed. The default of Adam and Eve compounded the damage of the rebellion. Our planet suffered what the Urantia Book calls a "double tragedy."
 
-The Course in Miracles addresses this story obliquely. It refers to Adam falling into a deep sleep, and notes that nowhere in scripture is there any reference to his waking up. The separation, in the Course's telling, is a kind of dream from which humanity has not yet awakened. The rebellion and its aftermath are the nightmare.
+The Course in Miracles addresses this story in its own way:
+
+> "When the 'lies of the serpent' were introduced, they were specifically called 'lies' because they are not true. When man listened, all he heard was untruth. He does not have to continue to believe what is not true unless he chooses to do so. All of his miscreations can literally disappear in 'the twinkling of an eye' because they are merely visual misperceptions. Man's Spiritual eye can sleep, but a sleeping eye can still see. What is seen in dreams seems to be very real. The Bible mentions that 'a deep sleep fell upon Adam,' and nowhere is there any reference to his waking up." (ACIM Urtext, T 2 A 3)
+
+The lies of the serpent. The Urantia Book tells us exactly what those lies were: that good intentions justify departing from the divine plan, that you shall not surely die, that shortcuts to knowledge can replace patient cooperation with God. The Course does not name the details, but it names the result. Man listened. He heard untruth. And he fell into a deep sleep from which he has not yet awakened.
+
+What does "you shall not surely die" mean? The Urantia Book makes it concrete. Adam and Eve were not ordinary mortals. They were Material Sons, immortal beings sustained by the tree of life. The warning they received was specific: "In the day that you commingle good and evil, you shall surely become as the mortals of the realm; you shall surely die." (UB 75:4.4)
+
+They would lose their immortality. They would age. They would die like ordinary humans.
+
+When Eve told Cano of this warning, he assured her "that men and women with good motives and true intentions could do no evil; that she should surely not die but rather live anew in the person of their offspring, who would grow up to bless and stabilize the world." (UB 75:4.5)
+
+This was the lie. Not a grand philosophical deception, but a simple, practical falsehood: you can depart from the divine plan with good intentions and nothing bad will happen. You will not lose what you have. The ends justify the means.
+
+Eve believed it. And the consequence was exactly what had been warned. She became mortal. Adam chose to share her fate. Both lost access to the tree of life. Both eventually died. The serpent said "you shall not surely die." They died.
+
+The rebellion and its aftermath are the nightmare. And both texts agree: we do not have to keep believing what is not true.
 
 This connection is significant precisely because of how the Course came to us. Helen Schucman, the scribe, received it through nonverbal communication over seven years, taking shorthand notes each evening. The process was laborious: notes edited many times, Helen always conscious, always tempted to edit. This was not trance channeling but conscious reception, filtered through a human mind doing its best to capture what it heard. The original notes contain material later edited out, including more explicit references to the cosmic context. The urtext, the Helen and Bill version, preserves this additional material.
 
@@ -50,11 +66,11 @@ When Lucifer declared his rebellion, the affected worlds were quarantined, cut o
 
 Why? Because ideas are contagious. Every being who encountered the rebellion's philosophy had to be given the opportunity to accept or reject it freely. Forcibly ending the rebellion before this process completed would have left the question unresolved. The universe needed to know, conclusively, for all time, where every individual stood.
 
-This is why the quarantine has lasted over two hundred thousand years. I still cannot understand why this has been allowed to continue for so long. The answer is that rebellion must be worked out. Every mortal who lived and died on our world must make a genuine choice. No one is condemned because their leaders rebelled.
+This is why the quarantine has lasted over two hundred thousand years. It is difficult to understand why this has been allowed to continue for so long. The answer is that rebellion must be worked out. Every mortal who lived and died on our world must make a genuine choice. No one is condemned because their leaders rebelled.
 
 The quarantine remains "until all the results of the former folly have been overcome and the products of rebellion removed."
 
-We are still in quarantine. But we are not abandoned. The Adjusters still come. The Spirit of Truth was poured out after Jesus' resurrection. The celestial administration, though invisible, still functions. We are isolated, but not forsaken.
+We are still in quarantine. But we are not abandoned. The Adjusters still come. The Holy Spirit has continued to function in our minds. The Spirit of Truth was poured out after Jesus' resurrection. The celestial administration, though invisible, still functions. We are isolated, but not forsaken.
 
 ---
 
@@ -64,7 +80,7 @@ Here is the question that troubles many: Why should we suffer for what Lucifer d
 
 From the ego's perspective, it is not. The ego sees isolated individuals, and isolated individuals should not be held responsible for choices they did not make. But both texts teach that the ego's perspective is precisely the problem.
 
-The Course provides one answer: the Sonship is one. What any part of the Sonship does affects all other parts. We are not isolated individuals but members of a single family. The choices of some become the conditions for others. The Course goes further. It says we "made" sickness and death. From the individual perspective, that is absurd. But from the Sonship perspective, it is a statement about collective identity. The Sonship includes Lucifer. The Sonship includes us. The Sonship includes every being who ever chose wrongly. When the Course says "you made this," it is speaking to the Sonship as a whole, not to you as an individual.
+The Course provides one answer: the Sonship is one. The Course says: "Nothing in these statements implies any sort of level involvement or in fact anything except one continuous line of creation in which all aspects are of the same order." What any part of the Sonship does affects all other parts. We are not isolated individuals but members of a single family. The choices of some become the conditions for others. The Course goes further. It says we "made" sickness and death. From the individual perspective, that is absurd. But from the Sonship perspective, it is a statement about collective identity. The Sonship includes Lucifer. The Sonship includes us. The Sonship includes every being who ever chose wrongly. When the Course says "you made this," it is speaking to the Sonship as a whole, not to you as an individual.
 
 The Urantia Book confirms this interconnection through its teaching about the Supreme. The Supreme Being is the evolving God of time and space, growing through the experiences of all creatures. But we do not merely contribute to the Supreme. We are part of the Supreme, the way a cell is part of a body. The UB says "the parts and individuals of the grand universe evolve as a reflection of the total evolution of the Supreme." Its condition is our condition. Its delays are our delays. Its wounds are our wounds.
 

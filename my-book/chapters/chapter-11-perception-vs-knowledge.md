@@ -1,6 +1,6 @@
 # Chapter 11: Perception vs Knowledge
 
-**STATUS: COMPLETE**
+**STATUS: DRAFT**
 
 ---
 

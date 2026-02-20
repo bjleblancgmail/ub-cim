@@ -1,4 +1,6 @@
-# Chapter 18: My Lesson Was Like Yours
+# Chapter 17: My Lesson Was Like Yours
+
+**STATUS: DRAFT**
 
 ## Section 1: Opening
 

@@ -1,6 +1,6 @@
 # Chapter 2: The Urantia Book - An Overview
 
-**STATUS: COMPLETE**
+**STATUS: DRAFT**
 
 ---
 

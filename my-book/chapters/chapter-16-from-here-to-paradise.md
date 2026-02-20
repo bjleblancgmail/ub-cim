@@ -34,6 +34,12 @@ Those who complete the process while in the flesh may bypass some or all of the 
 
 ## Section 3: The Mansion Worlds: Completing What Remains
 
+The Course opens with a statement worth reading twice:
+
+> "This is a course in miracles. It is a required course. Only the time you take it is voluntary. Free will does not mean that you can establish the curriculum. It means only that you may elect what you want to take at a given time." (JCIM, Tx I.1)
+
+Required. Not optional. You did not choose the curriculum. You only choose when you take it. The Urantia Book reveals what this means in practice: if you do not complete the course here, you will complete it on the mansion worlds. The curriculum follows you through death. There is no escaping it, because it is not punishment. It is the path home.
+
 Most of us will not achieve fusion in this life. The rebellion-scarred conditions of our world, our biological inheritance, the shortness of mortal life, these make complete fusion rare here. But the Course moves us toward it. Every lesson learned, every forgiveness offered, every moment of choosing the Adjuster over the ego, these count.
 
 For those who die before fusion, the mansion worlds exist to complete the process.

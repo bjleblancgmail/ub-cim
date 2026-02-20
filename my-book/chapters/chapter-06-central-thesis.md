@@ -146,8 +146,6 @@ And they never stop:
 
 The Adjuster is not waiting passively. It is actively building, taking every worthy thought, every true perception, every loving choice, and weaving them into the soul that will survive death. The spark is not just a light. It is a creator, working within you, preparing you for fusion.
 
-The Course teaches the same: the Holy Spirit takes what you offer, your willingness, your forgiveness, your release of fear, and uses it to undo the ego and reveal what has always been true.
-
 The spark is already present. The work is simply to stop hiding it.
 
 ---
@@ -316,9 +314,11 @@ Read this slowly. God gave you a way of thinking that could raise your perceptio
 
 When God carries you across, the Urantia Book describes what you receive:
 
-> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential." (UB Paper 112, 112:7.1)
+> "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential. Among these new endowments may be mentioned: fixation of divinity quality, past-eternity experience and memory, immortality, and a phase of qualified potential absoluteness." (UB 112:7.1)
 
 The Adjuster brings what you cannot bring yourself: eternal actualities. The fragment of God that has lived within you, guided you, preserved every worthy thought, this fragment completes what you started. It provides what you lack. Fusion is not achievement. It is gift.
+
+Consider what "past-eternity experience and memory" means. Your Adjuster existed before you did. Before this planet, before this universe, your Adjuster had experience in the eternal realms. At fusion, those memories become yours. You do not just receive immortality going forward. You receive a past that stretches back before time began. The Adjuster's experience of eternity becomes part of who you are. You gain not only a future without end, but a past without beginning.
 
 This should relieve enormous pressure. You are not required to earn your way across the bridge. You are required only to keep walking: to keep choosing, to keep turning toward the light, to keep cooperating with the will of God within you.
 

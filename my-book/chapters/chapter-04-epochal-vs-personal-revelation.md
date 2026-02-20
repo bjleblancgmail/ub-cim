@@ -39,6 +39,14 @@ It appears Helen did not know the Urantia Book. She does not seem to have been f
 
 The result is Jesus' message filtered through a human mind. This is not a defect. It is how personal revelation works. The Spirit of Truth operates the same way in every believer, guiding, prompting, illuminating, but always through the individual's existing framework of understanding.
 
+Jesus himself acknowledged this dynamic in the original Urtext dictation notes:
+
+> "Scribes have a particular role in the Plan of Atonement, because they have the ability to EXPERIENCE revelations themselves, and also to put into words enough of the experience to serve as a basis for miracles." (ACIM Urtext, T 1B 40ab)
+
+"Enough of the experience." Not all of it. The scribe captures what she can. This is an honest admission that something is lost in translation, that the words on the page are a human rendering of a revelation that exceeds language.
+
+This is the key difference between the two texts. The Urantia Book passed through a sleeping subject whose conscious mind did not touch the content. What the celestial authors composed is what arrived on the page. The Course passed through a waking scribe who had to translate nonverbal impressions into her own vocabulary. Both methods delivered truth. But one is word-for-word; the other is filtered through human judgment. This means the Course, by its own acknowledgment, may contain imprecisions where the scribe's understanding shaped the expression. Readers should expect this, not as a reason to distrust the Course, but as a reason to read it with discernment, especially where its language seems to contradict the more precise cosmology of the Urantia Book.
+
 ---
 
 ## Section 4: Why Jesus Works Through Scribes

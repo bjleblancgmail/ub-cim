@@ -92,8 +92,17 @@ def process_text(text):
             i += 1
             continue
 
-        # Remove ## section headings (replace with blank line for pause)
-        if re.match(r'^##\s+', line):
+        # Keep ## section headings as spoken text (bold in EPUB)
+        section_match = re.match(r'^##\s+(.+)$', line)
+        if section_match:
+            heading_text = section_match.group(1).strip()
+            # Remove "Section N: " prefix, keep just the title
+            heading_text = re.sub(r'^Section \d+:\s*', '', heading_text)
+            # Remove bold/italic
+            heading_text = re.sub(r'\*\*([^*]+)\*\*', r'\1', heading_text)
+            heading_text = re.sub(r'\*([^*]+)\*', r'\1', heading_text)
+            processed_lines.append('')
+            processed_lines.append(f'SECTION_TITLE:{heading_text}')
             processed_lines.append('')
             i += 1
             continue
@@ -198,7 +207,10 @@ def text_to_html(text):
         # Join multi-line paragraphs
         content = ' '.join(line.strip() for line in lines if line.strip())
 
-        if (content.startswith('Chapter ') or content.startswith('Appendix ')) and ':' in content and len(content) < 120:
+        if content.startswith('SECTION_TITLE:'):
+            title_text = content[len('SECTION_TITLE:'):]
+            html_parts.append(f'<p><b>{title_text}</b></p>')
+        elif (content.startswith('Chapter ') or content.startswith('Appendix ')) and ':' in content and len(content) < 120:
             html_parts.append(f'<h1>{content}</h1>')
         elif content.startswith('Part ') and ':' in content and len(content) < 80:
             html_parts.append(f'<h2>{content}</h2>')

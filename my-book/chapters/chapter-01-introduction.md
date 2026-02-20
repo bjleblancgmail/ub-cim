@@ -118,6 +118,16 @@ As Jesus reminds us in the Manual for Teachers: "Let us not forget, however, tha
 
 Words on pages do not adequately convey meanings to diverse minds. The motivating factor is prayer, the prayer of the heart, not the words used in praying. The Course trains the mind to break free from historical and cultural conditioning. The Urantia Book gives us a glimpse of what awaits us when we die or transcend this earth life. But neither book, by itself, can do the work for you.
 
+The Urantia Book records Jesus giving his apostles specific instructions about how to reach people:
+
+> "Make your appeals directly to the divine spirit that dwells within the minds of men. Do not appeal to fear, pity, or mere sentiment. In appealing to men, be fair; exercise self-control and exhibit due restraint; show proper respect for the personalities of your pupils. Remember that I have said: 'Behold, I stand at the door and knock, and if any man will open, I will come in.'" (UB 159:3.2)
+
+This is not just an instruction Jesus gave. It is what he did. The entire Course in Miracles is Jesus making his appeal directly to the divine spirit that dwells within the minds of men, the indwelling Adjuster and the evolving soul.
+
+Read the Course with this in mind and its tone makes perfect sense. He speaks past the ego, past the intellect, directly to the Adjuster within you, the part of you that already knows what he is saying is true.
+
+This may explain why the Course reads the way it does. It is not trying to convince your intellect. It is reaching for something deeper. The ego will resist it, misunderstand it, argue with it. That is expected. Jesus is not talking to the ego. He is standing at the door and knocking, and the door is not your intellect. It is the Adjuster (soul), the divine spirit dwelling within your mind, waiting for you to let him in.
+
 Rely on the Holy Spirit for guidance in all things. These texts are signposts, not the destination. The real teaching happens in the space between the words, in the quiet moments when something clicks and you see what was always there.
 
 As Jesus reminds us in the Course:

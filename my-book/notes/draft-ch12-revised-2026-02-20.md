@@ -1,6 +1,6 @@
 # Chapter 12: The Architecture of Mind
 
-**STATUS: DRAFT**
+**STATUS: DRAFT (Revision 2026-02-20)**
 
 ---
 
@@ -148,7 +148,7 @@ The Urantia Book adds one critical detail:
 
 > "Enlightened prayer must recognize not only an external and personal God but also an internal and impersonal Divinity, the indwelling Adjuster." (UB 91:3.7)
 
-Prayer is not only reaching outward to a God in heaven. It is also reaching inward to the God (adjuster/soul) who already lives in the superconscious level of your own mind. The bridge goes in both directions because the divine is already on both ends.
+Prayer is not only reaching outward to a God in heaven. It is also reaching inward to the God who already lives in the superconscious level of your own mind. The bridge goes in both directions because the divine is already on both ends.
 
 ---
 

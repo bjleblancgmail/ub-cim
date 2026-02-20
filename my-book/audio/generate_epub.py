@@ -135,6 +135,7 @@ def process_text(text):
         line = re.sub(r'\s*\(CIM[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Course[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(HLC[^)]*\)\s*$', '', line)
+        line = re.sub(r'\s*\(ACIM[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Workbook[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Text[^)]*\)\s*$', '', line)
         line = re.sub(r'\s*\(Manual[^)]*\)\s*$', '', line)
@@ -267,7 +268,7 @@ def main():
     # Create EPUB book
     book = epub.EpubBook()
     book.set_identifier('ub-cim-study-guide-audio')
-    book.set_title('The Urantia Book and A Course in Miracles: A Study Guide')
+    book.set_title('Bridge: Where the Urantia Book and A Course in Miracles Meet')
     book.set_language('en')
     book.add_author('Joseph')
 

@@ -12,6 +12,14 @@ Perhaps this is no coincidence. Perhaps the powers above are challenging us to c
 
 This book brings them into conversation.
 
+If this comparison makes you uneasy, consider what Jesus said to a restless crowd in the Capernaum synagogue: "The truth never suffers from honest examination." (UB 153:2.11)
+
+And to his apostles, after engaging with a Greek philosopher whose ideas challenged their beliefs:
+
+> "True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one's belief. No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe. Sincere men are unafraid of the critical examination of their true convictions and noble ideals." (UB 146:3.2)
+
+This book examines both texts honestly. If what these books teach is true, and both communities believe it is, then bringing them into conversation can only deepen understanding, not threaten it.
+
 ---
 
 Consider these passages. The Urantia Book teaches:

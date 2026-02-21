@@ -115,4 +115,12 @@ For those integrating the Course with the Urantia Book, the earlier versions are
 
 Helen Schucman spent seven years taking down what she heard. Bill Thetford spent those same years typing, questioning, and collaborating. Together with Jesus, they produced something remarkable: a personal revelation from the Creator Son to a quarantined world.
 
+---
+
+## Section 8: A Word to Urantia Book Readers
+
+When Course in Miracles students say the world is an illusion, Urantia Book readers often recoil. How can you call a universe teeming with billions of inhabited worlds, celestial administrators, and evolutionary purpose an illusion? But before dismissing the Course, consider what the Urantia Book says. Jesus "frequently alluded to the natural as 'the unreal and fleeting shadow of spirit realities'" (UB 151:3.3). The Urantia Book's own celestial authors state plainly: "To spirit beings the material world is almost entirely unreal, being merely a shadow of the substance of spirit realities" (UB 44:0.15). They call evil "really nonexistent" (UB 130:1.6) and describe it as "cosmic unreality" (UB 2:3.5). They say "the eternal real is the good of the universe and not the time illusions of space evil" (UB 102:3.15). They tell you that much of your material experience "will perish with the material brain" as "onetime scaffolding" (UB 112:5.22). And they assure you that "nothing of survival value is ever lost in all the wide universe" (UB 109:3.2). Now read the Course's opening lines again: "Nothing real can be threatened. Nothing unreal exists." That is not a foreign teaching. That is the eternal perspective, stated with the brevity of one who lives there. The Course is not denying your universe. It is speaking from the vantage point the Urantia Book describes: the view from eternity, where time is a moving image, space is a fleeting shadow, and everything of genuine worth is already safe in the hands of God. The discomfort you feel is not a contradiction between the books. It is the paradox the Urantia Book itself names: "The Human Paradox" (UB 111:6), the tension of a creature who lives in time but is indwelt by eternity. The Course did not invent that tension. It is trying to help you resolve it.
+
+---
+
 That original work deserves to be read.

@@ -304,7 +304,81 @@ A teaching aid. He went through the worst so that we would not have to. He demon
 
 ---
 
-## Section 7: Closing
+## Section 7: All Power in Heaven and Earth
+
+There is a phrase that echoes across both revelations. In the Course, Jesus says it plainly:
+
+> "My mind will always be like yours, because we were created as equals. It was only my DECISION that gave me all power in Heaven and earth. My only gift to you is to help you make the same decision FOR YOURSELF." (JCIM, T 5 D 9)
+
+All power in Heaven and earth. A Course in Miracles reader might take this as metaphor, or as theology too grand to examine closely. But the Urantia Book takes those same words and shows us exactly what they mean. The Urantia Book says:
+
+> "All power in heaven and on earth was relegated to this triumphant and enthroned Master Son." (UB 21:4.5)
+
+It was a transfer of authority so vast that the entire local universe recognized it. And it was not given freely.
+
+The Urantia Book tells a story that no other source on earth tells. Before Michael of Nebadon, the Creator Son we know as Jesus, could exercise full sovereignty over his universe, he took a solemn oath to the Paradise Trinity. He pledged not to assume supreme authority until he had completed seven bestowals, living as seven different orders of his own creatures. The Ancients of Days, the rulers of the superuniverse, would not certify his sovereignty until he had done this. The Urantia Book says:
+
+> "The Ancients of Days will never certify a Creator Son as Universe Sovereign until he has really acquired the viewpoint of his own creatures by actual experience in the environment of their existence." (UB 119:0.6)
+
+He had to acquire the viewpoint. Not observe it. Not study it. Live it.
+
+And here is the remarkable part: he did not have to. The Urantia Book is explicit that a Creator Son possesses the power to claim sovereignty at any time. The Urantia Book says:
+
+> "A Creator Son could assert full sovereignty at any time, but he wisely chooses not to. The Michaels choose to experientially earn it." (UB 21:3.2-3)
+
+He chose to earn it. The Course, reflecting on this same reality, says it differently but says the same thing:
+
+> "I am your model for decision. By deciding for God, I showed you that this decision CAN be made, and that YOU can make it." (JCIM, T 5 D 10)
+
+A model for decision. Not a model for divine privilege. A model for choosing.
+
+The seven bestowals spanned almost one billion years of Urantia time. In the first, he lived as a Melchizedek Son, serving in the united will of Father, Son, and Spirit. In the second, as a Lanonandek Son, a System Sovereign. In the third, as a Material Son, an Adam. In the fourth, as a supreme seraphim. In the fifth, as an ascending spirit mortal on the superuniverse capital. In the sixth, as a morontia mortal. And in the seventh, the one that concerns us most, as Jesus of Nazareth, a mortal of the flesh on Urantia, living in the will of the Universal Father alone.
+
+Seven lives. Seven orders of beings. Seven perspectives earned from the inside.
+
+The Course, without naming the bestowals, captures what they produced:
+
+> "My lesson was like yours, and because I learned it I can teach it." (JCIM, Tx 4.9)
+
+His lesson was like ours because he made it like ours. He did not observe mortal life from a distance. He entered it, seven times, in seven forms, until he had experienced creation from every level. The lesson was like yours because he insisted on learning it the way you learn it: from within.
+
+The seventh bestowal, the one on our world, was the final and most difficult. On Urantia he used no supernatural power. He employed, the Urantia Book says, "no agency not a part of his human endowment." He traversed the psychic circles of mortal mind-mastery "by the force of his own decisions" and with only the aid of his indwelling Adjuster, "just such a Monitor as all normal mortals on all postbestowal-Son worlds have within their minds."
+
+The same type of Adjuster. The same force of decision. The same path.
+
+The Course confirms this from the inside:
+
+> "I completed my part in it as a man, and can now complete it through other men." (JCIM, T 4 G 15)
+
+As a man. Not as a God visiting briefly. As a man who used the same equipment available to every mortal mind.
+
+On Mount Hermon, after six weeks of solitary communion, the mortal task was finished. The Urantia Book records what happened next:
+
+> "Michael of Nebadon won the unquestioned sovereignty of his universe." (UB 134:8.9)
+
+And at the Jordan, the sovereignty was formally announced. A Constellation Father spoke:
+
+> "The sovereignty of Michael number 611,121 over his universe of Nebadon rests in completion... assume your well-earned unconditional rulership of all Nebadon." (UB 136:3.5)
+
+Well-earned. Almost a billion years of earning.
+
+And then something extraordinary. Having earned full sovereignty, having been granted all power in heaven and on earth, Jesus declined to use it. At the Transfiguration, he was offered the chance to be invested with full authority and to end his mortal life. He refused. He chose to continue as a man, to face the cross, to demonstrate the teaching to its conclusion. He was free to leave at any time. He stayed.
+
+Jesus does not describe the billion-year journey or the seven bestowals. He describes the inner reality that all of it produced:
+
+> "There is nothing about me that you cannot attain. I have nothing that does not come from God. The main difference between us as yet is that I have NOTHING ELSE." (JCIM, T 1 B 40y)
+
+Nothing you cannot attain. Not because the journey was easy, but because the means were the same means available to you: decision, will, trust, the partnership of a mortal mind with its indwelling spirit. What the Urantia Book describes in sweeping cosmic narrative, the Course distills to a single point: he decided. That is all. He decided, and the decision gave him all power.
+
+Two revelations, one story. The Urantia Book tells us what the earning looked like: seven bestowals across a billion years, culminating in a carpenter's shop and a mountain and a river. The Course tells us what the earning felt like from the inside: a decision, made fully, held completely, that aligned one will with another until they were indistinguishable.
+
+And the invitation, extended through both revelations, is the same:
+
+> "My only gift to you is to help you make the same decision FOR YOURSELF." (JCIM, T 5 D 9)
+
+---
+
+## Section 8: Closing
 
 There is one more voice to hear in this story. Not Jesus speaking. Not the Urantia Book's historians. A different voice entirely.
 

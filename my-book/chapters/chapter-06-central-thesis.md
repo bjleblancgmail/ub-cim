@@ -184,7 +184,7 @@ And here is the theological foundation that makes it possible: God moved first.
 
 And first. Before you ever sought God, God placed Himself inside you. The Adjuster arrived before you could ask for it, before you even knew what it was. The transfer is bilateral from the beginning. God did not wait for you to reach toward Him. He reached first.
 
-The Course in Miracles describes this same movement as the shift from perception to knowledge. Perception is how the earthly mind sees: partial, interpretive, filtered through fear and past experience. Knowledge is how spirit sees: direct, complete, unified with truth. The Course does not speak of the material body and the morontia soul. It speaks of the ego and the spirit, of fear and love. But the movement is identical: you must shift your identity from what is passing away to what is eternal.
+The Course in Miracles describes this same movement as the shift from perception to knowledge. Perception is how the earthly mind sees: partial, interpretive, filtered through fear and past experience. Knowledge is how spirit sees: direct, complete, unified with truth. It speaks of the ego and the spirit, of fear and love. But the movement is identical: you must shift your identity from what is passing away to what is eternal.
 
 The Course describes the endpoint of this transfer:
 

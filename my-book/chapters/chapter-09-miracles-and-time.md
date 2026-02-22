@@ -166,6 +166,8 @@ The Course says time is a learning device. The Urantia Book says it is scaffoldi
 
 Time gives us room to learn, to make mistakes, to change our minds. It gives us second chances. It lets us grow slowly enough to integrate what we learn.
 
+In short: time is real enough to cause suffering, real enough to produce eternal souls, and real enough to require the miracle, but it is not ultimately real. The paradox is that you must take it seriously enough to use it wisely, while knowing it will dissolve when you no longer need it.
+
 But miracles remind us that time is not ultimate. They are windows, glimpses, promises. They say: this is not all there is. The slow world you inhabit is surrounded by a fast world you cannot see. And one day, one day that may feel like ages from now but is already present in eternity, you will live there.
 
 Until then, be grateful for the miracles you receive, and more grateful still for the miracles you give. Every act of love shortens someone's suffering. Every extension of peace eliminates a wall. Every moment you remember that you are not separate from God, you are performing a miracle, whether you see its effects or not.

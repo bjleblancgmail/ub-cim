@@ -100,7 +100,7 @@ This is not an abstract philosophical point. You feel it daily. When someone wro
 
 The Urantia Book frames it as a contest between the adjutant mind and the Adjuster's leading. The Course frames it as a choice between the ego's voice and the Holy Spirit's voice. But the experience is the same: two interpretations of everything, demanding opposite responses, and a mind caught between them.
 
-The Course calls this the "fringe of awareness" where conflict lives. You know the feeling. It is the discomfort of seeing two things at once: the grievance and the love beneath it, the fear and the trust that would dissolve it. You cannot stay here forever. The discomfort is meant to push you toward a choice.
+There is a fringe of awareness where conflict lives. You know the feeling. It is the discomfort of seeing two things at once: the grievance and the love beneath it, the fear and the trust that would dissolve it. You cannot stay here forever. The discomfort is meant to push you toward a choice.
 
 You cannot maintain both indefinitely. Eventually a choice must be made. The unified mind is the one that has chosen, has let go of perception as the ultimate arbiter of reality and trusted knowledge instead.
 

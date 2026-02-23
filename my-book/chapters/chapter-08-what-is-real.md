@@ -34,11 +34,19 @@ The paradox is not that time is false. The paradox is that time is a womb, not a
 
 This is the shift both books call you toward: seeing time through the eyes of eternity, rather than seeing eternity through the eyes of time.
 
+The Course itself guards against taking this too far:
+
+> "The body is merely a fact in human experience. Its abilities can be and frequently are over-evaluated. However, it is almost impossible to deny its existence. Those who do so are engaging in a particularly unworthy form of denial." (ACIM OE TXT 2.C.8)
+
+Neither book asks you to pretend the material world does not exist. They ask you to see it rightly: real enough to matter, temporary enough to release.
+
 The Course in Miracles describes this shift as the purpose of the entire work:
 
 > "This is a course in mind training." (JCIM, Chapter 3, Tx 3.1)
 
-Not a course in theology. Not a course in cosmology. A course in training the mind to see differently, to choose differently, to identify differently. The Urantia Book describes the same process: the truly religious individual seeks to identify the self with the universe and then to dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman.
+Not a course in theology. Not a course in cosmology. A course in training the mind to see differently, to choose differently, to identify differently. The Urantia Book describes the same process:
+
+> "The truly religious individual seeks to identify the self with the universe and then to dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman." (UB 5:4.3)
 
 Both books are teaching the same fundamental shift. What you believe yourself to be, not the body, not the ego, not the collection of fears and desires that make up ordinary consciousness, but something larger, something eternal, determines everything that follows.
 
@@ -54,19 +62,19 @@ At first, this sounds like denial of the world. If nothing unreal exists, does t
 
 The Urantia Book offers a key to understanding:
 
-> "Nothing of survival value is ever lost in all the wide universe." (UB Paper 109, 109:3.2)
+> "The eternal real is the good of the universe and not the time illusions of space evil. In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real." (UB 102:3.15)
 
-This is the same teaching in different words. What is real, what has survival value, cannot be destroyed. It endures. The Adjuster captures it, preserves it, weaves it into your immortal soul. No force in the universe can take it from you.
+This is the same teaching in different words. What is real is what is good, and what is good is eternal. The "time illusions of space evil," the fear, the conflict, the separation, these are not real in the way that love and truth are real. They do not endure. The Adjuster captures what is real, preserves it, weaves it into your immortal soul. No force in the universe can take it from you.
 
-And what is unreal? What has no survival value? The Urantia Book is equally clear:
+And what is unreal? Jesus himself defined it. He "frequently alluded to the natural as 'the unreal and fleeting shadow of spirit realities'" (UB 151:3.3). And on his last morning with the apostles, he told Simon Zelotes:
 
-> "Much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain; much of material experience will pass away as onetime scaffolding which, having bridged you over to the morontia level, no longer serves a purpose in the universe." (UB Paper 112, 112:5.22)
+> "Seek the true realities of the spirit and cease to be attracted by unreal and material shadows." (UB 174:0.2)
 
-The scaffolding passes away. The building remains.
+Unreal and material shadows. That is Jesus' definition, in the Urantia Book, of what is not real. Not evil in some dramatic sense, but the material world seen as ultimate, the temporary mistaken for the permanent, the shadow confused with the substance.
 
-This is not a denial of experience. It is a sorting. Every moment of genuine love you have ever felt is real, it survives. Every act of courage, every insight into truth, every choice for goodness, real, preserved, eternal. But the fear, the pettiness, the distractions, the endless accumulation of things that do not matter, these pass. They were scaffolding. They helped you climb, and then they fell away.
+This is not a denial of experience. It is a sorting. Every moment of genuine love you have ever felt is real, it survives. Every act of courage, every insight into truth, every choice for goodness, real, preserved, eternal. But the fear, the pettiness, the distractions, the endless accumulation of things that do not matter, these pass. They were shadows. They seemed solid, and then the light came.
 
-The Course says nothing unreal exists. The Urantia Book says nothing of survival value is ever lost. Both are saying: what matters is safe. What does not matter will not burden you forever.
+The Course says nothing unreal exists. Jesus in the Urantia Book says: cease to be attracted by unreal and material shadows. Both are saying: what matters is safe. What does not matter will not burden you forever.
 
 This is not cold comfort. It is liberation. You do not need to protect what is already protected. You do not need to fear for what cannot be lost. The real is safe. Your task is simply to recognize it, to invest in what lasts, to release what does not.
 
@@ -110,7 +118,7 @@ If the material is shadow, what makes *you* real? Both books answer with a singl
 
 > "Only as a creature becomes God-identified, does he become truly real in the universes." (UB Paper 118, 118:7.5)
 
-You are not automatically real. You are potentially real. You become real as you identify with what is eternal, with the Adjuster, with spirit, with the values that survive.
+You are potentially real. You become real as you identify with what is eternal, with the Adjuster, with spirit, with the values that survive.
 
 Everyone identifies with something. You cannot escape it. The question is not whether you will identify, but with *what*.
 
@@ -170,11 +178,11 @@ The Course makes the stakes clear:
 
 The ego cannot partner with God. It never will. Only the Soul, the Adjuster within, can enter that partnership. This is why the choice between the two thought systems is not a preference. It is a decision about which part of you will lead.
 
-The Urantia Book confirms this:
+Jesus warned of exactly this:
 
-> "The human mind does not well stand the conflict of double allegiance. It is a severe strain on the soul to undergo the experience of an effort to serve both good and evil. The supremely happy and efficiently unified mind is the one wholly dedicated to the doing of the will of the Father in heaven." (UB Paper 133, 133:7.12)
+> "Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living." (UB 159:3.7)
 
-Wholly dedicated. Not partially. Not sometimes. The unified mind, the mind at peace, is the one that has chosen. It has stopped trying to serve two masters. It has identified with spirit and released its grip on the ego.
+The fringe of conflict. That is where you live right now: between the flesh and the spirit, between the ego's voice and the Adjuster's leading. The unified mind, the mind at peace, is the one that has crossed that fringe. It has stopped trying to serve two masters. It has identified with spirit and released its grip on the ego.
 
 The ego is the collection of temporary identities, the masks, the defenses, the stories you tell about yourself. None of it survives. When you identify with the ego, you are identifying with what will pass away. No wonder fear follows.
 
@@ -232,9 +240,9 @@ Here is the mercy: the conflict between the two thought systems is temporary. It
 
 The Urantia Book names it directly:
 
-> "Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living." (UB Paper 159, 159:3.7)
+> "The human mind does not well stand the conflict of double allegiance. It is a severe strain on the soul to undergo the experience of an effort to serve both good and evil. The supremely happy and efficiently unified mind is the one wholly dedicated to the doing of the will of the Father in heaven." (UB 133:7.12)
 
-The fringe of conflict. You are passing through it. Everyone who makes this journey passes through it. Those who live "quite wholly" in the material realm, identified entirely with the body, unaware of spirit, experience little conflict because they have not begun the transition. Those who live "quite wholly" in the spiritual realm, the fused beings, the ascended mortals, experience little conflict because they have completed it.
+Double allegiance. That is the source of the strain. You cannot serve both the ego and the spirit without tearing yourself apart. Those who live wholly in the material realm feel no conflict because they have not begun the transition. Those who live wholly in the spirit feel no conflict because they have completed it.
 
 But you are in between. You have begun to awaken. You have glimpsed something beyond the material. And now you experience the tension of two worlds pulling at you.
 

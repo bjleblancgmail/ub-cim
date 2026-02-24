@@ -28,7 +28,7 @@ Miracles, the shifts in perception that the Course teaches, do not merely help i
 
 And the Course teaches that the Sonship is not yet complete:
 
-> "The Sonship in its oneness does transcend the sum of its parts. However, this is obscured as long as any of its parts are missing. That is why the conflict cannot ultimately be resolved until all the parts of the Sonship have returned."
+> "The Sonship in its oneness does transcend the sum of its parts. However, this is obscured as long as any of its parts are missing. That is why the conflict cannot ultimately be resolved until all the parts of the Sonship have returned. Only then can the meaning of wholeness, in the true sense, be fully understood."
 
 The parts are missing, not lost, but missing from awareness. Souls who have forgotten what they are, who believe themselves alone, who have not yet returned to the knowledge of their place in the whole. Until every part returns, the whole remains incomplete.
 
@@ -70,13 +70,21 @@ That is when the Sonship knows itself as whole.
 
 A symphony is more than the sum of individual notes. Something emerges from the combination that no single instrument could produce alone. Both books describe a reality like this.
 
-The Course says miracles "depend on cooperation because the Sonship is the sum of all the souls God created." The Urantia Book calls the Supreme "the synthetic cumulative total of all grand universe evolution." The sum of all souls. The cumulative total of all evolution. A living whole that includes every creature, every choice, every step of growth ever taken.
+The Course says miracles "depend on cooperation because the Sonship is the sum of all the souls God created." The Urantia Book describes this same idea from the cosmic side:
+
+> "The parts and individuals of the grand universe evolve as a reflection of the total evolution of the Supreme, while in turn the Supreme is the synthetic cumulative total of all grand universe evolution."
+
+The sum of all souls. The cumulative total of all evolution. A living whole that includes every creature, every choice, every step of growth ever taken.
 
 But the whole does more than gather the parts. The Course teaches that "the Sonship in its oneness does transcend the sum of its parts." It is not addition. It is emergence. Something new comes into being when the parts join, something none of them could have been separately.
 
 And this emergence is not yet finished. As the Course continues: "This is obscured as long as any of its parts are missing. That is why the conflict cannot ultimately be resolved until all the parts of the Sonship have returned."
 
-The Urantia Book confirms the same unfinished quality from the cosmic side. No single ascender will ever find the Supreme until all ascenders have reached the maturity that qualifies them simultaneously to participate in this discovery. The symphony cannot be heard until all the instruments play.
+The Urantia Book confirms the same unfinished quality from the cosmic side:
+
+> "But no single ascender will ever find the Supreme until all ascenders have reached that maximum universe maturity which qualifies them simultaneously to participate in this discovery."
+
+The symphony cannot be heard until all the instruments play.
 
 No one hears it alone. No one discovers the Supreme in isolation. No one knows the Sonship as complete until every part has returned.
 

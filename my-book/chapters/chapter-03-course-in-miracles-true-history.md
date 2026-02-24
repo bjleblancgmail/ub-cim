@@ -57,7 +57,7 @@ After the HLC was completed, Bill disengaged from further editing. His work was 
 
 Ken Wapnick then convinced Helen that the text needed further editing. Unlike the original collaboration, where Helen and Bill had edited with Jesus' permission and guidance, this new round of editing was Wapnick's initiative. Helen, by some accounts exhausted and worn down from the years of scribing, went along with the process.
 
-Working from the already-abridged HLC, Wapnick and Helen removed an additional 10,000 words. Significant portions of the first five chapters were cut or rewritten. The introduction was rewritten. Material that connected the Course to broader spiritual concepts was trimmed. The result was a leaner, more focused text, but also a text that had lost important context at two stages of editing. Jesus himself had warned against this, saying that "some of the later parts of the course rest too heavily on these earlier sections not to require their study." These were the very sections most heavily cut by the Foundation for Inner Peace.
+Working from the already-abridged HLC, Wapnick and Helen removed an additional 10,000 words. Significant portions of the first five chapters were cut or rewritten. The introduction was rewritten. Material that connected the Course to broader spiritual concepts was trimmed. The result was a leaner, more focused text, but also a text that had lost important context at two stages of editing. Jesus himself had warned against this, saying that "some of the later parts of the course rest too heavily on these earlier sections not to require their study." These were the very sections most heavily edited by the Foundation for Inner Peace.
 
 In 1975-76, the Foundation for Inner Peace published what became the standard edition. This is what most people mean when they say "A Course in Miracles." For decades, it was the only version widely available. The earlier versions existed outside the control of those preparing the published edition, waiting to be rediscovered.
 
@@ -81,7 +81,7 @@ In the original text of A Course in Miracles, Jesus makes a direct statement abo
 
 > "This is a course in mind training. All learning involves attention and study at some level. Some of the later parts of the course rest too heavily on these earlier sections not to require their study. You will also need them for preparation. Without this, you may become much too fearful when the unexpected does occur to make constructive use of it. However, as you study these earlier sections, you will begin to see some of their implications, which will be amplified considerably later on."
 
-These earlier sections, the very ones Jesus said were necessary for understanding the later parts of the Course, were cut by the Foundation for Inner Peace.
+These earlier sections, the very ones Jesus said were necessary for understanding the later parts of the Course, were heavily edited by the Foundation for Inner Peace.
 
 This creates a problem. Readers of the FIP edition are missing material that Jesus said they would need. Without this preparation, the later teachings can be misunderstood.
 

@@ -22,7 +22,17 @@ And The Urantia Book says again:
 
 Almost entirely unreal. A shadow. The Urantia Book means this literally. Spirit perceives matter as fleeting, insubstantial, passing.
 
-The Course in Miracles reaches for the same truth:
+The author of these words then offers a startling personal confession:
+
+> "I cannot, with exclusive spirit vision, perceive the building in which this narrative is being translated and recorded. A Divine Counselor from Uversa who chances to stand by my side perceives still less of these purely material creations. This material building is not exactly real to me, a spirit being, but it is, of course, very real and very serviceable to material mortals." (UB 44:0.16)
+
+Consider what this means. A celestial being is standing in the room where the Urantia Book is being produced, and he cannot see the room. A Divine Counselor, one of the highest beings in the superuniverse, perceives even less. From the eternal perspective, the material world is not denied; it simply does not register. Spirit is what is real. Matter is what is fleeting.
+
+The Course in Miracles describes the same blindness from the other side:
+
+> "The inappropriate emphasis men have put on beautiful church buildings is a sign of their fear of Atonement and their unwillingness to reach the altar itself. The real beauty of the temple cannot be seen with the physical eye. The spiritual eye, on the other hand, cannot see the building at all because it has perfect sight. It can, however, see the altar with perfect clarity."
+
+Two witnesses saying the same thing. The Urantia Book's celestial author cannot see the material building. The Course's spiritual eye cannot see it either. Not because spirit is blind, but because spirit sees what is real, and material structures are not it. The physical eye sees the building and misses the altar. The spiritual eye sees the altar and misses the building. What you see depends on which eyes you are using.
 
 > "Then try to go past all the unreal thoughts that cover the truth in your mind, and reach to the eternal." (JCIM, Workbook Lesson 45, W1 45.8)
 
@@ -200,41 +210,7 @@ Your creations, your acts of love, your moments of truth, your choices for goodn
 
 ---
 
-## Section 6: What Makes You Unreal
-
-If identification with spirit makes you real, what makes you unreal? The same principle in reverse: identification with what does not last.
-
-The Course in Miracles describes a sorting:
-
-> "Whatever is in accord with this light, He retains to strengthen the Kingdom in you. What is partly in accord with truth, He accepts and purifies. But what is out of accord entirely, He rejects by judging against." (JCIM, Chapter 6, Tx 6.82)
-
-Three categories. What is fully aligned with truth, retained. What is partly aligned, accepted and purified. What is entirely out of accord, rejected.
-
-This is not punishment. It is simply what happens. What has no survival value cannot survive. The Urantia Book says the same:
-
-> "Much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain." (UB Paper 112, 112:5.22)
-
-Perish. Not taken from you, simply unable to continue. The petty grudges, the anxious accumulations, the hours spent defending an image of yourself that was never real, these do not survive because they have nothing in them that *can* survive. They were not evil, necessarily. They were empty.
-
-The ego is the sum of these empty identifications. The Course defines it starkly:
-
-> "The ego is the belief of the mind that it is completely on its own." (JCIM, Chapter 4, Tx 4.33)
-
-Completely on its own. Separate from God, separate from others, separate from the source of all reality. This belief, this identification with isolation, is what makes you unreal. Not because God rejects you, but because isolation is an illusion. You cannot actually be separate from the source of your existence. You can only believe you are.
-
-And belief shapes experience. When you identify with the ego, you experience fear, scarcity, defensiveness. You protect what cannot be protected. You grasp at what cannot be held. You build a self out of sand and wonder why it keeps washing away.
-
-But here is the mercy: most of what is "out of accord" in you is not your deepest self. It is scaffolding. It is the fears you accumulated, the defenses you built, the small self you constructed to navigate a confusing world. These will fall away, not as punishment, but as relief. You will not miss them. They were never really you.
-
-What is "partly in accord with truth," the Course says, is "accepted and purified." This is grace. Your imperfect love is still love. Your stumbling toward goodness still counts. The Adjuster does not demand perfection. It works with what you give it, purifying, refining, keeping whatever spark of the eternal was there.
-
-You are not asked to be flawless. You are asked to turn toward the light, even imperfectly, even hesitantly. What is out of accord will fall away. What is partly in accord will be purified. What is fully in accord will shine forever.
-
-The question is not whether you have done enough. The question is: which direction are you facing?
-
----
-
-## Section 7: The Fringe of Conflict
+## Section 6: The Fringe of Conflict
 
 Here is the mercy: the conflict between the two thought systems is temporary. It is a transition zone, not a permanent condition.
 

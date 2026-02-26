@@ -14,7 +14,7 @@ The Course in Miracles makes a distinction that runs through its entire teaching
 
 This is the journey. From perception, the way you see now, to knowledge: the way things actually are.
 
-The Urantia Book charts the same passage. What the Course calls perception corresponds to the realm of the seven adjutant mind-spirits, the evolutionary mind oriented toward the body and its survival. What the Course calls knowledge corresponds to morontia and spirit reality, the realm where the Adjuster dwells.
+The Urantia Book charts the same passage. What the Course calls perception corresponds to the realm of the seven adjutant mind-spirits, the human mind, the evolutionary mind oriented toward the body and its survival. What the Course calls knowledge corresponds to morontia and spirit reality, the transitional and higher realms that lie beyond material existence, where the Thought Adjuster dwells. The Adjuster is what the Course calls the Soul, the fragment of God the Father that indwells every morally choosing mind, carrying with it direct knowledge of divinity.
 
 Two levels of mind. Two ways of knowing. And a bridge between them.
 

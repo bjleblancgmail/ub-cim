@@ -1,36 +1,16 @@
-# Chapter 1: Introduction
+# Chapter 1: Two Revelations, One Path
 
 **STATUS: DRAFT**
 
-For over two thousand years, Jesus' message has slumbered within the cocoon of the Christian church. The church preserved what it could, but something larger was always waiting to emerge. Now is the time for a greater revelation about his message and the world we live in.
-
-Consider two publications that arrived within the last seventy years. *The Urantia Book*, published in 1955, and *A Course in Miracles*, scribed beginning in 1965 and published in 1975. Each arrived quietly, passed from hand to hand by readers who recognized something profound. Both claim nonhuman authorship. One has multiple celestial authors. The other has one: Jesus. Today, millions study one or both, but rarely together.
-
-Is it a coincidence that these two books appeared twenty years apart? One offering the architecture of the universe, the other a daily curriculum for the mind? One describing the destination, the other teaching how to walk there?
-
-Perhaps this is no coincidence. Perhaps the powers above are challenging us to connect the dots.
-
-This book brings them into conversation.
-
-If this comparison makes you uneasy, consider what Jesus said to a restless crowd in the Capernaum synagogue: "The truth never suffers from honest examination." (UB 153:2.11)
-
-And to his apostles, after engaging with a Greek philosopher whose ideas challenged their beliefs:
-
-> "True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one's belief. No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe. Sincere men are unafraid of the critical examination of their true convictions and noble ideals." (UB 146:3.2)
-
-This book examines both texts honestly. If what these books teach is true, and both communities believe it is, then bringing them into conversation can only deepen understanding, not threaten it.
-
----
-
-Consider these passages. The Urantia Book teaches:
+The Urantia Book teaches:
 
 > "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
 
-And A Course in Miracles puts it this way:
+A Course in Miracles puts it this way:
 
 > "The miracle itself is just this fusion or union of will between Father and son."
 
-Different books. Same teaching. This pattern repeats throughout both texts, sometimes in striking parallel language, sometimes in concepts that require translation. But the unity is there for those who look.
+Different books. Same teaching. This pattern repeats throughout both texts, sometimes in striking parallel language, sometimes in concepts that require translation. But the unity is there for those who look. This book places these two revelations side by side and listens for the harmony between them. What emerges is an expanded understanding of each: insights that remain hidden when either book is studied alone.
 
 ---
 
@@ -165,7 +145,5 @@ Read it straight through, or dip into the themes that call to you. Keep both boo
 Adjuster fusion is a moon shot. But first comes theory, then practice. First you need a goal to aim for.
 
 These are lofty goals. But the goal itself matters. Aiming for it changes everything. May this book inspire a community to explore this moon shot: taking humanity to another level of awareness.
-
-Help prepare the world for the next epoch. Discover what Jesus and his celestial government are planning. Two books, given within a generation, studied apart for seventy years. Now, finally, in conversation.
 
 The path is open. You are welcome to walk it.

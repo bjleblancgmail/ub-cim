@@ -15,13 +15,24 @@
 
 ---
 
+## Introduction
+- Two books, two readerships, one question
+- Is the Jesus of A Course in Miracles the same Jesus of the Urantia Book?
+- Brief backstory on both texts for newcomers
+- What this book investigates
+- **FILE:** introduction.md
+
+---
+
 ## Part 1: Why These Two Books
 
-### Chapter 1: Introduction
+### Chapter 1: Two Revelations, One Path
 - Jesus preparing us for a revival
 - Two revelations in 50 years (UB 1955, CIM 1973)
-- The author's 40-year journey with both texts
-- What this study guide offers
+- Two communities, one path
+- The map and the walking
+- The central thesis and invitation
+- **FILE:** chapter-01-two-revelations-one-path.md
 - **SOURCE:** UrantiaCourseStory.pdf (opening section)
 
 ### Chapter 2: The Urantia Book - An Overview

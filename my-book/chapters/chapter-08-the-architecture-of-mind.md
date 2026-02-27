@@ -1,4 +1,4 @@
-# Chapter 10: The Architecture of Mind
+# Chapter 8: The Architecture of Mind
 
 **STATUS: DRAFT**
 

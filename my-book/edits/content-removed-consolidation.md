@@ -309,3 +309,61 @@ Adjuster fusion is a moon shot. But first comes theory, then practice. First you
 These are lofty goals. But the goal itself matters. Aiming for it changes everything. May this book inspire a community to explore this moon shot: taking humanity to another level of awareness.
 
 The path is open. You are welcome to walk it.
+
+---
+
+## From Old Chapter 2: The Urantia Book Overview (combined into new Ch 2)
+
+### Section 5: Key Themes Relevant to Course Study (entire section cut, each topic has its own chapter)
+
+For readers approaching the Urantia Book as a companion to the Course, certain themes deserve special attention:
+
+**The Thought Adjuster.** The Urantia Book teaches that a fragment of God, called the Thought Adjuster or Divine Monitor, indwells every normal human mind. This is what the Course calls the "soul," the indestructible center of your being. The Adjuster is also referred to as the "altar" in Course terminology. Understanding the Adjuster illuminates everything the Course says about your divine core. The Course confirms the indwelling in its own language:
+
+> "God created every mind by communicating His Mind to it, thus establishing it forever as a channel for the reception of His Mind and Will." (acim oe txt 4.VIII.97)
+
+**Fusion.** The destiny of mortal ascension is fusion with the Adjuster, the permanent union of your evolving identity with the divine fragment. This is what the Course is teaching you to achieve. The Urantia Book describes the mechanics; the Course provides the practice. And the Course celebrates this union directly:
+
+> "Oh come ye faithful, to the holy union of the Father and Son in you!" (acim oe txt 19.IVb.66)
+
+The union of Father and Son does not happen somewhere else. It happens in you.
+
+**The Ascension Path.** After death, survivors continue their education through a series of training worlds: the mansion worlds, the constellation spheres, the local universe capitals, and eventually Paradise itself. The Course focuses on this earthly life; the Urantia Book shows what comes after. But neither book leaves any doubt about the destination. The Course puts it simply:
+
+> "This is a required course. Only the time you take it is voluntary." (acim oe txt intro.1)
+
+The journey toward fusion does not end with this life. It continues until it is complete.
+
+**The Lucifer Rebellion and the Adamic Default.** The confusion of our world is not natural. Our planet was disrupted by celestial rebellion and isolated from normal spiritual administration. The subsequent failure of the Adamic mission compounded the damage. The Urantia Book provides the full account. The Course addresses the same events in its own language:
+
+> "When the 'lies of the serpent' were introduced, they were specifically called 'lies' because they are not true. When man listened, all he heard was untruth. He does not have to continue to believe what is not true unless he chooses to do so. All of his miscreations can literally disappear in 'the twinkling of an eye' because they are merely visual misperceptions. Man's Spiritual eye can sleep, but a sleeping eye can still see. What is seen in dreams seems to be very real. The Bible mentions that 'a deep sleep fell upon Adam,' and nowhere is there any reference to his waking up." (acim oe txt 2.I.13)
+
+The lies of the serpent are the lies of the Lucifer rebellion. Adam's sleep is the Adamic default. And we have not yet woken up. Understanding this context explains why the Course was necessary and what it is correcting.
+
+**Jesus' Actual Life.** Part IV of the Urantia Book reveals the Jesus who speaks in the Course. Reading his life in detail, his struggles, his decisions, his relationship with his Adjuster, makes the Course's teachings more personal and more practical.
+
+---
+
+## From Old Chapter 4: Epochal vs Personal Revelation (combined into new Ch 2)
+
+### Section 5: The Task of Mapping (entire section cut, Ch 3/Terminology Bridge handles this)
+
+Because the Course came through Helen's vocabulary and the Urantia Book came through celestial authors, the two texts use different terminology for similar concepts. This creates a task for readers: mapping the terms.
+
+The Course speaks of the "Sonship"; the Urantia Book describes "God the Supreme." The Course references the "soul"; the Urantia Book calls this the "Thought Adjuster." The Course discusses "perception" and "knowledge"; the Urantia Book distinguishes "adjutant mind" from "superconscious" levels.
+
+These are not contradictions. They are translation differences. The underlying realities are the same; the words used to describe them differ because the channels differed.
+
+This study guide exists to help with this mapping. When the Course uses a term, we identify the corresponding Urantia Book concept. When the Urantia Book describes a reality, we show how the Course addresses it. The goal is not to force artificial harmony but to reveal genuine correspondence. This mapping is a work in progress and may require further clarification or editing as understanding deepens.
+
+### Section 6: Strengths and Limitations (cut, folded briefly into new Ch 2 Sec 7)
+
+Each type of revelation has strengths the other lacks.
+
+Epochal revelation provides precision. The Urantia Book can describe the structure of the universe, the hierarchy of celestial beings, the mechanics of survival and ascension. It can use technical terminology consistently across two thousand pages. It can present a comprehensive cosmology.
+
+Personal revelation provides intimacy. The Course speaks directly to the human heart. It addresses our fears, our resistances, our daily struggles. It provides practical exercises. It meets us where we are.
+
+Epochal revelation risks becoming merely intellectual: vast knowledge without personal application. Personal revelation risks becoming ungrounded: beautiful teachings without cosmic context.
+
+Together, they correct each other's limitations. The Urantia Book tells you what is real. The Course trains you to experience it. The map and the journey need each other.

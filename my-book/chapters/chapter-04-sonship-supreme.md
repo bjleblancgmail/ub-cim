@@ -1,4 +1,4 @@
-# Chapter 6: The Sonship / God the Supreme
+# Chapter 4: The Sonship / God the Supreme
 
 **STATUS: DRAFT**
 

@@ -14,21 +14,18 @@
 | Ch | Title | Status | Words (est.) |
 |----|-------|--------|-------------|
 | Intro | Introduction | unchanged | ~1,035 |
-| 1 | The Central Thesis: A Course in Adjuster Fusion | **PROMOTED from Ch 6; "Map/Walking" + "Even Jesus" folded in** | ~7,100 |
-| ~~1~~ | ~~Two Revelations, One Path~~ | **DELETED (best pieces folded into new Ch 1)** | -- |
-| 2 | The Urantia Book Overview | unchanged | ~1,658 |
-| 3 | Course in Miracles True History | unchanged (has pending fixes) | ~2,152 |
-| 4 | Epochal vs Personal Revelation | unchanged | ~1,376 |
-| 5 | Terminology Bridge | trimmed; cross-refs updated (Ch 7→6, Ch 11→10) | ~3,368 |
-| 6 | The Sonship / God the Supreme | **RENUMBERED from Ch 7; cross-ref updated (Ch 6→1)** | ~2,711 |
-| 7 | What Is Real | **RENUMBERED from Ch 8** | ~5,093 |
-| 8 | Miracles and Time | **RENUMBERED from Ch 9** | ~2,828 |
-| 9 | Forgiveness: Mercy vs Love | **RENUMBERED from Ch 10** | ~2,043 |
-| 10 | The Architecture of Mind | **RENUMBERED from Ch 11** | ~4,037 |
-| 11 | The Lucifer Rebellion and Why We Suffer | **RENUMBERED from Ch 12** | ~2,169 |
-| 12 | The Atonement and the Crucifixion | **RENUMBERED from Ch 13** | ~1,639 |
-| 13 | From Here to Paradise | **RENUMBERED from Ch 14** | ~1,762 |
-| 14 | The Jesus Both Books Reveal | **RENUMBERED from Ch 15; cross-refs updated (Ch 6→1, Ch 12→11)** | ~7,940 |
+| 1 | The Central Thesis: A Course in Adjuster Fusion | promoted from old Ch 6 | ~7,073 |
+| 2 | The Two Revelations | **COMBINED from old Ch 2+3+4; Wapnick softened** | ~3,200 |
+| 3 | The Terminology Bridge | **RENUMBERED from Ch 5; cross-refs updated** | ~3,368 |
+| 4 | The Sonship / God the Supreme | **RENUMBERED from Ch 6** | ~2,711 |
+| 5 | What Is Real | **RENUMBERED from Ch 7** | ~5,093 |
+| 6 | Miracles and Time | **RENUMBERED from Ch 8** | ~2,828 |
+| 7 | Forgiveness: Mercy vs Love | **RENUMBERED from Ch 9** | ~2,043 |
+| 8 | The Architecture of Mind | **RENUMBERED from Ch 10** | ~4,037 |
+| 9 | The Lucifer Rebellion and Why We Suffer | **RENUMBERED from Ch 11** | ~2,169 |
+| 10 | The Atonement and the Crucifixion | **RENUMBERED from Ch 12** | ~1,639 |
+| 11 | From Here to Paradise | **RENUMBERED from Ch 13** | ~1,762 |
+| 12 | The Jesus Both Books Reveal | **RENUMBERED from Ch 14; cross-refs updated** | ~7,940 |
 | App A | Terminology Mapping | unchanged | ~1,894 |
 | App B | Parallels | unchanged | ~10,372 |
 | App C | Miracle Principles | unchanged | ~6,193 |
@@ -98,19 +95,19 @@
 | 1 | Cut repetition (15,000-20,000 words) | IN PROGRESS | Ch 7-13 consolidation is the first major cut |
 | 2 | Add Part divisions | NOT STARTED | |
 | 3 | Move thesis earlier | COMPLETE | Added to Introduction after the central question |
-| 4 | Consolidate overlapping chapters | IN PROGRESS | Ch 11/12 merge drafted; Ch 8/13 merge planned |
+| 4 | Consolidate overlapping chapters | COMPLETE | Ch 7-13 merged, Ch 1-6 restructured, Ch 2-4 combined; 17→12 chapters |
 | 5 | Choose a title | COMPLETE | "Across the Revelation Bridge" |
-| 6 | Soften Ch 3 editing history | NOT STARTED | |
+| 6 | Soften Ch 3 editing history | COMPLETE | Ch 3 absorbed into new Ch 2; Wapnick language softened |
 | 7 | Address Soul/Adjuster mapping objection | NOT STARTED | |
 | 8 | Vary chapter endings | NOT STARTED | |
-| 9 | Fix pending items from citation audit | NOT STARTED | Ch3 line 110 HLC ref, Ch8 section renumbering, App C quote verification |
+| 9 | Fix pending items from citation audit | NOT STARTED | Old Ch3 HLC ref now resolved (chapter rewritten), App C quote verification |
 | 10 | Professional copyedit | NOT STARTED | Final step before publication |
 
 ---
 
 ## Pending Fixes (Carried from Previous Sessions)
 
-- [ ] Ch 3 line 110: still says "Hugh Lynn Cayce (HLC) version" (all quotes are now OE)
+- [x] Ch 3 line 110: HLC reference resolved (old Ch 3 absorbed into new Ch 2, rewritten)
 - [x] Ch 8: section renumbering complete (now Sec 1-8 after Ch 13 absorption)
 - [ ] Appendix C: verify quote TEXT matches OE (italics may need adding)
 
@@ -173,7 +170,18 @@
 - Recorded all cut content from old Ch 1 in content-removed-consolidation.md
 - Archives saved: chapter-01-two-revelations-one-path-PRE-RESTRUCTURE.md, chapter-06-central-thesis-PRE-RESTRUCTURE.md
 - **Book now has 14 chapters** (down from 15)
-- **Next:** Remaining publisher review items (Part divisions, soften Ch 3, Soul/Adjuster objection, vary endings, pending fixes)
+
+### 2026-02-27 Session 6 (continued)
+- **Combined Ch 2+3+4** into new Ch 2 "The Two Revelations" (~3,200 words)
+- Softened Wapnick section: removed "convinced Helen" and "exhausted and worn down" language
+- Deleted old Ch 3 (ACIM True History) and old Ch 4 (Epochal vs Personal) as standalone chapters
+- Cut: Ch 2 Sec 5 (Key Themes preview), Ch 4 Sec 5 (Task of Mapping), Ch 4 Sec 6 (Strengths/Limitations), duplicate closing paragraphs
+- Renumbered Ch 5-14 to Ch 3-12 (10 files renamed, 10 headers updated)
+- Updated 5 cross-references across Ch 3 and Ch 12
+- Draft saved at: `my-book/edits/chapter-02-combined-draft.md`
+- Archives saved: chapter-02/03/04-PRE-COMBINE.md
+- **Book now has 12 chapters** (down from 14)
+- **Next:** Remaining publisher review items (Part divisions, Soul/Adjuster objection, vary endings, pending fixes)
 
 ---
 

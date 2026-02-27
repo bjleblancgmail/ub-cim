@@ -1,4 +1,4 @@
-# Chapter 5: The Terminology Bridge
+# Chapter 3: The Terminology Bridge
 
 **STATUS: DRAFT**
 
@@ -70,13 +70,13 @@ The Urantia Book describes God the Supreme in remarkably similar terms. The Supr
 
 The Sonship is our best understanding of who God is. All concepts beyond this temporal God are attempts to explain the unexplainable in terms of our own limited temporal language.
 
-When the Course speaks of our relationship to the Sonship, it is describing our relationship to the Supreme. Your growth matters not just to you but to the whole. Your brother's awakening matters to you because the Sonship cannot know itself as complete until every part returns. When it says we contribute to the Sonship, it means we contribute to the growth of the Supreme. Chapter 6 explores this connection in detail.
+When the Course speaks of our relationship to the Sonship, it is describing our relationship to the Supreme. Your growth matters not just to you but to the whole. Your brother's awakening matters to you because the Sonship cannot know itself as complete until every part returns. When it says we contribute to the Sonship, it means we contribute to the growth of the Supreme. Chapter 4 explores this connection in detail.
 
 **4. Perception = Adjutant mind, temporal levels**
 
 The Course draws a sharp line between perception and knowledge. Perception is the realm of interpretation, where things can be seen truly or falsely. Knowledge is certain, eternal, beyond doubt.
 
-What the Course calls perception corresponds to the adjutant mind, the seven mind-spirit circuits that operate in evolutionary creatures. The adjutant mind is a gift, part of God's provision for developing creatures, but it is neutral territory: it can serve the ego's agenda of separation and fear, or it can be aligned with the Holy Spirit's purpose of healing and return. Chapter 10 explores the full architecture of mind and the journey from perception to knowledge.
+What the Course calls perception corresponds to the adjutant mind, the seven mind-spirit circuits that operate in evolutionary creatures. The adjutant mind is a gift, part of God's provision for developing creatures, but it is neutral territory: it can serve the ego's agenda of separation and fear, or it can be aligned with the Holy Spirit's purpose of healing and return. Chapter 8 explores the full architecture of mind and the journey from perception to knowledge.
 
 **5. Knowledge = Absolute level, Adjuster perspective**
 
@@ -126,7 +126,7 @@ Christ-guidance. The Spirit of Truth. Two names for one reality: Jesus, still te
 
 The ego lives within the adjutant mind but is not the adjutant mind itself. The ego is the self-concept that the adjutant mind constructs. The Course defines it: "The ego is a man-made attempt to perceive himself as he wished to be rather than as he is." (acim oe txt 3.VI.40)
 
-On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion. The Course corrects what should have been taught from the beginning. Chapter 10 examines how the ego operates within the architecture of mind.
+On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion. The Course corrects what should have been taught from the beginning. Chapter 8 examines how the ego operates within the architecture of mind.
 
 **Note on the Spirit of Truth:** The Urantia Book clearly distinguishes between the Holy Spirit (the ministry of the Divine Minister/Creative Spirit of the local universe) and the Spirit of Truth (poured out by Jesus after his resurrection). Several passages in the Course reveal this same distinction.
 

@@ -1,4 +1,4 @@
-# Chapter 8: What Is Real? Identification and the Eternal Perspective
+# Chapter 7: What Is Real? Identification and the Eternal Perspective
 
 **STATUS: DRAFT**
 

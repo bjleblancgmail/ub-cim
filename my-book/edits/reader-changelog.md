@@ -54,32 +54,48 @@ This revision focuses on structural consolidation. Chapters with overlapping con
 
 ### Chapter 5: Terminology Bridge (trimmed)
 - **Reduced from ~6,000 to ~3,400 words**
-- Trimmed three mappings (Perception, Knowledge, Ego) that overlapped with Chapter 11
-- Core correspondences kept; detailed explanations now live in Chapter 11
-- Forward references added to point readers to Chapter 11
+- Trimmed three mappings (Perception, Knowledge, Ego) that overlapped with Chapter 10 (was Ch 11)
+- Core correspondences kept; detailed explanations now live in Chapter 10
+- Forward references updated
+
+### Chapter 1: The Central Thesis (PROMOTED from Ch 6)
+- Former Chapter 6 is now Chapter 1, putting the book's central argument up front
+- "The Map and the Walking" metaphor folded in from old Chapter 1 (Section 1)
+- "Even Jesus Made the Journey" folded in from old Chapter 1 (Section 11, Closing)
+- ~7,100 words
+
+### Chapter 1: Two Revelations, One Path (DELETED)
+- Former Chapter 1 deleted as standalone chapter
+- Best content ("Map and Walking," "Even Jesus") moved to new Chapter 1
+- Remaining content (community tensions, "Why Two Revelations," "Word About Words," "How This Book Works," "An Invitation") cut as redundant with Introduction or new Chapter 1
+
+### Chapters 7-15: Renumbered to 6-14
+- Chapter 7 (Sonship / Supreme) → **Chapter 6**
+- Chapter 8 (What Is Real) → **Chapter 7**
+- Chapter 9 (Miracles and Time) → **Chapter 8**
+- Chapter 10 (Forgiveness) → **Chapter 9**
+- Chapter 11 (Architecture of Mind) → **Chapter 10**
+- Chapter 12 (Lucifer Rebellion) → **Chapter 11**
+- Chapter 13 (Atonement and Crucifixion) → **Chapter 12**
+- Chapter 14 (From Here to Paradise) → **Chapter 13**
+- Chapter 15 (The Jesus Both Books Reveal) → **Chapter 14**
+- Internal cross-references updated accordingly
 
 ## Chapters Unchanged in This Revision
 
 - Introduction
-- Chapter 1: Two Revelations, One Path
 - Chapter 2: The Urantia Book Overview
 - Chapter 3: Course in Miracles True History
 - Chapter 4: Epochal vs Personal Revelation
-- Chapter 5: Terminology Bridge
-- Chapter 6: Central Thesis
-- Chapter 7: The Sonship / God the Supreme
-- Chapter 9: Miracles and Time
-- Chapter 10: Forgiveness: Mercy vs Love
-- Chapter 12: Lucifer Rebellion (was Ch 14)
-- Chapter 13: The Atonement and the Crucifixion (was Ch 15)
-- Chapter 14: From Here to Paradise (was Ch 16)
-- Chapter 15: The Jesus Both Books Reveal (was Ch 17, "My Lesson Was Like Yours")
+- Chapter 12: The Atonement and the Crucifixion
+- Chapter 13: From Here to Paradise
+- Chapter 14: The Jesus Both Books Reveal
 - Appendices A, B, C
 
 ---
 
 ## Why These Changes Were Made
 
-A publisher-level review (Feb 2026) identified repetition as the manuscript's most serious structural problem. The same concepts (two thought systems, adjutant mind framework, what an Adjuster is) appeared across four chapters. This revision consolidates that material so each chapter covers distinct territory without restating what other chapters already said.
+A publisher-level review (Feb 2026) identified repetition as the manuscript's most serious structural problem. The same concepts (two thought systems, adjutant mind framework, what an Adjuster is) appeared across four chapters. This revision consolidates that material so each chapter covers distinct territory without restating what other chapters already said. The thesis chapter was also promoted to Chapter 1 so readers encounter the book's central claim immediately.
 
 The goal: every chapter advances the argument. No chapter restates it.

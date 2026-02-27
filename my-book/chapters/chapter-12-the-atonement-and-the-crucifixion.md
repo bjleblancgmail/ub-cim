@@ -1,4 +1,4 @@
-# Chapter 13: The Atonement and the Crucifixion
+# Chapter 12: The Atonement and the Crucifixion
 
 **STATUS: COMPLETE**
 

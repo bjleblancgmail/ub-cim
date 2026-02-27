@@ -13,27 +13,25 @@
 
 | Ch | Title | Status | Words (est.) |
 |----|-------|--------|-------------|
-| Intro | Introduction | unchanged | ~3,000 |
-| 1 | Two Revelations, One Path | unchanged | ~5,000 |
-| 2 | The Urantia Book Overview | unchanged | ~6,000 |
-| 3 | Course in Miracles True History | unchanged (has pending fixes) | ~7,000 |
-| 4 | Epochal vs Personal Revelation | unchanged | ~5,000 |
-| 5 | Terminology Bridge | **TRIMMED: adjutant/ego/knowledge detail moved to Ch 11** | ~3,400 |
-| 6 | Central Thesis | unchanged | ~11,000 |
-| 7 | Sonship / Supreme | unchanged | ~5,500 |
-| 8 | What Is Real | **COMPLETE: trimmed + Ch 13 absorbed as Sec 5** | ~5,900 |
-| 9 | Miracles and Time | unchanged | ~5,000 |
-| 10 | Forgiveness: Mercy vs Love | unchanged (keep as-is per review) | ~4,000 |
-| 11 | The Architecture of Mind | **COMPLETE: merged from Ch 11+12+Ch8 sections** | ~6,300 |
-| 12 | ~~Architecture of Mind~~ | **DELETED (absorbed into new Ch 11)** | -- |
-| 13 | ~~Fear vs Love~~ | **DELETED (core content absorbed into Ch 8 Sec 5)** | -- |
-| 12 | Lucifer Rebellion | **RENUMBERED from Ch 14** | ~5,000 |
-| 13 | Atonement and the Crucifixion | **RENUMBERED from Ch 15** | ~2,500 |
-| 14 | From Here to Paradise | **RENUMBERED from Ch 16** | ~4,000 |
-| 15 | The Jesus Both Books Reveal | **RENUMBERED from Ch 17; retitled; cross-refs updated** | ~12,000 |
-| App A | Terminology Mapping | unchanged | ~3,000 |
-| App B | Parallels | unchanged | ~15,000 |
-| App C | Miracle Principles | unchanged | ~10,000 |
+| Intro | Introduction | unchanged | ~1,035 |
+| 1 | The Central Thesis: A Course in Adjuster Fusion | **PROMOTED from Ch 6; "Map/Walking" + "Even Jesus" folded in** | ~7,100 |
+| ~~1~~ | ~~Two Revelations, One Path~~ | **DELETED (best pieces folded into new Ch 1)** | -- |
+| 2 | The Urantia Book Overview | unchanged | ~1,658 |
+| 3 | Course in Miracles True History | unchanged (has pending fixes) | ~2,152 |
+| 4 | Epochal vs Personal Revelation | unchanged | ~1,376 |
+| 5 | Terminology Bridge | trimmed; cross-refs updated (Ch 7→6, Ch 11→10) | ~3,368 |
+| 6 | The Sonship / God the Supreme | **RENUMBERED from Ch 7; cross-ref updated (Ch 6→1)** | ~2,711 |
+| 7 | What Is Real | **RENUMBERED from Ch 8** | ~5,093 |
+| 8 | Miracles and Time | **RENUMBERED from Ch 9** | ~2,828 |
+| 9 | Forgiveness: Mercy vs Love | **RENUMBERED from Ch 10** | ~2,043 |
+| 10 | The Architecture of Mind | **RENUMBERED from Ch 11** | ~4,037 |
+| 11 | The Lucifer Rebellion and Why We Suffer | **RENUMBERED from Ch 12** | ~2,169 |
+| 12 | The Atonement and the Crucifixion | **RENUMBERED from Ch 13** | ~1,639 |
+| 13 | From Here to Paradise | **RENUMBERED from Ch 14** | ~1,762 |
+| 14 | The Jesus Both Books Reveal | **RENUMBERED from Ch 15; cross-refs updated (Ch 6→1, Ch 12→11)** | ~7,940 |
+| App A | Terminology Mapping | unchanged | ~1,894 |
+| App B | Parallels | unchanged | ~10,372 |
+| App C | Miracle Principles | unchanged | ~6,193 |
 
 ---
 
@@ -99,7 +97,7 @@
 |---|------|--------|-------|
 | 1 | Cut repetition (15,000-20,000 words) | IN PROGRESS | Ch 7-13 consolidation is the first major cut |
 | 2 | Add Part divisions | NOT STARTED | |
-| 3 | Move thesis earlier | NOT STARTED | State plainly in Intro or Ch 1 |
+| 3 | Move thesis earlier | COMPLETE | Added to Introduction after the central question |
 | 4 | Consolidate overlapping chapters | IN PROGRESS | Ch 11/12 merge drafted; Ch 8/13 merge planned |
 | 5 | Choose a title | COMPLETE | "Across the Revelation Bridge" |
 | 6 | Soften Ch 3 editing history | NOT STARTED | |
@@ -154,6 +152,28 @@
 - Ch 5 reduced from ~6,000 to ~3,400 words (cut ~2,600 words of adjutant mind/ego/knowledge detail)
 - All 4 consolidation operations now COMPLETE
 - **Next step:** Publisher review items 2-10
+
+### 2026-02-27 Session 5 (post-compact)
+- Applied Operation 2, 3, 4 (all complete now)
+- Retitled Ch 15 to "The Jesus Both Books Reveal"
+- Set book title: "Across the Revelation Bridge"
+- Added thesis statement to Introduction
+- Created content-removed-consolidation.md (record of all cut content)
+- Committed and pushed all changes
+- **Approved next task:** Restructure Ch 1-6. Make current Ch 6 (Central Thesis) the new Ch 1. Delete current Ch 1 as standalone, fold best pieces ("Map and the Walking," "Even Jesus Made the Journey") into Intro or new Ch 1. Keep Introduction as-is (~1,000 words). Renumber Ch 2-5 accordingly.
+- **After that:** Remaining publisher review items (Part divisions, soften Ch 3, Soul/Adjuster objection, vary endings, pending fixes)
+
+### 2026-02-27 Session 6 (post-compact)
+- **Restructured Ch 1-6:** Made old Ch 6 (Central Thesis) the new Ch 1
+- Deleted old Ch 1 (Two Revelations, One Path) as standalone chapter
+- Folded "Map and the Walking" metaphor into new Ch 1 Section 1 (after fusion quotes, before section list)
+- Folded "Even Jesus Made the Journey" into new Ch 1 Section 11 (Closing, before UB promise quote)
+- Renumbered Ch 7-15 to Ch 6-14 (9 files renamed, 9 headers updated)
+- Updated 7 cross-references across Ch 5, Ch 6, and Ch 14
+- Recorded all cut content from old Ch 1 in content-removed-consolidation.md
+- Archives saved: chapter-01-two-revelations-one-path-PRE-RESTRUCTURE.md, chapter-06-central-thesis-PRE-RESTRUCTURE.md
+- **Book now has 14 chapters** (down from 15)
+- **Next:** Remaining publisher review items (Part divisions, soften Ch 3, Soul/Adjuster objection, vary endings, pending fixes)
 
 ---
 

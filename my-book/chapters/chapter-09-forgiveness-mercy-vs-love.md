@@ -1,4 +1,4 @@
-# Chapter 10: Forgiveness - Mercy vs Love
+# Chapter 9: Forgiveness - Mercy vs Love
 
 **STATUS: DRAFT**
 

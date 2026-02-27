@@ -1,4 +1,4 @@
-# Chapter 9: Miracles and Time
+# Chapter 8: Miracles and Time
 
 **STATUS: DRAFT**
 

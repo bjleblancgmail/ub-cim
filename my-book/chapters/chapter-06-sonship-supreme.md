@@ -1,4 +1,4 @@
-# Chapter 7: The Sonship / God the Supreme
+# Chapter 6: The Sonship / God the Supreme
 
 **STATUS: DRAFT**
 
@@ -94,7 +94,7 @@ No one hears it alone. No one discovers the Supreme in isolation. No one knows t
 
 There are two paths unfolding at once, and both are real.
 
-The first is individual: your personal journey toward fusion with the indwelling Adjuster. This path you can walk now. This discovery you can make in your own life, the discovery of the Father through the fragment of the Father within you. Chapter 6 described this path. It does not wait for anyone else. It is between you and God.
+The first is individual: your personal journey toward fusion with the indwelling Adjuster. This path you can walk now. This discovery you can make in your own life, the discovery of the Father through the fragment of the Father within you. Chapter 1 described this path. It does not wait for anyone else. It is between you and God.
 
 The second is collective: the discovery of the Supreme, the completion of the Sonship. This path unfolds across all time and includes every soul who ever lived. No one finishes it alone.
 

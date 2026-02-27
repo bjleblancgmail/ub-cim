@@ -1,6 +1,6 @@
 # Session Log
 
-**Book:** [Working Title]
+**Book:** Across the Revelation Bridge
 
 **Author:** [Name]
 

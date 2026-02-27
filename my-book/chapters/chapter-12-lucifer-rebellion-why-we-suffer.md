@@ -1,4 +1,4 @@
-# Chapter 14: The Lucifer Rebellion and Why We Suffer
+# Chapter 12: The Lucifer Rebellion and Why We Suffer
 
 **STATUS: COMPLETE**
 

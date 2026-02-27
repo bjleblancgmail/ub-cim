@@ -168,103 +168,57 @@ What you identify with determines what you become.
 
 ---
 
-## Section 5: The Two Thought Systems
+## Section 5: Fear, the Block to Identification
 
-Here is the problem: you are currently living in two thought systems at once.
+If identification determines what you become, what prevents right identification? Both books answer: fear.
 
-One thought system is the ego, the material mind, oriented toward the body, concerned with survival, threat, status, acquisition. It sees separation everywhere. It believes you are alone.
+The Course in Miracles states it in its opening paragraphs:
 
-The other thought system is spirit, the Adjuster, oriented toward eternity, concerned with truth, beauty, goodness, love. It sees connection everywhere. It knows you are not alone.
+> "The course does not aim at teaching the meaning of love, for that is beyond what can be taught. It does aim, however, at removing the blocks to the awareness of love's presence, which is your natural inheritance. The opposite of love is fear, but what is all-encompassing can have no opposite." (acim oe txt intro.2)
 
-The Course is blunt:
+This is a paradox worth sitting with. Fear is the opposite of love, but love, being all-encompassing, can have no opposite. Fear, then, is an illusion. It feels real. It functions in your experience as if it were real. But from the eternal perspective, it has no substance.
 
-> "The way *out* of conflict between two opposing thought systems is clearly *to choose one* and *relinquish the other.* If you *identify* with your thought system, and you cannot escape this, and if you accept two thought systems which are in *complete* disagreement, peace of mind *is* impossible." (acim oe txt 6.Vb.75)
+The Urantia Book confirms this:
 
-Peace of mind is impossible. As long as you try to live in both systems, serving the ego sometimes and the spirit sometimes, believing you are a body sometimes and a soul sometimes, you will experience conflict. The two systems are incompatible. They cannot be reconciled. One must be chosen.
+> "Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul." (UB 48:7.4)
 
-The Course makes the stakes clear:
+A fraud. Fear is a lie the mind tells itself. And the goal of both books is to expose this fraud, to remove the blocks to love's presence, to eliminate fear from the mortal experience.
 
-> "Your ego and your Soul will never be co-creators, but your Soul and *your* Creator will *always* be." (acim oe txt 4.IV.42)
+The fraud works because it presents itself as reasonable. It disguises itself as prudence, caution, realism. It says: "Be afraid: you have good reason." But the reasons it offers are based on a misperception of reality. They assume you are a body that can be destroyed, an ego that can be threatened, a self separate from God.
 
-The ego cannot partner with God. It never will. Only the Soul, the Adjuster within, can enter that partnership. This is why the choice between the two thought systems is not a preference. It is a decision about which part of you will lead.
+The Course adds that fear is what maintains the ego:
 
-Jesus warned of exactly this:
+> "The ego is quite literally a fearful thought." (acim oe txt 5.VII.61)
 
-> "Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living." (UB 159:3.7)
+The ego needs fear to survive. Without fear, you would see the ego for what it is, a thought system based on separation, and you would release it. Fear keeps you loyal to the ego by convincing you that something terrible will happen if you let go.
 
-The fringe of conflict. That is where you live right now: between the flesh and the spirit, between the ego's voice and the Adjuster's leading. The unified mind, the mind at peace, is the one that has crossed that fringe. It has stopped trying to serve two masters. It has identified with spirit and released its grip on the ego.
+This connects directly to identification. If you identify with the ego, you identify with fear. If you identify with fear, you cannot see clearly. Fear distorts perception. It makes the unreal seem threatening and the real seem distant. It tells you the body is all you are, that death is the end, that you must defend yourself against a hostile universe. Every one of these claims is false. But under fear's influence, they feel self-evident.
 
-The ego is the collection of temporary identities, the masks, the defenses, the stories you tell about yourself. None of it survives. When you identify with the ego, you are identifying with what will pass away. No wonder fear follows.
+The goal of both books is the elimination of fear: not its management, not its suppression, but its complete removal from the mind. And the means of elimination is not combat but recognition.
 
-But identification can shift. The Urantia Book describes the Adjuster's work:
+You do not fight fear directly. You allow love, and fear dissolves.
 
-> "These faithful custodians of the future career unfailingly duplicate every mental creation with a spiritual counterpart; they are thus slowly and surely re-creating you as you really are, only spiritually, for resurrection on the survival worlds." (UB 108:6.5)
+The Course says this is accomplished by removing the blocks to love's presence. Fear cannot survive in the presence of love. Where love is fully admitted, fear disappears automatically. The Urantia Book speaks of the "philosophic elimination of religious fear" (UB 102:6.1): the use of understanding to dispel fear's false claims. When you truly understand that you are a child of God, indwelt by a fragment of the Father, destined for eternal life, what is there to fear?
 
-Re-creating you as you really are. The Adjuster is building your true self out of every worthy thought, every loving choice, every moment you identified with what is eternal. This is the self that survives. This is the self that is real.
+You do not have to create love. Love is already present. It is your "natural inheritance," as the Course says. The Adjuster within you is a fragment of divine love, and though the Adjuster is prepersonal, the gesture of bestowing it is profoundly personal. The Father chose to indwell you. That choice awaits your recognition.
 
-The Course in Miracles says the same:
+Every grievance you hold is a block. Every judgment is a block. Every moment of unforgiveness is a block. These are all forms of fear: fear that you are not safe, fear that you must defend, fear that love is not enough. When you forgive, you remove a block. When you choose peace instead of conflict, you remove a block. When you recognize your brother as a child of God rather than an enemy, you remove a block. And as the blocks are removed, love becomes visible. Not new love: the love that was always there, hidden by fear.
 
-> "Your creations are protected *for* you, because the Holy Spirit, Who is in your mind, knows of them and can bring them *into* your awareness whenever you will let Him. They are there as part of your own being, because your fulfillment *includes* them." (acim oe txt 7.X.95)
+The Course promises:
 
-Your creations, your acts of love, your moments of truth, your choices for goodness, are not lost. They are protected. The Holy Spirit knows of them. The Adjuster preserves them. They wait for you, as part of your own being, because you cannot be complete without them.
+> "You have escaped from fear to peace, asking no questions of reality but merely accepting it. You have accepted this *instead* of the body and have let yourself be one with something beyond it simply by not letting your mind be *limited* by it." (acim oe txt 18.VII.59)
 
----
+Escaped from fear to peace. Not by force, but simply by not letting your mind be limited by the body, by the ego, by the fraud. This is the shift of identification at work. When you identify with spirit rather than with fear, fear has nowhere to stand.
 
-## Section 6: The Fringe of Conflict
+Your body can be harmed, yes. Your plans can be frustrated. Your ego can be threatened. But you, the real you, the soul being built by the Adjuster, the child of the Father, you are safe. You have always been safe. You will always be safe.
 
-Here is the mercy: the conflict between the two thought systems is temporary. It is a transition zone, not a permanent condition.
+Fear is not eternal. It is a temporary condition, specific to the separated state, maintained by ignorance of reality. Every time you choose love over fear, you weaken fear's hold. Every time you remember what you really are, fear loses a little more power.
 
-The Urantia Book names it directly:
-
-> "The human mind does not well stand the conflict of double allegiance. It is a severe strain on the soul to undergo the experience of an effort to serve both good and evil. The supremely happy and efficiently unified mind is the one wholly dedicated to the doing of the will of the Father in heaven." (UB 133:7.12)
-
-Double allegiance. That is the source of the strain. You cannot serve both the ego and the spirit without tearing yourself apart. Those who live wholly in the material realm feel no conflict because they have not begun the transition. Those who live wholly in the spirit feel no conflict because they have completed it.
-
-But you are in between. You have begun to awaken. You have glimpsed something beyond the material. And now you experience the tension of two worlds pulling at you.
-
-This is normal. This is expected. This is the price of growth.
-
-The Urantia Book explains why the struggle cannot be avoided:
-
-> "Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving." (UB 100:4.2)
-
-The animal mind rebels. This is what the Course calls the ego's resistance, the part of you that fights the very growth you are seeking.
-
-The Course describes the same territory:
-
-> "You who identify *with* your egos cannot believe that God loves you." (acim oe txt 4.IV.49)
-
-When you identify with the ego, God's love seems impossible. You feel unworthy, separate, alone. But as identification shifts, as you begin to identify with the spirit within, God's love becomes not only possible but obvious. Of course the Father loves you. You are his child. The Adjuster within you is proof of that love.
+What you identify with determines what you become. If you identify with fear, you become small, defended, imprisoned. If you identify with love, with the Adjuster, with the Father's presence within you, you become what you were created to be: free, at peace, and real.
 
 ---
 
-## Section 8: The Practice of Re-Identification
-
-How do you shift identification? Not by force. Not by denial. By practice.
-
-The Course names two stages in this process:
-
-> "Salvation is nothing more than 'right-mindedness,' which is not the One-Mindedness of the Soul, but which must be accomplished before One-Mindedness can be restored." (acim oe txt 4.III.36)
-
-Right-mindedness is the work you do now: choosing spirit over ego, truth over illusion, love over fear. One-mindedness is the destination: fusion, the state where human will and divine will are no longer separate. You cannot skip to the end. Right-mindedness must come first. The daily practice is how you get there.
-
-The Course workbook is 365 lessons, one for each day of the year, designed to train the mind to see differently. Each lesson is a small step in re-identification. Each day, you practice remembering what you really are.
-
-The Urantia Book describes the same practice through worship and prayer:
-
-> "Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity." (UB 143:7.8)
-
-Worship is identification. When you worship, you are not begging a distant God for favors. You are aligning yourself, identifying yourself, with the source of your being. You are remembering your place in the larger reality. You are striking step with eternity.
-
-And prayer, the Urantia Book says:
-
-> "Prayer becomes the great unifier of the various inspirations of the creative imagination and the faith urges of a soul trying to identify itself with the spirit ideals of the indwelling and associated divine presence." (UB 132:3.10)
-
-A soul trying to identify itself. That is what you are doing. Every time you pray, every time you practice the Course lessons, every time you choose peace over conflict, you are trying to identify with spirit. And gradually, through practice, the trying becomes being.
-
----
-
-## Section 9: The Spiritual Eye
+## Section 6: The Spiritual Eye
 
 If the real and the unreal exist side by side, if the eternal hides within the temporal like gold in ore, how do you learn to see the difference?
 
@@ -306,7 +260,7 @@ The world will look the same. But you will see it differently. And that makes al
 
 ---
 
-## Section 10: Serviceable Scaffolding
+## Section 7: Serviceable Scaffolding
 
 The Urantia Book offers an image that changes everything: scaffolding.
 
@@ -350,7 +304,7 @@ The scaffolding will be down. The building will stand. And you will remember thi
 
 ---
 
-## Section 11: Closing, The Eternal Perspective
+## Section 8: Closing, The Eternal Perspective
 
 We began with a paradox: what seems most real depends on where you stand.
 

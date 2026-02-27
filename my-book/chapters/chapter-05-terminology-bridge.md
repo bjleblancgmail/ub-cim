@@ -74,17 +74,15 @@ When the Course speaks of our relationship to the Sonship, it is describing our 
 
 **4. Perception = Adjutant mind, temporal levels**
 
-The Course draws a sharp line between perception and knowledge. Perception is the realm of interpretation, where things can be seen truly or falsely. Knowledge is certain, eternal, beyond doubt. Perception itself is neutral. It can be right-minded, guided by the Holy Spirit, or wrong-minded, guided by the ego. While you walk in time, the work is to correct perception. But perception itself ends when time ends.
+The Course draws a sharp line between perception and knowledge. Perception is the realm of interpretation, where things can be seen truly or falsely. Knowledge is certain, eternal, beyond doubt.
 
-The Urantia Book explains why. What the Course calls perception corresponds to the adjutant mind, the seven mind-spirit circuits that operate in evolutionary creatures. Perception in the Course is simply all things temporal, all of temporal mind. This is the animal-origin intellect that processes sensory data, constructs meaning from experience, and builds our picture of the world. Within the adjutant mind, the ego is created. The adjutant mind is a gift, part of God's provision for developing creatures. But it is neutral territory. It can serve the ego's agenda of separation and fear, or it can be aligned with the Holy Spirit's purpose of healing and return.
-
-This mapping removes the mysticism from the Course's teaching. When the Course says you must move from wrong perception to right perception, it is describing something the Urantia Book makes concrete: the adjutant mind, guided by spiritual influence rather than ego, begins to see truly. The mind itself is not the problem. The direction it serves is everything. Chapter 11 explores this journey from perception to knowledge in detail.
+What the Course calls perception corresponds to the adjutant mind, the seven mind-spirit circuits that operate in evolutionary creatures. The adjutant mind is a gift, part of God's provision for developing creatures, but it is neutral territory: it can serve the ego's agenda of separation and fear, or it can be aligned with the Holy Spirit's purpose of healing and return. Chapter 11 explores the full architecture of mind and the journey from perception to knowledge.
 
 **5. Knowledge = Absolute level, Adjuster perspective**
 
-If perception belongs to time, knowledge belongs to eternity. Knowledge in the Course is not information or learning. It is direct awareness of truth, the certainty that needs no proof because it comes from God. It is not learned but recognized. It comes not through study but through communion with the indwelling spirit.
+If perception belongs to time, knowledge belongs to eternity. Knowledge in the Course is not information or learning. It is direct awareness of truth, the certainty that needs no proof because it comes from God.
 
-The Adjuster already has this knowledge. It does not perceive. It knows. What the Course calls knowledge corresponds to the superconscious level, the Adjuster's perspective, the eternal viewpoint that transcends time and space. What the Course calls the journey from perception to knowledge, the Urantia Book describes as the progressive alignment of the adjutant mind with the Adjuster's perspective, culminating in fusion. Knowledge is where perception was always meant to lead you.
+The Adjuster already has this knowledge. It does not perceive. It knows. What the Course calls knowledge corresponds to the superconscious level, the Adjuster's perspective. The journey from perception to knowledge is the journey toward fusion.
 
 **6. Will = Personality**
 
@@ -126,15 +124,9 @@ Christ-guidance. The Spirit of Truth. Two names for one reality: Jesus, still te
 
 **9. Ego = Ego (adjutant mind)**
 
-The ego lives within the adjutant mind (human mind), but it is not the adjutant mind itself. The adjutant mind is a gift, part of God's creation, necessary for mortal experience. The ego is the self-concept that the adjutant mind constructs. The Course defines it plainly: "The ego is a man-made attempt to perceive himself as he wished to be rather than as he is." (acim oe txt 3.VI.40) Consciousness itself is the domain of the ego.
+The ego lives within the adjutant mind but is not the adjutant mind itself. The ego is the self-concept that the adjutant mind constructs. The Course defines it: "The ego is a man-made attempt to perceive himself as he wished to be rather than as he is." (acim oe txt 3.VI.40)
 
-The Urantia Book describes the same process from the perspective of mind itself:
-
-> "If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree." (UB 115:1.1)
-
-The ego is the framework the adjutant mind builds to make sense of reality. It is indispensable, but always partially wrong. It can be misguided, but it can also learn. The Course says: "The ego can learn because its maker can be misguided but cannot make the totally lifeless out of the life-given. The Soul need not be taught, but the ego must." (acim oe txt 4.II.8)
-
-On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion. The Course corrects what should have been taught from the beginning.
+On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion. The Course corrects what should have been taught from the beginning. Chapter 11 examines how the ego operates within the architecture of mind.
 
 **Note on the Spirit of Truth:** The Urantia Book clearly distinguishes between the Holy Spirit (the ministry of the Divine Minister/Creative Spirit of the local universe) and the Spirit of Truth (poured out by Jesus after his resurrection). Several passages in the Course reveal this same distinction.
 

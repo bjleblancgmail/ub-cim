@@ -1,6 +1,6 @@
 # UB-CIM Study Guide Outline
 
-**Working Title:** TBD (perhaps "The Path to the Final Father" or "Two Revelations, One Path")
+**Working Title:** Across the Revelation Bridge
 
 **Core Thesis:** The Course in Miracles is a course in Adjuster fusion, presented from the eternal spirit perspective by Jesus. The UB provides the cosmological framework; the CIM provides the practical path.
 

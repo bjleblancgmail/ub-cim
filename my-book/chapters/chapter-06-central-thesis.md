@@ -8,15 +8,15 @@ The Urantia Book describes Adjuster fusion as the goal of human life: the moment
 
 The Course in Miracles never uses the term "Adjuster fusion." But it uses the word *fusion* itself. A Course in Miracles says:
 
-> "The miracle itself is just this fusion or union of will between Father and son." (JCIM, Chapter 5)
+> "The miracle itself is just this fusion or union of will between Father and Son." (acim oe txt 5.III.18)
 
 This is not an isolated line. The Course returns to this language:
 
-> "Alone we can do nothing, but together our wills fuse into something whose power is far beyond the power of its separate parts. By not being separate, the Will of God is established in ours and as ours." (JCIM, Chapter 7)
+> "Alone we can do nothing, but *together* our wills fuse into something whose power is far beyond the power of its separate parts. By *not being separate*, the Will of God is established *in* ours and *as* ours." (acim oe txt 8.V.36)
 
 And again:
 
-> "Seeing with Him will show you that all meaning, including yours, comes not from double vision but from the gentle fusing of everything into one meaning, one emotion, and one purpose. God has one purpose which He shares with you. The single vision which the Holy Spirit offers you will bring this oneness to your mind with clarity and brightness so intense you could not wish for all the world not to accept what God would have you have. Behold your will, accepting it as His, with all His love as yours." (JCIM, Chapter 14)
+> "Seeing with Him will show you that all meaning, including *yours*, comes not from double vision but from the gentle fusing of everything into *one* meaning, *one* emotion, and *one* purpose. God has one purpose which He shares with you. The single vision which the Holy Spirit offers you will bring this oneness to your mind with clarity and brightness so intense you could not wish for all the world not to accept what God would have you have. Behold your will, accepting it as His, with all His Love as yours." (acim oe txt 14.IV.31)
 
 Three times the Course uses the word "fuse" or "fusing." Three times it describes the union of human will with divine will. The Course is describing, in its own vocabulary, exactly what the Urantia Book calls Adjuster fusion.
 
@@ -30,19 +30,9 @@ The Course in Miracles opens with fifty principles of miracles. The very first p
 
 The Course does not define miracles as supernatural events: water into wine, healing the blind. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The Course says:
 
-> "The miracle itself is just this fusion or union of will between Father and son."
+> "The miracle itself is just this fusion or union of will between Father and Son." (acim oe txt 5.III.18)
 
 Read that carefully. The miracle is not *like* fusion. The miracle *is* fusion: the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
-
-The Course captures this in one of its earliest and most compressed images:
-
-> "Miracles are cobwebs of iron. They unite human frailty to the strength of God." (JCIM, Chapter 1)
-
-Cobwebs of iron. The seemingly fragile becomes unbreakable when it is the link between human will and divine strength. And from the original miracle principles, a line that later editions omitted:
-
-> "A miracle is a spark of Life. It shines through the darkness and brings in the light. You must begin to forget and remember." (JCIM, Notes)
-
-A spark of Life. The miracle is not an event. It is the divine spark itself, shining through. You must forget what the ego taught you and remember what the Adjuster already knows.
 
 The Urantia Book says the same thing without the word "miracle":
 
@@ -94,7 +84,7 @@ This is not absorption. You do not disappear into God. The fused being is "reall
 
 The Course in Miracles describes the same process in its own language:
 
-> "God wants only His Son because His Son is His only treasure. You want your creations as He wants His. Your creations are your gift to the Holy Trinity, created in gratitude for your creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true."
+> "God wants only His Son because His Son is His only treasure. You want *your* creations as He wants *His*. Your creations are your gift to the Holy Trinity, created in gratitude for *your* creation. They do not leave you, any more than you have left your Creator, but they extend your creation as God extended Himself to you... Your creations love you as your Soul loves your Father for the gift of creation. There is no other gift which is eternal, and therefore there is no other gift which is true." (acim oe txt 8.VI.45)
 
 Your creations, your worthy thoughts, your loving choices, your movements toward truth, are your gift to the Holy Trinity. They extend your being as God extended Himself to you through the Adjuster. And they are eternal. The Urantia Book calls this the building of the soul. The Course calls it your creations. Both are describing what survives, what you are becoming through partnership with the divine fragment within.
 
@@ -112,19 +102,19 @@ The spark is the Adjuster. It is a fragment of the Universal Father, placed with
 
 The Course in Miracles uses the same image:
 
-> "The power of one mind can shine into another because all the lamps of God were lit by the same spark. It is everywhere, and it is eternal."
+> "The power of one mind *can* shine into another, because all the lamps of God were lit by the same spark. It is everywhere, and it is eternal." (acim oe txt 9.X.91)
 
 The same spark lit every lamp. Every human being carries the same divine fragment. You are already lit from within.
 
 But the Course warns that the spark can be obscured:
 
-> "In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the rays can never be completely forgotten."
+> "In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the rays can never be completely forgotten." (acim oe txt 9.X.92)
 
 The spark cannot be extinguished. No matter how lost, how confused, how identified with the ego, the spark remains. God has kept it alive. This is grace: the one thing that cannot be destroyed, no matter what the human does.
 
 And then the Course offers this:
 
-> "If you but see the little spark, you will learn of the greater light, for the rays are there unseen. Perceiving the spark will heal, but knowing the light will create."
+> "If you but see the little spark, you will learn of the greater light, for the rays are there unseen. Perceiving the spark will heal, but knowing the light will create." (acim oe txt 9.X.92)
 
 Two stages. First, perceiving the spark: glimpsing the divine within yourself and others. This heals. It undoes the damage of separation, of fear, of false identity.
 
@@ -132,7 +122,7 @@ But there is more. *Knowing* the light, not just perceiving it, but fusing with 
 
 The Course goes further still, describing the spark as an Eternal Guest who cannot leave:
 
-> "The Eternal Guest remains, but His Voice grows faint in alien company. He needs your protection, but only because your care is a sign that you WANT Him. Think like Him ever so slightly, and the little spark becomes a blazing light that fills your mind so that He becomes your only Guest. Whatever journey you choose to take, He will go with you, waiting. You can safely trust His patience, for He CANNOT leave a part of God. But you will far more than patience. You will never rest until you know your function AND FULFILL IT, for only in this can your will and your Father's be wholly joined." (JCIM, Chapter 10)
+> "The Eternal Guest remains, but His Voice grows faint in alien company. He needs your protection, but only because your care is a sign that you *want* Him. Think like Him ever so slightly, and the little spark becomes a blazing light that fills your mind so that He becomes your *only* Guest.... Whatever journey you choose to take, He will go with you, waiting. You can safely trust His patience, for He cannot leave a part of God. Yet you need far more than patience. You will never rest until you know your function *and* *fulfill it*, for only in this can your will and your Father's be wholly joined." (acim oe txt 10.III.20)
 
 The Eternal Guest. He cannot leave, because He is a part of God placed within you. His Voice grows faint when you keep alien company, when you listen to the ego instead. But think like Him ever so slightly, and the little spark becomes a blazing light. This is the Course's description of what happens when the human mind begins to cooperate with the Adjuster: the spark does not merely glow. It blazes. It fills the mind. And you will never rest until your will and the Father's will are wholly joined.
 
@@ -156,13 +146,13 @@ How does fusion happen? Both books describe it as a transfer.
 
 The Urantia Book says that through your own choosing, you possess the power to relocate where "you" live:
 
-> "But mortal personality, through its own choosing, possesses the power of transferring its seat of identity from the passing material-intellect system to the higher morontia-soul system which, in association with the Thought Adjuster, is created as a new vehicle for personality manifestation." (UB Paper 112, 112:5.4)
+> "But mortal personality, through its own choosing, possesses the power of transferring its seat of identity from the passing material-intellect system to the higher morontia-soul system which, in association with the Thought Adjuster, is created as a new vehicle for personality manifestation." (UB 112:5.4)
 
 The seat of identity must *move*. You begin life identified with your body, your emotions, your earthly mind. Fusion requires that your sense of self shift from the temporary to the permanent, from the material to the spiritual, from the creature alone to the creature united with the Creator.
 
 The Urantia Book describes three stages in this shift:
 
-> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle, the material body, to the more enduring and immortal nature of the morontia soul and on beyond to those levels whereon the soul becomes infused with, and eventually attains the status of, spirit reality." (UB Paper 112, 112:2.20)
+> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle, the material body, to the more enduring and immortal nature of the morontia soul and on beyond to those levels whereon the soul becomes infused with, and eventually attains the status of, spirit reality." (UB 112:2.20)
 
 Material body. Morontia soul. Spirit reality. You begin identified with the body, the transient life vehicle. The morontia soul is the intermediate reality being built by the partnership of your mind and the Adjuster. Every worthy thought, every loving choice contributes to this soul. It is growing even now, beneath the surface of your awareness. And beyond the soul lies spirit reality: the destination of fusion itself.
 
@@ -188,7 +178,7 @@ The Course in Miracles describes this same movement as the shift from perception
 
 The Course describes the endpoint of this transfer:
 
-> "To unite having and being is only to unite your will with His, for He wills you HIMSELF. And you will yourself to HIM, because in your perfect understanding of Him, you KNOW there IS but One Will." (JCIM, Chapter 8)
+> "To unite having and being is only to unite your will with His, for He wills you Himself. And you will yourself to Him because, in your perfect understanding of Him, you *know* there is but One Will." (acim oe txt 10.III.16)
 
 He wills you Himself. The Father's gift of the Adjuster is precisely this: He gives you a piece of Himself. And you will yourself to Him. The transfer is bilateral. Both wills move toward union. Both reach the same place: one will.
 
@@ -200,43 +190,43 @@ Both books speak of a bridge. And both point to Jesus as the one who built it.
 
 In the Urantia Book, during his final hours with the apostles, Jesus prayed:
 
-> "I am the living bridge from one world to another." (UB Paper 182, 182:1.24)
+> "I am the living bridge from one world to another." (UB 182:1.24)
 
 And immediately after:
 
-> "I am the living link between time and eternity." (UB Paper 182, 182:1.25)
+> "I am the living link between time and eternity." (UB 182:1.25)
 
 He was not speaking in metaphor. He had lived an entire human life, from infant to adult, from carpenter to teacher, from confusion to clarity, and in doing so, he had created a path. Jesus is the bridge. He demonstrated in his own life the complete transfer: the human fully unified with the divine. He crossed over, and in crossing, he became the way for others to follow.
 
 The Course in Miracles uses the same image, extending it to the Holy Spirit:
 
-> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge." (JCIM, Chapter 5, Tx 5.32)
+> "The Holy Spirit is the bridge or thought-transfer of perception to knowledge." (acim oe txt 5.V.32)
 
 And again:
 
-> "The Holy Spirit remains the bridge between perception and knowledge." (JCIM, Chapter 6, Tx 6.31)
+> "The Holy Spirit remains the bridge between perception and knowledge." (acim oe txt 6.III.31)
 
 The bridge lifts you from time into eternity. You start on one side: time, perception, material identity. You end on the other: eternity, knowledge, spiritual reality. The bridge does not eliminate the gap. It spans it. It makes crossing possible.
 
 The Course makes an extraordinary claim about this bridge and about Jesus' relationship to you:
 
-> "When I said, 'Behold I am with you always,' I meant it literally. I am not absent to ANYONE nor in ANY situation. BECAUSE I am always with you, YOU are the Way, and the Truth, and the Light." (JCIM, Chapter 7)
+> "When I said, 'I am with you always,' I meant it literally. I am not absent to *anyone* in *any* situation. *Because* I am always with you, *you* are the way and the truth and the light." (acim oe txt 7.IV.25)
 
-Because I am with you, YOU are the Way. Jesus does not say he alone is the way. He says that because his spirit indwells you, you become the way. The indwelling presence is what makes the human the path. This is Adjuster theology in Course language.
+Because I am with you, *you* are the way. Jesus does not say he alone is the way. He says that because his spirit indwells you, you become the way. The indwelling presence is what makes the human the path. This is Adjuster theology in Course language.
 
 The Urantia Book locates this bridge within your own mind:
 
-> "The Thought Adjuster is the cosmic window through which a finite creature may faith-glimpse the certainties and divinities of limitless Deity." (UB Paper 103, 103:0.1)
+> "The Thought Adjuster is the cosmic window through which a finite creature may faith-glimpse the certainties and divinities of limitless Deity." (UB 103:0.1)
 
 The Adjuster is your personal bridge, the fragment of eternity already present within time, the piece of knowledge already embedded within perception. You do not have to build the bridge. It is already there. You have to walk across it.
 
 And here is the remarkable connection: the Holy Spirit, according to Jesus in the Course, is not an abstract force. It is his own mind, offered to you:
 
-> "The Holy Spirit is nothing more than your own right mind. He was also mine. The Bible says, 'May the mind be in you that was also in Christ Jesus,' and uses this as a blessing. It is the blessing of miracle-mindedness. It asks that you may think as I thought, joining with me in Christ-thinking." (JCIM, Chapter 5, Tx 5.9)
+> "The Holy Spirit is nothing more than your own right mind. He was also mine. The Bible says, 'May the mind be in you that was also in Christ Jesus,' and uses this as a *blessing*. It is the blessing of miracle-mindedness. It asks that you may think as I thought, joining with me in Christ-thinking." (acim oe txt 5.II.9)
 
 The Urantia Book offers the same invitation:
 
-> "If your own mind does not serve you well, you can exchange it for the mind of Jesus of Nazareth, who always serves you well." (UB Paper 48, 48:6.26)
+> "If your own mind does not serve you well, you can exchange it for the mind of Jesus of Nazareth, who always serves you well." (UB 48:6.26)
 
 The bridge is not impersonal. It is the mind of Jesus, the same mind that achieved perfect alignment with the Father, the same mind that crossed from time into eternity. He offers it to you. The Holy Spirit is that offer made permanent.
 
@@ -248,7 +238,7 @@ The transfer is not instantaneous. It is a process: sometimes gradual, sometimes
 
 The Urantia Book says:
 
-> "The Adjusters are the will of God." (UB Paper 108, 108:4.2)
+> "The Adjusters are the will of God." (UB 108:4.2)
 
 The Adjuster does not need to choose. It already is what it is: the Father's will, present within you. But you possess the power of volition. You can align with that will or resist it. Every time you choose love over fear, truth over self-deception, service over selfishness, you are cooperating with the transfer.
 
@@ -260,19 +250,19 @@ You are the captain. The Adjuster is the pilot. The captain does not steer, but 
 
 The Course says the same:
 
-> "The Holy Spirit asks of you but this: bring to Him every secret you have locked away from Him. Open every door to Him, and bid Him enter the darkness and lighten it away." (JCIM, Chapter 14, Tx 14.30)
+> "The Holy Spirit asks of you but this: bring to Him every secret you have locked away from Him. Open every door to Him and bid Him enter the darkness and lighten it away." (acim oe txt 14.IV.30)
 
 No resistance. No hidden corners. The transfer requires willingness, not perfection, but openness. You do not have to be flawless. You have to be willing to let the light in.
 
 The Course describes daily practice as the mechanism:
 
-> "Each day, each hour and minute, even every second, you are deciding between the crucifixion and the resurrection; between the ego and the Holy Spirit." (JCIM, Chapter 13, Tx 13.68)
+> "Each day, each hour and minute, even every second, you are deciding between the crucifixion and the resurrection, between the ego and the Holy Spirit." (acim oe txt 13.VIII.68)
 
 Every moment is a choice. Every choice either reinforces material identification or strengthens spiritual identification. The transfer happens choice by choice, moment by moment, not in one dramatic leap, but in ten thousand small decisions to turn toward the light.
 
 And the Course offers practical reassurance about what this feels like:
 
-> "God CANNOT ask more than you WILL. The strength to DO comes from your own undivided will to do. There is NO strain in doing God's will as soon as it is also your own." (JCIM, Chapter 2)
+> "God cannot ask *more* than you will. The strength to *do* comes from your own undivided *will* to do. There is *no* strain in doing God's Will as soon as you recognize that it is also your *own*." (acim oe txt 2.IV.80)
 
 No strain. The struggle is not in the doing. The struggle is in the divided will, the part that wants God and the part that clings to the ego. As soon as the will becomes undivided, the strain disappears. The path to fusion is not self-torture. The Urantia Book confirms this:
 
@@ -284,7 +274,7 @@ But if the path is joyful and the destination is glorious, why does it seem so d
 
 The Course says plainly:
 
-> "What seems to be the fear of God is really only the fear of YOUR OWN REALITY." (JCIM, Chapter 8)
+> "What seems to be the fear of God is really only the fear *of your own reality.*" (acim oe txt 8.X.90)
 
 The fear of God is not about God at all. It is the fear of discovering what you actually are. The ego recoils from the knowledge that you carry divinity within you, because that knowledge is the end of the ego.
 
@@ -308,7 +298,7 @@ Here is the remarkable promise: you do not have to complete the journey alone. I
 
 The Course says:
 
-> "God honored even the miscreations of His Children because they had made them, but He also blessed them with a way of thinking that could raise their perceptions until they became so lofty that they could reach almost back to Him. The Holy Spirit is the Mind of the Atonement. It represents a state of mind that comes close enough to One-Mindedness that transfer to it is at last possible. Transfer depends on common elements in the old learning and the new situation to which it is transferred. Perception is not knowledge, but it can be transferred to knowledge or cross over into it. It might even be more helpful here to use the literal meaning of 'carried' over since the last step is taken by God." (JCIM, Chapter 5)
+> "God honored even the miscreations of His Children because they had made them, but He also blessed them with a way of thinking that could raise their perceptions until they became so lofty that they could reach almost back to Him. The Holy Spirit is the Mind of the Atonement. It represents a state of mind that comes close enough to One-Mindedness that transfer to it is at last possible. Transfer depends on common elements in the old learning and the new situation to which it is transferred. Perception is not knowledge, but it can be transferred to knowledge or cross over into it. It might even be more helpful here to use the literal meaning of 'carried' over since the last step is taken by God." (acim oe txt 5.III.12)
 
 Read this slowly. God gave you a way of thinking that could raise your perceptions until they reach almost back to Him. Almost. The Holy Spirit brings you close enough to One-Mindedness that transfer becomes possible. And the last step? The Course suggests the literal meaning: you are *carried* over. God does the carrying.
 
@@ -332,31 +322,31 @@ What happens when the transfer is complete? What does it feel like to live on th
 
 The Course offers glimpses:
 
-> "When the Holy Spirit has at last led you to Christ... perception fuses into knowledge." (JCIM, Chapter 11, Tx 11.59)
+> "When the Holy Spirit has at last led you to Christ... perception fuses into knowledge." (acim oe txt 11.VII.59)
 
 Fuses. The word is exact. Perception does not simply improve or clarify. It fuses with knowledge, becomes one with it, is absorbed into it. The limited way of seeing is not destroyed but transformed, taken up into a larger seeing that includes it and transcends it.
 
 The Course describes the actual experience of crossing:
 
-> "Sooner or later must everyone bridge the gap which he imagines exists between his selves. Each one builds this bridge, which CARRIES HIM ACROSS the gap, as soon as he is willing to expend some little effort on behalf of bridging it. His little efforts are powerfully supplemented by the strength of Heaven, and by the united will of all who make Heaven what it is, being joined within it. And so the one who would cross over, is literally transported there. Your bridge is builded stronger than you think, and your foot is planted firmly on it. Have no fear that the attraction of those who stand on the other side and wait for you, will not draw you safely across. For you WILL come where you would be, and where your Self awaits you." (JCIM, Chapter 16)
+> "Sooner or later must everyone bridge the gap which he imagines exists between his selves. Each one builds this bridge which carries him *across* the gap as soon as he is willing to expend some little effort on behalf of bridging it. His little efforts are powerfully supplemented by the strength of Heaven and by the united will of all who make Heaven what it is, being joined within it. And so the one who would cross over is literally transported there. Your bridge is builded stronger than you think, and your foot is planted firmly on it. Have no fear that the attraction of those who stand on the other side and wait for you will not draw you safely across. For you *will* come where you would be and where your Self awaits you." (acim oe txt 16.IV.28)
 
 Little efforts, powerfully supplemented. Literally transported. Your Self awaits you on the other side. This is the Course's vision of what the Urantia Book calls fusion: you are not abandoned to cross alone. Heaven supplements your effort. Those who have already crossed are drawing you forward. And the Self waiting on the other side is the fused identity, the person you are becoming.
 
 The Urantia Book describes the fused being:
 
-> "But the fused individual is really one personality, one being, whose unity defies all attempts at analysis by any intelligence of the universes." (UB Paper 112, 112:7.8)
+> "But the fused individual is really one personality, one being, whose unity defies all attempts at analysis by any intelligence of the universes." (UB 112:7.8)
 
 One personality. One being. Whose unity defies analysis. Not absorption, not annihilation, but union so complete that no intelligence in the universe can separate the parts. You do not disappear into God. You become more fully yourself than you ever were: expanded, completed, made eternal.
 
 The Course says:
 
-> "In this world you can become a spotless mirror, in which the holiness of your Creator shines forth from you to all around you. You can reflect Heaven here." (JCIM, Chapter 14, Tx 14.42)
+> "In this world you can become a spotless mirror in which the Holiness of your Creator shines forth from you to all around you. You can reflect Heaven *here*." (acim oe txt 14.V.42)
 
 Reflect Heaven here. Even before the final fusion, even while still on the bridge, you can begin to reflect what lies on the other side. The transfer does not wait entirely for death. It begins now. Every moment of peace, every extension of love, every recognition of truth: these are reflections of the far shore already appearing in time.
 
 And the Course offers one more promise about what the crossing costs:
 
-> "The new perspective you will gain from crossing over will be the understanding of where Heaven is. From here it seems to be outside and across the bridge. Yet as you cross to join it, it will join with you and become one with you. And you will think in glad astonishment that for all this you gave up nothing! The joy of Heaven, which has no limit, is increased with each light that returns to take its rightful place within it. Wait no longer, for the love of God and you. And may the holy instant speed you on the way, as it will surely do if you but let it come to you." (JCIM, Chapter 16)
+> "The new perspective you will gain from crossing over will be the understanding of where Heaven *is*. From here it seems to be outside and across the bridge. Yet as you cross to join it, it will join with you and become one with you. And you will think in glad astonishment that for all this you gave up nothing! The joy of Heaven, which has no limit, is increased with each light that returns to take its rightful place within it. Wait no longer, for the love of God and you. And may the holy instant speed you on the way, as it will surely do if you but let it come to you." (acim oe txt 16.VII.68)
 
 Glad astonishment. You gave up nothing. The ego insists that fusion means losing yourself. Both books teach the opposite: you become more yourself than you ever were. The crossing is not sacrifice. It is completion.
 
@@ -372,7 +362,7 @@ What an adventure. What a romance. The highest essence of God and the lowest cre
 
 The Course in Miracles opens with a striking statement:
 
-> "This is a required course. Only the time you take it is voluntary."
+> "It is a required course. Only the time you take it is voluntary." (acim oe txt intro.1)
 
 Required. Not optional. Not one path among many. The Course presents itself as something every mind must eventually learn. The only question is when.
 
@@ -386,13 +376,13 @@ The universe expects you to fuse. The Adjuster within you came for this purpose.
 
 The Course puts it with characteristic directness:
 
-> "The word 'inevitable' is fearful to the ego, but joyous to the Soul. God IS inevitable and you CANNOT avoid Him any more than He can avoid YOU." (JCIM, Chapter 4)
+> "The word 'inevitable' is fearful to the ego but joyous to the Soul. God *is* inevitable, and you *cannot* avoid Him any more than He can avoid *you*." (acim oe txt 4.II.17)
 
 The ego hears "inevitable" and panics. The soul hears it and rejoices. God cannot avoid you any more than you can ultimately avoid God. The Adjuster cannot leave. The spark cannot be extinguished. The requirement stands.
 
 And the Course offers this assurance about the outcome:
 
-> "He WILL learn the lesson of awaking. God watches over him, and light surrounds him. Can God's Son lose himself in dreams, when God has placed WITHIN him the glad call to awaken and be glad? He cannot separate himself from what is IN him. His sleep will not withstand the call to wake. The mission of redemption will be fulfilled, as surely as the Creation will remain unchanged throughout Eternity." (JCIM, Chapter 13)
+> "He *will* learn the lesson of awaking. God watches over him, and light surrounds him. Can God's Son lose himself in dreams when God has placed *within* him the glad call to waken and be glad? He cannot separate *himself* from what is *in* him. His sleep will not withstand the call to wake. The mission of redemption will be fulfilled as surely as the creation will remain unchanged throughout eternity." (acim oe txt 13.V.43)
 
 His sleep will not withstand the call to wake. God placed the call inside you. The Adjuster is that call. And no amount of dreaming can silence it forever.
 
@@ -430,7 +420,7 @@ The Urantia Book promises:
 
 The Course in Miracles confirms this in Jesus's own voice:
 
-> "My mind will always be like yours, because we were created as equals. It was only my decision that gave me all power in heaven and earth. My only gift to you is to help you make the same decision for yourself... I am your model for decision. By deciding for God, I showed you that this decision can be made and that you can make it." (JCIM, Chapter 5)
+> "My mind will always be like yours, because we were created as equals. It was only my *decision* that gave me all power in Heaven and earth. My only gift to you is to help you make the same decision *for yourself*... I am your model for decision. By deciding for God, I showed you that this decision *can* be made and that *you* can make it." (acim oe txt 5.IV.27)
 
 Two revelations, one message. The Urantia Book says you can follow Jesus along the same experience of Father discovery. The Course says he is your model for decision, and you can make it too. His power was not privilege. It was choice. And the same choice is yours.
 

@@ -6,7 +6,7 @@ The first chapter of the Course in Miracles lays out fifty principles of miracle
 
 ## Principle 1
 
-> "There is no order of difficulty among miracles. One is not 'harder' or 'bigger' than another. They are all the same. All expressions of love are maximal." (Tx:1.1)
+> "There is no order of difficulty among miracles. One is not 'harder' or 'bigger' than another. They are all the same. All expressions of love are maximal." (acim oe txt 1.I.1)
 
 Miracles come from God, not from us. To an infinite being there is no small miracle or large miracle. The difficulty we perceive is our own projection. The only variable is the gap between our will and God's will. Close that gap and all expressions of love flow equally.
 
@@ -18,7 +18,7 @@ Miracles come from God, not from us. To an infinite being there is no small mira
 
 ## Principle 2
 
-> "Miracles as such do not matter. The only thing that matters is their Source, Which is far beyond human evaluation." (Tx:1.2)
+> "Miracles as such do not matter. The only thing that matters is their Source, Which is far beyond human evaluation." (acim oe txt 1.I.2)
 
 The source of miracles is divine, and far beyond what the human mind can evaluate or control. The miracle itself is not the point. The source that makes it possible is. Paper 136 illustrates this vividly. When Jesus negotiated the terms of his public ministry with his Personalized Adjuster, he learned that the celestial hosts could be limited in space but not in time. Jesus had to remain "constantly time conscious" to prevent miracles from happening involuntarily. Even for a Creator Son, the divine source of miracles operated beyond conscious control.
 
@@ -30,7 +30,7 @@ The source of miracles is divine, and far beyond what the human mind can evaluat
 
 ## Principle 3
 
-> "Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense, everything that comes from love is a miracle." (Tx:1.3)
+> "Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense, everything that comes from love is a miracle." (acim oe txt 1.I.3)
 
 The Course says the real miracle is not the healing but the love behind it. The UB illustrates this perfectly. When a woman touched the hem of Jesus' garment and was healed, Jesus was completely unaware it happened. He did not decide to heal her. The love pouring through him was so natural, so constant, that healing occurred without his conscious will. That is what a miracle looks like when love flows without obstruction.
 
@@ -44,7 +44,7 @@ And what is the source of that love? A Thought Adjuster so devoted that even a h
 
 ## Principle 4
 
-> "All miracles mean life, and God is the Giver of life. His Voice will direct you very specifically. You will be told all you need to know." (Tx:1.4)
+> "All miracles mean life, and God is the Giver of life. His Voice will direct you very specifically. You will be told all you need to know." (acim oe txt 1.I.4)
 
 The Course says God's Voice will direct you very specifically. That Voice is the Thought Adjuster, God literally living within us. Jesus spent years perfecting his communication with his Adjuster during his life in the flesh. The Course is his summary of what he learned. The UB shows us how he did it. These two books complement each other because one teaches the method and the other shows the demonstration.
 
@@ -58,7 +58,7 @@ The Adjuster is already communicating with us, constantly. The challenge is lear
 
 ## Principle 5
 
-> "Miracles are habits and should be involuntary. They should not be under conscious control. Consciously selected miracles can be misguided." (Tx:1.5)
+> "Miracles are habits and should be involuntary. They should not be under conscious control. Consciously selected miracles can be misguided." (acim oe txt 1.I.5)
 
 The apostles learned this lesson the hard way. They tried to consciously perform a healing on a young boy and failed completely.
 
@@ -76,7 +76,7 @@ Notice Jesus uses the word "time-shorten" here, the same language the Course use
 
 ## Principle 6
 
-> "Miracles are natural. When they do not occur, something has gone wrong." (Tx:1.6)
+> "Miracles are natural. When they do not occur, something has gone wrong." (acim oe txt 1.I.6)
 
 This sounds bold until you consider our situation. Something has gone wrong on this planet. The Lucifer rebellion threw us out of step with the normal plan of creation. On a normal world, mortals do not experience the constant warfare between spirit and flesh that we do. Their ascent is more like an educational training than a battle. We have no way of knowing what life would look like on our world had the rebellion never happened. Miracles may well be the natural state we were designed for. Jesus showed us what is possible when nothing has gone wrong inside.
 
@@ -88,7 +88,7 @@ This sounds bold until you consider our situation. Something has gone wrong on t
 
 ## Principle 7
 
-> "Miracles are everyone's right, but purification is necessary first." (Tx:1.7)
+> "Miracles are everyone's right, but purification is necessary first." (acim oe txt 1.I.7)
 
 Not just for saints or special people. Everyone. But the channel has to be clear. Jesus made this point after the woman was healed by touching his garment. It was not superstition or magic that healed her. It was her "pure and living faith."
 
@@ -102,7 +102,7 @@ Jesus valued sincerity and a pure heart above almost everything else. Purificati
 
 ## Principle 8
 
-> "Miracles are [a form of] healing. They supply a lack, and they are performed by those who temporarily have more for those who temporarily have less." (Tx:1.8)
+> "Miracles are [a form of] healing. They supply a lack, and they are performed by those who temporarily have more for those who temporarily have less." (acim oe txt 1.I.8)
 
 The apostles discovered this firsthand in Jericho. Their message itself carried healing. By spending time with Jesus they had acquired something they could share, and those who received it were comforted and healed. They temporarily had more and gave freely to those who had less. That is the miracle in action.
 
@@ -112,7 +112,7 @@ The apostles discovered this firsthand in Jericho. Their message itself carried 
 
 ## Principle 9
 
-> "Miracles are a kind of exchange. Like all expressions of love, which are always miraculous in the true sense, the exchange reverses the physical laws. They bring more love both to the giver and the receiver." (Tx:1.9)
+> "Miracles are a kind of exchange. Like all expressions of love, which are always miraculous in the true sense, the exchange reverses the physical laws. They bring more love both to the giver and the receiver." (acim oe txt 1.I.9)
 
 In the material world, giving means you have less. In the spiritual world, giving means everyone has more. This is the reversal of physical laws the Course is describing. Jesus stated the same universal law plainly: to those who give, more is given. To those who hold back, even what they have is taken away. Love is not a fixed quantity. It multiplies through sharing.
 
@@ -122,7 +122,7 @@ In the material world, giving means you have less. In the spiritual world, givin
 
 ## Principle 10
 
-> "The use of miracles as spectacles to induce belief is wrong, or better, is a misunderstanding of their purpose. They are really used for and by believers." (Tx:1.10)
+> "The use of miracles as spectacles to induce belief is wrong, or better, is a misunderstanding of their purpose. They are really used for and by believers." (acim oe txt 1.I.10)
 
 Some critics say Jesus would never have authored a course about miracles because he did not want miracles used as spectacles. But this principle says exactly the same thing. Miracles are not for convincing skeptics. They are for believers. The UB agrees: spiritual experience is shared "for the edification and mutual satisfaction of believers," not to win arguments.
 
@@ -136,7 +136,7 @@ The proper relationship is to approach the miracle through Jesus, never the othe
 
 ## Principle 11
 
-> "Prayer is the medium of miracles. Prayer is the natural communication of the created with the Creator. Through prayer love is received, and through miracles love is expressed." (Tx:1.11)
+> "Prayer is the medium of miracles. Prayer is the natural communication of the created with the Creator. Through prayer love is received, and through miracles love is expressed." (acim oe txt 1.I.11)
 
 The Course describes a simple circuit: prayer connects us to God, love flows in, and miracles flow out. The UB describes the same circuit. When our will aligns with the Father's will through prayer, "what the true son desires and the infinite Father wills IS." Prayer is not begging. It is communion. And that communion is what opens the channel for miracles.
 
@@ -148,7 +148,7 @@ The Course describes a simple circuit: prayer connects us to God, love flows in,
 
 ## Principle 12
 
-> "Miracles are thoughts. Thoughts can represent lower-order or higher-order reality. This is the basic distinction between intellectualizing and thinking. One makes the physical and the other creates the spiritual, and we believe in what we make or create." (Tx:1.12)
+> "Miracles are thoughts. Thoughts can represent lower-order or higher-order reality. This is the basic distinction between intellectualizing and thinking. One makes the physical and the other creates the spiritual, and we believe in what we make or create." (acim oe txt 1.I.12)
 
 The Course draws a sharp line between two kinds of thought. Lower-order thought "makes" the physical. Higher-order thought "creates" the spiritual. The UB maps to this distinction. The seven adjutant mind spirits govern the lower mind where the ego lives. The superconscious mind is where we contact the Adjuster. Prayer is described as the bridge between them, inducing the ego to look upward toward the spiritual for inspiration and guidance.
 
@@ -158,7 +158,7 @@ The Course draws a sharp line between two kinds of thought. Lower-order thought 
 
 ## Principle 13
 
-> "Miracles are both beginnings and endings. They thus alter the temporal order. They are always affirmations of rebirth which seem to go back but really go forward. They undo the past in the present and thus release the future." (Tx:1.13)
+> "Miracles are both beginnings and endings. They thus alter the temporal order. They are always affirmations of rebirth which seem to go back but really go forward. They undo the past in the present and thus release the future." (acim oe txt 1.I.13)
 
 This is one of the more mysterious principles. How can something undo the past and release the future? The UB offers a clue. An immature mind sees only the present moment, cut off from past and future. A mature mind begins to see the wholeness of events, the panoramic view where past, present, and future are coordinated. From that higher perspective, a miracle can reach back and reframe the meaning of what happened, which changes what comes next. Forgiveness does exactly this. It undoes the past in the present and releases the future.
 
@@ -172,7 +172,7 @@ The human mind is not altogether bound by time. We already have access to someth
 
 ## Principle 14
 
-> "Miracles bear witness to truth. They are convincing because they arise from conviction. Without conviction they deteriorate into magic, which is mindless and therefore destructive, or rather the uncreative use of mind." (Tx:1.14)
+> "Miracles bear witness to truth. They are convincing because they arise from conviction. Without conviction they deteriorate into magic, which is mindless and therefore destructive, or rather the uncreative use of mind." (acim oe txt 1.I.14)
 
 Jesus said the same thing plainly: "Can you not see that the works I do in my Father's name bear witness for me?" His miracles were convincing because they came from total conviction, total alignment with the Father's will.
 
@@ -186,7 +186,7 @@ Without that conviction, miracles deteriorate into magic. The UB warns against t
 
 ## Principle 15
 
-> "Each day should be devoted to miracles. The purpose of time is to enable man to learn to use it constructively. Time is thus a teaching device and a means to an end. It will cease when it is no longer useful in facilitating learning." (Tx:1.15)
+> "Each day should be devoted to miracles. The purpose of time is to enable man to learn to use it constructively. Time is thus a teaching device and a means to an end. It will cease when it is no longer useful in facilitating learning." (acim oe txt 1.I.15)
 
 The Course says time will cease when it is no longer useful. The UB says the same thing with remarkable specificity. Time exists for the growth of God the Supreme. When all potentials in time and space are exhausted and the Supreme is complete, creature evolution as we know it will end. The Course calls this the completion of the Sonship. The UB calls it the emergence of the Almighty Supreme. Both say we will all arrive at that moment together. Time is the classroom. When the lesson is learned, the classroom closes.
 
@@ -198,7 +198,7 @@ The Course says time will cease when it is no longer useful. The UB says the sam
 
 ## Principle 16
 
-> "Miracles are teaching devices for demonstrating that it is more blessed to give than to receive. They simultaneously increase the strength of the giver and supply strength to the receiver." (Tx:1.16)
+> "Miracles are teaching devices for demonstrating that it is more blessed to give than to receive. They simultaneously increase the strength of the giver and supply strength to the receiver." (acim oe txt 1.I.16)
 
 Jesus never grew weary of this teaching. The UB records him saying "it is more blessed to give than to receive" five separate times. The Course identifies forgiveness as the ultimate gift. When we forgive, we give something that strengthens both giver and receiver. That is the miracle as teaching device: it shows us through direct experience that giving and receiving are the same.
 
@@ -208,7 +208,7 @@ Jesus never grew weary of this teaching. The UB records him saying "it is more b
 
 ## Principle 17
 
-> "Miracles are the transcendence of the body. They are sudden shifts into invisibility, away from a sense of lower-order reality. That is why they heal." (Tx:1.17)
+> "Miracles are the transcendence of the body. They are sudden shifts into invisibility, away from a sense of lower-order reality. That is why they heal." (acim oe txt 1.I.17)
 
 The Course says miracles shift us away from lower-order reality. The UB tells us what makes that shift possible. Human personality, indwelt by the Father's spirit, is the only physically related reality that can transcend the material sequence of temporal events. We are built for this transcendence. The miracle is the moment it happens.
 
@@ -218,7 +218,7 @@ The Course says miracles shift us away from lower-order reality. The UB tells us
 
 ## Principle 18
 
-> "A miracle is a service. It is the maximal service one individual can render another. It is a way of loving your neighbor as yourself. The doer recognizes his own and his neighbor's inestimable worth simultaneously." (Tx:1.18)
+> "A miracle is a service. It is the maximal service one individual can render another. It is a way of loving your neighbor as yourself. The doer recognizes his own and his neighbor's inestimable worth simultaneously." (acim oe txt 1.I.18)
 
 Jesus taught two fundamental laws: love for the Father and mutual love among the children. He said this quality of brotherly affection would "invariably manifest itself in unselfish and loving social service." The Course calls that service a miracle. When you truly recognize your own worth and your neighbor's worth at the same time, service is the natural result.
 
@@ -228,7 +228,7 @@ Jesus taught two fundamental laws: love for the Father and mutual love among the
 
 ## Principle 19
 
-> "[Miracles make Souls one in Christ.] They depend on cooperation because the Sonship is the sum of all the Souls God created. Miracles therefore rest on the laws of eternity, not of time." (Tx:1.19)
+> "[Miracles make Souls one in Christ.] They depend on cooperation because the Sonship is the sum of all the Souls God created. Miracles therefore rest on the laws of eternity, not of time." (acim oe txt 1.I.19)
 
 The Sonship in the Course is the sum of all souls God created. The Supreme in the UB is the sum total of all finite growth. These are the same concept described in different language. Miracles rest on the laws of eternity because they serve the completion of this grand whole. Every act of cooperation between souls moves the Sonship, the Supreme, closer to completion. No individual miracle is isolated. Each one contributes to the total.
 
@@ -240,7 +240,7 @@ The Sonship in the Course is the sum of all souls God created. The Supreme in th
 
 ## Principle 20
 
-> "Miracles reawaken the awareness that the spirit, not the body, is the altar of truth. This is the recognition that leads to the healing power of the miracle." (Tx:1.20)
+> "Miracles reawaken the awareness that the spirit, not the body, is the altar of truth. This is the recognition that leads to the healing power of the miracle." (acim oe txt 1.I.20)
 
 The Course says the spirit is the altar of truth. The UB says you are the temple of God and the spirit of God dwells in you. Same idea. But the UB adds something important: it is not enough that the spirit be poured out upon you. The divine Spirit must dominate and control every phase of human experience. The miracle reawakens this awareness. Healing follows when we remember where the altar actually is.
 
@@ -250,11 +250,11 @@ The Course says the spirit is the altar of truth. The UB says you are the temple
 
 ## Principle 21
 
-> "Miracles are natural expressions of total forgiveness. Through miracles, man accepts God's forgiveness by extending it to others." (Tx:1.21)
+> "Miracles are natural expressions of total forgiveness. Through miracles, man accepts God's forgiveness by extending it to others." (acim oe txt 1.I.21)
 
 The Course says we accept God's forgiveness by extending it to others. The UB says exactly the same thing: God has already forgiven you, but you cannot experience that forgiveness until you forgive your fellows. The forgiveness already exists. The miracle is when we pass it along. Each person we encounter is either full of love or lacking in love. When we see a lack, the natural response is to fill it, not to judge. That filling is forgiveness, and that forgiveness is the miracle.
 
-> "Where could your peace arise but from forgiveness? The Christ in you looks only on the truth and sees no condemnation that could need forgiveness. He is at peace because He sees no sin." (JCIM Tx:24.42)
+> "Where could your peace arise *but* from forgiveness? The Christ in you looks only on the truth and sees no condemnation that could *need* forgiveness. He is at peace *because* He sees no sin." (acim oe txt 24.VI.42)
 
 > "Even the forgiveness of sin operates in this same unerring fashion. The Father in heaven has forgiven you even before you have thought to ask him, but such forgiveness is not available in your personal religious experience until such a time as you forgive your fellow men. God's forgiveness in fact is not conditioned upon your forgiving your fellows, but in experience it is exactly so conditioned." (UB 146:2.4)
 
@@ -262,11 +262,11 @@ The Course says we accept God's forgiveness by extending it to others. The UB sa
 
 ## Principle 22
 
-> "Miracles are associated with fear only because of the fallacious belief that darkness can hide. Man believes that what he cannot see does not exist, and his physical eyes cannot see in the dark. This is a very primitive solution and has led to a denial of the Spiritual eye. The escape from darkness involves two stages: First, the recognition that darkness cannot hide. This step usually entails fear. Second, the recognition that there is nothing you want to hide, even if you could. This step brings escape from fear." (Tx:1.22-24)
+> "Miracles are associated with fear only because of the fallacious belief that darkness can hide. Man believes that what he cannot see does not exist, and his physical eyes cannot see in the dark. This is a very primitive solution and has led to a denial of the Spiritual eye. The escape from darkness involves two stages: First, the recognition that darkness cannot hide. This step usually entails fear. Second, the recognition that there is nothing you want to hide, even if you could. This step brings escape from fear." (acim oe txt 1.I.22-24)
 
 The source of fear in this principle is the belief that we can hide our thoughts. The Course states directly that there are no private thoughts, and admits this idea is rarely welcome at first.
 
-> "Today we are again emphasizing the fact that minds are joined. This is rarely a wholly welcome idea at first, since it seems to carry with it an enormous sense of responsibility and may even be regarded as an 'invasion of privacy.' Yet it is a fact that there are no private thoughts. Despite your initial resistance to this idea, you will yet understand that it must be true if salvation is possible at all. And salvation must be possible because it is the Will of God." (JCIM W1:19.2)
+> "Today we are again emphasizing the fact that minds are joined. This is rarely a wholly welcome idea at first, since it seems to carry with it an enormous sense of responsibility and may even be regarded as an 'invasion of privacy.' Yet it is a fact that there are no private thoughts. Despite your initial resistance to this idea, you will yet understand that it must be true if salvation is possible at all. And salvation must be possible because it is the Will of God." (acim oe wrk 19.2)
 
 The UB confirms this. There are beings in the universe who read every hidden motive of the human heart. Our Adjusters and angels are keenly aware of our thoughts. Darkness cannot hide anything. The first step is recognizing that, which brings fear. The second step is realizing you have nothing you need to hide. That is where fear ends.
 
@@ -276,7 +276,7 @@ The UB confirms this. There are beings in the universe who read every hidden mot
 
 ## Principle 23
 
-> "Miracles rearrange perception and place the levels of perception in true perspective. This heals at all levels because sickness comes from confusing the levels." (Tx:1.25)
+> "Miracles rearrange perception and place the levels of perception in true perspective. This heals at all levels because sickness comes from confusing the levels." (acim oe txt 1.I.25)
 
 The UB describes multiple levels of mind: mechanical mind, the seven adjutants, the Holy Spirit, the Spirit of Truth, and cosmic mind. Sickness comes from confusing these levels, from treating lower-order perception as though it were higher-order knowledge. The miracle rearranges our perception and puts the levels back in order.
 
@@ -288,7 +288,7 @@ Some UB readers object when the Course calls time an illusion. But the UB itself
 
 ## Principle 24
 
-> "Miracles enable man to heal the sick and raise the dead, because he made sickness and death himself and can abolish both. You are a miracle, capable of creating in the likeness of your Creator. Everything else is only your own nightmare and does not exist. Only the creations of light are real." (Tx:1.27)
+> "Miracles enable man to heal the sick and raise the dead, because he made sickness and death himself and can abolish both. You are a miracle, capable of creating in the likeness of your Creator. Everything else is only your own nightmare and does not exist. Only the creations of light are real." (acim oe txt 1.I.27)
 
 The claim that man "made sickness and death himself" does not have a clean parallel in the Urantia Book. Disease and mortality are part of evolutionary life. Humans did not create them. But the principle contains deeper truths that do align when we look at what Jesus actually demonstrated.
 
@@ -312,7 +312,7 @@ The principle puts healing squarely in the realm of the mind. The UB confirms th
 
 ## Principle 25
 
-> "Miracles are part of an interlocking chain of forgiveness which, when completed, is the Atonement. This process works all the time and in all the dimensions of time." (Tx:1.28)
+> "Miracles are part of an interlocking chain of forgiveness which, when completed, is the Atonement. This process works all the time and in all the dimensions of time." (acim oe txt 1.I.28)
 
 The Course gives Jesus' own explanation of Atonement: "The purpose of my part in the Atonement is the canceling out of all lacks of love which men could not otherwise correct. The word 'sin' should be changed to 'lack of love' because 'sin' is a man-made word with threat connotations which he made up himself."
 

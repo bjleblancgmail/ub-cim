@@ -18,11 +18,11 @@ The Urantia Book gives us the most detailed portrait of Jesus ever written. We w
 
 A Course in Miracles gives us a voice. A first-person teacher who speaks with intimate knowledge of the human condition, who describes his own journey in terms that echo the biography:
 
-> "My lesson was like yours, and because I learned it, I can teach it." (JCIM, Tx 4.9)
+> "My lesson was like yours, and because I learned it, I can teach it." (acim oe txt 4.II.9)
 
-> "I was a man who remembered the Soul and its knowledge." (JCIM, Tx 3.48)
+> "I was a man who remembered the Soul and its knowledge." (acim oe txt 3.VI.48)
 
-> "I elected, both for your sake AND mine, to demonstrate that the most outrageous assault, as judged by the ego, did not matter." (JCIM, T 6 B 10)
+> "I elected both for your sake *and* mine to demonstrate that the most outrageous assault as judged by the ego did not matter." (acim oe txt 6.II.13)
 
 This is not the voice of abstract theology. This is someone reflecting on what he lived through. Someone who was tempted, who struggled, who made what he calls "slips into impatience," and who found his way to a clarity so complete that he could not stop teaching what he had learned.
 

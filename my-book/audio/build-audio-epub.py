@@ -17,21 +17,22 @@ CHAPTERS_DIR = os.path.join(BASE_DIR, 'chapters')
 APPENDICES_DIR = os.path.join(BASE_DIR, 'appendices')
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Ordered list of source files (new 14-chapter structure)
+# Ordered list of source files (13-chapter structure)
 CHAPTER_FILES = [
     ('chapters', 'introduction.md'),
-    ('chapters', 'chapter-01-central-thesis-fusion-between-father-and-son.md'),
-    ('chapters', 'chapter-02-the-two-revelations.md'),
-    ('chapters', 'chapter-03-terminology-bridge.md'),
+    ('chapters', 'chapter-01-the-two-revelations.md'),
+    ('chapters', 'chapter-02-terminology-bridge.md'),
+    ('chapters', 'chapter-03-central-thesis-fusion-between-father-and-son.md'),
     ('chapters', 'chapter-04-sonship-supreme.md'),
     ('chapters', 'chapter-05-what-is-real.md'),
-    ('chapters', 'chapter-06-miracles-and-time.md'),
-    ('chapters', 'chapter-07-forgiveness-mercy-vs-love.md'),
-    ('chapters', 'chapter-08-the-architecture-of-mind.md'),
-    ('chapters', 'chapter-09-lucifer-rebellion-why-we-suffer.md'),
-    ('chapters', 'chapter-10-the-atonement-and-the-crucifixion.md'),
-    ('chapters', 'chapter-11-from-here-to-paradise.md'),
-    ('chapters', 'chapter-12-the-jesus-both-books-reveal.md'),
+    ('chapters', 'chapter-06-what-survives.md'),
+    ('chapters', 'chapter-07-miracles-and-time.md'),
+    ('chapters', 'chapter-08-forgiveness-mercy-vs-love.md'),
+    ('chapters', 'chapter-09-the-architecture-of-mind.md'),
+    ('chapters', 'chapter-10-lucifer-rebellion-why-we-suffer.md'),
+    ('chapters', 'chapter-11-the-atonement-and-the-crucifixion.md'),
+    ('chapters', 'chapter-12-from-here-to-paradise.md'),
+    ('chapters', 'chapter-13-the-jesus-both-books-reveal.md'),
     ('appendices', 'appendix-a-terminology-mapping-v2.md'),
     ('appendices', 'appendix-b-parallels-condensed.md'),
     ('appendices', 'appendix-c-miracle-principles.md'),

@@ -1,4 +1,4 @@
-# Chapter 1: Central Thesis: Fusion Between Father and Son
+# Chapter 3: Central Thesis: Fusion Between Father and Son
 
 ## Section 1: Opening
 

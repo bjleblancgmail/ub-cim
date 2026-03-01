@@ -1,4 +1,4 @@
-# Chapter 10: The Atonement and the Crucifixion
+# Chapter 11: The Atonement and the Crucifixion
 
 **STATUS: COMPLETE**
 

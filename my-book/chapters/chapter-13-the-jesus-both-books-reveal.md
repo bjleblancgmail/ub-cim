@@ -1,4 +1,4 @@
-# Chapter 12: The Jesus Both Books Reveal
+# Chapter 13: The Jesus Both Books Reveal
 
 **STATUS: COMPLETE**
 
@@ -238,7 +238,7 @@ The human mind was not erased. It was present. But it had been so thoroughly ali
 
 > "I have told you before that I am in charge of the whole Atonement. This is *only* because I completed my part in it as a man and can now complete it through other men. My chosen receiving and sending channels cannot fail because I will lend them *my* strength as long as theirs is wanting." (acim oe txt 4.VII.89)
 
-In Chapter 1, we read Jesus' statement that he is our model for decision, that by deciding for God he showed us the decision can be made. What this chapter adds is the biography behind that statement: the thirty years of decisions, each one small, each one building on the last, that made the final decision at Mount Hermon and in the Jordan possible. The model for decision was forged in a carpenter's shop, in a family of eight siblings, in the long silence of a mind learning to hear.
+In Chapter 3, we read Jesus' statement that he is our model for decision, that by deciding for God he showed us the decision can be made. What this chapter adds is the biography behind that statement: the thirty years of decisions, each one small, each one building on the last, that made the final decision at Mount Hermon and in the Jordan possible. The model for decision was forged in a carpenter's shop, in a family of eight siblings, in the long silence of a mind learning to hear.
 
 ---
 
@@ -274,7 +274,7 @@ And then Gethsemane was over. Judas came with the soldiers, and the betrayal the
 
 Then the cross.
 
-We covered the theology of the crucifixion in Chapter 10: not payment, not punishment, but demonstration. What this section offers is something different: the personal experience. What was the man on the cross thinking? What was he feeling? The Course gives us his inner voice at the most extreme moment of human existence.
+We covered the theology of the crucifixion in Chapter 11: not payment, not punishment, but demonstration. What this section offers is something different: the personal experience. What was the man on the cross thinking? What was he feeling? The Course gives us his inner voice at the most extreme moment of human existence.
 
 > "I *was* persecuted as the world judges and did *not* share this evaluation for myself. And because I did not share it, I did not *strengthen* it. I therefore offered a *different* interpretation of attack and one which I *do* want to share with you." (acim oe txt 6.II.8)
 
@@ -300,7 +300,7 @@ And this was not a lesson for martyrs. The Course is explicit:
 
 > "I undertook to show this was true in a very extreme case merely because it would serve as a good teaching aid to those whose temptations to give in to anger and assault would *not* be so extreme." (acim oe txt 6.II.15)
 
-A teaching aid. He went through the worst so that we would not have to. He demonstrated the principle at the extreme so that we could trust it in the ordinary. As Chapter 10 explored, the message of the crucifixion is this: teach only love, for that is what you are. He proved it with his life. He sealed it with his death.
+A teaching aid. He went through the worst so that we would not have to. He demonstrated the principle at the extreme so that we could trust it in the ordinary. As Chapter 11 explored, the message of the crucifixion is this: teach only love, for that is what you are. He proved it with his life. He sealed it with his death.
 
 ---
 

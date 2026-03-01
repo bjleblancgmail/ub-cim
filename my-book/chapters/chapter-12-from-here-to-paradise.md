@@ -1,4 +1,4 @@
-# Chapter 11: From Here to Paradise
+# Chapter 12: From Here to Paradise
 
 **STATUS: COMPLETE**
 

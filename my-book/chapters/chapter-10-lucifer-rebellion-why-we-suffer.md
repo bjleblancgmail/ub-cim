@@ -1,4 +1,4 @@
-# Chapter 9: The Lucifer Rebellion and Why We Suffer
+# Chapter 10: The Lucifer Rebellion and Why We Suffer
 
 **STATUS: COMPLETE**
 

@@ -1,4 +1,4 @@
-# Chapter 6: Miracles and Time
+# Chapter 7: Miracles and Time
 
 **STATUS: DRAFT**
 

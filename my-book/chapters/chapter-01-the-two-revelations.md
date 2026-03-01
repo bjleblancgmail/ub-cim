@@ -1,4 +1,4 @@
-# Chapter 2: The Two Revelations
+# Chapter 1: The Two Revelations
 
 **STATUS: DRAFT**
 

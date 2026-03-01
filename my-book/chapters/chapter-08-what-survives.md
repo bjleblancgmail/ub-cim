@@ -1,4 +1,4 @@
-# Chapter 6: What Survives?
+# Chapter 8: What Survives?
 
 **STATUS: DRAFT**
 

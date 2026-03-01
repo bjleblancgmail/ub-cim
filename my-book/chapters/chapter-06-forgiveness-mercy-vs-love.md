@@ -1,4 +1,4 @@
-# Chapter 8: Forgiveness - Mercy vs Love
+# Chapter 6: Forgiveness - Mercy vs Love
 
 **STATUS: DRAFT**
 

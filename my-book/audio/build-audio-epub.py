@@ -20,7 +20,7 @@ OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
 # Ordered list of source files (new 14-chapter structure)
 CHAPTER_FILES = [
     ('chapters', 'introduction.md'),
-    ('chapters', 'chapter-01-central-thesis.md'),
+    ('chapters', 'chapter-01-central-thesis-fusion-between-father-and-son.md'),
     ('chapters', 'chapter-02-the-two-revelations.md'),
     ('chapters', 'chapter-03-terminology-bridge.md'),
     ('chapters', 'chapter-04-sonship-supreme.md'),

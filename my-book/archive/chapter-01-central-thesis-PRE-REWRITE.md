@@ -1,4 +1,4 @@
-# Chapter 1: The Central Thesis: A Course in Adjuster Fusion
+# Chapter 1: Central Thesis: Fusion Between Father and Son
 
 ## Section 1: Opening
 
@@ -22,8 +22,6 @@ Three times the Course uses the word "fuse" or "fusing." Three times it describe
 
 *A Course in Miracles* speaks from the destination. From eternity looking back, the dream is not real, the separation never occurred, and love is all there is. This is the view from the mountaintop. It is true. But standing at the base of the mountain, it can sound impossibly abstract. *The Urantia Book* speaks from the trail. It says: here are the levels you will pass through, and at each one, what counts as "real" shifts. The Course gives you the wake-up call: you are dreaming, and you can awaken. The Urantia Book gives you the terrain: here is where you are in the dream, and here is what changes at each stage as you wake up. The Course answers: *What is true?* The Urantia Book answers: *How do I get there from here?*
 
-The sections that follow will trace this connection in detail: the miracle, the spark, the transfer, the bridge, and the crossing.
-
 ---
 
 ## Section 2: The Miracle as Fusion
@@ -38,7 +36,7 @@ Read that carefully. The miracle is not *like* fusion. The miracle *is* fusion: 
 
 The Urantia Book says the same thing without the word "miracle":
 
-> "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God."
+> "When your will has been truly aligned with his, you can ask anything conceived by that will-union, and it will be granted." (UB 180:2.4)
 
 And the Urantia Book makes explicit what happens when this alignment occurs:
 

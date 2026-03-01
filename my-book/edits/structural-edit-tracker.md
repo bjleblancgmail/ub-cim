@@ -14,7 +14,7 @@
 | Ch | Title | Status | Words (est.) |
 |----|-------|--------|-------------|
 | Intro | Introduction | unchanged | ~1,035 |
-| 1 | The Central Thesis: A Course in Adjuster Fusion | promoted from old Ch 6 | ~7,073 |
+| 1 | Central Thesis: Fusion Between Father and Son | promoted from old Ch 6 | ~7,073 |
 | 2 | The Two Revelations | **COMBINED from old Ch 2+3+4; Wapnick softened** | ~3,200 |
 | 3 | The Terminology Bridge | **RENUMBERED from Ch 5; cross-refs updated** | ~3,368 |
 | 4 | The Sonship / God the Supreme | **RENUMBERED from Ch 6** | ~2,711 |

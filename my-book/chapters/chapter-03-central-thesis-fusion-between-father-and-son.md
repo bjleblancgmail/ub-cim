@@ -14,7 +14,7 @@ This is not an isolated line. The Course returns to this language:
 
 > "Alone we can do nothing, but *together* our wills fuse into something whose power is far beyond the power of its separate parts. By *not being separate*, the Will of God is established *in* ours and *as* ours." (acim oe txt 8.V.36)
 
-And again:
+And the Course again:
 
 > "Seeing with Him will show you that all meaning, including *yours*, comes not from double vision but from the gentle fusing of everything into *one* meaning, *one* emotion, and *one* purpose." (acim oe txt 14.IV.31)
 
@@ -74,7 +74,7 @@ Try reading the Course's statements about the Soul with "Adjuster" substituted. 
 
 > "The Soul never loses its communion with God." (acim oe txt 1.I.45)
 
-The Adjuster never loses its communion with God. Of course not. It *is* God.
+The Adjuster never loses its communion with God. Of course not. It *is* God. The Course also says:
 
 > "Each Soul knows God completely." (acim oe txt 3.VII.59)
 
@@ -152,7 +152,7 @@ If fusion does not happen in this life, the journey continues. The Urantia Book 
 
 > "On mansion world number one you will resume your intellectual training and spiritual development at the exact level whereon they were interrupted by death." (UB 47:3.7)
 
-Nothing is lost. You pick up exactly where you left off. And those who did not have the chance to complete the journey in the flesh are given extended opportunity:
+Nothing is lost. You pick up exactly where you left off. And the Urantia Book says those who did not have the chance to complete the journey in the flesh are given extended opportunity:
 
 > "Those mortals who fail to achieve fusion with their indwelling Adjusters during the life in the flesh are rehabilitated in transient form to receive further help and to enjoy extended opportunity for continuing their strivings for spiritual attainment, those very efforts which were prematurely interrupted by death." (UB 45:7.1)
 
@@ -244,7 +244,7 @@ No strain. The struggle is not in the doing. The struggle is in the divided will
 
 The ideal life is one of loving service. Not fearful apprehension. Both books teach this: the journey toward fusion is meant to be joyful.
 
-But if the path is joyful and the destination is glorious, why does it seem so difficult? Because there is an obstacle, and both books name it: fear.
+But if the path is joyful and the destination is glorious, why does it seem so difficult? Because there is an obstacle, and both books name it: fear. The Course says:
 
 > "What seems to be the fear of God is really only the fear *of your own reality.*" (acim oe txt 8.X.90)
 
@@ -314,7 +314,7 @@ The Urantia Book confirms that God has already moved toward you:
 
 Your seeking is not the beginning of the journey. It is the proof that God began it first. Every impulse toward truth, every hunger for meaning, every moment you turned toward the light: these were not your ideas alone. They were evidence that God had already found you.
 
-And when the journey reaches its culmination, it is the Father who completes it:
+And when the journey reaches its culmination, it is the Father who completes it. The Urantia Book says:
 
 > "With Adjuster fusion the Universal Father has completed his promise of the gift of himself to his material creatures; he has fulfilled the promise, and consummated the plan." (UB 112:7.14)
 

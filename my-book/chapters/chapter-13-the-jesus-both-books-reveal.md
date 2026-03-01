@@ -248,7 +248,7 @@ Everything the previous sections have described was preparation: the slow buildi
 
 Everything the book has explored converges on a garden and a cross.
 
-Begin with Gethsemane. The night is dark. The apostles are supposed to be keeping watch, but they have fallen asleep. Jesus is alone.
+Begin with Gethsemane. The night is dark. The apostles are supposed to be keeping watch, but they have fallen asleep. Jesus is alone. The Urantia Book describes the scene:
 
 > "After all was still and quiet about the camp, Jesus, taking Peter, James, and John, went a short way up a near-by ravine where he had often before gone to pray and commune... And when he had fallen down on his face, he prayed: 'My Father, I came into this world to do your will, and so have I. I know that the hour has come to lay down this life in the flesh, and I do not shrink therefrom, but I would know that it is your will that I drink this cup.'"
 
@@ -258,7 +258,7 @@ What follows is the human struggle at its most intense. The Urantia Book pulls t
 
 > "His human heart longed to find out whether there might not possibly be some legitimate avenue of escape from this terrible plight of suffering and sorrow. And when it had thus sought escape, and failed, it was willing to drink the cup. The divine mind of Michael knew he had done his best for the twelve apostles; but the human heart of Jesus wished that more might have been done for them before they should be left alone in the world. Jesus' heart was being crushed; he truly loved his brethren."
 
-The divine mind knew. The human heart wished. Two perspectives in one person, both true, both present. The mind steady, the heart breaking. And the resolution came not by suppressing the human but by the human choosing freely:
+The divine mind knew. The human heart wished. Two perspectives in one person, both true, both present. The mind steady, the heart breaking. And the resolution came not by suppressing the human but by the human choosing freely. The Urantia Book says:
 
 > "Before Judas and the soldiers arrived, the Master had fully regained his customary poise; the spirit had triumphed over the flesh; faith had asserted itself over all human tendencies to fear or entertain doubt."
 
@@ -278,13 +278,13 @@ We covered the theology of the crucifixion in Chapter 11: not payment, not punis
 
 > "I *was* persecuted as the world judges and did *not* share this evaluation for myself. And because I did not share it, I did not *strengthen* it. I therefore offered a *different* interpretation of attack and one which I *do* want to share with you." (acim oe txt 6.II.8)
 
-He was persecuted. He does not deny it. But he did not share the evaluation. He saw it and chose not to identify with it. The world called it persecution; he called it something else. And by choosing a different interpretation, he demonstrated that the interpretation we choose is the one that becomes real for us.
+He was persecuted. He does not deny it. But he did not share the evaluation. He saw it and chose not to identify with it. The world called it persecution; he called it something else. And by choosing a different interpretation, he demonstrated that the interpretation we choose is the one that becomes real for us. The Course continues:
 
 > "I elected both for your sake *and* mine to demonstrate that the most outrageous assault as judged by the ego did not matter." (acim oe txt 6.II.13)
 
 For your sake and mine. Not only for ours. For his own. He needed to demonstrate it to himself as much as to us. The crucifixion was not theater performed for an audience. It was a man testing the truth of everything he had learned, in the most extreme conditions imaginable, and finding that it held.
 
-Every principle this book has explored was alive in that moment. Forgiveness: he forgave Judas, the soldiers, the sleeping apostles. Not as a gesture, but as a recognition that there was nothing to forgive:
+Every principle this book has explored was alive in that moment. Forgiveness: he forgave Judas, the soldiers, the sleeping apostles. Not as a gesture, but as a recognition that there was nothing to forgive. In the Course, Jesus says:
 
 > "Judas was my brother and a Son of God, as much a part of the Sonship as myself. Was it likely that I would condemn him when I was ready to demonstrate that condemnation is impossible?" (acim oe txt 6.II.21)
 
@@ -372,7 +372,7 @@ Nothing you cannot attain. Not because the journey was easy, but because the mea
 
 Two revelations, one story. The Urantia Book tells us what the earning looked like: seven bestowals across a billion years, culminating in a carpenter's shop and a mountain and a river. The Course tells us what the earning felt like from the inside: a decision, made fully, held completely, that aligned one will with another until they were indistinguishable.
 
-And the invitation, extended through both revelations, is the same:
+And the invitation, extended through both revelations, is the same. The Course says:
 
 > "My only gift to you is to help you make the same decision *for yourself*." (acim oe txt 5.IV.27)
 
@@ -392,6 +392,8 @@ And what was achieved was the full flowering of the Soul, what the Urantia Book 
 
 > "The Soul is beyond humility because it recognizes its radiance and gladly sheds its light everywhere." (acim oe txt 4.II.19)
 
+And:
+
 > "The Kingdom of Heaven is the *right* of the Soul, whose beauty and dignity are far beyond doubt, beyond perception, and stand forever as the mark of the Love of God for His creations." (acim oe txt 4.II.19)
 
 This is what the Adjuster preserved. Not facts, not memories, but radiance. Beauty. Dignity. The mark of God's love, exhausted to its fullest in a commonplace life. And this Soul does not rest quietly. It reaches. The Course says:
@@ -406,13 +408,13 @@ And that life, the Urantia Book insists, was commonplace. Not extraordinary in i
 
 This is the hidden thesis of the entire chapter, the truth the Urantia Book states quietly and the Course confirms from the other side: Jesus became more real as he grew. Not less human, not more detached, not more abstract. More real. More present. More fully what a person can be. Year by year, decision by decision, from the silent arrival of the Adjuster to the final prayer in the garden, he was becoming the most real person who ever lived.
 
-And then he left a Course.
+And then he left a Course. In it, he says:
 
 > "I cannot forget my need to teach what I have learned, which arose in me *because* I learned it. I call upon you to teach what you have learned, because by so doing *you* can depend on it." (acim oe txt 5.VI.54)
 
 He learned it. In the carpenter's shop and at the temple. In the years of silence and the years of clarity. In the garden and on the cross. He learned it, and the learning created in him a compulsion to teach that cannot be forgotten and will not be withdrawn.
 
-The Course did not come from a textbook. It came from a life.
+The Course did not come from a textbook. It came from a life. And in it, Jesus says:
 
 > "There is nothing about me that *you* cannot attain. I have nothing that does not come from God. The main difference between us as yet is that I have *nothing else*." (acim oe txt 1.I.78)
 

@@ -28,13 +28,13 @@ In the very same passage:
 
 > "In the case of an Adjuster-indwelt personality, the experiential spirit values survive in the reality of the continuing Adjuster." (UB 2:3.4)
 
-The Adjuster carries forward everything of spiritual worth from that life. From the eternal perspective, nothing of value is lost. The book makes this astonishingly clear:
+The Adjuster carries forward everything of spiritual worth from that life. From the eternal perspective, nothing of value is lost. The Urantia Book makes this astonishingly clear:
 
 > "Adjusters never fail; nothing worth surviving is ever lost; every meaningful value in every will creature is certain of survival, irrespective of the survival or nonsurvival of the meaning-discovering or evaluating personality. And so it is, a mortal creature may reject survival; still the life experience is not wasted; the eternal Adjuster carries the worth-while features of such an apparent life of failure over into some other world and there bestows these surviving meanings and values upon some higher type of mortal mind, one of survival capacity." (UB 109:6.1)
 
 Nothing worth surviving is ever lost. The Adjuster takes every meaningful experience and brings it to someone who will use it. The life was not wasted. The values persist.
 
-And the personality itself? Even the personality is not destroyed in the way most readers assume:
+And the personality itself? The Urantia Book teaches that even the personality is not destroyed in the way most readers assume:
 
 > "Having appeared in response to the Father's will, personality will attain Deity destiny, but man must choose whether or not he will be present at the attainment of such destiny. In default of such choice, personality attains experiential Deity directly, becoming a part of the Supreme Being. The cycle is foreordained, but man's participation therein is optional, personal, and experiential." (UB 112:5.2)
 
@@ -46,7 +46,7 @@ The Urantia Book describes the cost in terms of the Supreme, the experiential Go
 
 Inescapable delay. A deprivation. The Supreme is held back. But the delay is compensated. Another creature, in another time, will contribute what this creature did not. The Supreme will reach completion. Nothing real is permanently lost from the eternal perspective.
 
-What is lost? Only this: a unique identity in time. The particular person, with their particular history, their particular relationships, their particular way of knowing God. That specific expression of the divine plan will not appear again:
+What is lost? Only this: a unique identity in time. The particular person, with their particular history, their particular relationships, their particular way of knowing God. The Urantia Book says that specific expression of the divine plan will not appear again:
 
 > "The Supreme will again find expression in the creatures of the universes but never again as that particular person; the unique personality of a nonascender returns to the Supreme as a drop of water returns to the sea." (UB 117:4.4)
 
@@ -104,11 +104,11 @@ The Course defines the word "atone" with striking simplicity:
 
 > "Note that the word 'atone' really means 'undo.'" (acim oe txt 1.I.23)
 
-The Atonement is not punishment. It is not sacrifice. It is undoing. And what is undone is the past:
+The Atonement is not punishment. It is not sacrifice. It is undoing. The Course says what is undone is the past:
 
 > "The Atonement is the device by which he can free himself from the past as he goes ahead. It UNDOES his past errors, thus making it unnecessary for him to keep retracing his steps without advancing toward his return." (acim oe txt 2.II.47)
 
-And the purpose of this undoing? To preserve what was real while letting go of what was not:
+And the purpose of this undoing? The Course answers:
 
 > "The purpose of the Atonement is to save the past in PURIFIED form only." (acim oe txt 5.VI.49)
 

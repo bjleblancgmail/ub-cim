@@ -32,7 +32,7 @@ The Course in Miracles describes the same blindness from the other side:
 
 > "The inappropriate emphasis men have put on beautiful church buildings is a sign of their *fear* of Atonement and their unwillingness to reach the altar itself. The *real* beauty of the temple cannot be seen with the physical eye. The Spiritual eye, on the other hand, cannot see the building at all because it has perfect sight. It *can*, however, see the altar with *perfect* clarity." (acim oe txt 2.II.45)
 
-Two witnesses saying the same thing. The Urantia Book's celestial author cannot see the material building. The Course's spiritual eye cannot see it either. Not because spirit is blind, but because spirit sees what is real, and material structures are not it. The physical eye sees the building and misses the altar. The spiritual eye sees the altar and misses the building. What you see depends on which eyes you are using.
+Two witnesses saying the same thing. The Urantia Book's celestial author cannot see the material building. The Course's spiritual eye cannot see it either. Not because spirit is blind, but because spirit sees what is real, and material structures are not it. The physical eye sees the building and misses the altar. The spiritual eye sees the altar and misses the building. What you see depends on which eyes you are using. The Course urges:
 
 > "Then try to go past all the unreal thoughts that cover the truth in your mind, and reach to the eternal." (acim oe wrk 45.8)
 
@@ -124,7 +124,7 @@ Jesus walked through the material world without being deceived by it. He used it
 
 ## Section 4: What Makes You Real
 
-If the material is shadow, what makes *you* real? Both books answer with a single word: identification.
+If the material is shadow, what makes *you* real? Both books answer with a single word: identification. The Urantia Book says:
 
 > "Only as a creature becomes God-identified, does he become truly real in the universes." (UB 118:7.5)
 
@@ -332,7 +332,7 @@ The Urantia Book offers the final assurance:
 
 Spirit taught. Spirit led. This is the transformation, not a single dramatic moment, but a gradual turning, a slow shift of identification from what passes to what remains. You are in that process now. Every choice toward love, every recognition of truth, every moment you remember what you really are, these are the adjustments. These are the transformations.
 
-You do not need to be perfect. You need to be willing.
+You do not need to be perfect. You need to be willing. The Urantia Book says:
 
 > "The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God." (UB 111:5.1)
 

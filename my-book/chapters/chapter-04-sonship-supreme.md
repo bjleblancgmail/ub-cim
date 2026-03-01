@@ -20,7 +20,7 @@ In traditional Christianity, "the Son" usually means Jesus, the only-begotten, u
 
 > "If all the Souls God created *are* His Sons, then every Soul *must* be an integral part of the whole Sonship." (acim oe txt 2.V.101)
 
-Every soul is a part. No part is separate. No part is complete without the others. The structure of reality itself is at stake here: we are literally joined.
+Every soul is a part. No part is separate. No part is complete without the others. The structure of reality itself is at stake here: we are literally joined. The Course continues:
 
 > "Miracles make [Souls one in Christ]. They depend on cooperation because the Sonship is the sum of all the Souls God created." (acim oe txt 1.I.19)
 
@@ -108,7 +108,7 @@ The Course in Miracles teaches the same:
 
 > "Your brother is the mirror in which you will see the image of yourself as long as perception lasts. And perception *will* last until the Sonship knows itself as whole." (acim oe txt 7.VIII.73)
 
-Perception ends when the Sonship knows itself as whole. Not when *you* know it, when *the Sonship* knows it. The whole must awaken for perception to end completely.
+Perception ends when the Sonship knows itself as whole. Not when *you* know it, when *the Sonship* knows it. The whole must awaken for perception to end completely. The Course continues:
 
 > "So do the parts of God's Son gradually join in time, and with each joining is the end of time brought nearer." (acim oe txt 20.VI.37)
 
@@ -196,7 +196,7 @@ You fuse with your Adjuster, mortal personality united with divine spirit. The S
 
 Your fusion is personal: you and your Adjuster become one. The Supreme's fusion is collective: the spirit person of God and the gathered power of all evolution become one. As you fuse, so fuses the Supreme. The individual mirrors the whole.
 
-To the Father, you are an individual son, making a personal journey. To the Supreme, you are part of One Son, the whole Sonship, awakening together.
+To the Father, you are an individual son, making a personal journey. To the Supreme, you are part of One Son, the whole Sonship, awakening together. The Course says:
 
 > "So do the parts of God's Son gradually join in time, and with each joining is the end of time brought nearer." (acim oe txt 20.VI.37)
 

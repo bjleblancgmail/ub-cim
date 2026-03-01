@@ -24,6 +24,8 @@ The Course describes the soul as unalterable, already perfect, and beyond the ne
 
 > "The Soul is in a state of grace forever. Man's reality is *only* his Soul. Therefore, man is in a state of grace forever." (acim oe txt 1.I.52)
 
+And:
+
 > "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve." (acim oe txt 1.I.68)
 
 The Urantia Book explains why. What the Course calls the soul corresponds to the Thought Adjuster, the divine fragment indwelling every normal human mind. And the Urantia Book makes a staggering claim about what this fragment is: "They are of God, and as far as we are able to discern, they are God." (UB 107:1.2) Not a gift from God. God himself, fragmentized and indwelling. This is why the soul is unalterable. What is God cannot become un-Godlike.

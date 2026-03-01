@@ -28,11 +28,11 @@ The Urantia Book describes the same arrangement:
 
 > "If one is disposed to recognize a theoretical subconscious mind as a practical working hypothesis in the otherwise unified intellectual life, then, to be consistent, one should postulate a similar and corresponding realm of ascending intellectual activity as the superconscious level, the zone of immediate contact with the indwelling spirit entity, the Thought Adjuster." (UB 100:5.6)
 
-Both texts identify the superconscious as the zone of divine contact. And both are clear that consciousness sits between these two systems, receiving from both.
+Both texts identify the superconscious as the zone of divine contact. And both are clear that consciousness sits between these two systems, receiving from both. The Urantia Book continues:
 
 > "Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious." (UB 111:1.5)
 
-Here is the critical point: consciousness does not create. It receives, interprets, and chooses. The creative impulses come from elsewhere.
+Here is the critical point: consciousness does not create. It receives, interprets, and chooses. The creative impulses come from elsewhere. The Urantia Book says:
 
 > "The human mind does not create real values; human experience does not yield universe insight. Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose." (UB 196:3.10)
 
@@ -58,7 +58,7 @@ The spiritual journey involves moving beyond the ego, not by destroying it, but 
 
 > "From the seventh to the third circle there occurs increased and unified action of the seven adjutant mind-spirits in the task of weaning the mortal mind from its dependence on the realities of the material life mechanisms preparatory to increased introduction to morontia levels of experience. From the third circle onward the adjutant influence progressively diminishes." (UB 110:6.20)
 
-As you progress, you rely less on the perceiving mind and more on the higher mind circuits. And there is a finish line:
+As you progress, you rely less on the perceiving mind and more on the higher mind circuits. And the Urantia Book describes the finish line:
 
 > "The mastery of the first cosmic circle signalizes the attainment of premorontia mortal maturity and marks the termination of the conjoint ministry of the adjutant mind-spirits as an exclusive influence of mind action in the human personality. Beyond the first circle, mind becomes increasingly akin to the intelligence of the morontia stage of evolution." (UB 110:6.21)
 
@@ -78,7 +78,7 @@ The Course is blunt:
 
 > "The way *out* of conflict between two opposing thought systems is clearly *to choose one* and *relinquish the other.* If you *identify* with your thought system, and you cannot escape this, and if you accept two thought systems which are in *complete* disagreement, peace of mind *is* impossible." (acim oe txt 6.Vb.75)
 
-Peace of mind is impossible. As long as you try to live in both systems, serving the ego sometimes and the spirit sometimes, you will experience conflict. The two systems are incompatible. They cannot be reconciled. One must be chosen.
+Peace of mind is impossible. As long as you try to live in both systems, serving the ego sometimes and the spirit sometimes, you will experience conflict. The two systems are incompatible. They cannot be reconciled. One must be chosen. The Course continues:
 
 > "Your ego and your Soul will never be co-creators, but your Soul and *your* Creator will *always* be." (acim oe txt 4.IV.42)
 
@@ -96,7 +96,7 @@ Jesus warned of exactly this:
 
 > "Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living." (UB 159:3.7)
 
-The fringe of conflict. That is where you live right now: between the flesh and the spirit, between the ego's voice and the Adjuster's leading. This is normal. This is expected. This is the price of growth.
+The fringe of conflict. That is where you live right now: between the flesh and the spirit, between the ego's voice and the Adjuster's leading. This is normal. This is expected. This is the price of growth. The Urantia Book says:
 
 > "Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving." (UB 100:4.2)
 
@@ -114,13 +114,13 @@ The Course warns:
 
 > "You persist in believing that when you do not consciously watch your mind, it is unmindful. It is time, however, to consider the whole world of the unconscious or 'unwatched' mind. This may well frighten you because it is the *source* of fear." (acim oe txt 2.V.96)
 
-The unwatched mind. When you are not paying attention, the subconscious does not sit idle. It fills with content. And most of that content is fear.
+The unwatched mind. When you are not paying attention, the subconscious does not sit idle. It fills with content. And most of that content is fear. The Course explains:
 
 > "The deeper levels of his subconscious *always* contain the impulse to miracles, but he is free to fill its more superficial levels, which are closer to consciousness, with the impulses of this world and to identify himself with them. This results in *denying* himself access to the miracle level underneath." (acim oe txt 1.I.38)
 
 You bury the miracle-impulse under layers of worldly content. Not deliberately. Not maliciously. Simply by not watching. The unwatched mind accumulates fear the way an unattended garden accumulates weeds.
 
-And from above, the ego actively blocks what the superconscious is trying to send:
+And from above, the ego actively blocks what the superconscious is trying to send. The Course describes how:
 
 > "In its characteristically upside-down way, the ego has taken the impulses from the superconscious and perceives them as if they arise in the unconscious. The ego judges what is to be accepted, and the impulses from the superconscious are unacceptable to it because they clearly point to the nonexistence of the ego itself. The ego therefore experiences threat and not only censors but also reinterprets the data." (acim oe txt 4.IV.45)
 
@@ -170,7 +170,7 @@ Perception, aligned with truth at last, dissolves into direct knowing. The bridg
 
 But the crossing has a midpoint, and both books describe it. The Course calls it "the real world." This is not heaven. It is the world correctly perceived at last. You still have a body, you still walk the earth, but you see without the ego's distortions. You see purpose instead of chaos, love instead of threat. The Course calls it "the gate of heaven." You go to heaven from the real world.
 
-The Urantia Book calls this same territory "morontia," the transitional state between material and spiritual, where the mind is no longer fully bound by the adjutant circuits but not yet fully spirit. The morontia mind sees differently. It sees the connections, the purposes, the divine design woven through material experience.
+The Urantia Book calls this same territory "morontia," the transitional state between material and spiritual, where the mind is no longer fully bound by the adjutant circuits but not yet fully spirit. The morontia mind sees differently. It sees the connections, the purposes, the divine design woven through material experience. The Course describes this destination:
 
 > "The end of the world is not its destruction, but its *translation* into Heaven. The re-interpretation of the world is the transfer of *all* perception to knowledge." (acim oe txt 10.VIII.75)
 
@@ -194,27 +194,29 @@ The Urantia Book:
 
 Prayer reaches the superconscious. It bypasses the ego's censorship by going around it, not through it. The ego controls the conscious mind. But prayer, when it comes from the heart rather than the intellect, slips past the checkpoint.
 
-And prayer works in both directions:
+And prayer works in both directions. The Urantia Book says:
 
 > "Prayer induces the human ego to look both ways for help: for material aid to the subconscious reservoir of mortal experience, for inspiration and guidance to the superconscious borders of the contact of the material with the spiritual, with the Mystery Monitor." (UB 91:3.5)
 
 Both ways. Downward to the subconscious, where practical experience and the miracle-impulse reside. Upward to the superconscious, where the Adjuster waits. Prayer is the one activity that opens both channels simultaneously. It pulls the weeds and parts the cloud cover at the same time.
 
-The divine partner does not depend on the quality of your words:
+The Course says the divine partner does not depend on the quality of your words:
 
 > "Never forget that the Holy Spirit does not depend on your words. He understands the requests of your heart and answers them... God would be cruel if He let your words replace His Own." (acim oe mnl 29.6)
 
 Your fumbling attempts to pray are not the point. The reaching is the point. The willingness to look upward is what opens the channel.
 
-In fact, both texts say the highest spiritual truths cannot pass through words or conscious thought at all:
+In fact, both texts say the highest spiritual truths cannot pass through words or conscious thought at all. The Course says:
 
 > "Revelation is intensely personal and cannot actually be translated into conscious content at all. That is why any attempt to describe it in words is usually incomprehensible." (acim oe txt 1.I.40)
+
+And the Urantia Book agrees:
 
 > "There is a vast body of essential spiritual knowledge, truth indispensable to high spiritual attainment, which cannot be consciously received; self-consciousness would effectively jeopardize the certainty of reception." (UB 19:5.9)
 
 Self-consciousness would jeopardize the certainty of reception. The highest truths bypass consciousness altogether and register directly in the soul. This is why prayer of the heart works where prayer of the intellect fails.
 
-And when you reach, something reaches back:
+And when you reach, something reaches back. The Urantia Book says:
 
 > "The Thought Adjusters would like to change your feelings of fear to convictions of love and confidence; but they cannot mechanically and arbitrarily do such things; that is your task. In executing those decisions which deliver you from the fetters of fear, you literally supply the psychic fulcrum on which the Adjuster may subsequently apply a spiritual lever of uplifting and advancing illumination." (UB 108:5.8)
 
@@ -226,7 +228,7 @@ The Course names two stages in this process:
 
 Right-mindedness is the work you do now: choosing spirit over ego, truth over illusion, love over fear. One-mindedness is the destination: fusion, the state where human will and divine will are no longer separate. You cannot skip to the end. Right-mindedness must come first.
 
-Worship opens the door:
+The Urantia Book describes what worship opens:
 
 > "Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity." (UB 143:7.8)
 

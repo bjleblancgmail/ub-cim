@@ -54,7 +54,7 @@ How? Not by skipping the learning. Not by granting knowledge you have not earned
 
 This is the mechanism. When you truly see another person as your equal in the Sonship, as a child of God no different from you in origin or destiny, something collapses. All the ego-driven lessons that separation would have forced you to learn simply fall away. You do not need to learn through years of conflict what a single moment of genuine recognition can teach. The doer and the receiver both emerge, as the Course says, "much farther along in time than they would otherwise have been."
 
-The Urantia Book frames the same truth from its own perspective. Consider the woman the apostles called Veronica. For years she had been afflicted with a hemorrhage. She had spent everything on physicians. None could cure her. Then she heard of Jesus, pressed through the crowd, and touched the border of his garment. In that moment, she was healed. Years of suffering, collapsed into a single instant.
+The Urantia Book frames the same truth from its own perspective. Consider the woman the apostles called Veronica. For years she had been afflicted with a hemorrhage. She had spent everything on physicians. None could cure her. Then she heard of Jesus, pressed through the crowd, and touched the border of his garment. In that moment, she was healed. Years of suffering, collapsed into a single instant. The Urantia Book says:
 
 > "When Jesus heard this, he took the woman by the hand and, lifting her up, said: 'Daughter, your faith has made you whole; go in peace.' It was her faith and not her touch that made her whole. And this case is a good illustration of many apparently miraculous cures which attended upon Jesus' earth career, but which he in no sense consciously willed." (UB 152:0.3)
 
@@ -62,7 +62,7 @@ Jesus did not consciously will this healing. It happened because Veronica's fait
 
 > "Her faith was of the sort that laid direct hold upon the creative power resident in the Master's person. With the faith she had, it was only necessary to approach the Master's person. It was not at all necessary to touch his garment; that was merely the superstitious part of her belief." (UB 152:0.3)
 
-But Jesus would not let her leave with the wrong understanding. He called her back to correct two errors:
+But Jesus would not let her leave with the wrong understanding. He called her back to correct two errors. The Urantia Book says:
 
 > "He did not want Veronica to go away thinking that her tempting to steal her cure had been honored, or that her superstition in associating the touch of his garment with her healing had been effective. He desired all to know that it was her pure and living faith that had wrought the cure." (UB 152:0.3)
 

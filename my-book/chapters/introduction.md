@@ -16,7 +16,7 @@ This book brings them together around a single question.
 
 The Urantia Book gives us the most detailed portrait of Jesus ever written. We watch him receive his Thought Adjuster, a fragment of God himself, at age five. We see his childhood prayers, his adolescent confusion, the death of his father when he was fourteen, his years as a carpenter supporting a family of nine. We follow him through the slow, painstaking process of bringing his human mind into alignment with the divine presence within him, a process that took twenty-five years and was accomplished, the text insists, "by the force of his own decisions" and with the same kind of indwelling spirit available to every mortal.
 
-A Course in Miracles gives us a voice. A first-person teacher who speaks with intimate knowledge of the human condition, who describes his own journey in terms that echo the biography:
+A Course in Miracles gives us a voice. A first-person teacher who speaks with intimate knowledge of the human condition, who describes his own journey in terms that echo the biography. The Course says:
 
 > "My lesson was like yours, and because I learned it, I can teach it." (acim oe txt 4.II.9)
 
@@ -28,7 +28,7 @@ This is not the voice of abstract theology. This is someone reflecting on what h
 
 The question this book investigates is simple:
 
-**Is the Jesus who speaks in A Course in Miracles the same Jesus whose life is told in the Urantia Book?**
+**Is the Jesus who dictated A Course in Miracles the same Jesus we read about in the Urantia Book?**
 
 This book's answer is yes, and the implications go further than either community has recognized. What the Course teaches as the release of the ego and the return to God is what the Urantia Book calls Adjuster fusion: the permanent union of the human will with the divine fragment within. The Course is a course in fusion, and the Urantia Book is the map of the universe through which that fusion carries you.
 
@@ -38,7 +38,7 @@ If the voice that dictated the Course is the same person who lived the life the 
 
 ---
 
-This is not a work of theology. It is a study. It places passages from both books side by side and asks what happens when you read them together. It does not ask the reader to accept either book on faith. It asks only what Jesus himself asked of a restless crowd in the Capernaum synagogue: "The truth never suffers from honest examination." (UB 153:2.11)
+This is not a work of theology. It is a study. It places passages from both books side by side and asks what happens when you read them together. It does not ask the reader to accept either book on faith. It offers only what Jesus himself offered a restless crowd in the Capernaum synagogue: "The truth never suffers from honest examination." (UB 153:2.11)
 
 The chapters that follow explore the question from multiple angles: how the two books describe reality, how they understand the mind, what they teach about fear, forgiveness, and the meaning of the crucifixion, and what both say about the destination of human life. The evidence is in the texts. The reader is invited to weigh it.
 

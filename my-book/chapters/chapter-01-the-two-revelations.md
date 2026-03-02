@@ -75,13 +75,13 @@ The published FIP edition suggests, in ways the earlier versions do not, that th
 
 The earlier versions are clearer: the ego did not create the physical world. The ego creates our *perception* of the world, the fearful, separated, conflicted way we experience reality. But the material cosmos itself is God's creation, distorted by our perception, not fabricated by our delusion.
 
-The Urtext defines this in the early chapters that were most heavily edited:
+The Course defines this in the early chapters that were most heavily edited. The course says:
 
 > "The world, in the original connotation of the term, included both the proper creation of man by God and the proper creation by man in his right mind. The latter required the endowment of man by God with free will because all loving creation is freely given. Nothing in these statements implies any sort of level involvement or in fact anything except one continuous line of creation in which all aspects are of the same order." (acim oe txt 2.I.12)
 
 One continuous line of creation. The world, properly understood, is not the ego's product. It is God's creation extended through man's free will.
 
-And Jesus warns against confusing the two:
+And Jesus warns against confusing the two. The course says:
 
 > "The body is merely a fact in human experience. Its abilities can be and frequently are over-evaluated. However, it is almost impossible to deny its existence. Those who do so are engaging in a particularly unworthy form of denial." (acim oe txt 2.III.56)
 

@@ -24,10 +24,10 @@ CHAPTER_FILES = [
     ('chapters', 'chapter-02-terminology-bridge.md'),
     ('chapters', 'chapter-03-central-thesis-fusion-between-father-and-son.md'),
     ('chapters', 'chapter-04-sonship-supreme.md'),
-    ('chapters', 'chapter-05-what-is-real.md'),
-    ('chapters', 'chapter-06-what-survives.md'),
-    ('chapters', 'chapter-07-miracles-and-time.md'),
-    ('chapters', 'chapter-08-forgiveness-mercy-vs-love.md'),
+    ('chapters', 'chapter-05-miracles-and-time.md'),
+    ('chapters', 'chapter-06-forgiveness-mercy-vs-love.md'),
+    ('chapters', 'chapter-07-what-is-real.md'),
+    ('chapters', 'chapter-08-what-survives.md'),
     ('chapters', 'chapter-09-the-architecture-of-mind.md'),
     ('chapters', 'chapter-10-lucifer-rebellion-why-we-suffer.md'),
     ('chapters', 'chapter-11-the-atonement-and-the-crucifixion.md'),
@@ -148,7 +148,7 @@ def main():
     total_words = 0
     missing = []
 
-    print("Building audio-ready EPUB: Across the Revelation Bridge")
+    print("Building audio-ready EPUB: The Revelation Bridge")
     print("=" * 60)
 
     for folder, filename in CHAPTER_FILES:
@@ -171,7 +171,7 @@ def main():
     combined = '\n\n\n'.join(all_content)
 
     # Write combined markdown for review
-    md_path = os.path.join(OUTPUT_DIR, 'across-the-revelation-bridge-audio.md')
+    md_path = os.path.join(OUTPUT_DIR, 'the-revelation-bridge-audio.md')
     with open(md_path, 'w', encoding='utf-8') as f:
         f.write(combined)
     md_size = os.path.getsize(md_path)
@@ -180,12 +180,12 @@ def main():
     print(f"Markdown file size: {md_size / 1024:.1f} KB")
 
     # Generate EPUB with pandoc
-    epub_path = os.path.join(OUTPUT_DIR, 'across-the-revelation-bridge-audio.epub')
+    epub_path = os.path.join(OUTPUT_DIR, 'the-revelation-bridge-audio.epub')
     cmd = [
         'pandoc',
         md_path,
         '-o', epub_path,
-        '--metadata', 'title=Across the Revelation Bridge',
+        '--metadata', 'title=The Revelation Bridge',
         '--metadata', 'author=Joseph',
         '--toc',
         '--toc-depth=2',

@@ -6,7 +6,7 @@ This book rests on a single claim: *A Course in Miracles* is a course in Adjuste
 
 The Urantia Book describes Adjuster fusion as the goal of human life: the moment when the mortal will and the divine will become permanently one. It is not death. It is not heaven. It is transformation: the fusion of a human being with the fragment of God that has lived within them since childhood.
 
-The Course in Miracles never uses the term "Adjuster fusion." But it uses the word *fusion* itself:
+The Course in Miracles never uses the term "Adjuster fusion." But it uses the word *fusion* itself. The course says:
 
 > "The miracle itself is just this fusion or union of will between Father and Son." (acim oe txt 5.III.18)
 
@@ -36,7 +36,7 @@ The Urantia Book means this literally. The Adjuster is a piece of the Universal 
 
 Not a gift from God. God himself, fragmentized and indwelling. A piece of the infinite Creator placed inside a finite creature.
 
-And this presence is not cold or abstract. A celestial being who has observed the Adjusters across the universe offers this testimony:
+And this presence is not cold or abstract. A celestial being who has observed the Adjusters across the universe offers this testimony. The Urantia book says:
 
 > "I regard the love and devotion of a Thought Adjuster as the most truly divine affection in all creation. The love of the Sons in their ministry to the races is superb, but the devotion of an Adjuster to the individual is touchingly sublime, divinely Fatherlike." (UB 110:0.2)
 
@@ -62,7 +62,7 @@ The Course in Miracles never uses the word "Adjuster." But it describes the same
 
 The Soul is in a state of grace forever. It cannot fall. It cannot be diminished. Man's reality is *only* his Soul. Not his body, not his ego, not his fears. Only the Soul is real.
 
-Why is the Soul unalterable? The Urantia Book answers: because the Soul is God. "They are of God, and as far as we are able to discern, they are God." What is God cannot become un-Godlike. The Course's insistence that the Soul is already perfect and beyond any need of protection is exactly what you would expect if the Soul is a fragment of the Universal Father.
+Why is the Soul unalterable? Because, as Chapter 2 established, what the Course calls the Soul corresponds to the Adjuster, and the Urantia Book says of Adjusters: "They are of God, and as far as we are able to discern, they are God." What is God cannot become un-Godlike. The Course's insistence that the Soul is already perfect and beyond any need of protection is exactly what you would expect if the Soul is a fragment of the Universal Father.
 
 The Course says:
 

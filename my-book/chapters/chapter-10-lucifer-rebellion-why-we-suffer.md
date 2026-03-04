@@ -44,7 +44,7 @@ Eve believed it. And the consequence was exactly what had been warned. She becam
 
 The rebellion and its aftermath are the nightmare. And both texts agree: we do not have to keep believing what is not true.
 
-This connection is significant precisely because of how the Course came to us. Helen Schucman, the scribe, received it through nonverbal communication over seven years, taking shorthand notes each evening. The process was laborious: notes edited many times, Helen always conscious, always tempted to edit. This was not trance channeling but conscious reception, filtered through a human mind doing its best to capture what it heard. The original notes contain material later edited out, including more explicit references to the cosmic context. The urtext, the Helen and Bill version, preserves this additional material.
+This connection is significant precisely because of how the Course came to us. Helen Schucman, the scribe, received it through nonverbal communication over seven years, taking shorthand notes each evening. The process was laborious: notes edited many times, Helen always conscious, always tempted to edit. This was not trance channeling but conscious reception, filtered through a human mind doing its best to capture what it heard. The original notes contain material later edited out, including more explicit references to the cosmic context. The Helen and Bill version, sold as the Original Edition preserves this additional material.
 
 ---
 
@@ -82,7 +82,11 @@ From the ego's perspective, it is not. The ego sees isolated individuals, and is
 
 The Course provides one answer: the Sonship is one. The Course says: "Nothing in these statements implies any sort of level involvement or in fact anything except one continuous line of creation in which all aspects are of the same order." (acim oe txt 2.I.12) What any part of the Sonship does affects all other parts. We are not isolated individuals but members of a single family. The choices of some become the conditions for others. The Course goes further. It says we "made" sickness and death. From the individual perspective, that is absurd. But from the Sonship perspective, it is a statement about collective identity. The Sonship includes Lucifer. The Sonship includes us. The Sonship includes every being who ever chose wrongly. When the Course says "you made this," it is speaking to the Sonship as a whole, not to you as an individual.
 
-The Urantia Book confirms this interconnection through its teaching about the Supreme. The Supreme Being is the evolving God of time and space, growing through the experiences of all creatures. But we do not merely contribute to the Supreme. We are part of the Supreme, the way a cell is part of a body. The UB says "the parts and individuals of the grand universe evolve as a reflection of the total evolution of the Supreme." Its condition is our condition. Its delays are our delays. Its wounds are our wounds.
+The Urantia Book confirms this interconnection through its teaching about the Supreme. The Supreme Being is the evolving God of time and space, growing through the experiences of all creatures. But we do not merely contribute to the Supreme. We are part of the Supreme, the way a cell is part of a body. The UB says:
+
+> "The parts and individuals of the grand universe evolve as a reflection of the total evolution of the Supreme, while in turn the Supreme is the synthetic cumulative total of all grand universe evolution." (UB 117:0.4)
+
+Its condition is our condition. Its delays are our delays. Its wounds are our wounds.
 
 Think of it this way: if your liver fails, your kidneys did not cause it. But your kidneys suffer the consequences because they are part of the same body. They do not get to say "that was the liver's problem, not mine." They are connected. When Lucifer rebelled, it was not an external event that happened to us. It was something that happened within the organism we are part of. The body got sick. Every cell feels it.
 
@@ -116,6 +120,6 @@ But we do not have to wait for that day to begin our escape. The rebellion locke
 
 Every mortal on this world has the same opportunity as mortals on normal worlds: to choose the Father, to cooperate with the Adjuster, to progress toward fusion. The path is harder here. The conditions are more confusing. But the destination is the same.
 
-Lucifer launched his orgy of darkness and death. But darkness cannot overcome light. Death cannot survive fusion with the eternal. The rebellion was a catastrophe, but it was not final. The Course and the Urantia Book together offer us the way out.
+Lucifer launched his orgy of darkness and death. But darkness cannot overcome light. Death cannot survive fusion with the eternal. The rebellion was a catastrophe, but it was not final. The Course and the Urantia Book together offer us the way forward.
 
 The quarantine ends, one soul at a time, whenever a mortal chooses the Father over the rebellion, light over darkness, love over fear. You can end it for yourself today.

@@ -216,8 +216,11 @@ When Joseph says **"search the Urantia Book"**, search in:
 - `my-book/Urantia Book/UF-ENG-001-1955-1.22.md` (full UB, 1.15M words)
 
 When Joseph says **"search the Course in Miracles"** (or ACIM, Course, CIM), search:
-- **Default:** `my-book/Course In Miracles/ACourseInMiraclesUrtextEdition.md` (all 7 volumes: Text, Workbook, Manual, Use of Terms, Psychotherapy, Song of Prayer, Gifts of God + appendices; 701K words; OCR from EPUB)
-- **Only if specified:** `my-book/Course In Miracles/URTEXT.md` (raw dictation text only; 323K words; cleaner transcription from .DOC but no Manual, Workbook, etc.)
+- **Default (ALWAYS use for citations and quotes):** `my-book/Course In Miracles/acim-oe-complete.md` (Original Edition, extracted from CIMS EPUB; 485K words; this is the edition we have permission to quote)
+- **NEVER use for citations:** `my-book/Course In Miracles/ACourseInMiraclesUrtextEdition.md` (Urtext Edition; wording differs from OE; NOT the edition we have CIMS permission for)
+- **NEVER use for citations:** `my-book/Course In Miracles/URTEXT.md` (raw dictation text; NOT the published OE)
+
+**CRITICAL POLICY:** All Course quotes in the book MUST come from the Original Edition (OE). Never use the Urtext or Urtext Edition for citations. The OE is the CIMS-published edition we have explicit permission to quote. Wording differs between editions (e.g., "perceives" vs "creates"), so always verify against the OE file.
 
 ---
 

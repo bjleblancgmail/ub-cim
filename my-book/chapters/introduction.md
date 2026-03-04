@@ -32,7 +32,7 @@ The question this book investigates is simple:
 
 This book's answer is yes, and the implications go further than either community has recognized. What the Course teaches as the release of the ego and the return to God is what the Urantia Book calls Adjuster fusion: the permanent union of the human will with the divine fragment within. The Course is a course in fusion, and the Urantia Book is the map of the universe through which that fusion carries you.
 
-If he is, then these two texts are not rivals, not contradictions, not separate paths for separate seekers. They are two halves of a single gift. One tells the story from the outside: what happened, year by year, in the life of a man becoming one with God. The other tells it from the inside: what it means, what it costs, and how to walk the same path yourself.
+If the Jesus of the Course is the same Jesus of the Urantia Book, then these two texts are not rivals, not contradictions, not separate paths for separate seekers. They are two halves of a single gift. One tells the story from the outside: what happened, year by year, in the life of a man becoming one with God. The other tells it from the inside: what it means, what it costs, and how to walk the same path yourself.
 
 If the voice that dictated the Course is the same person who lived the life the Urantia Book describes, then every teaching in the Course carries the weight of a biography behind it. And every detail of the biography carries a practical application the Course makes explicit.
 
@@ -42,7 +42,7 @@ This is not a work of theology. It is a study. It places passages from both book
 
 The chapters that follow explore the question from multiple angles: how the two books describe reality, how they understand the mind, what they teach about fear, forgiveness, and the meaning of the crucifixion, and what both say about the destination of human life. The evidence is in the texts. The reader is invited to weigh it.
 
-For readers of the Urantia Book who have never opened the Course: you may find that the voice speaking in those pages sounds remarkably like the Jesus you already know.
+For readers of the Urantia Book who have never opened the Course: you may find that the voice speaking in those pages sounds remarkably like the Jesus you already know. This book will present the evidence that may give clairty to this claim. 
 
 For readers of the Course who have never encountered the Urantia Book: you may discover that the teacher you have been listening to has a biography, and that the biography illuminates the teaching in ways you did not expect.
 

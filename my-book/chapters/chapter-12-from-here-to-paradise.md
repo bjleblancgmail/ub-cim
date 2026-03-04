@@ -76,7 +76,7 @@ But eternal life is not static existence. Fusion is a beginning.
 
 The Urantia Book describes the universe as a vast school, with Paradise at its center. Fusion qualifies us to continue ascending: through the local universe, through the superuniverse, through the billion worlds of the central universe, until finally we stand in the presence of the Universal Father on Paradise itself.
 
-This journey takes time beyond our comprehension. Millions of years, perhaps billions. We will inhabit hundreds of different forms, study under thousands of teachers, serve in capacities we cannot now imagine. The fused mortal becomes a finaliter, a completed being of time, ready for eternal service.
+This journey takes time beyond our comprehension, what the Urantia Book calls a "lengthy universe discipline" spanning ages. We will pass through 570 different morontia forms, study under teachers of many different orders, serve in capacities we cannot now imagine. The fused mortal becomes a finaliter, a being who has reached Paradise and found the Father, yet whom the Urantia Book remarkably describes as still unfinished, a sixth-stage spirit with at least one more step to come, ready for eternal service whose ultimate nature remains unrevealed.
 
 The Course does not describe this journey because its focus is on the first step: fusion. But knowing where fusion leads expands our vision. We are not simply escaping the ego. We are becoming citizens of the universe.
 
@@ -98,22 +98,10 @@ This is where the Course leads. Not to escape from the world, but to the center 
 
 ## Section 7: Closing: The Path You Are On
 
-The Course in Miracles tells you what to do. The Urantia Book tells you where it leads.
-
-You are not simply correcting your perception. You are preparing for fusion, the permanent union of your will with the Father's will. You are not simply learning to forgive. You are building the foundation for eternal life. You are not simply studying two books. You are walking the same path Jesus walked.
-
-This is The Urantia Book's promise. Not that the path is easy; it is not. Not that you will complete it quickly; you will not. But that the path is real, the destination is real, and the one who walked it before you has left a Course to guide you.
-
-Two revelations arrived within fifty years. One provides the map. One provides the training. Together, they offer quarantined mortals everything needed to begin the journey that never ends.
-
-The mansion worlds wait for those who need more time. Paradise waits at the end. But the first step is here, now, in this life: the choice to begin.
-
-You have already begun. You are reading this book. The Adjuster within you brought you here. The path to the Father stretches out before you, and every step you take is counted.
+The Course in Miracles tells you what to do. The Urantia Book tells you where it leads. Together, they offer quarantined mortals everything needed to begin the journey that never ends.
 
 The Course, which says so little about what comes after, says this:
 
 > "There is a place in you where this whole world has been forgotten, where no memory of sin and of illusion lingers still. There is a place in you which time has left, and echoes of eternity are heard. There is a resting place so still no sound except a hymn to Heaven rises up to gladden God the Father and the Son. Where both abide are They remembered, both. And where They are is Heaven and is peace. Think not that you can change Their dwelling place. For your Identity abides in Them, and where They are, forever must *you* be." (acim oe txt 29.VI.31)
 
-That place is already in you. The Adjuster holds it. The mansion worlds, the local universe, Havona, Paradise, these are the unfolding of what already lives within. The path is long. But the destination has been with you since before you were born.
-
-Something new is possible. It always was.
+That place is already in you. The Adjuster holds it. The mansion worlds, Havona, Paradise, these are the unfolding of what already lives within. The path is long. But the destination has been with you since before you were born.

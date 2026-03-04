@@ -4,17 +4,31 @@
 
 ---
 
+## Section 1: The Empty Shell
+
 Nothing real can be threatened. Both books teach this. But honesty demands the next question, one that lives not in theology but in the human heart.
 
 Can a soul be lost?
 
 Not as an abstract problem. As a fear. The fear that someone you love might not have chosen rightly. The fear that you yourself might somehow fail. The fear that God's gift of free will carries a cost so severe that a person, a real person, could simply cease to exist.
 
-If identification determines what you become, and what you become determines what survives, then what becomes of the person who chooses against the real?
+The Course addresses this fear directly, early, and with striking precision:
+
+> Man's mind *can* be possessed by illusions, but his spirit is eternally free. If a mind perceives without love, it perceives an empty shell and is unaware of the spirit within it. But the Atonement restores the Soul to its proper place. The mind that serves the spirit is invulnerable. (acim oe txt 1.I.33)
+
+An empty shell. A life drained of love, hollowed out by wrong choosing. The Course does not deny that this can happen. It says the mind can create without love and produce something empty, something vulnerable. But then it says something else:
+
+> He can make an empty shell, but he *cannot* express nothing at all. He can wait, delay, paralyze himself, reduce his creativity to almost nothing, and even introduce a developmental arrest or even a regression. But he *cannot* abolish his creativity. He can destroy his medium of communication but *not* his potential. (acim oe txt 1.I.51)
+
+He can destroy his medium of communication, but not his potential.
+
+Read that through the terminology bridge. The "medium of communication" could be the mind, the identity, the self you know yourself to be in time. The "potential" sounds remarkably like what the Urantia Book calls the Thought Adjuster, the fragment of the Father that indwells you and cannot be destroyed by any choice you make. The Course calls it the Soul. If the parallel holds, both books are saying something similar: you can empty the shell, but the divine potential at the center, the thing God placed in you, is beyond your power to abolish.
+
+The Course never states plainly that identity can be lost. It never quite goes there. But it does distinguish between what you make and what you are, between the shell and the potential. And the Urantia Book draws a similar line. If identification determines what you become, and what you become determines what survives, then what becomes of the person who chooses against the real? The potential endures. On that, both books agree. What happens to the shell is where the conversation deepens.
 
 ---
 
-## What the Urantia Book Actually Teaches
+## Section 2: What the Urantia Book Actually Teaches
 
 The Urantia Book does teach that a human identity can fail to survive. A person who wholly identifies with iniquity, who rejects the divine leading of the indwelling Adjuster completely and finally, can cease to exist as an individual:
 
@@ -54,7 +68,7 @@ This is not nothing. This is a real loss. The book calls it "cosmic suicide." Bu
 
 ---
 
-## What the Course Actually Teaches
+## Section 3: What the Course Actually Teaches
 
 The Course in Miracles appears to take the opposite position. The Soul cannot be lost:
 
@@ -86,7 +100,7 @@ God is not waiting. Eternity is not affected. But the Kingdom, the experiential 
 
 ---
 
-## The Undoing: Where the Course Goes Further
+## Section 4: The Undoing: Where the Course Goes Further
 
 The Course introduces a concept the Urantia Book does not develop: the retroactive undoing of error.
 
@@ -140,7 +154,7 @@ Time and eternity cannot be logically reconciled from within time. We are asking
 
 ---
 
-## Where They Converge
+## Section 5: Where They Converge
 
 Set the two teachings side by side, and the convergence is far greater than it first appears:
 
@@ -156,7 +170,7 @@ Set the two teachings side by side, and the convergence is far greater than it f
 
 ---
 
-## Where They Differ
+## Section 6: Where They Seem to Differ
 
 There is one genuine difference, and it should be stated honestly.
 

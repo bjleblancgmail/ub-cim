@@ -96,7 +96,7 @@
 | 2 | Add Part divisions | NOT STARTED | |
 | 3 | Move thesis earlier | COMPLETE | Added to Introduction after the central question |
 | 4 | Consolidate overlapping chapters | COMPLETE | Ch 7-13 merged, Ch 1-6 restructured, Ch 2-4 combined; 17→12 chapters |
-| 5 | Choose a title | COMPLETE | "Across the Revelation Bridge" |
+| 5 | Choose a title | COMPLETE | "Fusion: Two Revelations, One Path" |
 | 6 | Soften Ch 3 editing history | COMPLETE | Ch 3 absorbed into new Ch 2; Wapnick language softened |
 | 7 | Address Soul/Adjuster mapping objection | NOT STARTED | |
 | 8 | Vary chapter endings | NOT STARTED | |
@@ -153,7 +153,7 @@
 ### 2026-02-27 Session 5 (post-compact)
 - Applied Operation 2, 3, 4 (all complete now)
 - Retitled Ch 15 to "The Jesus Both Books Reveal"
-- Set book title: "Across the Revelation Bridge"
+- Set book title: "Fusion: Two Revelations, One Path" (changed from "Across the Revelation Bridge" on 2026-03-02)
 - Added thesis statement to Introduction
 - Created content-removed-consolidation.md (record of all cut content)
 - Committed and pushed all changes

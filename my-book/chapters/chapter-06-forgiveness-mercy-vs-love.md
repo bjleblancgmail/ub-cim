@@ -78,7 +78,7 @@ Consider a concrete example. Someone strikes you. The ego sees an attack and dem
 
 The Course says: "Forgive your brother for what he did not do." This does not mean he did not strike you. It means what he did not do was truly attack you, even though both he and you believed he did. The moment you understand the truth, that the blow was a cry for love, there is nothing remaining that requires forgiving. The offense dissolves. Not because you suppressed it, but because you saw through it to what was really happening.
 
-This is the difference between mercy and love in a single moment. Mercy says: "He hit me, but I will not hit back." Love says: "He is in pain. How can I help?"
+This is the difference between mercy and love in a single moment. Mercy says He hit me, but I will not hit back. Love says He is in pain. How can I help?
 
 And this is why Jesus taught what he taught about turning the other cheek. For centuries, that teaching has been read as passivity, as a call to stand there and take it. But The Urantia Book records what Jesus actually meant:
 

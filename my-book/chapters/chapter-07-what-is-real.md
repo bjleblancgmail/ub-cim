@@ -22,7 +22,7 @@ And The Urantia Book says again:
 
 Almost entirely unreal. A shadow. The Urantia Book means this literally. Spirit perceives matter as fleeting, insubstantial, passing.
 
-The author of these words then offers a startling personal confession:
+The author of these words then offers a startling personal confession. The Urantia Book says: 
 
 > "I cannot, with exclusive spirit vision, perceive the building in which this narrative is being translated and recorded. A Divine Counselor from Uversa who chances to stand by my side perceives still less of these purely material creations. This material building is not exactly real to me, a spirit being, but it is, of course, very real and very serviceable to material mortals." (UB 44:0.16)
 
@@ -130,9 +130,7 @@ If the material is shadow, what makes *you* real? Both books answer with a singl
 
 You are potentially real. You become real as you identify with what is eternal, with the Adjuster, with spirit, with the values that survive.
 
-Everyone identifies with something. You cannot escape it. The question is not whether you will identify, but with *what*.
-
-The Course says:
+Everyone identifies with something. You cannot escape it. The question is not whether you will identify, but with *what*. The Course says:
 
 > "Everyone identifies *himself* with his thought system, and *every* thought system centers on *what you believe you are*. If the center of the thought system is true, only truth extends from it. But if a lie is at its center, only *deception* proceeds from it." (acim oe txt 6.Vb.71)
 
@@ -158,7 +156,7 @@ The Course describes what happens when this identification is not made:
 
 > "He can make an empty shell, but he *cannot* express nothing at all. He can wait, delay, paralyze himself, reduce his creativity to almost nothing, and even introduce a developmental arrest or even a regression. But he *cannot* abolish his creativity. He can destroy his medium of communication but *not* his potential." (acim oe txt 1.I.86)
 
-You can empty yourself, but you cannot unmake your potential. From eternity, personality is changeless and will attain deity destiny. But from within time, the stakes are real. An identity wholly identified with iniquity becomes as though it had never been. The personality endures, absorbed into the Supreme. The Adjuster returns to the Father, carrying forward everything of spiritual value from that life. What is lost is only the identity that chose to identify with what has no reality.
+You can empty yourself, but you cannot unmake your potential. From eternity, personality is changeless and will attain deity destiny. But from within time, the stakes are real. An identity wholly identified with iniquity becomes as though it had never been. The personality endures, absorbed into the Supreme. The Adjuster returns to the Father, carrying forward everything of spiritual value from that life. What is lost is only the identity that chose to identify with what has no reality.The empty shell. 
 
 Both ask the same question: will you identify with what is real?
 
@@ -280,7 +278,7 @@ When learning is complete, it is given up. Not destroyed in anger, not escaped i
 
 Your struggles are scaffolding. The difficulties that seemed so overwhelming, the problems that consumed your attention, many of them were exactly what you needed to develop strength, patience, faith. They were not punishments. They were training equipment. When the training is complete, the equipment is put away.
 
-Even your mistakes are scaffolding. The Course teaches that the Holy Spirit can use everything, every error, every detour, every wrong turn, for your learning:
+Even your mistakes are scaffolding. The Course teaches that the Holy Spirit can use everything, every error, every detour, every wrong turn, for your learning. The Course say:
 
 > "*All* things work together for good. There are *no* exceptions except in the ego's judgment." (acim oe txt 4.VI.69)
 
@@ -344,8 +342,4 @@ From the eternal perspective, you are already known. You are already loved. The 
 
 One day you will look back at this life from a place you cannot yet imagine. The fears that seemed so large will seem so small. The body you clung to will be a distant memory. The struggles that defined you will be stories you tell with wonder, "Can you believe I was so afraid?"
 
-But the love will remain. The truth will remain. The self you are becoming will remain.
-
-That is what is real.
-
-And nothing real can be threatened.
+But the love will remain. The truth will remain. The self you are becoming will remain. That is what is real. And nothing real can be threatened.

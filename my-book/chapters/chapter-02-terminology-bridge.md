@@ -24,11 +24,15 @@ The Course describes the soul as unalterable, already perfect, and beyond the ne
 
 > "The Soul is in a state of grace forever. Man's reality is *only* his Soul. Therefore, man is in a state of grace forever." (acim oe txt 1.I.52)
 
-And:
+And again the Course says:
 
 > "The Soul is therefore unalterable because it is already perfect, but the mind can elect the level it chooses to serve." (acim oe txt 1.I.68)
 
-The Urantia Book explains why. What the Course calls the soul corresponds to the Thought Adjuster, the divine fragment indwelling every normal human mind. And the Urantia Book makes a staggering claim about what this fragment is: "They are of God, and as far as we are able to discern, they are God." (UB 107:1.2) Not a gift from God. God himself, fragmentized and indwelling. This is why the soul is unalterable. What is God cannot become un-Godlike.
+The Urantia Book explains why. What the Course calls the soul corresponds to the Thought Adjuster, the divine fragment indwelling every normal human mind. And the Urantia Book makes a staggering claim about what this fragment is:
+
+> "They are of God, and as far as we are able to discern, they are God." (UB 107:1.2)
+
+Not a gift from God. God himself, fragmentized and indwelling. This is why the soul is unalterable. What is God cannot become un-Godlike.
 
 The Urantia Book teaches that this fragment arrives unbidden, usually around age five or six. It is not a guide or angel. It is a piece of God, prepersonal and eternal, living within the center of your thought life. It works ceaselessly to spiritualize your thinking and preserves every worthy thought toward building the soul that will survive death.
 
@@ -38,11 +42,39 @@ The Urantia Book describes the relationship this way:
 
 Two parents, one child. You are the human parent. The Adjuster is the divine parent. Together you are building something new: the morontia soul, the "real you" that survives death and continues the journey.
 
-The Course also names this presence the altar: "Miracles reawaken the awareness that the spirit, not the body, is the altar of truth." (acim oe txt 1.I.20) The altar is not a place you go. The soul, the Adjuster, IS the altar. And it is not cold or abstract. The Urantia Book says: "I regard the love and devotion of a Thought Adjuster as the most truly divine affection in all creation." (UB 110:0.2) The most loving presence in the universe is already inside you.
+The Course also names this presence the altar:
 
-The Course describes healing as remembering this: "They heal because they deny body-identification and affirm Soul-identification." (acim oe txt 1.I.41) To heal is to remember what you are. "The mind awakens from its sleep and [the Soul] remembers its Creator. All sense of separation disappears." (acim oe txt 3.III.19) The soul does not learn about God. It remembers. The Adjuster is "always and unerringly pointing the soul Godward." (UB 107:0.6) The compass has always been set.
+> "Miracles reawaken the awareness that the spirit, not the body, is the altar of truth." (acim oe txt 1.I.20)
 
-And nothing real is lost in this process. The Urantia Book promises: "No worth-while experience ever happens in vain; no true meaning or real value ever perishes." (UB 109:6.1) The Course opens with the same assurance: "Nothing real can be threatened. Nothing unreal exists." Whatever the soul touches is preserved forever.
+The altar is not a place you go. The soul, the Adjuster, IS the altar. And it is not cold or abstract. The Urantia Book says:
+
+> "I regard the love and devotion of a Thought Adjuster as the most truly divine affection in all creation." (UB 110:0.2)
+
+The most loving presence in the universe is already inside you.
+
+The Course describes healing as remembering this:
+
+> "They heal because they deny body-identification and affirm Soul-identification." (acim oe txt 1.I.41)
+
+To heal is to remember what you are.
+
+> "The mind awakens from its sleep and [the Soul] remembers its Creator. All sense of separation disappears." (acim oe txt 3.III.19)
+
+The soul does not learn about God. It remembers. The Adjuster is:
+
+> "always and unerringly pointing the soul Godward." (UB 107:0.6)
+
+The compass has always been set.
+
+And nothing real is lost in this process. The Urantia Book promises:
+
+> "No worth-while experience ever happens in vain; no true meaning or real value ever perishes." (UB 109:6.1)
+
+The Course opens with the same assurance:
+
+> "Nothing real can be threatened. Nothing unreal exists."
+
+Whatever the soul touches is preserved forever.
 
 When the Course says to look within to your soul, it means turn attention to the Adjuster. When it speaks of laying gifts upon the altar, it means offering your will to the divine fragment that has loved you since before you drew breath. The Urantia Book provides the mechanics. The Course provides the practice. Together they reveal what neither fully conveys alone: the most loving presence in the universe is already home.
 
@@ -68,7 +100,11 @@ One of the most important mappings is between the Course's "Sonship" and the Ura
 
 The Course teaches that the Sonship is the totality of all souls God created, understood as a single living whole. No part is separate. No part is complete without the others. The Sonship is not one person but every soul joined together, and it is not yet complete. It awaits the return of every part.
 
+> "The Sonship in its Oneness DOES transcend the sum of its parts. However, it loses this special state as long as any of its parts are missing." (acim oe txt 2.E.52)
+
 The Urantia Book describes God the Supreme in remarkably similar terms. The Supreme is the God of time and space, a deity who is growing through the experiences of all creatures. Every choice for goodness, every step toward truth, every act of love becomes part of this living, evolving totality. The Supreme is not yet finished. It is still becoming, and you are part of how it becomes.
+
+> "The experience of every evolving creature personality is a phase of the experience of the Almighty Supreme." (UB 116:1.1)
 
 The Sonship is our best understanding of who God is. All concepts beyond this temporal God are attempts to explain the unexplainable in terms of our own limited temporal language.
 
@@ -96,7 +132,11 @@ This means that when the Course appeals to your willingness, it is appealing to 
 
 **7. Holy Spirit = Holy Spirit**
 
-This is the simplest mapping in the entire bridge, because both books use the same name. The Course defines the Holy Spirit in terms remarkably consistent with the Urantia Book: "The Holy Spirit is the part of the mind that lies between the ego and the Soul, mediating between them always in favor of the Soul." (acim oe txt 7.X.91) It sits between your ego (adjutant mind) and your Adjuster, and it always takes the Adjuster's side.
+This is the simplest mapping in the entire bridge, because both books use the same name. The Course defines the Holy Spirit in terms remarkably consistent with the Urantia Book. The Course says:
+
+> "The Holy Spirit is the part of the mind that lies between the ego and the Soul, mediating between them always in favor of the Soul." (acim oe txt 7.X.91)
+
+It sits between your ego (adjutant mind) and your Adjuster, and it always takes the Adjuster's side.
 
 The Course also calls this the Spiritual eye: the capacity to see beyond the ego's distortions to what is real. The Spiritual eye cannot see error. It is capable only of looking beyond it to the Atonement. It does not attack. It does not command. It merely reminds you of what is true.
 
@@ -110,25 +150,33 @@ When Jesus speaks in the Course, he speaks in first person. "I am in charge of t
 
 Who is this "I"?
 
-The Course itself provides the answer. Early in the dictation, Jesus describes his ongoing action in the world as Christ-control and Christ-guidance. This is the Spirit of Truth at work: correcting error, directing minds, and leading each person toward salvation. "Christ-guidance is personal [and leads to personal salvation]... A guide does not control, but he does direct, leaving the following up to you." (acim oe txt 1.I.50)
+The Course itself provides the answer. Early in the dictation, Jesus describes his ongoing action in the world as Christ-control and Christ-guidance. This is the Spirit of Truth at work: correcting error, directing minds, and leading each person toward salvation. The Course says:
 
-The Urantia Book names this same presence the Spirit of Truth. Before his departure, Jesus promised a "new helper" to dwell in the hearts of believers. The Urantia Book describes it as "the conviction of truth, the consciousness and assurance of true meanings on real spirit levels... the spirit of living and growing truth, expanding, unfolding, and adaptative truth." (UB 180:5.1)
+> "Christ-guidance is personal [and leads to personal salvation]... A guide does not control, but he does direct, leaving the following up to you." (acim oe txt 1.I.50)
 
-Its mission is specific. It came "to foster and personalize truth." It came "to destroy the believer's feeling of orphanhood." It came "to help men recall and understand the words of the Master as well as to illuminate and reinterpret his life on earth." (UB 194:2.2, 194:2.5)
+The Urantia Book names this same presence the Spirit of Truth. Before his departure, Jesus promised a "new helper" to dwell in the hearts of believers. The Urantia Book describes it as:
+
+> "the conviction of truth, the consciousness and assurance of true meanings on real spirit levels... the spirit of living and growing truth, expanding, unfolding, and adaptative truth." (UB 180:5.1)
+
+Its mission is specific. The Urantia book says:
+
+> It came "to foster and personalize truth." It came "to destroy the believer's feeling of orphanhood." It came "to help men recall and understand the words of the Master as well as to illuminate and reinterpret his life on earth." (UB 194:2.2, 194:2.5)
 
 Read those missions again. Foster and personalize truth. Destroy the feeling of orphanhood. Help recall and understand the Master's words. Illuminate and reinterpret his life. This is precisely what the Course does. Every page of it.
 
-And the results confirm the source. "In less than a month after the bestowal of the Spirit of Truth, the apostles made more individual spiritual progress than during their almost four years of personal and loving association with the Master." (UB 194:2.9) The spirit of Jesus working within the mind is more powerful than Jesus standing in the room. That is the promise, and that is what the Course delivers: Christ-guidance, the Spirit of Truth, personally directing the reader toward awakening.
+And the results confirm the source. The Urantia book says:
 
-Jesus is in charge. He says so repeatedly. "I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men." (acim oe txt 4.VII.89) He completed it as a man. Now he completes it through us, through his spirit poured out upon all flesh, through the living voice that spoke to Helen Schucman and speaks still to every mind willing to listen.
+> "In less than a month after the bestowal of the Spirit of Truth, the apostles made more individual spiritual progress than during their almost four years of personal and loving association with the Master." (UB 194:2.9)
+
+The spirit of Jesus working within the mind is more powerful than Jesus standing in the room. That is the promise, and that is what the Course delivers: Christ-guidance, the Spirit of Truth, personally directing the reader toward awakening.
+
+Jesus is in charge. He says so repeatedly.
+
+> "I have told you before that I am in charge of the whole Atonement. This is only because I completed my part in it as a man and can now complete it through other men." (acim oe txt 4.VII.89)
+
+He completed it as a man. Now he completes it through us, through his spirit poured out upon all flesh, through the living voice that spoke to Helen Schucman and speaks still to every mind willing to listen.
 
 Christ-guidance. The Spirit of Truth. Two names for one reality: Jesus, still teaching.
-
-**9. Ego = Ego (adjutant mind)**
-
-The ego lives within the adjutant mind but is not the adjutant mind itself. The ego is the self-concept that the adjutant mind constructs. The Course defines it: "The ego is a man-made attempt to perceive himself as he wished to be rather than as he is." (acim oe txt 3.VI.40)
-
-On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion. The Course corrects what should have been taught from the beginning. Chapter 9 examines how the ego operates within the architecture of mind.
 
 **Note on the Spirit of Truth:** The Urantia Book clearly distinguishes between the Holy Spirit (the ministry of the Divine Minister/Creative Spirit of the local universe) and the Spirit of Truth (poured out by Jesus after his resurrection). Several passages in the Course reveal this same distinction.
 
@@ -152,6 +200,14 @@ Fourth, the Course distinguishes Jesus' teaching from the Holy Spirit's judgment
 
 When Jesus says "I" in the Course ("I am in charge," "I will lend them my strength," "I lead," "I teach"), this is the Spirit of Truth in action. The Holy Spirit is referenced separately as approving, judging, and guiding perception. Once this pattern is recognized, the Course clearly distinguishes the two ministries, just as the Urantia Book does.
 
+**9. Ego = Ego (adjutant mind)**
+
+The ego lives within the adjutant mind but is not the adjutant mind itself. The ego is the self-concept that the adjutant mind constructs. The Course defines it:
+
+> "The ego is a man-made attempt to perceive himself as he wished to be rather than as he is." (acim oe txt 3.VI.40)
+
+On a normal world, visible celestial teachers would guide the developing ego toward truth from the beginning. On our rebellion-scarred world, cut off from that guidance, the ego inflates with fear and distortion. The Course corrects what should have been taught from the beginning. Chapter 9 examines how the ego operates within the architecture of mind.
+
 ---
 
 ## Section 3: Cautions and Limitations
@@ -172,12 +228,6 @@ This terminology bridge serves a practical purpose: it allows readers to move fr
 
 When you read the Course and encounter "soul," you can think "Adjuster" and bring all your Urantia Book understanding to bear. When you read the Urantia Book about the Supreme, you can think "Sonship" and remember the Course's teachings about our participation in the whole.
 
-The bridge goes both directions. Use it to enrich your study of either text. Use it to resolve apparent contradictions. Use it to deepen your understanding of what both revelations teach.
+The bridge goes both directions. Use it to enrich your study of either text. Use it to resolve apparent contradictions. Use it to deepen your understanding of what both revelations teach. See appendix A for an expanded mapping. 
 
 Two vocabularies. One truth. The bridge helps you see it.
-
----
-
-## Part Two: Themes
-
-The nature of reality, the meaning of miracles, spiritual transformation, forgiveness, fear, and what comes after.

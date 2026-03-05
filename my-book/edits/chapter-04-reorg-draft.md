@@ -1,4 +1,4 @@
-# Chapter 4: The Sonship / God the Supreme
+# Chapter 4: The Sonship / God the Supreme (REORGANIZED DRAFT)
 
 **STATUS: DRAFT**
 

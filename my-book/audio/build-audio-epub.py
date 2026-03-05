@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build an audio-ready EPUB for "Across the Revelation Bridge" by Joseph.
+Build an audio-ready EPUB for "Fusion: Two Revelations, One Path" by Joseph.
 
 Reads the markdown chapter and appendix files in order, strips all citations
 and formatting artifacts, keeps section headings and bold/italic for EPUB,
@@ -148,7 +148,7 @@ def main():
     total_words = 0
     missing = []
 
-    print("Building audio-ready EPUB: The Revelation Bridge")
+    print("Building audio-ready EPUB: Fusion")
     print("=" * 60)
 
     for folder, filename in CHAPTER_FILES:
@@ -171,7 +171,7 @@ def main():
     combined = '\n\n\n'.join(all_content)
 
     # Write combined markdown for review
-    md_path = os.path.join(OUTPUT_DIR, 'the-revelation-bridge-audio.md')
+    md_path = os.path.join(OUTPUT_DIR, 'fusion-audio.md')
     with open(md_path, 'w', encoding='utf-8') as f:
         f.write(combined)
     md_size = os.path.getsize(md_path)
@@ -180,12 +180,12 @@ def main():
     print(f"Markdown file size: {md_size / 1024:.1f} KB")
 
     # Generate EPUB with pandoc
-    epub_path = os.path.join(OUTPUT_DIR, 'the-revelation-bridge-audio.epub')
+    epub_path = os.path.join(OUTPUT_DIR, 'fusion-audio.epub')
     cmd = [
         'pandoc',
         md_path,
         '-o', epub_path,
-        '--metadata', 'title=The Revelation Bridge',
+        '--metadata', 'title=Fusion: Two Revelations, One Path',
         '--metadata', 'author=Joseph',
         '--toc',
         '--toc-depth=2',

@@ -92,7 +92,7 @@ Double allegiance. That is the source of the strain. You cannot serve both the e
 
 But you are in between. You have begun to awaken. You have glimpsed something beyond the material. And now you experience the tension of two worlds pulling at you.
 
-Jesus warned of exactly this:
+The Urantia Book warned of exactly this:
 
 > "Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living." (UB 159:3.7)
 

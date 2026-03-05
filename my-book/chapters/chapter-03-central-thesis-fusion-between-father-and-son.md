@@ -20,7 +20,7 @@ And the Course again:
 
 Three times the Course uses the word "fuse" or "fusing." Three times it describes the union of human will with divine will. The Course is describing, in its own vocabulary, exactly what the Urantia Book calls Adjuster fusion.
 
-The two books need each other. The Urantia Book gives you the map: the structure of reality, the nature of the Adjuster, the stages of the ascent. The Course gives you the walking: daily practice, moment-by-moment training, the discipline of releasing fear and choosing love. The map and the walking need each other.
+The two books need each other. The Urantia Book gives you the map: the structure of reality, the nature of the Adjuster, the stages of the ascent. The Course gives you the walking: daily practice, moment-by-moment training, the discipline of releasing fear and choosing love.
 
 ---
 
@@ -48,7 +48,11 @@ And the Adjusters themselves know it. The Urantia Book preserves an extraordinar
 
 "My beloved subject." "Supreme devotion." "Not to deprive me of the reward of my patient and intense struggle." The Adjuster is not a mechanism. It is a presence that loves you, that has struggled alongside you, that longs for fusion as much as you should. On the human will, the Adjuster says, our achievement depends. Both partners need this union. Both want it. Both are working toward it.
 
-The Urantia Book calls them "prisoners of undying hope, the founts of everlasting progression." (UB 108:6.7) They wait with undying hope that you will choose what they already know is true.
+The Urantia Book calls them:
+
+> "prisoners of undying hope, the founts of everlasting progression." (UB 108:6.7)
+
+They wait with undying hope that you will choose what they already know is true.
 
 The Adjuster has a mission: to prepare you for fusion. Throughout your life, it works to create a *soul*, a new reality that is neither fully human nor fully divine, but a blending of both. Every worthy thought, every unselfish choice, every movement toward truth and beauty and goodness becomes material the Adjuster uses to build this soul.
 
@@ -88,7 +92,7 @@ Read that with Adjuster eyes. The Eternal Guest remains. His Voice grows faint w
 
 The Urantia Book confirms this portrait at every point. The Adjuster is a divine fragment that indwells every normal human mind. It communicates constantly, though few mortals listen. It is patient beyond all human comprehension. And it is working ceaselessly toward one goal: the union of your will with the Father's will.
 
-One caution. The word "soul" does not mean the same thing in these two texts. The Course uses "soul" to mean the Adjuster itself: the divine fragment, already perfect, already complete. The Urantia Book uses "soul" to mean something else: the morontia soul, the new reality that the Adjuster and the human will are building together through every worthy choice. One names the seed. The other names the flower. In this book, when we refer to the Course's "Soul," we mean the divine fragment. When we refer to the Urantia Book's "soul," we mean what is being grown.
+One caution worth repeating here. The word "soul" does not mean the same thing in these two texts. The Course uses "soul" to mean the Adjuster itself: the divine fragment, already perfect, already complete. The Urantia Book uses "soul" to mean something else: the morontia soul, the new reality that the Adjuster and the human will are building together through every worthy choice. One names the seed. The other names the flower. In this book, when we refer to the Course's "Soul," we mean the divine fragment. When we refer to the Urantia Book's "soul," we mean what is being grown.
 
 ---
 
@@ -148,7 +152,7 @@ The Course opens with a striking statement:
 
 Required. Not optional. Not one path among many. The Course presents itself as something every mind must eventually learn. The only question is when.
 
-If fusion does not happen in this life, the journey continues. The Urantia Book describes the mansion worlds: training spheres where mortals who survived death resume their ascension. The work begun here is completed there. What was not learned in the flesh can be learned in the morontia life that follows.
+If fusion does not happen in this life, the journey continues. The Urantia Book describes the mansion worlds: training spheres where mortals who survived death resume their ascension. The work begun here is completed there. What was not learned in the flesh can be learned in the morontia life that follows. The Urantia Book says:
 
 > "On mansion world number one you will resume your intellectual training and spiritual development at the exact level whereon they were interrupted by death." (UB 47:3.7)
 
@@ -172,7 +176,7 @@ Why, then, were two revelations needed? Because our world is not normal. Isolati
 
 The Course opens with fifty principles of miracles. The very first principle sets the tone: "There is no order of difficulty in miracles." But what *is* a miracle?
 
-The Course does not define miracles as supernatural events: water into wine, healing the blind. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The miracle *is* fusion: the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
+The Course does not define miracles as supernatural events: turning water into wine. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The miracle *is* fusion: the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
 
 The Urantia Book makes explicit what happens when this alignment occurs:
 
@@ -308,18 +312,6 @@ The Course says:
 
 God gave you a way of thinking that could raise your perceptions until they reach almost back to Him. Almost. And the last step? The Course suggests the literal meaning: you are *carried* over. God does the carrying.
 
-The Urantia Book confirms that God has already moved toward you:
-
-> "When you once start out to find God, that is the conclusive proof that God has already found you." (UB 195:6.16)
-
-Your seeking is not the beginning of the journey. It is the proof that God began it first. Every impulse toward truth, every hunger for meaning, every moment you turned toward the light: these were not your ideas alone. They were evidence that God had already found you.
-
-And when the journey reaches its culmination, it is the Father who completes it. The Urantia Book says:
-
-> "With Adjuster fusion the Universal Father has completed his promise of the gift of himself to his material creatures; he has fulfilled the promise, and consummated the plan." (UB 112:7.14)
-
-The Course says God takes the last step. The Urantia Book says the Father completes his promise and consummates the plan. Both describe the same moment: the point where God finishes what God started.
-
 When God carries you across, the Urantia Book describes what you receive:
 
 > "Thought Adjuster fusion imparts eternal actualities to personality which were previously only potential. Among these new endowments may be mentioned: fixation of divinity quality, past-eternity experience and memory, immortality, and a phase of qualified potential absoluteness." (UB 112:7.1)
@@ -346,4 +338,3 @@ The Urantia Book offers the final word:
 
 If you actually will. If you really desire. The heritage of the ages is yours.
 
-The bridge is there. You are already on it. Keep walking.

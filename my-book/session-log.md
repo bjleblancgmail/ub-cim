@@ -1,6 +1,6 @@
 # Session Log
 
-**Book:** Across the Revelation Bridge
+**Book:** Fusion: Two Revelations, One Path
 
 **Author:** [Name]
 

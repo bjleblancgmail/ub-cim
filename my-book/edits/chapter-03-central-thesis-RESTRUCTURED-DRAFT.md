@@ -24,7 +24,25 @@ The two books need each other. The Urantia Book gives you the map: the structure
 
 ---
 
-## Section 2: What Is the Adjuster?
+## Section 2: The Miracle as Fusion
+
+The Course opens with fifty principles of miracles. The very first principle sets the tone: "There is no order of difficulty in miracles." But what *is* a miracle?
+
+The Course does not define miracles as supernatural events: turning water into wine. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The miracle *is* fusion: the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
+
+The Urantia Book makes explicit what happens when this alignment occurs:
+
+> "What the true son desires and the infinite Father wills IS. Such a prayer cannot remain unanswered, and no other sort of petition can possibly be fully answered." (UB 146:2.7)
+
+When the son's desire aligns with the Father's will, it simply *is*. It manifests. The Course calls this a miracle. The Urantia Book calls it prayer that cannot remain unanswered. Same mechanism: when human will fuses with divine will, reality responds.
+
+The Course presents itself as a curriculum: lessons to be practiced, a workbook to be followed. But what is the curriculum *for*? It is training the mind to choose differently, to release the ego's will and accept the Father's will instead. Each lesson, each practice, each moment of forgiveness is a step toward fusion.
+
+The miracle is not the destination. The miracle is the practice. Fusion is where the practice leads.
+
+---
+
+## Section 3: What Is the Adjuster?
 
 For readers unfamiliar with the Urantia Book, the term "Adjuster" requires explanation, because understanding the Adjuster is the key to understanding everything this book argues.
 
@@ -58,7 +76,7 @@ The Adjuster has a mission: to prepare you for fusion. Throughout your life, it 
 
 ---
 
-## Section 3: What Does the Course Call It?
+## Section 4: What Does the Course Call It?
 
 The Course in Miracles never uses the word "Adjuster." But it describes the same reality. It calls it the Soul.
 
@@ -96,101 +114,7 @@ One caution worth repeating here. The word "soul" does not mean the same thing i
 
 ---
 
-## Section 4: What Is Fusion?
-
-Fusion is the permanent union of the human will with the divine will. It is the moment when the mortal creature and the indwelling Adjuster become one being, inseparable, eternal.
-
-The Course defines it with a single sentence:
-
-> "The miracle itself is just this fusion or union of will between Father and Son." (acim oe txt 5.III.18)
-
-The Urantia Book uses different words but names the same event:
-
-> "When your will has been truly aligned with his, you can ask anything conceived by that will-union, and it will be granted." (UB 180:2.4)
-
-"Will-union." The only time the Urantia Book uses this compound word. Jesus spoke it during his final evening with the apostles, and the concept it names is identical to the Course's "fusion or union of will between Father and Son."
-
-The Course describes what happens when wills fuse:
-
-> "Alone we can do nothing, but *together* our wills fuse into something whose power is far beyond the power of its separate parts. By *not being separate*, the Will of God is established *in* ours and *as* ours." (acim oe txt 8.V.36)
-
-Something whose power is far beyond the power of its separate parts. This is not the creature submitting to God. This is not the creature disappearing into God. This is both wills, fused, becoming something greater than either alone.
-
-The Urantia Book describes what that union becomes in language that builds like music:
-
-> "There will eventually ensue that morontia oneness, that supernal harmony, that cosmic co-ordination, that divine attunement, that celestial fusion, that never-ending blending of identity, that oneness of being which is so perfect and final that even the most experienced personalities can never segregate or recognize as separate identities the fusion partners, mortal man and divine Adjuster." (UB 110:1.6)
-
-The Course offers its own vision of this permanence:
-
-> "Whom God has joined remains forever one, at home in Him, no stranger to Himself." (acim oe wrk 160.8)
-
-Forever one. At home in Him. No stranger to Himself. The fused being is not lost. It is found. It is home.
-
-And fusion is not surrender. The Urantia Book is emphatic about this:
-
-> "Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father." (UB 111:5.5)
-
-The Urantia Book reframes the most famous prayer in human history:
-
-> "This choosing does not so much consist in the negation of creature will, 'Not my will but yours be done,' as it consists in the creature's positive affirmation: 'It is my will that your will be done.'" (UB 111:5.6)
-
-Not passive submission. Active, joyful choice. *It is my will that your will be done.* The difference is everything. One is resignation. The other is alignment. One gives up. The other reaches forward.
-
-And the Course confirms that you lose nothing:
-
-> "As you cross to join it, it will join with you and become one with you. And you will think in glad astonishment that for all this you gave up nothing!" (acim oe txt 16.VII.68)
-
-Glad astonishment. You gave up nothing. The ego insists that fusion means losing yourself. Both books teach the opposite: you become more fully yourself than you ever were.
-
----
-
-## Section 5: The Required Course
-
-The Course opens with a striking statement:
-
-> "It is a required course. Only the time you take it is voluntary." (acim oe txt intro.1)
-
-Required. Not optional. Not one path among many. The Course presents itself as something every mind must eventually learn. The only question is when.
-
-If fusion does not happen in this life, the journey continues. The Urantia Book describes the mansion worlds: training spheres where mortals who survived death resume their ascension. The work begun here is completed there. What was not learned in the flesh can be learned in the morontia life that follows. The Urantia Book says:
-
-> "On mansion world number one you will resume your intellectual training and spiritual development at the exact level whereon they were interrupted by death." (UB 47:3.7)
-
-Nothing is lost. You pick up exactly where you left off. And the Urantia Book says those who did not have the chance to complete the journey in the flesh are given extended opportunity:
-
-> "Those mortals who fail to achieve fusion with their indwelling Adjusters during the life in the flesh are rehabilitated in transient form to receive further help and to enjoy extended opportunity for continuing their strivings for spiritual attainment, those very efforts which were prematurely interrupted by death." (UB 45:7.1)
-
-The Course makes the same promise without the cosmology:
-
-> "It is impossible that it will be lost. There are many answers which you have already received but have not yet heard. I assure you that they are waiting for you. It is indeed true that no effort is wasted." (acim oe txt 8.IX.109)
-
-Every prayer, every practice, every moment of willingness: none of it is wasted. The Urantia Book says your spiritual development resumes at the exact level where it was interrupted. The Course says your answers are waiting for you. Both books promise the same thing: nothing of spiritual value is ever lost.
-
-The Urantia Book lays out the path. On each mansion world, another layer of animal-origin deficiency is removed. The confusion of the flesh falls away. The mind clarifies. The soul strengthens. By the fifth or sixth mansion world, most mortals have grown close enough to their Adjuster that fusion occurs. What began on earth as a faint stirring, a choice toward love, a moment of worship, reaches its culmination in the full and permanent union of human will with divine will.
-
-Why, then, were two revelations needed? Because our world is not normal. Isolation, rebellion, and spiritual confusion have obscured what should be obvious. The Urantia Book restores the cosmic context that was lost: who you are, what the Adjuster is, what fusion means, what lies ahead. The Course provides the daily discipline of releasing fear, choosing love, and aligning the human will with the divine will. Together, they make the required course passable.
-
----
-
-## Section 6: The Miracle as Fusion
-
-The Course opens with fifty principles of miracles. The very first principle sets the tone: "There is no order of difficulty in miracles." But what *is* a miracle?
-
-The Course does not define miracles as supernatural events: turning water into wine. It defines them as shifts in perception, moments when the mind releases fear and remembers love. Yet behind this psychological language lies something deeper. The miracle *is* fusion: the union of the human will with the divine will. Every time the Course speaks of miracles, it is speaking of this alignment: the creature choosing what the Creator chooses, the son willing what the Father wills.
-
-The Urantia Book makes explicit what happens when this alignment occurs:
-
-> "What the true son desires and the infinite Father wills IS. Such a prayer cannot remain unanswered, and no other sort of petition can possibly be fully answered." (UB 146:2.7)
-
-When the son's desire aligns with the Father's will, it simply *is*. It manifests. The Course calls this a miracle. The Urantia Book calls it prayer that cannot remain unanswered. Same mechanism: when human will fuses with divine will, reality responds.
-
-The Course presents itself as a curriculum: lessons to be practiced, a workbook to be followed. But what is the curriculum *for*? It is training the mind to choose differently, to release the ego's will and accept the Father's will instead. Each lesson, each practice, each moment of forgiveness is a step toward fusion.
-
-The miracle is not the destination. The miracle is the practice. Fusion is where the practice leads.
-
----
-
-## Section 7: The Spark Within
+## Section 5: The Spark Within
 
 Both books speak of a spark within.
 
@@ -219,6 +143,70 @@ And then the Course offers this:
 Two stages. First, perceiving the spark: glimpsing the divine within yourself and others. This heals. It undoes the damage of separation, of fear, of false identity.
 
 But there is more. *Knowing* the light, not just perceiving it but fusing with it, creates. This is the difference between recognizing the Adjuster and uniting with it. Perception is the beginning. Knowledge is the destination.
+
+---
+
+## Section 6: What Is Fusion?
+
+Fusion is the permanent union of the human will with the divine will. It is the moment when the mortal creature and the indwelling Adjuster become one being, inseparable, eternal.
+
+The Course defines it with a single sentence:
+
+> "The miracle itself is just this fusion or union of will between Father and Son." (acim oe txt 5.III.18)
+
+The Urantia Book uses different words but names the same event:
+
+> "When your will has been truly aligned with his, you can ask anything conceived by that will-union, and it will be granted." (UB 180:2.4)
+
+"Will-union." The only time the Urantia Book uses this compound word. Jesus spoke it during his final evening with the apostles, and the concept it names is identical to the Course's "fusion or union of will between Father and Son."
+
+The Course describes what happens when wills fuse:
+
+> "Alone we can do nothing, but *together* our wills fuse into something whose power is far beyond the power of its separate parts. By *not being separate*, the Will of God is established *in* ours and *as* ours." (acim oe txt 8.V.36)
+
+Something whose power is far beyond the power of its separate parts. This is not the creature submitting to God. This is not the creature disappearing into God. This is both wills, fused, becoming something greater than either alone.
+
+The Urantia Book describes what that union becomes in language that builds like music:
+
+> "There will eventually ensue that morontia oneness, that supernal harmony, that cosmic co-ordination, that divine attunement, that celestial fusion, that never-ending blending of identity, that oneness of being which is so perfect and final that even the most experienced personalities can never segregate or recognize as separate identities the fusion partners, mortal man and divine Adjuster." (UB 110:1.6)
+
+And fusion is not surrender. The Urantia Book is emphatic about this:
+
+> "Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father." (UB 111:5.5)
+
+The Urantia Book reframes the most famous prayer in human history:
+
+> "This choosing does not so much consist in the negation of creature will, 'Not my will but yours be done,' as it consists in the creature's positive affirmation: 'It is my will that your will be done.'" (UB 111:5.6)
+
+Not passive submission. Active, joyful choice. *It is my will that your will be done.* The difference is everything. One is resignation. The other is alignment. One gives up. The other reaches forward.
+
+---
+
+## Section 7: The Transfer of Identity
+
+How does fusion happen? Both books describe it as a transfer.
+
+The Urantia Book says that through your own choosing, you possess the power to relocate where "you" live:
+
+> "But mortal personality, through its own choosing, possesses the power of transferring its seat of identity from the passing material-intellect system to the higher morontia-soul system which, in association with the Thought Adjuster, is created as a new vehicle for personality manifestation." (UB 112:5.4)
+
+The seat of identity must *move*. You begin life identified with your body, your emotions, your earthly mind. Fusion requires that your sense of self shift from the temporary to the permanent, from the material to the spiritual, from the creature alone to the creature united with the Creator.
+
+The Urantia Book describes three stages in this shift:
+
+> "Selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle, the material body, to the more enduring and immortal nature of the morontia soul and on beyond to those levels whereon the soul becomes infused with, and eventually attains the status of, spirit reality." (UB 112:2.20)
+
+Material body. Morontia soul. Spirit reality. You begin identified with the body, the transient life vehicle. The morontia soul is the intermediate reality being built by the partnership of your mind and the Adjuster. Every worthy thought, every loving choice contributes to this soul. It is growing even now, beneath the surface of your awareness. And beyond the soul lies spirit reality: the destination of fusion itself.
+
+This is not automatic. It requires your cooperation. The Adjuster cannot force this transfer. It can only invite, guide, lead. The human will must choose to follow.
+
+The Course in Miracles describes this same movement as the shift from perception to knowledge. Perception is how the earthly mind sees: partial, interpretive, filtered through fear and past experience. Knowledge is how spirit sees: direct, complete, unified with truth. The Course does not speak of the material body and the morontia soul. It speaks of the ego and the spirit, of fear and love. But the movement is identical: you must shift your identity from what is passing away to what is eternal.
+
+The Course describes the endpoint of this transfer:
+
+> "To unite having and being is only to unite your will with His, for He wills you Himself. And you will yourself to Him because, in your perfect understanding of Him, you know there is but One Will." (acim oe txt 10.III.16)
+
+He wills you Himself. The Father's gift of the Adjuster is precisely this: He gives you a piece of Himself. And you will yourself to Him. The transfer is bilateral. Both wills move toward union. Both reach the same place: one will.
 
 ---
 
@@ -322,7 +310,71 @@ You are not required to earn your way across the bridge. You are required only t
 
 ---
 
-## Section 11: Closing
+## Section 11: What Crossing Feels Like
+
+What happens when the transfer is complete? What does it feel like to live on the other side of the bridge?
+
+The Course offers a glimpse:
+
+> "When the Holy Spirit has at last led you to Christ at the altar to His Father, perception fuses into knowledge because perception has become so holy that its transfer to holiness is merely its natural extension." (acim oe txt 11.VII.59)
+
+Fuses. The word is exact. Perception does not simply improve or clarify. It fuses with knowledge, becomes one with it, is absorbed into it. The limited way of seeing is not destroyed but transformed, taken up into a larger seeing that includes it and transcends it.
+
+The Urantia Book describes the fused being:
+
+> "But the fused individual is really one personality, one being, whose unity defies all attempts at analysis by any intelligence of the universes." (UB 112:7.8)
+
+One personality. One being. Whose unity defies analysis. Not absorption, not annihilation, but union so complete that no intelligence in the universe can separate the parts. You do not disappear into God. You become more fully yourself than you ever were: expanded, completed, made eternal.
+
+The Course confirms that fusion is forever:
+
+> "Whom God has joined remains forever one, at home in Him, no stranger to Himself." (acim oe wrk 160.8)
+
+Forever one. At home in Him. No stranger to Himself. The fused being is not lost. It is found. It is home.
+
+The Course says:
+
+> "In this world you can become a spotless mirror in which the Holiness of your Creator shines forth from you to all around you. You can reflect Heaven here." (acim oe txt 14.V.42)
+
+Reflect Heaven here. Even before the final fusion, even while still on the bridge, you can begin to reflect what lies on the other side. The transfer does not wait entirely for death. It begins now. Every moment of peace, every extension of love, every recognition of truth: these are reflections of the far shore already appearing in time.
+
+And the Course offers one more promise about what the crossing costs:
+
+> "As you cross to join it, it will join with you and become one with you. And you will think in glad astonishment that for all this you gave up nothing!" (acim oe txt 16.VII.68)
+
+Glad astonishment. You gave up nothing. The ego insists that fusion means losing yourself. Both books teach the opposite: you become more fully yourself than you ever were. The crossing is not sacrifice. It is completion.
+
+---
+
+## Section 12: The Required Course
+
+The Course opens with a striking statement:
+
+> "It is a required course. Only the time you take it is voluntary." (acim oe txt intro.1)
+
+Required. Not optional. Not one path among many. The Course presents itself as something every mind must eventually learn. The only question is when.
+
+If fusion does not happen in this life, the journey continues. The Urantia Book describes the mansion worlds: training spheres where mortals who survived death resume their ascension. The work begun here is completed there. What was not learned in the flesh can be learned in the morontia life that follows. The Urantia Book says:
+
+> "On mansion world number one you will resume your intellectual training and spiritual development at the exact level whereon they were interrupted by death." (UB 47:3.7)
+
+Nothing is lost. You pick up exactly where you left off. And the Urantia Book says those who did not have the chance to complete the journey in the flesh are given extended opportunity:
+
+> "Those mortals who fail to achieve fusion with their indwelling Adjusters during the life in the flesh are rehabilitated in transient form to receive further help and to enjoy extended opportunity for continuing their strivings for spiritual attainment, those very efforts which were prematurely interrupted by death." (UB 45:7.1)
+
+The Course makes the same promise without the cosmology:
+
+> "It is impossible that it will be lost. There are many answers which you have already received but have not yet heard. I assure you that they are waiting for you. It is indeed true that no effort is wasted." (acim oe txt 8.IX.109)
+
+Every prayer, every practice, every moment of willingness: none of it is wasted. The Urantia Book says your spiritual development resumes at the exact level where it was interrupted. The Course says your answers are waiting for you. Both books promise the same thing: nothing of spiritual value is ever lost.
+
+The Urantia Book lays out the path. On each mansion world, another layer of animal-origin deficiency is removed. The confusion of the flesh falls away. The mind clarifies. The soul strengthens. By the fifth or sixth mansion world, most mortals have grown close enough to their Adjuster that fusion occurs. What began on earth as a faint stirring, a choice toward love, a moment of worship, reaches its culmination in the full and permanent union of human will with divine will.
+
+Why, then, were two revelations needed? Because our world is not normal. Isolation, rebellion, and spiritual confusion have obscured what should be obvious. The Urantia Book restores the cosmic context that was lost: who you are, what the Adjuster is, what fusion means, what lies ahead. The Course provides the daily discipline of releasing fear, choosing love, and aligning the human will with the divine will. Together, they make the required course passable.
+
+---
+
+## Section 13: Closing
 
 Perhaps the most remarkable thing the Urantia Book reveals is that Jesus himself traversed this same path. He did not arrive on earth fully formed. He received his Thought Adjuster at age five, just like every other child. He spent twenty-five years gradually bringing his human and divine natures together through the force of his own decisions. If he had to make the journey, so do we.
 
@@ -337,18 +389,3 @@ The Urantia Book offers the final word:
 > "True it is, you mortals are of earthly, animal origin; your frame is indeed dust. But if you actually will, if you really desire, surely the heritage of the ages is yours, and you shall someday serve throughout the universes in your true characters, children of the Supreme God of experience and divine sons of the Paradise Father of all personalities." (UB 112:7.19)
 
 If you actually will. If you really desire. The heritage of the ages is yours.
-
----
-
-## Section 12: Map and Practice
-
-The Urantia Book gives the map.
-
-It shows you the universe as it actually is: the celestial hierarchies, the mansion worlds, the long path to Paradise. It names the Adjuster and explains its mission. It describes fusion in precise language: what it is, how it happens, what it means. Without this map, you wander in darkness, guessing at the shape of reality.
-
-The Course in Miracles teaches the walking.
-
-It does not describe the universe. It trains the mind. Lesson by lesson, day by day, it teaches you to release fear and choose love, to forgive what seems unforgivable, to see the spark in yourself and others. It is a practice, a discipline, a daily curriculum in aligning your will with the Father's will. Without this practice, the map remains an abstraction: beautiful to contemplate, but never traveled.
-
-One without the other is incomplete.
-

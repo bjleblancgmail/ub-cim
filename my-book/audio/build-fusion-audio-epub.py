@@ -14,6 +14,7 @@ Applies ElevenLabs formatting rules:
 import re
 import os
 import subprocess
+from datetime import date
 
 # Chapter files in order
 CHAPTERS = [
@@ -166,7 +167,7 @@ def build_audio_markdown():
     # Title page
     sections.append("# Fusion: Two Revelations, One Path\n")
     sections.append("A Bridge Between the Urantia Book and A Course in Miracles\n")
-    sections.append("By Joseph LeBlanc\n\n")
+    sections.append("By Joseph\n\n")
 
     # Process chapters
     for filepath in CHAPTERS:
@@ -228,7 +229,8 @@ def main():
     md_content = build_audio_markdown()
 
     # Write markdown
-    md_path = os.path.join(audio_dir, 'fusion-audio.md')
+    today = date.today().isoformat()
+    md_path = os.path.join(audio_dir, f'fusion-audio-{today}.md')
     with open(md_path, 'w') as f:
         f.write(md_content)
 
@@ -238,13 +240,13 @@ def main():
     print(f"Word count: {words:,}")
 
     # Build EPUB
-    epub_path = os.path.join(audio_dir, 'fusion-audio.epub')
+    epub_path = os.path.join(audio_dir, f'fusion-audio-{today}.epub')
     cmd = [
         'pandoc',
         md_path,
         '-o', epub_path,
         '--metadata', 'title=Fusion: Two Revelations, One Path',
-        '--metadata', 'author=Joseph LeBlanc',
+        '--metadata', 'author=Joseph',
         '--toc',
         '--toc-depth=1',
         '--split-level=1',

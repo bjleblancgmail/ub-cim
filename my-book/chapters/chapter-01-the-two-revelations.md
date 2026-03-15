@@ -8,9 +8,9 @@
 
 The Urantia Book and A Course in Miracles came to us through different channels, in different decades, for different purposes. Understanding how each arrived helps explain why they read so differently, and why both are valid.
 
-The Urantia Book is what its authors call an epochal revelation: a formal presentation to the planet, delivered through celestial channels that minimize human filtering. A Course in Miracles is a personal revelation: Jesus speaking directly to one person, filtered through her mind and vocabulary. These are not competing claims. They are different methods of transmitting truth to a world in need.
+The Urantia Book is what its authors call an epochal revelation: a formal presentation to the planet, delivered through celestial channels that minimize human filtering. A Course in Miracles is a personal revelation: Jesus speaking directly to one person, filtered through her mind and vocabulary. These are not competing claims. They are different methods of transmitting truth to a world in need.     knjbn
 
-This chapter introduces both books, tells the story of how each came to us, and explains why readers of both texts benefit from understanding the distinction.
+This chapter introduces both books, tells the story of how each came to us, and explains why readers of both texts benefit from understanding the distinction. 
 
 ---
 

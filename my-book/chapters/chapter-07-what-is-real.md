@@ -278,7 +278,7 @@ When learning is complete, it is given up. Not destroyed in anger, not escaped i
 
 Your struggles are scaffolding. The difficulties that seemed so overwhelming, the problems that consumed your attention, many of them were exactly what you needed to develop strength, patience, faith. They were not punishments. They were training equipment. When the training is complete, the equipment is put away.
 
-Even your mistakes are scaffolding. The Course teaches that the Holy Spirit can use everything, every error, every detour, every wrong turn, for your learning. The Course say:
+Even your mistakes are scaffolding. The Course teaches that the Holy Spirit can use everything, every error, every detour, every wrong turn, for your learning. The Course says:
 
 > "*All* things work together for good. There are *no* exceptions except in the ego's judgment." (acim oe txt 4.VI.69)
 

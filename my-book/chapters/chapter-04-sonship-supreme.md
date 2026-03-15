@@ -136,7 +136,7 @@ And miracles, the shifts in perception that the Course teaches, do not merely he
 
 Every miracle draws the whole closer to completion. Every act of forgiveness, every release of fear, every moment of love returns a part that the whole cannot do without. The Course describes what happens when wills join:
 
-> "Alone we can do nothing, but TOGETHER our wills fuse into something whose power is far beyond the power of its separate parts." (acim oe txt 8.V.15)
+> "Alone we can do nothing, but TOGETHER our wills fuse into something whose power is far beyond the power of its separate parts." (acim oe txt 8.V.36)
 
 Together our wills *fuse*. The Course uses the word itself. And when they fuse, the result is far beyond what any individual could achieve. The Course says:
 

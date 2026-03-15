@@ -82,7 +82,7 @@ The cross, properly understood from the Urantia Book:
 
 > "Is not the symbol of the sacrifice of the innocent Son of God in the place of guilty sinners and in order to appease the wrath of an offended God, but it does stand forever, on earth and throughout a vast universe, as a sacred symbol of the good bestowing themselves upon the evil and thereby saving them by this very devotion of love." (UB 188:5.9)
 
-His love on the cross was not passive. The Course says:
+ His love on the cross was not passive. The Urantia Book says
 
 > "Divine love does not merely forgive wrongs; it absorbs and actually destroys them. The forgiveness of love utterly transcends the forgiveness of mercy." (UB 188:5.2)
 

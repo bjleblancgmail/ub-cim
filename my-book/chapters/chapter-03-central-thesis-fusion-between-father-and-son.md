@@ -330,25 +330,17 @@ The Course confirms this in Jesus' own voice:
 
 > "My mind will always be like yours, because we were created as equals. It was only my *decision* that gave me all power in Heaven and earth. My only gift to you is to help you make the same decision *for yourself*... I am your model for decision. By deciding for God, I showed you that this decision *can* be made and that *you* can make it." (acim oe txt 5.IV.27)
 
-Two revelations, one message. The Urantia Book says you can follow Jesus along the same experience of Father discovery. The Course says he is your model for decision, and you can make it too. His power was not privilege. It was choice. And the same choice is yours.
+His power was not privilege. It was choice. And the same choice is yours.
+
+The Urantia Book gives the map. It shows you the universe as it actually is: the celestial hierarchies, the mansion worlds, the long path to Paradise. It names the Adjuster and explains its mission. It describes fusion in precise language: what it is, how it happens, what it means. Without this map, you wander in darkness, guessing at the shape of reality.
+
+The Course in Miracles teaches the walking. It does not describe the universe. It trains the mind. Lesson by lesson, day by day, it teaches you to release fear and choose love, to forgive what seems unforgivable, to see the spark in yourself and others. Without this practice, the map remains an abstraction: beautiful to contemplate, but never traveled.
+
+One without the other is incomplete.
 
 The Urantia Book offers the final word:
 
 > "True it is, you mortals are of earthly, animal origin; your frame is indeed dust. But if you actually will, if you really desire, surely the heritage of the ages is yours, and you shall someday serve throughout the universes in your true characters, children of the Supreme God of experience and divine sons of the Paradise Father of all personalities." (UB 112:7.19)
 
 If you actually will. If you really desire. The heritage of the ages is yours.
-
----
-
-## Section 12: Map and Practice
-
-The Urantia Book gives the map.
-
-It shows you the universe as it actually is: the celestial hierarchies, the mansion worlds, the long path to Paradise. It names the Adjuster and explains its mission. It describes fusion in precise language: what it is, how it happens, what it means. Without this map, you wander in darkness, guessing at the shape of reality.
-
-The Course in Miracles teaches the walking.
-
-It does not describe the universe. It trains the mind. Lesson by lesson, day by day, it teaches you to release fear and choose love, to forgive what seems unforgivable, to see the spark in yourself and others. It is a practice, a discipline, a daily curriculum in aligning your will with the Father's will. Without this practice, the map remains an abstraction: beautiful to contemplate, but never traveled.
-
-One without the other is incomplete.
 

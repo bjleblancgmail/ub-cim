@@ -1,19 +1,18 @@
 # Chapter 1: The Two Revelations
 
-**STATUS: DRAFT**
+**STATUS: DRAFT** 
 
 ---
 
-## Section 1: Opening
+## Section 1: Opening 
 
 The Urantia Book and A Course in Miracles came to us through different channels, in different decades, for different purposes. Understanding how each arrived helps explain why they read so differently, and why both are valid.
 
-The Urantia Book is what its authors call an epochal revelation: a formal presentation to the planet, delivered through celestial channels that minimize human filtering. A Course in Miracles is a personal revelation: Jesus speaking directly to one person, filtered through her mind and vocabulary. These are not competing claims. They are different methods of transmitting truth to a world in need.     knjbn
+The Urantia Book is what its authors call an epochal revelation: a formal presentation to the planet, delivered through celestial channels that minimize human filtering. A Course in Miracles is a personal revelation: Jesus speaking directly to one person, filtered through her mind and vocabulary. These are not competing claims. They are different methods of transmitting truth to a world in need.
 
 This chapter introduces both books, tells the story of how each came to us, and explains why readers of both texts benefit from understanding the distinction. 
 
 ---
-
 ## Section 2: The Urantia Book
 
 The Urantia Book is unlike any other religious text. It was not written by a human being. It claims authorship by celestial personalities, beings from various levels of the universe administration, each contributing their expertise to create a comprehensive revelation.
@@ -44,7 +43,7 @@ Yet the voice persisted. It identified itself as Jesus. And it asked Helen to ta
 
 The process that followed lasted seven years. Helen would hear nonverbal communication, ideas impressed upon her mind, and translate them into shorthand notes. She was fully conscious throughout, never in trance. Each evening, Helen would review her shorthand and transcribe it into longhand. Then Bill would type Helen's handwritten pages. Together they discussed the material, questioned it, and, with the voice's explicit permission, shaped it into readable form.
 
-This is the nature of personal revelation. Unlike the Urantia Book, where a sleeping subject transmitted material without conscious filtering, the Course passed through Helen's vocabulary, her conceptual framework, her editorial judgment. Jesus worked within these limitations rather than overriding them. Perhaps Helen did not know of the Urantia Book. She was not familiar with its terminology: Thought Adjusters, mansion worlds, the Supreme. Jesus used terms from Christian vocabulary. He spoke of the Holy Spirit, of God, of salvation, terms Helen could receive and transcribe. The paralles the Course and the Urantia book are stiking once you see them. 
+This is the nature of personal revelation. Unlike the Urantia Book, where a sleeping subject transmitted material without conscious filtering, the Course passed through Helen's vocabulary, her conceptual framework, her editorial judgment. Jesus worked within these limitations rather than overriding them. Perhaps Helen did not know of the Urantia Book. She was not familiar with its terminology: Thought Adjusters, mansion worlds, the Supreme. Jesus used terms from Christian vocabulary. He spoke of the Holy Spirit, of God, of salvation, terms Helen could receive and transcribe. The parallels the Course and the Urantia Book are striking once you see them. 
 
 The result is Jesus' message filtered through a human mind. This is not a defect. It is how personal revelation works. The Spirit of Truth operates the same way in every believer: guiding, prompting, illuminating, but always through the individual's existing framework of understanding.
 
